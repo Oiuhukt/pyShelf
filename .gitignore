@@ -25,3 +25,12 @@ env/
 # Configuración o claves locales (evita subir credenciales)
 config.json
 .env
+
+
+# Logs
+*.log
+data/
+
+# Archivos CSS compilados (si los generas dinámicamente con compile.sh)
+src/frontend/static/styles/*.css
+!src/frontend/static/styles/.gitkeep
