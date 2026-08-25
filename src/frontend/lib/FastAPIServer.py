@@ -156,20 +156,85 @@ async def books(request: Request, skip: int = 0, limit: int = 10, collection=Non
     books = storage.get_books(collection, skip=skip, limit=limit)
     return JSONResponse(content=books_tojson(books))
 
-@app.get("/api/book/{book_id}", response_class=JSONResponse)
-async def book(request: Request, book_id: int):
+@app.get("/api/cover/{book_id}")
+async def get_cover(book_id: int):
     storage = Storage(Config(os.path.abspath(os.getcwd())))
     book = storage.get_book(book_id)
-    return JSONResponse(content=book_tojson(book))
+    
+    # Extraer objeto si la consulta regresa lista o tupla
+    if isinstance(book, (list, tuple)) and len(book) > 0:
+        book_obj = book[0]
+    else:
+        book_obj = book
 
-@app.get("/api/get_book/{book_id}", response_class=FileResponse)
-async def get_book_file(request: Request, book_id: int):
-    storage = Storage(Config(os.path.abspath(os.getcwd())))
-    book = storage.get_book(book_id)
-    file_path = book[0].file_name
-    if not os.path.exists(file_path):
-        return JSONResponse(status_code=404, content={"error": "File not found"})
-    return FileResponse(path=file_path, filename=os.path.basename(file_path), media_type="application/octet-stream")
+    if book_obj:
+        # Intentar buscar por el ID directo del archivo generado
+        path_by_id = os.path.join(STATIC_DIR, "covers", f"{book_id}.jpg")
+        if os.path.exists(path_by_id):
+            return FileResponse(path_by_id)
+
+        # Intentar buscar usando la propiedad cover guardada en BD
+        cover_attr = getattr(book_obj, "cover", None)
+        if cover_attr:
+            cover_val = str(cover_attr).lstrip("/")
+            path_by_attr = os.path.join(STATIC_DIR, cover_val)
+            if os.path.exists(path_by_attr):
+                return FileResponse(path_by_attr)
+
+    fallback_path = os.path.join(STATIC_DIR, "images", "no-cover.jpg")
+    if os.path.exists(fallback_path):
+        return FileResponse(fallback_path)
+    return JSONResponse(status_code=404, content={"error": "Cover not found"})
+
+@app.get("/api/get_book/{book_id}")
+async def get_book(book_id: int):
+    file_path = None
+    
+    # 1. Intentar obtener a través del Storage de la aplicación
+    try:
+        storage = Storage(Config(os.path.abspath(os.getcwd())))
+        book = storage.get_book(book_id)
+        if book:
+            book_obj = book[0] if isinstance(book, (list, tuple)) and len(book) > 0 else book
+            file_path = getattr(book_obj, "file_name", None)
+            if not file_path and isinstance(book_obj, dict):
+                file_path = book_obj.get("file_name") or book_obj.get("file_path")
+    except Exception as e:
+        print(f"[DEBUG] Error al usar Storage: {e}")
+
+    # 2. Fallback Directo: Consulta a la SQLite sin pasar por el ORM si file_path es None
+    if not file_path:
+        import sqlite3
+        db_path = os.path.join(os.getcwd(), "pyshelf.sqlite3")
+        if os.path.exists(db_path):
+            conn = sqlite3.connect(db_path)
+            cur = conn.cursor()
+            cur.execute("SELECT file_name FROM Book WHERE id = ?", (book_id,))
+            row = cur.fetchone()
+            conn.close()
+            if row and row[0]:
+                file_path = row[0]
+
+    # Clean String
+    if file_path:
+        file_path = str(file_path).strip()
+
+    print(f"[DEBUG] Intentando abrir el archivo -> ID: {book_id} | Ruta resultante: '{file_path}'")
+
+    # 3. Validación en Disco
+    if not file_path or not os.path.exists(file_path):
+        return JSONResponse(status_code=404, content={"error": f"File not found on disk: {file_path}"})
+
+    filename = os.path.basename(file_path)
+    ext = os.path.splitext(filename)[1].lower()
+    media_type = "application/pdf" if ext == ".pdf" else "application/epub+zip"
+
+    return FileResponse(
+        path=file_path,
+        filename=filename,
+        media_type=media_type,
+        content_disposition_type="inline"
+    )
 
 @app.get("/api/collections", response_class=JSONResponse)
 async def collections(request: Request):
@@ -216,7 +281,7 @@ async def search_books_api(request: Request, search: str):
 
 @app.get("/about", response_class=HTMLResponse)
 async def about_page(request: Request):
-    storage = Storage(Config(os.path.abspath(os.getcwd())))
+    storage = Storage(Config(os.getcwd()))
     collections = storage.get_collections()
     return templates.TemplateResponse(request=request, name="index.html", context={
         "request": request,
@@ -227,19 +292,6 @@ async def about_page(request: Request):
         "limit": 30,
         "open_about": True
     })
-
-@app.get("/api/cover/{book_id}")
-async def get_cover(book_id: int):
-    storage = Storage(Config(os.path.abspath(os.getcwd())))
-    book = storage.get_book(book_id)
-    if book and book[0].cover:
-        cover_path = os.path.join(STATIC_DIR, "covers", f"{book_id}.jpg")
-        if os.path.exists(cover_path):
-            return FileResponse(cover_path)
-    fallback_path = os.path.join(STATIC_DIR, "images", "no-cover.jpg")
-    if os.path.exists(fallback_path):
-        return FileResponse(fallback_path)
-    return JSONResponse(status_code=404, content={"error": "Cover not found"})
 
 
 class FastAPIServer():
