@@ -7,17 +7,18 @@ Un servidor de libros electrónicos (*eBook server*) ligero, autónomo y adminis
 ## 🌟 Características
 
 - **Almacenamiento eficiente:** Portadas extraídas dinámicamente al sistema de archivos local (`static/covers/`), manteniendo la base de datos SQLite ultraligera (~2 MB).
-- **Búsqueda Fuzzy optimizada:** Filtra la biblioteca sólo por nombres de archivos.
-- **Escaneo recursivo:** Detecta y organiza tus libros almacenados en carpetas.
-- **Organización por colecciones:** Agrupación automática según estructura de directorios y soporte para colecciones.
-- **Formatos soportados:** EPUB y MOBI con sistema de descarga integrado.
+- **Auto-descubrimiento y Colecciones:** Detecta de forma recursiva tus libros y asigna automáticamente la subcarpeta como Colección (ej. `Libros`, `Artículos`).
+- **Extractor Nactivo con Poppler:** Renderizado directo de la primera página del PDF a imagen HD.
+- **Búsqueda Fuzzy optimizada:** Filtra la biblioteca rápidamente por nombres de archivos y títulos.
+- **Formatos soportados:** PDF, EPUB y MOBI con sistema de descarga e integración de lectura.
 
 ---
 
 ## 🚀 Requisitos e Instalación
 
 ### Requisitos previos
-- **Python:** 3.10+ (probado en Python 3.12 y FreeBSD / Linux).
+- **Python:** 3.10+ (probado en Python 3.12, FreeBSD y Linux).
+- **Dependencias del sistema:** `poppler-utils` (para extracción de portadas PDF).
 - **Herramientas:** `git`, `sqlite3`, `uv` (opcional para gestión de entornos).
 
 ### Instalación rápida
@@ -25,9 +26,9 @@ Un servidor de libros electrónicos (*eBook server*) ligero, autónomo y adminis
 1. **Clonar el repositorio:**
    ```bash
    git clone git@github.com:Oiuhukt/pyShelf.git
-   cd pyShelfi
+   cd pyShelf
 
-   onfigurar el entorno virtual e instalar dependencias:
+    Configurar el entorno virtual e instalar dependencias:
     Bash
 
     python3 -m venv .venv
@@ -39,13 +40,13 @@ Un servidor de libros electrónicos (*eBook server*) ligero, autónomo y adminis
     JSON
 
     {
-      "library_path": "/ruta/a/tus/libros"
+      "library_path": "/usr/local/biblioteca"
     }
 
     Poblar la base de datos e indexar libros:
     Bash
 
-    python3 poblador.py
+    python3 -m src.backend.pyShelf_ScanLibrary
 
     Iniciar el servidor:
     Bash
@@ -54,20 +55,34 @@ Un servidor de libros electrónicos (*eBook server*) ligero, autónomo y adminis
 
 📂 Estructura del Proyecto
 
-    src/backend/: Lógica de servidor, API y modelos con SQLAlchemy (models.py, storage.py).
+    src/backend/: Lógica del servidor, modelos y utilidades (pyShelf_ScanLibrary.py, storage.py).
 
-    src/frontend/static/covers/: Directorio donde se almacenan físicamente las imágenes de portada en formato .jpg.
+    src/frontend/static/covers/: Almacenamiento físico de imágenes de portada ({book_id}.jpg).
 
-    pyshelf.sqlite3: Base de datos SQLite optimizada con información de libros y relaciones.
+    src/frontend/lib/FastAPIServer.py: Endpoints de la API y servidor principal con FastAPI.
 
-    poblador.py: Script encargada del escaneo recursivo e indexación de archivos.
+    pyshelf.sqlite3: Base de datos SQLite con metadatos, categorías y rutas de archivos.
 
-🛠️ Desarrollo y Mantenimiento
-Migrar o extraer portadas
+🛠️ Administración y Mantenimiento
 
-Si cuentas con portadas binarias almacenadas internamente en la base de datos, las imágenes se extraen automáticamente a la carpeta estática del frontend para optimizar las consultas y reducir la latencia de respuesta.
+Toda la gestión de la biblioteca se controla a través del script centralizador de backend pyShelf_ScanLibrary.py:
+1. Sincronización habitual (Auto-descubrimiento)
+
+Escanea la biblioteca en busca de nuevos archivos .pdf o .epub, actualiza o asigna la Colección según la subcarpeta contenedora (Libros, Artículos, etc.) y genera las portadas faltantes.
 Bash
 
-python3 -c "import sqlite3; conn =
-sqlite3.connect('pyshelf.sqlite3'); conn.execute('VACUUM;');
-conn.close()"
+python3 -m src.backend.pyShelf_ScanLibrary
+
+2. Limpieza de libros eliminados (--clean)
+
+Purga de la base de datos SQLite los registros de libros cuyos archivos fueron borrados o movidos fuera del disco, eliminando también su imagen de portada en static/covers/.
+Bash
+
+python3 -m src.backend.pyShelf_ScanLibrary --clean
+
+3. Reconstrucción total de portadas (--force)
+
+Fuerza a Poppler a re-procesar la primera página de cada PDF y sobrescribir todas las imágenes de portada en static/covers/. Ideal si se desalinearon las imágenes.
+Bash
+
+python3 -m src.backend.pyShelf_ScanLibrary --force
