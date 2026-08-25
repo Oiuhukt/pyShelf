@@ -1,5 +1,7 @@
 """Pyshelf's Main Storage Class."""
 import re
+import os
+import hashlib
 from collections import defaultdict
 from rapidfuzz import process, fuzz
 from sqlalchemy import create_engine, select
@@ -38,20 +40,40 @@ class Storage:
             table.metadata.create_all(self.engine)
 
     def insert_book(self, book):
-        """Insert a new book into the database."""
+        """Insert a new book into the database saving the cover to disk."""
         with Session(self.engine) as session:
             try:
-                try:
-                    cover_image = book[2].data
-                except Exception:
-                    cover_image = book[2]
-                if not book[2]:
-                    cover_image = None
+                cover_path_relative = None
+                raw_cover = book[2]
+
+                if raw_cover:
+                    try:
+                        cover_bytes = raw_cover.data if hasattr(raw_cover, 'data') else raw_cover
+                    except Exception:
+                        cover_bytes = raw_cover
+
+                    if cover_bytes and isinstance(cover_bytes, bytes):
+                        # Generar un hash MD5 único de 12 caracteres para el archivo
+                        cover_filename = f"{hashlib.md5(cover_bytes).hexdigest()[:12]}.jpg"
+                        
+                        # Ruta donde se guardará la portada físicamente
+                        covers_dir = Path(self.config.root) / "src" / "frontend" / "static" / "covers"
+                        covers_dir.mkdir(parents=True, exist_ok=True)
+                        
+                        full_cover_path = covers_dir / cover_filename
+
+                        # Escribir la imagen en disco si no existe aún
+                        if not full_cover_path.exists():
+                            with open(full_cover_path, "wb") as f:
+                                f.write(cover_bytes)
+
+                        # Guardar solo la ruta relativa en la base de datos
+                        cover_path_relative = f"covers/{cover_filename}"
 
                 _book = Book(
                     title=book[0],
                     author=book[1],
-                    cover=cover_image,
+                    cover=cover_path_relative,
                     file_name=book[3],
                     description=book[4],
                     identifier=book[5],
@@ -61,7 +83,6 @@ class Storage:
                 )
                 session.add(_book)
                 session.commit()
-                session.close()
                 return True
             except Exception as e:
                 self.config.logger.error(f"{book[0][0:80]} :: {e}")
