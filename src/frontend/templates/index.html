@@ -1,56 +1,116 @@
-<!DOCTYPE html>
 {% block javascript %}
-<script type="text/javascript" src={{ url_for('static', path='script/pako.min.js') }}>
-	<script type="text/javascript">
-		const books = {{ books|books_tojson }};
-		let inflatedJSON = {};
-		const pako = require('pako');
-		inflatedJSON = JSON.parse(pako.inflate(books, { to: 'string'}));
-	</script>
-	{% endblock %}
-	{% include 'header.html' %}
-	{% include 'navigation.html' %}
-	<section id="master-container">
-		<div id="book-shelf">
-			{% for book in books %}
-			{% set cover = book.cover|b64decode %}
-			{% if cover != 'None' %}
-			<div class="is-dark book" id="{{book.id}}" onclick="window.location.href='/api/get_book/{{ book.id }}'">
-				<div class="image book-thumbnail">
-					<figure class="image is-4by3">
-						<img src="data:;base64,{{ book.cover|b64decode }}" alt="{{ book.title }}">
-					</figure>
-				</div>
-			</div>
-			{% else %}
-			<div class="is-dark book" id="{{book.id}}" onclick="window.location.href='/api/get_book/{{ book.id }}'">
-				<div class="image book-thumbnail"
-						 style="
-										background-image: url({{ url_for('static', path='images/no-cover.jpg') }});
-										background-size: cover;
-										background-position: center;
-										background-repeat: no-repeat;
-										">
-					<figure class="image is-4by3">
-						<div class="no-image-title">{{ book.title }}</div>
-						<!-- alt="{{ book.title }}" -->
-					</figure>
-				</div>
-				<!-- <p class="content">{{ book.description|summarize }}</p> -->
-			</div>
-			{% endif %}
-			{% endfor %}
-		</div>
-		<div id="pagination-container" class="container-full is-dark">
-			<div id="pagination-left">
-				<a class="pagination-previous" href="/?skip={{ page-1 }}" id="prev-page">< Previous</a>
-			</div>
-			<div id="pagination-center">
-				<span id="pagination-list">page {{ page }} of {{ total_pages }}</span>
-			</div>
-			<div id="pagination-right">
-				<a class="pagination-next" href="/?skip={{ page+1 }}" id="next-page">Next ></a>
-			</div>
-		</div>
-	</section>
-	{% include 'footer.html' %}
+<script type="text/javascript" src="{{ url_for('static', path='script/pako.min.js') }}"></script>
+<script type="text/javascript">
+    const books = {{ books|books_tojson }};
+    let inflatedJSON = {};
+    const pako = require('pako');
+    inflatedJSON = JSON.parse(pako.inflate(books, { to: 'string'}));
+</script>
+{% endblock %}
+
+{% include 'header.html' %}
+{% include 'navigation.html' %}
+
+<style>
+  #book-shelf {
+    display: grid !important;
+    grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)) !important;
+    gap: 16px !important;
+    padding: 20px !important;
+    width: 100% !important;
+    box-sizing: border-box !important;
+  }
+
+  a.book {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    justify-content: flex-start !important;
+    width: 100% !important;
+    max-width: 180px !important;
+    height: 270px !important;
+    padding: 8px !important;
+    box-sizing: border-box !important;
+    background-color: #1e293b !important;
+    border: 1px solid rgba(255, 255, 255, 0.1) !important;
+    border-radius: 8px !important;
+    text-decoration: none !important;
+    margin: 0 auto !important;
+    overflow: hidden !important;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+
+  a.book:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.5);
+  }
+
+  .book-thumbnail, .book-thumbnail figure {
+    width: 100% !important;
+    height: 200px !important;
+    margin: 0 !important;
+    overflow: hidden !important;
+  }
+
+  .book-thumbnail img {
+    width: 100% !important;
+    height: 200px !important;
+    object-fit: cover !important;
+    object-position: top !important;
+    border-radius: 4px !important;
+  }
+
+  .book-title-sub {
+    width: 100% !important;
+    margin-top: 8px !important;
+    font-size: 0.82rem !important;
+    color: #e2e8f0 !important;
+    text-align: center !important;
+    white-space: nowrap !important;
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
+    display: block !important;
+  }
+</style>
+
+<section id="master-container">
+    <div id="book-shelf">
+        {% for book in books %}
+        <a class="is-dark book" id="{{ book.id }}" target="_blank" href="/api/get_book/{{ book.id }}">
+            <div class="image book-thumbnail">
+                <figure class="image">
+                    <img src="/api/cover/{{ book.id }}" alt="{{ book.title }}" onerror="this.onerror=null; this.src='{{ url_for('static', path='images/no-cover.jpg') }}';" />
+                </figure>
+            </div>
+            <div class="book-title-sub" title="{{ book.title if book.title else book.file_name }}">
+                {{ book.title if book.title else book.file_name }}
+            </div>
+        </a>
+        {% endfor %}
+    </div>
+</section>
+
+<!-- Paginación corregida -->
+{% if total_pages > 1 %}
+<nav class="pagination is-centered my-5" role="navigation" aria-label="pagination">
+    {% if page > 0 %}
+        <a href="/?skip={{ page - 1 }}&limit={{ limit }}" class="pagination-previous button is-dark">&laquo; Anterior</a>
+    {% else %}
+        <a class="pagination-previous button is-dark" disabled>&laquo; Anterior</a>
+    {% endif %}
+
+    {% if page + 1 < total_pages %}
+        <a href="/?skip={{ page + 1 }}&limit={{ limit }}" class="pagination-next button is-dark">Siguiente &raquo;</a>
+    {% else %}
+        <a class="pagination-next button is-dark" disabled>Siguiente &raquo;</a>
+    {% endif %}
+
+    <ul class="pagination-list">
+        <li>
+            <span class="pagination-link is-current has-background-link">{{ page + 1 }} / {{ total_pages }}</span>
+        </li>
+    </ul>
+</nav>
+{% endif %}
+
+{% include 'footer.html' %}

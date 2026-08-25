@@ -1,2 +1,2 @@
 #!/bin/sh
-exec npx tsc static/script/pyshelf.ts
+exec node compile_ts.mjs

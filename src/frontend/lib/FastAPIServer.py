@@ -4,8 +4,6 @@ import os
 import sass
 import datetime
 import math
-# import gzip
-# import brotli
 from json import dumps
 from base64 import b64encode
 from fastapi import FastAPI, Request
@@ -23,7 +21,7 @@ from backend.lib.config import Config
 app = FastAPI()
 STATIC_DIR, TEMPLATES_DIR = ensure_assets()
 templates = Jinja2Templates(directory=str(TEMPLATES_DIR))
-# templates = Jinja2Templates(directory="src/frontend/templates")
+
 origins = [
     "http://localhost",
     "http://localhost:8081",
@@ -131,6 +129,119 @@ templates.env.filters["collections_tojson"] = collections_tojson
 templates.env.filters["tojson"] = tojson
 
 
+@app.get("/", response_class=HTMLResponse)
+async def index(request: Request, skip: int = 0, limit: int = 30):
+    if skip <= 0:
+        skip_num = 0
+        skip = 0
+    else:
+        skip_num = skip * limit
+    storage = Storage(Config(os.path.abspath(os.getcwd())))
+    books = storage.get_books(collection=None, skip=skip_num, limit=limit)
+    collections = storage.get_collections()
+    total_books = len(storage.get_books())
+    context = {
+        "request": request,
+        "total_pages": math.ceil(total_books / limit),
+        "books": books,
+        "collections": collections,
+        "page": skip,
+        "limit": limit
+    }
+    return templates.TemplateResponse(request=request, name="index.html", context=context)
+
+@app.get("/api/books", response_class=JSONResponse)
+async def books(request: Request, skip: int = 0, limit: int = 10, collection=None):
+    storage = Storage(Config(os.path.abspath(os.getcwd())))
+    books = storage.get_books(collection, skip=skip, limit=limit)
+    return JSONResponse(content=books_tojson(books))
+
+@app.get("/api/book/{book_id}", response_class=JSONResponse)
+async def book(request: Request, book_id: int):
+    storage = Storage(Config(os.path.abspath(os.getcwd())))
+    book = storage.get_book(book_id)
+    return JSONResponse(content=book_tojson(book))
+
+@app.get("/api/get_book/{book_id}", response_class=FileResponse)
+async def get_book_file(request: Request, book_id: int):
+    storage = Storage(Config(os.path.abspath(os.getcwd())))
+    book = storage.get_book(book_id)
+    file_path = book[0].file_name
+    if not os.path.exists(file_path):
+        return JSONResponse(status_code=404, content={"error": "File not found"})
+    return FileResponse(path=file_path, filename=os.path.basename(file_path), media_type="application/octet-stream")
+
+@app.get("/api/collections", response_class=JSONResponse)
+async def collections(request: Request):
+    storage = Storage(Config(os.path.abspath(os.getcwd())))
+    collections = storage.get_collections()
+    return JSONResponse(content=collections_tojson(collections))
+
+@app.get("/api/collection/{collection}", response_class=HTMLResponse)
+async def collection(request: Request, collection: str, skip: int = 0, limit: int = 30):
+    storage = Storage(Config(os.path.abspath(os.getcwd())))
+    if skip <= 0:
+        skip_num = 0
+        skip = 0
+    else:
+        skip_num = skip * limit
+    books = storage.get_books(collection, skip=skip_num, limit=limit)
+    total_books = len(storage.get_books(collection))
+    collections = storage.get_collections()
+    context = {
+        "request": request,
+        "books": books,
+        "collections": collections,
+        "collection": collection,
+        "total_pages": math.ceil(total_books / limit),
+        "page": skip,
+        "limit": limit
+    }
+    return templates.TemplateResponse(request=request, name="collection.html", context=context)
+
+@app.get("/api/search", response_class=HTMLResponse)
+async def search_books_api(request: Request, search: str):
+    storage = Storage(Config(os.path.abspath(os.getcwd())))
+    books = storage.fuzzy_search_books(search)
+    total_books = len(books)
+    collections = storage.get_collections()
+    context = {
+        "request": request,
+        "books": books,
+        "collections": collections,
+        "total_pages": 1,
+        "total_books": total_books,
+    }
+    return templates.TemplateResponse(request=request, name="search.html", context=context)
+
+@app.get("/about", response_class=HTMLResponse)
+async def about_page(request: Request):
+    storage = Storage(Config(os.path.abspath(os.getcwd())))
+    collections = storage.get_collections()
+    return templates.TemplateResponse(request=request, name="index.html", context={
+        "request": request,
+        "books": [],
+        "collections": collections,
+        "total_pages": 1,
+        "page": 0,
+        "limit": 30,
+        "open_about": True
+    })
+
+@app.get("/api/cover/{book_id}")
+async def get_cover(book_id: int):
+    storage = Storage(Config(os.path.abspath(os.getcwd())))
+    book = storage.get_book(book_id)
+    if book and book[0].cover:
+        cover_path = os.path.join(STATIC_DIR, "covers", f"{book_id}.jpg")
+        if os.path.exists(cover_path):
+            return FileResponse(cover_path)
+    fallback_path = os.path.join(STATIC_DIR, "images", "no-cover.jpg")
+    if os.path.exists(fallback_path):
+        return FileResponse(fallback_path)
+    return JSONResponse(status_code=404, content={"error": "Cover not found"})
+
+
 class FastAPIServer():
     """Entry point for FastAPI server."""
 
@@ -138,10 +249,7 @@ class FastAPIServer():
         """Initialize FastAPIServer object parameters."""
         self.config = config
         app.mount("/static", StaticFiles(directory=str(STATIC_DIR)), name="static")
-        # app.mount("/static",
-        #           StaticFiles(directory="src/frontend/static"),
-        #           name="static")
-        self.fe_config = uvicorn.Config(app, host="0.0.0.0", port=8080,
+        self.fe_config = uvicorn.Config(app, host="0.0.0.0", port=8085,
                                         log_level="info", reload=True)
         self.fe_server = uvicorn.Server(self.fe_config)
         self.JSInterface: JSInterface = JSInterface(self.config)
@@ -149,21 +257,16 @@ class FastAPIServer():
 
     def compile_static_files(self):
         """Compile static files for web frontend."""
-        # breakpoint()
         _pyShelf_src = sass.compile(
             filename=f"{STATIC_DIR}/styles/pyShelf.sass",
-            # filename='src/frontend/static/styles/pyShelf.sass',
             source_map_filename=f"{STATIC_DIR}/styles/pyShelf.sass",
-            # source_map_filename='src/frontend/static/styles/pyShelf.sass',
             output_style='compressed',
             include_paths=[
                 'node_modules',
                 f"{STATIC_DIR}src/frontend/static/styles"
-                # 'src/frontend/static/styles'
             ]
         )
         with open(f"{STATIC_DIR}/styles/pyShelf.css", 'w') as _pyShelf:
-        # with open('src/frontend/static/styles/pyShelf.css', 'w') as _pyShelf:
             _pyShelf.write(_pyShelf_src[0])
 
         self.JSInterface.install()
@@ -174,105 +277,6 @@ class FastAPIServer():
         for route in app.routes:
             if isinstance(route, APIRoute):
                 route.operation_id = route.name
-
-    @app.get("/", response_class=HTMLResponse)
-    async def index(request: Request, skip: int = 0, limit: int = 30):
-        if skip <= 0:
-            skip_num = 0
-            skip = 0
-        else:
-            skip_num = skip * limit
-        storage = Storage(Config(os.path.abspath(os.getcwd())))
-        books = storage.get_books(collection=None, skip=skip_num, limit=limit)
-        collections = storage.get_collections()
-        """Home page responder."""
-        total_books = len(storage.get_books())
-        if skip <= 0:
-            skip_num = 0
-            skip = 0
-        else:
-            skip_num = skip * limit
-        context = {
-            "request": request,
-            "total_pages": math.ceil(total_books / limit),
-            "books": books,
-            "collections": collections,
-            "page": skip,
-            "limit": limit
-        }
-        return templates.TemplateResponse("index.html", context)
-
-    @app.get("/api/books", response_class=JSONResponse)
-    async def books(request: Request, skip: int = 0, limit: int = 10, collection=None):
-        storage = Storage(Config(os.path.abspath(os.getcwd())))
-        books = storage.get_books(collection, skip=skip, limit=limit)
-        headers = {"Accept-Encoding": "gzip"}
-        """Home page responder."""
-        return JSONResponse(content=books_tojson(books))
-        # return JSONResponse(content=books)
-
-    @app.get("/api/book/{book_id}", response_class=JSONResponse)
-    async def book(request: Request, book_id: int):
-        storage = Storage(Config(os.path.abspath(os.getcwd())))
-        book = storage.get_book(book_id)
-        """Home page responder."""
-        return JSONResponse(content=book_tojson(book))
-
-    @app.get("/api/get_book/{book_id}", response_class=FileResponse)
-    async def book(request: Request, book_id: int):
-        storage = Storage(Config(os.path.abspath(os.getcwd())))
-        book = storage.get_book(book_id)
-        file_path = book[0].file_name
-        if not os.path.exists(file_path):
-            return JSONResponse(status_code=404, content={"error": "File not found"})
-        """Book file responder."""
-        return FileResponse(path=file_path, filename=os.path.basename(file_path), media_type="application/octet-stream")
-
-    @app.get("/api/collections", response_class=JSONResponse)
-    async def collections(request: Request):
-        storage = Storage(Config(os.path.abspath(os.getcwd())))
-        collections = storage.get_collections()
-        """Home page responder."""
-        return JSONResponse(content=collections_tojson(collections))
-
-    @app.get("/api/collection/{collection}", response_class=HTMLResponse)
-    async def collection(request: Request, collection: str, skip:int=0, limit:int=30):
-        """Collection file responder."""
-        storage = Storage(Config(os.path.abspath(os.getcwd())))
-        if skip <= 0:
-            skip_num = 0
-            skip = 0
-        else:
-            skip_num = skip * limit
-        books = storage.get_books(collection, skip=skip_num, limit=limit)
-        total_books = len(storage.get_books(collection))
-        collections = storage.get_collections()
-        context = {
-            "request": request,
-            "books": books,
-            "collections": collections,
-            "collection": collection,
-            "total_pages": math.ceil(total_books / limit),
-            "page": skip,
-            "limit": limit
-        }
-        return templates.TemplateResponse("collection.html", context)
-    
-    @app.get("/api/search", response_class=HTMLResponse)
-    async def search_books_api(request: Request, search: str):
-        """Collection file responder."""
-        storage = Storage(Config(os.path.abspath(os.getcwd())))
-        books = storage.fuzzy_search_books(search)
-        total_books = len(books)
-        collections = storage.get_collections()
-        context = {
-            "request": request,
-            "books": books,
-            "collections": collections,
-            "total_pages": 1,
-            "total_books": total_books,
-        }
-        return templates.TemplateResponse("search.html", context)
 
     async def run(self):
         """Front end server entrypoint."""

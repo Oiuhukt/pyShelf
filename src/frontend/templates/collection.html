@@ -1,57 +1,76 @@
-<!DOCTYPE html>
-{% block javascript %}
-<script type="text/javascript" src={{ url_for('static', path='script/pako.min.js') }}>
-	<script type="text/javascript">
-		const books = {{ books|books_tojson }};
-		let inflatedJSON = {};
-		const pako = require('pako');
-		inflatedJSON = JSON.parse(pako.inflate(books, { to: 'string'}));
-	</script>
-	{% endblock %}
-	{% include 'header.html' %}
-	{% include 'navigation.html' %}
-	<section id="master-container">
-		<!-- <div id="book-shelf" class="container is-dark"> -->
-		<div id="book-shelf">
-			{% for book in books %}
-			{% set cover = book.cover|b64decode %}
-			{% if cover != 'None' %}
-			<div class="is-dark book" id="{{book.id}}" onclick="window.location.href='/api/get_book/{{ book.id }}'">
-				<div class="image book-thumbnail">
-					<figure class="image is-4by3">
-						<img src="data:;base64,{{ book.cover|b64decode }}" alt="{{ book.title }}">
-					</figure>
-				</div>
-			</div>
-			{% else %}
-			<div class="is-dark book" id="{{book.id}}" onclick="window.location.href='/api/get_book/{{ book.id }}'">
-				<div class="image book-thumbnail"
-						 style="
-										background-image: url({{ url_for('static', path='images/no-cover.jpg') }});
-										background-size: cover;
-										background-position: center;
-										background-repeat: no-repeat;
-										">
-					<figure class="image is-4by3">
-						<div class="no-image-title">{{ book.title }}</div>
-						<!-- alt="{{ book.title }}" -->
-					</figure>
-				</div>
-				<!-- <p class="content">{{ book.description|summarize }}</p> -->
-			</div>
-			{% endif %}
-			{% endfor %}
-		</div>
-		<div id="pagination-container" class="container-full is-dark">
-			<div id="pagination-left">
-				<a class="pagination-previous" href="/api/collection/{{ collection }}/?skip={{ page-1 }}" id="prev-page">< Previous</a>
-			</div>
-			<div id="pagination-center">
-				<span id="pagination-list">page {{ page }} of {{ total_pages }}</span>
-			</div>
-			<div id="pagination-right">
-				<a class="pagination-next" href="/api/collection/{{ collection }}/?skip={{ page+1 }}" id="next-page">Next ></a>
-			</div>
-		</div>
-	</section>
-	{% include 'footer.html' %}
+{% include 'header.html' %}
+{% include 'navigation.html' %}
+
+<style>
+  .book-card {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  .book-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+  }
+  .book-cover-container {
+    position: relative;
+    width: 100%;
+    padding-top: 140%; /* Ratio fijo 3:4 */
+    overflow: hidden;
+    background-color: #1a1a1a;
+  }
+  .book-cover-container img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  .book-title-container {
+    padding: 0.5rem;
+    flex-grow: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background: #ffffff;
+  }
+  .book-title {
+    font-size: 0.85rem;
+    font-weight: 600;
+    line-height: 1.1;
+    color: #222;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+</style>
+
+<section class="section">
+  <div class="container">
+    <div class="columns is-multiline is-mobile">
+      {% for book in books %}
+      <div class="column is-6-mobile is-4-tablet is-2-desktop">
+        <div class="card book-card">
+          <div class="card-image">
+            <a href="/api/get_book/{{ book.id }}">
+              <div class="book-cover-container">
+                <img src="data:image/jpeg;base64,{{ book.cover | b64decode }}" alt="{{ book.title }}">
+              </div>
+            </a>
+          </div>
+          <div class="book-title-container">
+            <p class="book-title" title="{{ book.title }}">{{ book.title }}</p>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+{% include 'footer.html' %}

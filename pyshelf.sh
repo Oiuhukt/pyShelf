@@ -1,19 +1,15 @@
 #!/usr/bin/env bash
-# This script is used to run the pyshelf application.
-# It sets up the environment and runs the main script.
-# first we need to activate the virtual environment
-if [ -d "/etc/pyShelf/.venv" ]; then
-	source /etc/pyShelf/.venv/bin/activate
-else
-	echo "Virtual environment not found. Please create it first."
-	exit 1
-fi
-# then we need to run the main script
+# Configuración usando Python nativo de FreeBSD
+
 if [ -f "/etc/pyShelf/release/pyshelf" ]; then
-	cd /etc/pyShelf
-	export PYSHELF_ASSETS=/etc/pyShelf/src/frontend
-	exec /etc/pyShelf/release/pyshelf	
+    cd /etc/pyShelf
+    export PYSHELF_ASSETS=/etc/pyShelf/src/frontend
+    
+    # Ejecuta directamente con el python3 instalado en el sistema
+    exec /usr/local/bin/python3 /etc/pyShelf/src/__main__.py
 else
-	echo "Main script not found. Please check the directory."
-	exit 1
+    # Fallback si lo estás corriendo desde tu home
+    cd /home/oiuhukt/gitclones/pyShelf
+    export PYSHELF_ASSETS=/home/oiuhukt/gitclones/pyShelf/src/frontend
+    exec /usr/local/bin/python3 src/__main__.py
 fi

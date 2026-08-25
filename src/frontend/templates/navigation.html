@@ -1,143 +1,231 @@
 <script type="text/javascript">
 const collections = {{ collections|collections_tojson }};
 </script>
+
+<style>
+  /* Menú Hamburguesa universal */
+  .navbar-burger {
+    display: flex !important;
+    margin-left: auto !important;
+    color: #fff !important;
+  }
+
+  /* Alineación del centro */
+  .nav-center-container {
+    display: flex !important;
+    align-items: center !important;
+    gap: 12px !important;
+    width: 100% !important;
+    max-width: 800px !important;
+    margin: 0 auto !important;
+  }
+
+  .nav-center-container .field {
+    margin-bottom: 0 !important;
+  }
+
+  .nav-center-container select,
+  .nav-center-container input,
+  .nav-center-container button {
+    height: 32px !important;
+  }
+
+  /* Desplegable Hamburguesa */
+  @media screen and (min-width: 1024px) {
+    .navbar-menu {
+      background-color: #1e293b !important;
+      box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.5) !important;
+      padding: 0.5rem 0 !important;
+      display: none !important;
+      position: absolute !important;
+      right: 10px !important;
+      top: 100% !important;
+      width: 200px !important;
+      border-radius: 6px !important;
+      border: 1px solid #334155 !important;
+    }
+
+    .navbar-menu.is-active {
+      display: block !important;
+    }
+
+    .navbar-menu .navbar-end {
+      display: flex !important;
+      flex-direction: column !important;
+    }
+
+    .navbar-menu .navbar-item {
+      color: #f8fafc !important;
+      padding: 0.6rem 1rem !important;
+    }
+
+    .navbar-menu .navbar-item:hover {
+      background-color: #334155 !important;
+    }
+  }
+</style>
+
 <nav id="navbar-main" class="navbar is-fixed-top is-dark" role="navigation" aria-label="main navigation">
-	<div class="navbar-brand">
-		<a class="navbar-item" href="https://github.com/th3r00t/pyShelf">
-			<img src="{{ url_for('static', path='images/svg/logo-no-background-no-border.svg') }}" width="112" height="28" />
-		</a>
-		<a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarMain">
-			<span aria-hidden="true"></span>
-			<span aria-hidden="true"></span>
-			<span aria-hidden="true"></span>
-		</a>
-	</div>
-	<div id="navbarMain" class="navbar-menu">
-		<div class="navbar-start is-flex is-flex-grow-1">
-			<a class="navbar-item" href="/">Home</a>
-			<div class="is-hidden-touch navbar-item is-flex-grow-1 px-2">
-				<div class="field is-grouped is-fullwidth" style="width: 100%;">
-					<p class="control is-expanded">
-						<span class="select is-small is-rounded is-link is-fullwidth">
-							<select id="collection_select">
-								<option value="" disabled selected>Select a collection</option>
-								{% if collections is not defined or collections|length == 0 %}
-								<option value="" disabled>No collections available</option>
-								{% endif %}
-								{% for collection in collections %}
-								<option value="{{collection.id}}" class="collection_selection">
-									{{collection.name}}
-								</option>
-								{% endfor %}
-							</select>
-						</span>
-					</p>
-				</div>
-			</div>
-			<div class="is-hidden-touch navbar-item is-flex-grow-1 px-2">
-				<form action="/api/search" method="get" class="field has-addons is-flex-grow-1">
-					<div class="control is-expanded">
-						<input
-							class="input is-small is-dark is-link is-rounded-left"
-							type="text"
-							name="search"
-							placeholder="Search books..." />
-					</div>
-					<div class="control">
-						<button
-							class="button is-small is-dark is-link is-rounded-right"
-							type="submit">
-							Search
-						</button>
-					</div>
-				</form>
-			</div>
-		</div>
+    <div class="navbar-brand is-flex-grow-1">
+        <a class="navbar-item" href="/">
+            <img src="{{ url_for('static', path='images/svg/logo-no-background-no-border.svg') }}" width="112" height="28" />
+        </a>
 
-		<div class="navbar-end">
-			<div class="navbar-item dropdown is-hoverable is-right" id="more-menu">
-				<a class="navbar-link">
-					More
-				</a>
-				<div class="navbar-dropdown">
-					<a class="navbar-item">
-						About
-					</a>
-					<a class="navbar-item">
-						Logs
-					</a>
-					<a href="/docs" class="navbar-item">
-						Documentation
-					</a>
-					<a href="https://discord.gg/H9TbNJS" class="navbar-item">
-						Contact
-					</a>
-					<hr class="navbar-divider">
-					<a href="https://github.com/th3r00t/pyShelf/issues" class="navbar-item">
-						Report an issue
-					</a>
-				</div>
-			</div>
-			<!-- <div class="navbar-item"> -->
-			<!-- 	<div class="buttons"> -->
-			<!-- 		<a class="button is-primary is-small is-rounded is-dark is-link"> -->
-			<!-- 			<strong>Sign up</strong> -->
-			<!-- 		</a> -->
-			<!-- 		<a class="button is-dark is-small is-rounded is-link"> -->
-			<!-- 			Log in -->
-			<!-- 		</a> -->
-			<!-- 	</div> -->
-			<!-- </div> -->
-		</div>
-		<!-- Mobile-only -->
-		<div class="navbar-item is-hidden-desktop">
-			<div class="field is-grouped is-fullwidth">
-				<p class="control is-expanded">
-				<span class="select is-small is-rounded is-link is-fullwidth">
-					<select id="collection_select_mobile">
-						<option value="" disabled selected>Select a collection</option>
-						{% if collections is not defined or collections|length == 0 %}
-						<option value="" disabled>No collections available</option>
-						{% endif %}
-						{% for collection in collections %}
-						<option value="{{collection.id}}" class="collection_selection">
-						{{collection.name}}
-						</option>
-						{% endfor %}
-					</select>
-				</span>
-				</p>
-			</div>
-			<form action="/api/search" method="get" class="field has-addons is-fullwidth mt-2">
-				<div class="control is-expanded">
-					<input
-							class="input is-small is-dark is-link is-rounded-left"
-							type="text"
-							name="search"
-							placeholder="Search books..." />
-				</div>
-				<div class="control">
-					<button
-							class="button is-small is-dark is-link is-rounded-right"
-							type="submit">
-						Search
-					</button>
-				</div>
-			</form>
-		</div>
+        <!-- Buscador y selector integrados y alineados -->
+        <div class="nav-center-container is-hidden-touch px-3">
+            <div class="field is-flex-grow-1">
+                <p class="control is-expanded">
+                    <span class="select is-small is-rounded is-link is-fullwidth">
+                        <select id="collection_select">
+                            <option value="" disabled selected>Select a collection</option>
+                            {% if collections is not defined or collections|length == 0 %}
+                            <option value="" disabled>No collections available</option>
+                            {% endif %}
+                            {% for collection in collections %}
+                            <option value="{{collection.id}}" class="collection_selection">
+                                {{collection.name}}
+                            </option>
+                            {% endfor %}
+                        </select>
+                    </span>
+                </p>
+            </div>
 
-	</div>
+            <form action="/api/search" method="get" class="field has-addons is-flex-grow-1">
+                <div class="control is-expanded">
+                    <input
+                        class="input is-small is-dark is-link is-rounded-left"
+                        type="text"
+                        name="search"
+                        placeholder="Search books..." />
+                </div>
+                <div class="control">
+                    <button
+                        class="button is-small is-dark is-link is-rounded-right"
+                        type="submit">
+                        Search
+                    </button>
+                </div>
+            </form>
+        </div>
+
+        <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarMain">
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
+        </a>
+    </div>
+
+    <div id="navbarMain" class="navbar-menu">
+        <div class="navbar-end">
+            <!-- Móvil: Buscador/Colecciones adentro del desplegable -->
+            <div class="navbar-item is-hidden-desktop">
+                <div class="field is-grouped is-fullwidth">
+                    <p class="control is-expanded">
+                    <span class="select is-small is-rounded is-link is-fullwidth">
+                        <select id="collection_select_mobile">
+                            <option value="" disabled selected>Select a collection</option>
+                            {% if collections is not defined or collections|length == 0 %}
+                            <option value="" disabled>No collections available</option>
+                            {% endif %}
+                            {% for collection in collections %}
+                            <option value="{{collection.id}}" class="collection_selection">
+                            {{collection.name}}
+                            </option>
+                            {% endfor %}
+                        </select>
+                    </span>
+                    </p>
+                </div>
+                <form action="/api/search" method="get" class="field has-addons is-fullwidth mt-2">
+                    <div class="control is-expanded">
+                        <input
+                            class="input is-small is-dark is-link is-rounded-left"
+                            type="text"
+                            name="search"
+                            placeholder="Search books..." />
+                    </div>
+                    <div class="control">
+                        <button
+                            class="button is-small is-dark is-link is-rounded-right"
+                            type="submit">
+                            Search
+                        </button>
+                    </div>
+                </form>
+            </div>
+
+            <a href="/about" class="navbar-item">About</a>
+            <a href="https://discord.gg/H9TbNJS" target="_blank" class="navbar-item">Contact</a>
+            <hr class="navbar-divider">
+            <a href="https://github.com/th3r00t/pyShelf/issues" target="_blank" class="navbar-item">Report an issue</a>
+        </div>
+    </div>
 </nav>
+
+<!-- MODAL DE ABOUT -->
+<div id="about-modal" class="modal-overlay" style="display: none;">
+    <div class="modal-box about-terminal-box">
+        <div class="modal-header about-terminal-header">
+            <span class="terminal-dot red"></span>
+            <span class="terminal-dot yellow"></span>
+            <span class="terminal-dot green"></span>
+            <span class="terminal-title">about.txt - pyShelf</span>
+            <a href="#" class="modal-close-btn">&times;</a>
+        </div>
+        <div class="modal-content-body about-terminal-body">
+            <pre class="plain-text-credits">
+<span class="txt-header">=== ABOUT PYSHELF ===</span>
+
+<span class="txt-label">Software:</span>      pyShelf (v0.1.0)
+<span class="txt-label">Type:</span>          Lightweight FOSS E-Book Server
+<span class="txt-label">Stack:</span>         Python / FastAPI / Bulma CSS
+
+<span class="txt-header">--- CREDITS & ACKNOWLEDGMENTS ---</span>
+
+* <span class="txt-highlight">Original Creator:</span> Created by <span class="txt-link">th3r00t</span>
+* <span class="txt-highlight">AI Assistance:</span>    Developed & refactored with assistance from <span class="txt-ai">Google Gemini</span>
+
+<span class="txt-header">--- SUPPORT & BUG REPORTING ---</span>
+
+If you find any issue, bug, or error on this setup, please open an issue or contact:
+<span class="txt-github">GitHub:</span> <a href="https://github.com/Oiuhukt" target="_blank" class="txt-user">@Oiuhukt</a>
+            </pre>
+        </div>
+    </div>
+</div>
 <script>
-	document.getElementById("collection_select")?.addEventListener("change", function () {
-		const value = encodeURIComponent(this.value);
-		window.location.href = `/api/collection/${value}`;
-	});
+    // Colecciones
+    document.getElementById("collection_select")?.addEventListener("change", function () {
+        const value = encodeURIComponent(this.value);
+        window.location.href = `/api/collection/${value}`;
+    });
 
-	document.getElementById("collection_select_mobile")?.addEventListener("change", function () {
-		const value = encodeURIComponent(this.value);
-		window.location.href = `/api/collection/${value}`;
-	});
+    document.getElementById("collection_select_mobile")?.addEventListener("change", function () {
+        const value = encodeURIComponent(this.value);
+        window.location.href = `/api/collection/${value}`;
+    });
+
+    // Menú Hamburguesa (Toggle)
+    const burger = document.querySelector('.navbar-burger');
+    const menu = document.getElementById('navbarMain');
+    if (burger && menu) {
+        burger.addEventListener('click', () => {
+            burger.classList.toggle('is-active');
+            menu.classList.toggle('is-active');
+        });
+    }
+
+    // Modal About
+    document.querySelectorAll('a[href="/about"]').forEach(element => {
+        element.addEventListener('click', function(e) {
+            e.preventDefault();
+            document.getElementById('about-modal').style.display = 'flex';
+        });
+    });
+
+    document.querySelector('.modal-close-btn')?.addEventListener('click', function(e) {
+        e.preventDefault();
+        document.getElementById('about-modal').style.display = 'none';
+    });
 </script>
-
-
