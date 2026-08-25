@@ -25,7 +25,7 @@ class Book(Base):
     title: Mapped[str]
     author: Mapped[Optional[str]]
     categories: Mapped[Optional[str]]
-    cover: Mapped[Optional[bytes]]
+    cover: Mapped[Optional[str]]
     pages: Mapped[Optional[int]]
     progress: Mapped[Optional[float]]
     file_name: Mapped[str]

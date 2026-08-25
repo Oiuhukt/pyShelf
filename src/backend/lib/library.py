@@ -2,11 +2,13 @@
 import os
 import re
 import zipfile
-
+import io
 import pypdf
+
 from bs4 import BeautifulSoup
 from mobi import Mobi
 from bs4 import XMLParsedAsHTMLWarning
+from pdf2image import convert_from_path
 import warnings
 
 warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
@@ -27,7 +29,8 @@ class Catalogue:
         self.html_regx = re.compile(r"\.html")
         self.title_sanitization_regx = re.compile(r"^(Book )+[0-9]*")
         self.title_sanitization_lvl2_regx = re.compile(
-                r"^(Book )+[0-9]*\W+(-)")
+            r"^(Book )+[0-9]*\W+(-)"
+        )
         self.title_sanitization_dirs_regx = re.compile(r"/")
         self.root_dir = config.root
         self.book_folder = config.book_path
@@ -36,11 +39,6 @@ class Catalogue:
         self.config = config
 
     def scan_folder(self, _path=None):
-        """
-        Scan folder by _path, allows recurisive scanning
-
-        :param _path: Path to scan
-        """
         if _path is not None:
             folder = _path
         elif os.path.isdir(str(self.root_dir) + "/" + self.book_folder):
@@ -48,12 +46,9 @@ class Catalogue:
         else:
             folder = self.book_folder
         try:
-            for f in os.listdir(folder):
-                _path = os.path.abspath(folder + "/" + f)
-                if os.path.isdir(_path.strip() + "/"):
-                    self.file_list.append(self.scan_folder(_path))
-                else:
-                    self.file_list.append(_path)
+            for root, _, files in os.walk(folder):
+                for file in files:
+                    self.file_list.append(os.path.join(root, file))
         except FileNotFoundError as fnfe:
             self.config.logger.error(fnfe)
 
@@ -175,42 +170,43 @@ class Catalogue:
         return book_details
 
     def extract_metadata_pdf(self, book):
-        """Return extracted metadata
-        :NOTES: Retrieval of data has been problematic, some pdf's providing
-        reliable titles that corespond with the actual, and others being
-        nonsense.
-        """
-        ddg = DuckDuckGo()
+        """Extract metadata and render page 1 as cover thumbnail."""
         try:
-            pdf = pypdf.PdfFileReader(book)
+            pdf = pypdf.PdfReader(book)
         except Exception:
             return None
+
         try:
-            # Getting odd errors on when attempting to access some pdfs
-            # where they would report as encrypted, when not.
-            info = pdf.getDocumentInfo()
-            if info is None:
-                # check to ensure we actually have a pdf
-                return None
+            info = pdf.metadata
         except Exception:
-            return None
-        fname = book.__str__()
+            info = None
+
+        fname = str(book)
         title = book.split("/")[-1].rsplit(".", 1)[0]
         title = title.replace("_", " ")
-        if info.author is None:
-            author = None
-        else:
+
+        author = None
+        if info and hasattr(info, "author") and info.author:
             author = info.author
+
+        # Extraer la primera página del PDF como imagen de portada (JPEG base/bytes)
+        cover_image = None
         try:
-            cover_image = ddg.image_result(title)
-        except:
-            cover_image = None
-        description = ddg.description_result(title)
+            images = convert_from_path(book, first_page=1, last_page=1)
+            if images:
+                buffer = io.BytesIO()
+                images[0].save(buffer, format="JPEG")
+                cover_image = buffer.getvalue()
+        except Exception as e:
+            self.config.logger.error(f"Error generando portada para {book}: {e}")
+
+        description = None
         identifier = None
         publisher = None
         date = None
         rights = None
         ftags = None
+
         return [
             title,
             author,
@@ -261,8 +257,6 @@ class Catalogue:
                 ftags = ftags.replace(":", ",")
             elif ";" in ftags:
                 ftags = ftags.replace(";", ",")
-            # elif re.search(r"\s", ftags):  # Must be final assignment to avoid spliting on multiple delimeters
-            #    ftags = ftags.replace(" ", ",")
         except KeyError:
             ftags = None
 
@@ -321,7 +315,7 @@ class Catalogue:
             on_disk.append(_x)
         for _y in stored:
             in_storage.append(_y)
-        a, b, = set(
+        a, b = set(
             on_disk
         ), set(in_storage)
         c = set.difference(a, b)

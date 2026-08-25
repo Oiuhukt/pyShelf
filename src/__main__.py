@@ -31,12 +31,14 @@ def run_import():
 async def main():
     """Program entrypoint."""
     Storage(config=config).create_tables()
-    _import_thread = Thread(target=run_import)
-    _import_thread.start()
+    
+    # 1. Ejecutar la importación y generación de portadas de forma directa y bloqueante
+    run_import()
+    
+    # 2. Una vez terminado todo el escaneo y colecciones, iniciar el servidor FastAPI
     fe_server = FastAPIServer(config)
     _task = await asyncio.create_task(fe_server.run())
-    return [_task, _import_thread]
-
+    return [_task]
 
 if __name__ == "__main__":
     asyncio.run(main())

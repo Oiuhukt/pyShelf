@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About - pyShelf</title>
+    <link rel="stylesheet" href="{{ url_for('static', path='styles/pyShelf.css') }}">
+    <style>
+        body {
+            background-color: #090d16;
+            color: #e2e8f0;
+            font-family: 'Consolas', 'Fira Code', 'Courier New', monospace;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+            padding: 20px;
+        }
+        .about-card {
+            background-color: #0f172a;
+            border: 1px solid rgba(56, 189, 248, 0.3);
+            border-radius: 10px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.8);
+            max-width: 550px;
+            width: 100%;
+            overflow: hidden;
+        }
+        .about-header {
+            background-color: #1e293b;
+            padding: 12px 20px;
+            display: flex;
+            align-items: center;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+        }
+        .dot { height: 12px; width: 12px; border-radius: 50%; display: inline-block; margin-right: 6px; }
+        .red { background-color: #ef4444; }
+        .yellow { background-color: #f59e0b; }
+        .green { background-color: #10b981; }
+        .title { color: #94a3b8; font-size: 0.9rem; margin-left: 10px; font-weight: bold; }
+        .about-body { padding: 25px; line-height: 1.6; font-size: 0.95rem; }
+        pre { white-space: pre-wrap; word-wrap: break-word; margin: 0; font-family: inherit; }
+        .hdr { color: #38bdf8; font-weight: bold; }
+        .lbl { color: #94a3b8; }
+        .hl { color: #f472b6; font-weight: bold; }
+        .ai { color: #a78bfa; font-weight: bold; }
+        .gh { color: #f59e0b; font-weight: bold; }
+        a { color: #34d399; text-decoration: underline; font-weight: bold; }
+        a:hover { color: #6ee7b7; }
+        .back-btn {
+            display: inline-block;
+            margin-top: 20px;
+            color: #94a3b8;
+            text-decoration: none;
+            font-size: 0.85rem;
+        }
+        .back-btn:hover { color: #ffffff; }
+    </style>
+</head>
+<body>
+
+<div class="about-card">
+    <div class="about-header">
+        <span class="dot red"></span>
+        <span class="dot yellow"></span>
+        <span class="dot green"></span>
+        <span class="title">about.txt - pyShelf</span>
+    </div>
+    <div class="about-body">
+<pre>
+<span class="hdr">=== ABOUT PYSHELF ===</span>
+
+<span class="lbl">Software:</span>      pyShelf (v0.1.0)
+<span class="lbl">Type:</span>          Lightweight FOSS E-Book Server
+<span class="lbl">Stack:</span>         Python / FastAPI / Bulma CSS
+
+<span class="hdr">--- CREDITS & ACKNOWLEDGMENTS ---</span>
+
+* <span class="hl">Original Creator:</span> Created by <strong>th3r00t</strong>
+* <span class="hl">AI Assistance:</span>    Developed & refactored with assistance from <span class="ai">Google Gemini</span>
+
+<span class="hdr">--- SUPPORT & BUG REPORTING ---</span>
+
+If you find any issue, bug, or error on this setup, please open an issue or contact:
+<span class="gh">GitHub:</span> <a href="https://github.com/Oiuhukt" target="_blank">@Oiuhukt</a>
+</pre>
+        <a href="/" class="back-btn">&larr; Volver a la biblioteca</a>
+    </div>
+</div>
+
+</body>
+</html>

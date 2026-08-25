@@ -15,4 +15,4 @@ class JSInterface():
     def install(self):
         """Install the JavaScript dependencies."""
         run(["npm", "install"], cwd=self.package_json.parent)
-        run(["npx", "tsc", "static/script/pyshelf.ts"], cwd=self.package_json.parent)
+        run(["node", "compile_ts.mjs"], cwd=self.package_json.parent)
