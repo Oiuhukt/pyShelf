@@ -1,0 +1,75 @@
+56
+
+Chapter 6 • Gaussian Integers: From Arithmetic to Arithmetics
+
+3.
+4.
+5.
+6.
+
+6
+
+Write brief essays on the lives and work of two of Fermat, Euler, Gauss, Dedekind.
+Show that Z−5 = {a + b −5 : a , b ∈ Z} is not a UFD. See [1, 16].
+Determine all gaussian primes. See [1, 3, 17].
+Write a brief essay on Diophantus, addressing both his algebraic and number-theoretic
+work, and discussing his influence. See [2, 6, 10].
+7. Discuss Lagrange’s solution of the Pell equation, x2 − dy2 = 1, d a positive integer, noting his
+use of “foreign objects” in number theory. See [1, 3, 5, 15].
+8. Write an essay on Bachet, Frenicle, and Mersenne, the scientists who were Fermat’s correspondents.
+9. Write an essay on the factorization of ideals in rings of integers of quadratic fields. See
+[1, 4, 5, 11, 13].
+10. Discuss the law of quadratic reciprocity, and the law of biquadratic reciprocity. See
+[1, 7, 17].
+References
+1.
+2.
+3.
+4.
+5.
+6.
+
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+
+Adams, W.W., Goldstein, L.J.: Introductions to Number Theory. Prentice-Hall, Englewood Cliffs (1976)
+Bashmakova, I.G.: Diophantus and Diophantine Equations (translated from the Russian by A. Shenitzer).
+Mathematical Association of America, Washington DC (1997)
+Bolker, E.D.: Elementary Number Theory: An Algebraic Approach. W. A. Benjamin, New York (1970)
+Edwards, H.M.: Fermat’s Last Theorem: A Genetic Introduction to Algebraic Number Theory. Springer, New
+York (1977)
+Goldman, J.R.: The Queen of Mathematics: A Historically Motivated Guide to Number Theory. A K Peters,
+Wellesley (1998)
+Heath, T.L.: Diophantus of Alexandria: A Study in the History of Greek Algebra, 2nd ed. Dover, New York
+(1964) (Contains a translation into English of Diophantus’ Arithmetica, a 130-page Introduction to Diophantus’ and related work, and a 60-page Supplement on Fermat’s number-theoretic work.)
+Ireland, K., Rosen, M.: A Classical Introduction to Modern Number Theory. Springer, New York (1972)
+Katz, V.J.: A History of Mathematics, 3rd ed. Addison-Wesley, Hoboken (2009)
+Kleiner, I.: A History of Abstract Algebra. Birkhäuser, Basel (2007)
+Ore, O.: Number Theory and its History. McGraw-Hill, New York (1948)
+Pollard, H., Diamond, H.G.: The Theory of Algebraic Numbers, 2nd ed. Mathematical Association
+of America, Washington DC (1975)
+Ribenboim, P.: 13 Lectures on Fermat’s Last Theorem. Springer, New York (1979)
+Robinson, A.: Numbers and Ideals. Holden-Day, San Francisco (1965)
+Singh, S.: Fermat’s Enigma: The Quest to Solve the World’s Greatest Mathematical Problem. Penguin, New
+York (1997)
+Stark, H.M.: An Introduction to Number Theory. MIT Press, Cambridge (1978)
+Stillwell, J.: Elements of Number Theory. Springer (2000)
+Stillwell, J.: Mathematics and Its History. Springer, New York (2010) (orig. 1989)
+Weil, A.: Number Theory: An Approach Through History, from Hammurapi to Legendre. Birkhäuser, Boston
+(1984)
+
+Further Reading
+19. Dickson, L.E.: History of the Theory of Numbers, Vol. 3. Chelsea, New York (1966) (orig. 1919, 1920, and 1923)
+20. Kleiner, I.: From Fermat to Wiles: Fermat’s last theorem becomes a theorem. Elem. Math. 55 , 19–37 (2000)
+
+

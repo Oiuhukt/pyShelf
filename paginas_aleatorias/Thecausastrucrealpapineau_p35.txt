@@ -1,0 +1,43 @@
+35
+This is not the place to pursue this issue. I myself am attracted to an analysis, due to Brad
+Weslake (forthcoming), which in effect argues that the requirement of counterfactual
+dependence along a path is best understood in terms of chains of INUS conditionship
+(where an INUS condition is the familiar notion—insufficient but necessary part of an
+unnecessary but sufficient condition—originally due to J.L. Mackie). As Weslake sees it, a
+causal model implies that Ca actually caused Ea if the model shows that it was part of an
+INUS condition for part of an INUS condition for . . . Ea
+The appeal to causal models to decide single-case issues leaves us with issues about the
+choice of models. It is one thing to read verdicts about actual causation and counterfactual
+dependence off from given causal models. It is another to decide what causal model should
+be applied to a given target situation in the first place. To adopt a model is effectively to
+place the target situation in a causal field, by implicitly holding the values of any variables
+omitted from the model fixed at their actual values. This raises a number of questions. Are
+there any objective principles pinning down which variables must be included in a model
+used to analyse any given target situation? If not, and the selection of variables is partly a
+matter of choice, how far will this lead to variant verdicts about actual causation and
+counterfactual dependence? And finally, if such verdicts are so variant, does this signify a
+deficiency in the approach in terms of causal models, or should we simply accept that facts
+of actual causation and counterfactual dependence are relative to choices of causal field?
+17 Causation as a Guide to Action
+Let me now return to generic causal claims of the form “C causes E” (“smoking causes
+cancer”, “birth control pills causes thromboses”, . . .). I now have argued that such claims
+should be understood as saying that C is an ancestor of E in a recursive system of structural
+equations with exogenous independence. And I have shown how we can infer such claims,
+reliably if not infallibly, from correlations by using the bridge principles.
+As I have emphasised in this paper, much quantitative research in the non-experimental
+sciences is devoted to inferences of just this kind. What I haven’t discussed, however, is why
+we should be so interested in generic claims of the form “C causes E”. The points made in
+the last section might make one puzzled about this. We there saw how detailed knowledge
+of structural equations in the form of causal models can deliver conclusions about actual
+single-case causation and the nearby relation of single-case counterfactual dependence. But
+mere knowledge of generic claims of the form “C causes E” is by no means guaranteed to
+yield the detailed knowledge required to draw such inferences.
+Indeed it will standardly leave us quite in the dark about such single-case dependencies. As
+observed earlier, knowing that smoking causes cancer won’t decide whether Joe Blogg’s
+cancer was actually caused by his smoking, or even whether it counterfactually depended
+on it. To decide these questions we’d need to know about what other variables are
+ancestral to cancer in a suitable set of structural equations, and about what values they had
+in Joe Blogg’s case, and just knowing that “smoking causes cancer” is likely to leave us highly
+ignorant about these matters.
+
+

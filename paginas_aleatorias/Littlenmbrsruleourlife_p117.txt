@@ -1,0 +1,54 @@
+DRIVING MISS DAISY
+
+103
+
+and P(A) = 0.01. Let us start with your accident probability P(A given S):
+P(A given S) =
+
+P(S given A) × P(A)
+0.75 × 0.01
+=
+≈ 0.008
+P(S)
+0.95
+
+so you have a 0.8% risk of having an accident. On the other hand, Daisy
+has probability
+P(A given D) =
+
+0.25 × 0.01
+P(D given A) × P(A)
+=
+= 0.05
+P(D)
+0.05
+
+and with her 5% accident risk, she should, of course, be in the passenger
+seat (or back seat preferably). She confuses the probabilities P(D given
+A) with P(A given D), which is a common mistake. That drunk drivers
+are responsible for 25% of the accidents is not a relevant figure until we
+also know how many drunk drivers there are. As they make up much
+less than 25% of the drivers, they are involved in disproportionally many
+accidents.
+Note that the probability that you are interested in, P(A given D),
+would not be possible to compute directly from existing data based
+on accident records. If you know how many accidents and how many
+drivers there are, you can figure out how likely it is overall to have an
+accident. From police records on breath and blood tests, you can figure
+out how likely it is that somebody in an accident is drunk. There is,
+however, no way to directly compute the probability that a drunk driver
+has an accident because you have no record of those who don’t get into
+accidents. Bayes’ rule helps you do precisely that, if you have some idea
+about the proportion of drunk drivers (which may be learned from police
+checkpoints where such are permitted or from surveys where people are
+asked anonymously about their drinking and driving habits).
+Confusion of a conditional probability in one direction with the conditional probability in the other direction is a common phenomenon. When
+I was a young man, I liked to read Ed McBain’s detective stories about
+the 87th precinct in the fictional city of Isola. I remember one episode of
+an Italian-American who was disappointed that almost all Italians on a
+particular TV show were portrayed as crooks. He wrote to the TV station
+and voiced his complaints and got a reply that said something like, “That
+is not true, we also have many criminals who are Jewish and Irish.” It was
+pointed out in the book that the letter writer was clever enough to distinguish between the phrases “All Italians are crooks” and “All crooks
+
+

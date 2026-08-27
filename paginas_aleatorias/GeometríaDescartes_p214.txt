@@ -1,0 +1,41 @@
+LAS CÓNICAS DE APOLONIO
+Y LA GEOMETRÍA ANALÍTICA
+
+Portada y página con ilustraciones de figuras geométricas de Apollonii Pergaei Conicorum Lib. V, VI,
+VII. Edición de Borelli. Florencia 1661. Biblioteca de la Universidad de Pavía.
+Las Cónicas de Apolonio contienen muchos aspectos que anticipan elementos de la Geometría
+Analíticas. Como Descartes, Apolonio considera, ciertas líneas de referencia –diámetros conjugados o
+diámetro-tangente– que al jugar un papel de coordenadas, son asociados a la cónica dada, de modo
+que mediante Álgebra retórica son expresadas en función de esas líneas las propiedades geométricas
+de la curva equivalentes a su definición como lugares geométricos.
+C.Boyer escribe sobre Apolonio y la Geometría Analítica (en Historia de las Matemáticas, Alianza
+Universidad, Madrid, 1986, cap.17, p.208):
+«El hecho de que Apolonio, uno de los más grandes geómetras de la antigüedad, no consiguiese
+desarrollar de una manera efectiva la Geometría Analítica, se debe probablemente más a una
+pobreza en el número de curvas que de pensamiento; los métodos generales no son ni muy
+necesarios ni muy útiles cuando los problemas se refieren siempre a un número limitado de casos
+particulares. Por otra parte, es bien cierto que los primeros inventores de la Geometría Analítica
+tenían a su disposición todo el álgebra renacentista [el Álgebra de los cosistas italianos y el
+Álgebra simbólica de Vieta], mientras que Apolonio tuvo que trabajar con las herramientas del
+Álgebra Geométrica, mucho más rigurosa pero a la vez mucho más incómoda de manejar».
+Hay que ponderar la magnífica obra de Apolonio, primer estadio en la Historia de la Matemática
+sobre la aplicación de coordenadas al estudio de las propiedades de las curvas; y aunque el discurso
+retórico sustituye al simbolismo y la construcción geométrica a las técnicas algebraicas, las relaciones
+de áreas y longitudes mediante las que Apolonio expresa las propiedades intrínsecas de la curva se
+traducen con gran facilidad al ulterior lenguaje del Álgebra simbólica de ecuaciones que permitirá la
+asociación de curvas y ecuaciones, esencia de la Geometría Analítica. Así pues, el trabajo de
+Apolonio inicia la singladura histórica hacia el desarrollo de la Geometría Analítica de Descartes.
+Además, dos problemas históricos importantes de gran incidencia sobre la Geometría Analítica de
+Descartes tienen su origen en los trabajos de Apolonio:
+1. El Problema de Apolonio («Dados tres elementos, punto, recta o circunferencia, trácese una
+circunferencia que sea tangente a cada uno de los tres»)
+2. El Problema de Pappus o «lugar geométrico determinado por tres o cuatro rectas»: «Dadas tres
+(resp. cuatro) rectas en un plano, encuéntrese el lugar geométrico de un punto que se mueve de forma
+que el cuadrado de la distancia a una de las tres rectas es proporcional al producto de las distancias
+a las otras dos (resp. el producto de las distancias a dos de ellas es proporcional al producto de las
+distancias a las otras dos), si las distancias se miden en direcciones tales que formen ángulos dados
+con las líneas correspondientes».
+
+293
+
+

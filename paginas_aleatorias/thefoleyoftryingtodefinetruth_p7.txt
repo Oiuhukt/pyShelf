@@ -1,0 +1,44 @@
+268
+
+THEJOURNAL OF PHILOSOPHY
+
+add? Just the truth-functional compounds (beyond those involving
+negation) of the types of sentences already mentioned; these are
+true or false on the basis of the truth or falsity of the kinds of sentences already provided for. Of course, Tarski also showed in detail
+how the truth or falsity of the first four types of sentences depended
+in turn on their structure.
+Thus, the classical formulation regarded as an informal characterization is "incomplete" in only a minimal way compared to Tarski's
+own work, and is better than Tarski's informal attempts to state the
+intuitive idea. Needless to say, someone might question the extent to
+which natural languages can be adequately characterized using such
+limited resources; but this is a comment equally applicable to Tarski.
+Despite his nod in the direction of a correspondence theory, in
+which sentences are said to correspond to facts, Tarski ought not to
+be considered as giving comfort to serious partisans of correspondence theories, nor should Aristotle. For neither Aristotles's formula nor Tarski's truth definitions introduce entities like facts or
+states of affairs for sentences to correspond to. Tarski does define
+truth on the basis of the concept of satisfaction, which relates expressions to objects, but the sequences that satisfy sentences are nothing
+like the "facts" or "states of affairs" of correspondence theorists,
+since if one of Tarski's sequences satisfies a closed sentence, thus
+making it true, then that same sequence also satisfies every other
+true sentence, and thus also makes it true, and if any sequence satisfies a closed sentence, every sequence does.7
+If Tarski is not a correspondence theorist (and he certainly does
+not hold a coherence theory or a pragmatic theory or a theory that
+bases truth on warranted assertability), is he a deflationist? Here
+opinions differ widely: W. V. Quine thinks he is, and so does Scott
+Soames. John Etchemendy thinks Tarski simply says nothing about
+truth as a semantic concept, and Hilary Putnam, though for somewhat different reasons, agrees.8
+If Tarski has said "all there is to say" about truth, as Stephen
+Leeds, Paul Horwich, and Soames all contend, and Quine has
+
+7At one time I suggested calling Tarski's concept of truth a correspondence theory on the strength of the role of sequences in satisfying closed sentences, but I
+subsequently withdrew the suggestion as misleading. For the suggestion, see "True
+to the Facts," in Inquiries into Truth and Interpretation(New York: Oxford, 1984).
+For the retraction, see "Afterthoughts, 1987," in A. Malichowski, ed., Reading Rorty
+(Cambridge: Blackwell, 1990), pp. 120-38.
+8 For references, and further discussion, see my "The Structure and Content of
+Truth."
+
+This content downloaded from 91.152.182.135 on Sun, 31 Aug 2014 22:44:09 PM
+All use subject to JSTOR Terms and Conditions
+
+

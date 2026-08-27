@@ -1,0 +1,48 @@
+304
+
+INTRODUCCIÓN A LA TEORÍA DE LA PROBABILIDAD
+
+ocurre el evento hasta el tiempo t, entonces la familia de variables aleatorias
+{Xt }t≥0 forma un proceso de Poisson de parámetro λ. En esta situación,
+como vimos en la sección VIII.4, los tiempos entre ocurrencias sucesivas
+tienen distribución exponencial con parámetro λ.
+Dado λ > 0, consideremos entonces una sucesión de variables aleatorias
+independientes, T1 , T2 , . . ., todas ellas con distribución exponencial de parámetro λ. La sucesión de variables aleatorias T1 , T1 + T2 , T1 + T2 + T3 , . . .,
+simula entonces los tiempos de ocurrencia de eventos que ocurren aleatoriamente en el tiempo. Llamemos Xt al número de eventos que ocurren hasta el
+tiempo t. Entonces, el evento [Xt = 0] ocurre si y sólo si T1 > t y, para k ∈ N,
+el evento [Xt = k] ocurre si y sólo si T1 +. . .+Tk ≤ t y T1 +. . .+Tk +Tk+1 > t.
+Es decir:
+o
+n
+P
+Xt = mı́n i ∈ N | ij=1 Tj > t − 1
+es una variable aleatoria con distribución Poisson de parámetro λt.
+De acuerdo con el ejemplo VIII.34, cada variable aleatoria Tj puede generarse mediante una variable aleatoria Uj con distribución uniforme en el
+intervalo (0, 1), definiendo Tj = − λ1 ln Uj . De esta forma, si U1 , U2 , . . . es una
+sucesión de variables aleatorias independientes, todas ellas con distribución
+uniforme en el intervalo (0, 1), y λ en un número real positivo, entonces la
+variable aleatoria
+n
+o
+P
+X = mı́n i ∈ N | ij=1 − λ1 ln Uj > 1 − 1
+tiene distribución Poisson con parámetro λ.
+Finalmente, obsérvese que:
+n
+o
+P
+X = mı́n i ∈ N | ij=1 − λ1 ln Uj > 1 − 1
+n
+o
+Q
+= mı́n i ∈ N | − λ1 ln ij=1 Uj > 1 − 1
+n
+o
+Q
+= mı́n i ∈ N | ln ij=1 Uj < −λ − 1
+n
+o
+Q
+= mı́n i ∈ N | ij=1 Uj < e−λ − 1
+
+

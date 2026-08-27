@@ -1,0 +1,54 @@
+398
+
+References
+
+Holland, P. 1986. “Statistics and Causal Inference.” Journal of the American Statistical
+Association 81: 945–​960.
+Holyoak, K. and Cheng, P. 2011. “Causal Learning and Inference as a Rational Process: The
+New Synthesis.” Annual Review of Psychology 62: 135–​163.
+Hoover, K. 2001. Causality in Macroeconomics. Cambridge: Cambridge University Press.
+Icard, T., Kominsky, J., and Knobe, J. 2017. “Normality and Actual Causal Strength.”
+Cognition 161: 80–​93.
+Ismael, J. 2015. “How to Be Humean.” In Loewer, B. and Schaffer, J., eds., A Companion to
+David Lewis. Malden, MA: Wiley Blackwell, 188–​205.
+Janzing, D., Mooij, J., Zhang, K., Lemeire, J., Zscheischler, J., Daniusis, D., Steudel, B.,
+and Scholkopf, B. 2012. “Information-​
+Geometric Approach to Inferring Causal
+Directions.” Artificial Intelligence 182–​183: 1–​31.
+Janzing, D. and Schollkopf, B. 2010. “Causal Inference Using the Algorithmic Markov
+Condition.” IEE Transactions on Information Theory 56(10): 5168–​5194.
+Johnson, S. and Keil, F. 2014. “Causal Inference and the Hierarchical Structure of
+Experience.” Journal of Experimental Psychology: General 143(6): 2223–​2241.
+Kahneman, D., and Tversky, A. 1982. “The Simulation Heuristic.” In Kahneman, D.,
+Slovic, P., and Tversky, A., eds., Judgement under Uncertainty: Heuristics and Biases.
+Cambridge: Cambridge University Press, 201–​210.
+Kamm, F. 1993. Morality, Mortality. Vol. 1. New York: Oxford University Press.
+Kendler, K. 2005. “‘A Gene for . . .’: The Nature of Gene Action in Psychiatric Disorders.”
+American Journal of Psychiatry 162: 1243–​1252.
+King, G., Keohane, R., and Verba, S. 1994. Designing Social Inquiry: Scientific Inference in
+Qualitative Research. Princeton, NJ: Princeton University Press.
+Kistler, M. 2014. “Analysing Causation in Light of Intuitions, Causal Statements, and
+Science.” In Copley, B. and Martin, F., eds., Causation in Grammatical Structures.
+Oxford: Oxford University Press, 6–​99.
+Kitcher, P. 2011. The Ethical Project. Cambridge, MA: Harvard University Press.
+Knobe, J. 2003. “Intentional Action in Folk Psychology: An Experimental Investigation.”
+Philosophical Psychology 16(2): 309–​323.
+Knobe, J. 2016. “Experimental Philosophy Is Cognitive Science.” In Systma, J. and
+Buckwalter, W., eds., A Companion to Experimental Philosophy. Chichester: Wiley
+Blackwell, 37–​52.
+Kohler, W. 1927. The Mentality of Apes. 2nd ed. New York: Vintage Books.
+Kominsky, J., Phillips, J., Gerstenberg, T., Lagnado, D., and Knobe, J. 2015. “Causal
+Superseding.” Cognition 137: 196–​209.
+Kushnir, T. and Gopnik, A. 2005. “Young Children Infer Causal Strength from
+Probabilities and Interventions.” Psychological Science 16: 678–​683.
+Kushnir, T. and Gopnik, A. 2007. “Conditional Probability versus Spatial Contingency
+in Causal Learning: Preschoolers Use New Contingency Evidence to Overcome Prior
+Spatial Assumptions.” Developmental Psychology 43: 186–​196.
+Kushnir, T., Wellman, H., and Gelman, S. 2009. “A Self-​agency Bias in Children’s Causal
+Inferences.” Developmental Psychology 45: 597–​603.
+Kutach, D. 2013. Causation and Its Basis in Fundamental Physics. Oxford: Oxford
+University Press.
+Lagnado, D. and Sloman, S. A. 2004. “The Advantage of Timely Intervention.” Journal of
+Experimental Psychology: Learning, Memory & Cognition 30: 856–​876.
+
+

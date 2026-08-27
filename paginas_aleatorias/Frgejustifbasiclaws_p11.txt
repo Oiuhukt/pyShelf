@@ -1,0 +1,50 @@
+11
+When he introduces basic law I, Frege argues that it cannot be false given how he defined the
+notions in it. Namely, he appeals to the stipulations he made in §12 concerning the conditional
+stroke. Under different stipulations the same formulas could be false.31
+Frege justifies his stipulations by referring to his theory of reference. There, he argues that when
+language is used for scientific purposes it must meet these standards, a claim which motivates his
+stipulations. Now, the evidence supporting Frege’s understanding of scientific language seems to be
+his own familiarity with scientific languages and the human mind. He takes for granted claims that,
+according to him, reflect uncontroversial facts about scientific discourse. This makes the justification
+of basic laws somewhat human-centred. The laws cannot be false in the Begriffsschrift, which is an
+ideal language for human scientific discourse. But a different community might not accept the same
+claims about scientific language that we accept; for instance, a community might not accept that in
+scientific language no term should fail to refer.
+Frege repeatedly envisions the possibility of mathematical aliens. He seems to take this as a
+nomological possibility, since he considers scenarios in which, because of evolution, humans could
+come to believe that 2x2=3 or 2x2=5 (1884, xviii-xix; 1906b, 175). He always emphasises that
+arithmetical truths, and logical, are ontologically independent from human beliefs. But here he is
+asking how we can justify our mathematical and logical beliefs. Having agreed that some unspecified
+truths of arithmetic are mind-independent, the question remains open as to whether we are right to
+think that, say, the sentence ‘2x2=4’ corresponds to a truth of arithmetic, rather than ‘2x2=3.’ Frege
+attempts to show that ‘2x2=4’ must be true in a language that meets our basic scientific standards.
+But he also admits that this only proves that we must take it to be true. It hardly proves that ‘2x2=4’
+in fact corresponds to a mathematical truth, let alone showing that logical aliens are impossible.
+Frege’s reason to believe the basic laws, even though logical aliens are possible is this: the claim that
+ideal humans must assert laws that quantify over any object whatsoever, paired with the rejection of
+skepticism, leads to the conclusion that said laws are true. Suppose that ideal humans can never
+assert ~P->P, but in fact some particular sentences fail to entail themselves. Ideal humans could
+never identify the anomalous cases, since as far as they are concerned, the basic laws are universally
+valid. This casts a doubt over all their beliefs. Anything at all that is given to us in scientific belief is
+subject to the basic laws, and to the laws of mathematics. Therefore, in Frege’s framework, doubting
+the basic laws amounts to doubting the human epistemic standpoint as a whole.
+On lines ten and eleven, Frege observes that although we cannot exclude the possibility of logical
+aliens, we are unable to suppose that they might be right. This is a consequence of the weak
+normativity of descriptive laws. If one accepts a law, one thereby accepts that everybody ought to
+accept it (lines fifteen and sixteen). Therefore, since ideal humans are bound to assert laws of logic,
+we, non-ideal humans, may conclude that logical aliens believe something that they ought not to.
+Unlike ideal calculators, we can mistake a contradiction for a law. That is, we might assert something
+that we would realize we ought not to, if we reasoned unimpeded by psychological limitations. Yet,
+we know that logical aliens are wrong because, by definition, they reject laws that ideal humans
+accept, whatever these laws might turn out to be. This is still human-centric. By the reasoning above,
+we cannot prove that logical aliens are wrong, but we are bound to take them to be wrong. And,
+conversely, they believe that we are mistaken. We are both stuck in our epistemic standpoints.
+Now, we might be unable to rule out the possibility that our epistemic standpoint is grossly
+mistaken. But, says Frege speaking for himself now, questioning our epistemic standpoint is
+unadvisable; it would be as unadvisable as to try jumping out of one’s skin (lines thirteen and
+fourteen). If we are to do science, we better assume that there is nothing preventing us in principle
+from accumulating knowledge. Rather than attempting a refutation of skepticism of the sort that
+Kant tried to produce time and time again,32 Frege suggests disregarding skepticism.
+
+

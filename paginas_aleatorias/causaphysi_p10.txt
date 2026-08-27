@@ -1,0 +1,52 @@
+4
+
+Philosophy of Physics
+
+There is an additional position the current project cuts against and that is
+the view (or one close enough to it) Thomas Blanchard has called neoRussellianism.5 Neo-Russellians typically believe in a restricted form of causal
+eliminativism. While they do not necessarily deny the existence of causation
+(for example in the special sciences) and while they embrace the importance of
+causal reasoning in physical inquiry, they do deny that causation is part of the
+ontology of fundamental physics. By ‘fundamental physics’ I have in mind
+nonrelativistic or relativistic QM (where the latter would include special relativity [STR], QED, the quantum theory of the weak interaction, EWT, and
+quantum chromodynamics [QCD]), quantum hydrodynamics (QHD), general
+relativity (GTR), which includes STR in the appropriate limit, some candidate
+fundamental physical theories of the past (e.g., Newtonian mechanics,
+Lagrangian mechanics, Hamiltonian mechanics, and classical electromagnetism [CEM], where this would include electrostatics and magnetostatics), plus
+speculative and incomplete quantum theories of gravity (e.g., string theory, loop
+quantum gravity, or causal set theory).6 Neo-Russellianism is currently all the
+rage in contemporary philosophy of physics.7 The part of neo-Russellianism
+that asserts there’s no causation in fundamental physics, I call the No Causation
+(NC) thesis. My central claim in this work is that NC is false.
+1.2.1 Causal Powers and Capacities
+Some resist NC by pushing causal powers or capacities into physics (see e.g.,
+Bird 2007, 164–168; Ellis 2002, 23–24, 159; 2009; Mumford 2004, 150, 188;
+and Pruss 2018). Nancy Cartwright (1989; 1994; 1995) has said that there are,
+ceteris paribus, causal laws of physics, laws that specify what something can
+
+5
+
+My characterization of neo-Russellianism departs just a little from that in Blanchard (2016, 259)
+and is closer to those characterizations in Frisch (2014, 49), Miłkowski (2016, 202, n. 11), and
+Reutlinger (2013, 273), although Frisch’s conception entails that neo-Russellians are causal
+eliminativists because for him they embrace a perspectival theory of causation (on which see
+Section 1.3).
+6
+That my characterization should include even classical mechanics should not be contentious. It is
+common for neo-Russellians (e.g., Loewer 2008) to appeal to Newtonian mechanics as a sample
+physical theory with “fundamental dynamical laws” (Loewer 2008, 154) that are “temporally
+symmetric” in the sense that they are time-reversal invariant and therefore supposedly not causal
+or not fundamentally causal (Loewer 2008, 155).
+7
+“Many philosophers of physics today,” write Farr and Reutlinger, “support . . . [the] claim that
+causal relations do not belong to the ontology suggested by fundamental physics” (Farr and
+Reutlinger 2013, 216). See Earman (1976, 6) and Earman (2011, 494, refusing there to go beyond
+minimal interpretations that preclude causal readings of the laws of electrodynamics); Field
+(2003, 435); Ismael (2016, 134; see also 113, 117, and 136); Kutach (2013, 266, 272–273, 282
+for “culpable causation,” the type that metaphysicians write about); Loewer (2007a); Redhead
+(1990, 146); Sider (2011, 15–17); and van Fraassen (1989, 282). See also Norton (2007a; 2007b,
+2021).
+Downloaded from https://www.cambridge.org/core. IP address: 177.249.162.188, on 23 May 2025 at 04:25:03, subject to the Cambridge Core terms
+of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/9781009234689
+
+

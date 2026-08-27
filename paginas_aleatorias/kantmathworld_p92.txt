@@ -1,0 +1,48 @@
+
+
+’  
+
+Kant’s deﬁnition of the concept of magnitude leaves us with a puzzle and
+some unanswered questions. Those commentators who included “synthetic
+unity” in Kant’s concept of magnitude and interpreted that to correspond to
+the category of unity did so because the Axioms principle is supposed to
+correspond to the categories of quantity, as indeed it in some way should.
+How, on the present account, can we make sense of that correspondence?
+Moreover, how do we explain why Kant sometimes refers to the category or
+categories of magnitude? We also do not yet have an account of how the
+concept of magnitude contributes to the mathematical determination of spaces
+and times at the root of mathematical cognition. The answer to these questions
+turns on Kant’s distinction between two notions of magnitude: quantum and
+quantitas.
+
+3.5
+
+Quantum and Quantitas
+
+The distinction and the relation between quantum and quantitas are central
+features of Kant’s account of mathematical cognition, but are also among the
+most difﬁcult. In order to proceed, we need to have at least a preliminary sense
+of the meaning of these terms, which will be all that will be attempted in this
+section; we will sharpen our understanding of them in the coming chapters.
+Even then, however, we will not be in a position to give a complete interpretation of them that includes their relation to number in this work; some claims
+will be fully defended only in a monograph focused on the details of Kant’s
+understanding of arithmetic in particular.
+Kant’s deﬁnition of magnitude at the beginning of the Axioms is, as his
+parenthetical insertion indicates, the deﬁnition not just of magnitude but of
+a quantum (der Begriff einer Größe (Quanti)). Hence, all that we have
+discussed up to this point concerns quanta. Later in the Axioms of
+Intuition, Kant draws a distinction between a quantum and quantitas.
+Kant uses the term magnitude (Größe) for both quantum and quantitas,
+using these latter terms or adding them in parentheses when he chooses to
+be careful. As mentioned in Chapter 1, however, Kant is often not careful; in
+many contexts, we are left to sort out for ourselves which notion of magnitude Kant has in mind, and commentators can hardly be blamed for having
+difﬁculty keeping them apart. Furthermore, as noted above, Kant sometimes
+refers to the categories or even the category of magnitude rather than to the
+categories of quantity, and he does not specify which sense of magnitude he
+has in mind.
+The Latin -itas ending generally denotes a related but more abstract thing,
+concept, or name than that indicated by the stem word to which it is afﬁxed.
+This leads one to expect that quantum is used to refer to something relatively
+concrete, something that is a magnitude, while quantitas refers to the magnitude of a thing in some more abstract sense that concerns the quantity of the
+
+

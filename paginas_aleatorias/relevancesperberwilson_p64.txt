@@ -1,0 +1,47 @@
+56
+
+Communication
+
+a plausible answer, in the form of an explicit linguistic paraphrase, to the
+question, what does she mean? Could she have achieved the same
+communicative effect by speaking? Clearly not.
+Examples like the one of Mary smelling gas, where it is reasonable to
+impute a meaning to the communicator, are the only ones normally
+considered in discussions of communication; examples like the one of
+Mary at the seaside - clearly communicating, but what? — are generally
+ignored. Yet these examples do not belong to distinct classes of
+phenomena, and it is easy enough to imagine intermediate cases: say, a
+guest sniffing appreciatively and ostensively wh^n the stew is brought to
+the table, etc.
+The distortions and misperceptions introduced by the explicit com¬
+munication model are also found in the study of verbal communication
+itself. Some essential aspects of implicit verbal communication are
+overlooked. Pragmatists assume that what is communicated by an
+utterance is a speaker’s meaning, which in the case of an assertion is a set of
+assumptions. One of these assumptions is explicitly expressed; the others
+(if any) are implicitly conveyed, or implicated. The only difference
+between the explicit content of an utterance and its implicatures is
+supposed to be that the explicit content is decoded, while the implicatures
+are inferred. Now we all know, as speakers and hearers, that what is
+implicitly conveyed by an utterance is generally much vaguer than what is
+explicitly expressed, and that when the implicit import of an utterance is
+explicitly spelled out, it tends to be distorted by the elimination of this
+often intentional vagueness. The distortion is even greater in the case of
+metaphor and other figures of speech, whose poetic effects are generally
+destroyed by being explicitly spelled out.
+In an effort to minimise the distortion, pragmatists have tended to focus
+on examples such as (32), where the implicit import is fairly precise, and
+to ignore equally ordinary cases of implicit vagueness such as (51):
+(32) Peter: Do you want some coffee?
+Mary-.Coiitt would keep me awake.
+(51) Peter: What do you intend to do today?
+Mary: I have a terrible headache.
+In (32), Mary implicates that she doesn’t want coffee (or, in some
+circumstances, that she does) and that her reason for not wanting it is that
+it would keep her awake. Here the implicatures can be spelled out without
+distortion. In (51), what does Mary implicate? That she will not do
+anything? That she will do as little as possible? That she will do as much as
+she can? That she does not yet know what she will do? There is no precise
+assumption, apart from the one explicitly expressed, which she can be said
+
+

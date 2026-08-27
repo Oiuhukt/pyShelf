@@ -1,0 +1,100 @@
+L. Spagnesi
+
+Studies in History and Philosophy of Science 99 (2023) 1–9
+
+Fig. 3. Kon and Lombrozo's experiment. The better rule is that SOMP ﬂowers have two concentric circles in their centres while THONT ﬂowers have one circle in their
+centre. The worse rule is that the petals of SOMP ﬂowers are mostly one colour, whereas the petals of THONT ﬂowers are mostly rainbow coloured. The blue box
+contains the items in the ideal scenario; the green box contains the items in the non-ideal scenario (see Kon & Lombrozo, 2018, p. 1941). Reproduced by permission
+from Cognitive Science.
+
+simple, exceptionless pattern describes some explanatory ideal that is
+rarely realized, the pursuit of this ideal could spur meaningful discoveries” (Kon & Lombrozo, 2018, p. 1940). In their experiment (Fig. 3),
+they asked participants to classify items into one of two categories. They
+were prompted to ‘explain’ (by seeking an ideal rule) or simply write
+down the category membership of twelve exemplars. Only two rules
+could be used to categorize items in ideal and non-ideal world conditions:
+an easy to ﬁnd ‘worse rule’ with a limited success rate in capturing
+category membership, and a ‘better rule’ that was more difﬁcult to ﬁnd
+but also more successful in categorizing items. Results suggested that
+when prompted to identify ideal patterns, subjects were more likely to
+identify the better rule of assortment than when operating without an
+ideal assumption (in both ideal and, importantly for this paper, non-ideal
+world conditions). The reason the authors identify for this phenomenon
+is that idealizing supports discovery: idealized models give us a starting
+point and a standard to ﬁnd and assess unregular and chaotic patterns in
+a non-ideal world. I suggest that RI plays precisely this role in empirical
+investigation and that Kant's account of science provides a philosophically rich framework for investigating idealization as a necessary condition of empirical discovery and explanation.
+
+If this is correct, regulative idealization is compatible with and
+beneﬁcial to realism, as I characterized it. For if truth is a necessary
+component of realism (albeit not necessarily a sufﬁcient one), and
+regulative idealizing provides both the conceptual space and the
+normative standards to deepen factive explanation, it follows that regulative idealization also promotes the acquisition of truthful propositions
+based on facts. As suggested by Rice (2016), it seems plausible to assess
+the contribution of regulative idealization to truth as a global matter, so
+that local employment of falsehoods can still have a positive effect on the
+overall truth-balance, so to speak. My account adds some further qualiﬁcations to this line of thought. Since regulative idealizations are not
+themselves parts of explanation, their being false does not count as ‘less
+truth’ even at the local level of explanation. Further, since these idealizations play a constructive and normative role, they do not just promote
+the mere maximization of truths, but rather the acquisition of epistemically justiﬁed and explanatorily relevant truthful propositions. As a
+result, my account is amenable to views that qualify truth as part of the
+aim of science or reconﬁgure such an aim in epistemic terms (see Bird,
+2007).
+The compatibility between regulative idealization and realism comes
+with some caveats. I suggested that regulative idealizations are idealizations that cannot be replaced, and in virtue of not being replaceable
+they offer an indirect, yet indispensable contribution to truth. A ﬁrst
+caveat concerns how to practically identify indispensable regulative
+idealizations. A useful criterion is to isolate those models that cannot be
+made more accurate by adding correcting factors (as suggested by Morrison, 2015). But this would still be an insufﬁcient criterion for we cannot
+exclude that a breakthrough in a certain ﬁeld makes more realistic
+explanatory models available. Second, if we do not have a deﬁnitive
+criterion of indispensability, some idealized models that we currently
+deem necessary may turn out to be incompatible with realism. A
+fully-ﬂedged account of the compatibility between regulative idealization and realism should answer complex questions about the evolution
+and progress of science that I cannot address here. Let me brieﬂy suggest,
+however, that, the lack of arguments for the absolute indispensability of
+regulative idealization is to be expected. Scientiﬁc investigation is a
+historical and situated endeavor. As far as we know, some idealized
+models are necessary to get epistemic access to explanatorily valuable
+information. We have no reason to think that we will dispense with them
+in the future, although we cannot exclude this possibility. Importantly,
+such a relativized notion of indispensability still allows us to maintain a
+distinction between rules that, albeit replaceable in principle, currently
+play an indispensable epistemic function (regulative idealizations) and
+idealizations that ought to be de-idealized or corrected.
+Finally, let me brieﬂy note that although the present proposal is
+inspired from Kant's philosophy and his idiosyncratic account of science,
+similar views have recently found support in psychological research. Kon
+and Lombrozo have shown that ideals, although rarely (or not to be)
+found in real scientiﬁc practice and everyday thinking, still play an
+important role in explanation. Their research “suggests that even if a
+
+8. Conclusion
+I wish to conclude by clarifying the role of RI in the quest for scientiﬁc
+truth. If the analysis so far is correct, these idealizations do not stand for
+or describe real objects but are rather rules for the empirical investigation
+of nature. This characterization has important implications. As a ‘rule’, an
+idealization does not tell us what an object is—strictly speaking there is
+no HWE equilibrium as there is, in Kant's philosophy of nature, no
+existing “pure water” nor “fundamental power”—but rather tell us how
+we ought to investigate empirical objects.
+Although the rule itself is not an explanation, it imposes on cognizers
+epistemic constraints on explanations through two steps. First, it gives a
+set of phenomena a common referent point or starting point for explanation. This is the constructive function of idealization. Employing HWE
+is the starting point for all population-genetical investigation. In Kantian
+terms, it gives ‘systematic unity’ to our particular cognitions as a “focus
+imaginarius”. Second, idealizations are not explanations of phenomena,
+but rather normative standards for the assessment of explanations. It
+would be misleading to say that HWE as such ‘explains’ anything. It
+furnishes instead a standard to which we can compare collected data. By
+doing so we further the unity and accuracy of our explanations. More
+speciﬁcally, we identify cases where deviations are small and thereby do
+not reject HWE, and cases that deeply challenge HWE and thus lead us to
+new ﬁndings.
+I submit that Kant is right in pointing out that idealizing is a condition
+or a “touchstone” of truth —not because it gives ideal truths about a nonexistent world, but rather because it gives us rules on how to promote
+investigation and look for more uniﬁed and accurate explanations. As
+Kant puts it:
+8
+
+

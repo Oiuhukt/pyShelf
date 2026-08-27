@@ -1,0 +1,49 @@
+So given that inquiring is intentional, it’s goal-directed in some sense.
+That said, many actions that can be intentionally done can also be accidentally done, e.g. stepping on a bug, turning on the tv, eating meat. But can
+we inquire accidentally? Can we engage in the activity of inquiring without
+at all meaning to? Like knocking over a lamp in a dark room? I suspect
+not.22 But if there is no accidental inquiry then we should say that inquiring is necessarily intentional and with that that every inquirer is acting with
+some aim or engaging in a kind of goal-directed activity. And I think we can
+say at least this much about those aims: they include aims to inquire — all
+inquirers are trying to inquire.23
+This is all to say that a personal answer to the General Question seems
+plausible to me. And it seems plausible to me in part because a certain kind
+of answer to a personalized version of the Specific Question seems plausible
+to me, viz. that all inquirers are trying to inquire. But that sort of answer
+to the Specific Question is not much like the ones typically given. The
+claim that all inquirers (qua inquirers) are trying to inquire is obviously an
+extremely general answer to the question of what all inquirers qua inquirers
+are trying to do (as I hope is clear it’s not trivial though). But, as I’ll argue,
+if we say that ‘aim of inquiry’ talk is best thought of as talk about the aims
+of all inquirers then the less general sorts of answers to the Specific Question,
+the ones we’re more familiar with, lose plausibility.
+The Specific Question asks, What is the aim of inquiry? And these are
+the sorts of answers typically given: knowledge, understanding, truth/true
+belief, certainty, epistemic improvement, settled opinion, etc. Given that
+we’re considering a personal aim now, the Specific Question changes shape
+a little bit. Now we should think of it as asking: What goals do all inquirers
+qua inquirers have? Or: What is it that all inquirers qua inquirers are trying
+to do? One thing worth pointing out right away is that strictly speaking the
+typical answers to the original Specific Question do not answer our new,
+‘personalized’ Specific Question. ‘Knowledge’ and ‘true belief’ (etc.) are not
+22
+
+When Davidson alerted the prowler by turning on the light, his action was intentional
+under one description (‘turning on the light’) and unintentional under another (‘alerting
+the prowler’). He meant to do one of those things but not the other; he did one of those
+things on purpose, the other by accident (see Davidson (1963) for discussion). One way
+to flesh out my thought about the impossibility of accidental inquiry in this paragraph is
+along these Davidsonian lines: There are no cases in which S ϕs and that ϕ-ing counts as
+S’s inquiring, but it only counts as such accidentally. None of this is to say that we might
+not learn without meaning to or even figure something out accidentally. It’s rather to say
+that we don’t engage in the activity of inquiring accidentally.
+23
+I am using ‘trying to ϕ’ and ‘intending to ϕ’ (and ‘aiming to ϕ’) interchangeably here.
+These are obviously closely related notions but also may well come apart in various ways.
+See Holguı́n and Lederman (2022) for some recent discussion of trying and its relation to
+this family of other intentional notions. For our purposes it’s not essential to keep them
+apart.
+
+15
+
+

@@ -1,0 +1,51 @@
+Beyond Uncertainty
+
+57
+
+propositions – that the movie is a thriller and that it is a comedy – in the old
+awareness context.
+There is one remaining potential objection to, in particular, examples 2 and
+3 that we should address before proceeding. The objection is that, in example
+2, you realise that you did not, to begin with, have as much evidence as you
+had thought for your partner having an affair, whereas in example 3 you realise
+that you had evidence all along that the movie would be a thriller. So, in both
+cases, you realise that your previous epistemic state was flawed.37
+Now, we need not reject this characterisation of these examples for them to
+be counterexamples to Reverse Bayesianism. After all, the reason you realise
+that your previous epistemic state was flawed is that you become aware of new
+contingencies that show that you either had more or else less evidence than
+you thought. In the movie example you become aware of a fact that connects
+what you already knew to the movie being a thriller, whereas in the surprise
+party example you become aware of a new possible explanation that convinces
+you that the evidence you took yourself to have for your partner’s affair wasn’t
+strong. So, even though you do realise that your previous epistemic state was
+flawed, you do so by becoming more aware, and this growth in awareness can
+be rational without aligning with the requirements of Reverse Bayesianism.
+In addition, and more generally, one might of course wonder why the kind of
+conservativity that Reverse Bayesianism captures should be rationally required
+when one has realised one’s previous epistemic state to be flawed.38
+In sum, the examples show that Reverse Bayesianism cannot hold in full
+generality, neither as a constraint on belief revision due to expansion nor as a
+constraint on belief revision due to refinement. Before closing, however, we
+note a different potential criticism of our analysis. It might be argued that our
+examples are not illustrative of a simple learning event (a simple growth in
+awareness); rather, our examples illustrate and should be expressed formally
+as complex learning experiences, where first there is a growth in awareness,
+and then there is a further learning event that may be represented, say, as a
+Jeffrey-style or Adams-style (recall footnote 32) learning event.39 In this way,
+one could argue that the awareness-growth aspect of the learning event always
+satisfies Reverse Bayesianism (the new propositions are in the first instance
+evidentially irrelevant to the comparison of the old basic propositions). Subsequently, however, there may be a revision of probabilities over some partition
+of the possibility space, resulting in more dramatic changes to the ratios of
+
+37
+
+Thanks to Teru Thomas for suggesting this interpretation.
+Thanks to Alan Hájek for this last point.
+39 This suggestion resonates with the discussion in Hill (2010).
+38
+
+Downloaded from https://www.cambridge.org/core. IP address: 37.218.244.251, on 23 Aug 2021 at 19:48:04, subject to the Cambridge Core
+terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/9781108582230
+
+

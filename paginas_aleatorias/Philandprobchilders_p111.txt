@@ -1,0 +1,32 @@
+100â•… subjective and objective probabilities
+
+4
+Subjective and Objective
+Probabilities
+
+In the preceding chapter we looked at subjective probabilities as grounding
+a theory of inference. This leads naturally to the question of the relation
+between subjective and objective probabilities. One standard position is
+dualism: there are both objective and subjective probabilities, and they can
+be combined by letting values of objective probabilities serve as evidence
+in Bayesian calculations. This dualistic approach fits nicely with the view
+that objective probabilities are features of the world uncovered by science,
+and that Bayesianism provides a theory of inference for science.The bonus,
+for some, is that Bayesianism becomes more objective. Justifying dualism
+from this point of view would seem to require Dutch Book arguments.
+Apart from its justification, dualism also leads, when combined with a par­
+ticular kind of empiricism, to deep metaphysical problems. In opposition
+to the dualist view, de Finetti held a monist view according to which what
+are taken to be objective probabilities are simply a species of subjective
+probability. This chapter will cover these issues in order.
+
+4.1â•‡The Principle of Direct Inference
+Many Bayesians hold a dualist account of objective and subjective prob­
+abilities. For example, it is natural to think of a sequence of coin tosses as
+a series of independent and identical trials with the same probability of out­
+comes, where the probability of the coins coming up heads is taken to be
+objective (in the jargon, the outcomes of the tosses can be represented by
+independent identically distributed, i.i.d., random variables). A subjective
+probability distribution can then be defined over the possible values of the
+
+

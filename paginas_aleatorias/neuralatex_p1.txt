@@ -1,0 +1,85 @@
+NEURALATEX: a machine learning
+library written in pure LATEX
+
+arXiv:2503.24187v1 [cs.LG] 31 Mar 2025
+
+James A. D. Gardner, Will Rowan and William A. P. Smith
+Department of Computer Science
+University of York, UK
+
+Abstract—In this paper, we introduce NEURALATEX,
+which we believe to be the first deep learning library
+written entirely in LATEX. As part of your LATEX document
+you can specify the architecture of a neural network and its
+loss functions, define how to generate or load training data,
+and specify training hyperparameters and experiments.
+When the document is compiled, the LATEX compiler will
+generate or load training data, train the network, run
+experiments, and generate figures. This paper generates a
+random 100 point spiral dataset, trains a two layer MLP on
+it, evaluates on a different random spiral dataset, produces
+plots and tables of results. The paper took 48 hours to
+compile and the entire source code for NEURALATEX is
+contained within the source code of the paper.
+We propose two new metrics: the Written In Latex
+(WIL) metric measures the proportion of a machine
+learning library that is written in pure LATEX, while
+the Source Code Of Method in Source Code of Paper (SCOMISCOP) metric measures the proportion of
+a paper’s implementation that is contained within the
+paper source. We are state-of-the-art for both metrics,
+outperforming the ResNet and Transformer papers, as
+well as the PyTorch and Tensorflow libraries. Source code,
+documentation, videos, crypto scams and an invitation
+to invest in the commercialisation of NEURALATEX are
+available at neuralatex.com.
+
+I. I NTRODUCTION
+While often used as a document preparation markup
+language, in fact LATEX is itself a Turing-complete programming language. LATEX natively provides variables,
+loops and conditionals via TEX primitives, while other
+features such as object-orientation are supported via appropriate packages [8]. Yet, if you consult the curated list
+of awesome machine learning frameworks, libraries and
+software (by language) [5], LATEX is not even included
+as a category of programming language. This motivated
+us to write a deep learning library entirely in LATEX.
+A. Wait, what?
+When we talk about ‘compiling’ a LATEX document,
+really what we mean is that the program written in your
+
+\expanded{
+\noexpand\pgfoonew\expandafter\noexpand
+\csname #2\endcsname=
+new Value(\newdata,{\selfid,\otherid
+},*,0)
+}
+
+Fig. 1: A pure LATEX implementation has the benefit of
+high code readability. For example, returning the result
+of a product between two value objects only uses the
+word ‘expand’ four times.
+
+LATEX document is executed. The LATEX engine parses
+and processes the document, resolving macros, executing
+conditionals, and formatting content before outputting
+the final result. NEURALATEX is a collection of .tex
+LATEX source files that you can include in your document
+via \input{...}. These provide a series of commands
+that enable you to define a neural network, load or
+generate training and evaluation data, train the network
+via backprop and run inference on the trained network.
+All of this happens when your document is ‘compiled’.
+The results shown in Section IV are all dynamically
+generated at compile time using a neural network that
+was itself trained while the LATEX document compiled.
+B. Why LATEX?
+1) An ideal programming language: Do you sometimes find it hard to decide whether to expand, not
+expand or expand after? Well, with LATEX you can
+do all of those and more (see Figure 1). Who needs
+variables when you have macros? Who needs arrays when you can create comma, separated, strings?
+Who wants a simple for loop when you can have
+pgfplotsforeachungrouped?
+2) The self-contained paper: Machine learning is
+facing a reproducibility crisis. Too often “code will
+be made available upon paper acceptance” becomes a
+
+

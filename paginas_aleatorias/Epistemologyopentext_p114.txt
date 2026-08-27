@@ -1,0 +1,32 @@
+The Geocentric Model by James Ferguson from the first edition of
+Encyclopaedia Britannica (1771) via Wikimedia Commons. This work
+is in the public domain.
+
+Adding a new entity/postulate is equivalent to adding a conjunct (an “and”) to the hypothesis, which (because of how
+probabilities are calculated) only works to drive down one’s credence. Mathematically, we can express this as the
+following probabilistic law:
+when
+
+does not entail
+
+.
+
+Consider the following example made famous by psychologists Kahneman and Tversky (1983). Linda is a recent
+university grad who studied philosophy. While at university, Linda regularly participated in activism related to racial
+injustice and climate change. Which is more probable?
+a. Linda is a bank teller.
+b. Linda is a bank teller and is active in the feminist movement.
+If you’re like most people, you will likely have chosen (b). However, (b) is the less likely option because no matter what
+probabilities you assign to each attribute—“bank teller” and “active in the feminist movement”—it will always be less
+likely for both attributes to appear together rather than either on its own. For an extended explanation and discussion of
+this example, see Berit Brogaard (2006). For more on Ockham’s razor, see Elliott Sober (2015 and 2016).
+
+APPLICATION: THE EPISTEMOLOGY OF SCIENCE
+Revising your credence in a hypothesis in response to evidence, specifically, empirical observations, is
+what science is all about. One of the reasons Bayesianism has been so influential is that it generalizes
+across many fields and scenarios. In this section, we will look at how one might use Bayesianism to
+assist in updating degrees of belief in scientific hypotheses.
+
+91 JONATHAN LOPEZ
+
+

@@ -1,0 +1,39 @@
+From the Individual to the Social
+
+121
+
+There are intellectual problems, however, whose character is quite
+different from the Linda, John, and Paul problem, and which are not
+well served by group discussion.
+When I was a child, there was a very popular television game show,
+Let’s Make a Deal, hosted by Monty Hall. Contestants would be shown
+three curtains, and they would be asked to choose one of them; they
+would receive, as a prize, whatever was behind the chosen curtain.
+One curtain had some valuable prize behind it: a fancy car, an elaborate vacation, various kitchen appliances, or some such thing. The
+other two curtains had, as I remember, either nothing behind them,
+or some booby prize. Once the contestant chose a curtain, Monty Hall,
+who knew where the prize was located, would open one of the curtains
+which was not chosen, showing that the prize was not there. The contestant was then given a choice: stick with the curtain you’ve chosen, or
+switch to the other as yet unopened curtain. Contestants agonized over
+this choice as members of the audience shouted encouragement to either switch or stay with the choice they first made. This was—​really!—​
+a very popular television show years ago.
+This setup led to the creation of a simple brain teaser, named after
+the show’s host: The Monty Hall Problem. As it is typically stated, we
+imagine the contestant facing the choice exactly as described above.
+The two curtains which do not have the desirable prize behind them
+are sometimes colorfully imagined to each hide a goat. The contestant
+makes a choice—​perhaps Curtain Number One—​and Monty Hall
+shows that one of the remaining curtains—​perhaps Curtain Number
+Two—​has a goat behind it. The contestant is then allowed to stay with
+Curtain Number One or to switch, instead, to Curtain Number Three.
+What should the contestant do? Should that person stay with their initial choice or switch to the as yet unopened curtain? Or are these two
+options equally likely to have the prize behind them, thus providing no
+reason to favor one choice over the other?
+Most people presented with this problem believe that there is no
+reason at all to favor one of these options over the other. Their reasoning, at least typically, is roughly like this. There are three curtains,
+and the prize is behind one of them. So the chance that the prize is
+behind Curtain Number One is one-​third; the chance that the prize
+is behind Curtain Number Two is one-​third; and the chance that the
+prize is behind Curtain Number Three is also one-​third. So when the
+
+

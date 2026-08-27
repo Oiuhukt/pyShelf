@@ -1,0 +1,16 @@
+Modelling gravity
+
+Build the algorithm yourself from the video above (or see the program’s project page and click on
+the “see inside” button), then explore how changing the initial values of each of the variables affects
+how the cat jumps.
+
+Acknowledgement
+The problems presented under the heading Speed over time have been adapted from The
+Language of Functions and Graphs (1985) by Shell Center for Mathematical Education (this
+version modified by Deakin University and licensed under CC BY NC 4.0 with permission from
+Shell Centre for Mathematical Education)
+See image rights and reuse information
+
+Are graphs just pictures? | 83
+
+

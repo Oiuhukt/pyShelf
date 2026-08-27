@@ -1,0 +1,34 @@
+assuming that the betting quotients behave like frequencies—that is,
+that they conform with the axioms of the probability calculus. Thus, one
+should not think that the assumption of fair betting quotients is an innocent background assumption. It does not merely provide a context in
+which Dutch book argumentation can prove that credences must conform
+with the axioms of the probability calculus. Rather, conformity with those
+axioms is already tacitly presumed by them. All the Dutch book argumentation does is to make that conformity visible.
+This outcome may be untroubling to someone who already believes
+that credences must be probabilistic. Why be troubled by a demonstration that just clarifies the probabilist’s commitments? If, however, you are
+someone like me who does not believe that credences must be probabilistic, you will find this result damning. What was supposed to be a demonstration of the incoherence of non-probabilistic beliefs turns out to be an
+exercise in circularity. Probabilities are demonstrable simply because they
+were introduced covertly in an assumption of the argument at the outset.
+
+10.13.5. The Regresses Begin
+The prediction of the general analyses above is that recognition of weaknesses in an attempted proof of probabilities leads to a regress. One form
+is a successive weakening of what is sought to be proved. This form of
+regress is well underway for Dutch book arguments; for it has been long
+recognized in the literature that the assumption of fairness is arbitrary
+and can be discarded without compromise to the rationality of the enterprise. This recognition is at least a half century old, extending as far back
+as Cedric Smith (1961). It is the basis of the analysis of Walley’s (1991)
+treatise Statistical Reasoning with Imprecise Probabilities.
+Following Walley (1991, p. 28), it may be quite prudent for an agent to
+refuse to admit any bet over some proposition A as fair. Rather, the agent
+may be willing to accept a bet “on” A with a maximum betting quotient of
+qlower and be willing to accept a bet “against” A with a minimum betting
+quotient of qupper. If the two are equal, then they comprise a fair bet over
+A. If qlower < qupper, then the agent is more cautious in the agent’s betting
+behavior. No Dutch book can be made against such an agent. The agent’s
+belief in A is no longer a single probability but an interval bounded by a
+lower probability equal to qlower and an upper probability equal to qupper.
+10 | Why Not Bayes
+
+373
+
+

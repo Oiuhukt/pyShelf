@@ -1,0 +1,31 @@
+each of the hi s. To be sure that there is no such theory, it seems, I would
+have to have at least some passing acquaintance with all the possible theories
+that claim to predict events like e. But this is unrealistic. The most striking
+examples of scientific progress are those where an entirely new explanation
+of the evidence comes to light.
+This problem, it turns out, not only undermines a certain application of
+the theorem of total probability, but goes to the very root of Bayesianism,
+for the reason that the whole apparatus of subjective probability assumes
+that the individual puts a probability distribution over all possibilities. The
+issues arising will be examined in section 11.4. Until then, put these worries
+aside.
+
+5.4
+
+Modern Bayesianism: A Summary
+
+We have come a long way. Back in section 5.1, Bayes’ rule seemed to be
+telling you, rather unhelpfully, to set your probabilities after the observation
+of e equal to your earlier probabilities conditional on e. With the help of
+Bayes’ theorem, this was seen to amount to multiplying your earlier probability for h by the Bayesian multiplier:
+C(e | h)
+C(e)
+Given the constraints imposed by pcp and the theorem of total probability,
+the Bayesian multiplier turns out to depend entirely on your earlier probabilities for h and its rivals. It is equal to
+Ph (e)
+Ph1 (e)C(h1 ) + Ph2 (e)C(h2 ) + · · ·
+(where h is, by assumption, one of the hi s).
+Once you have set subjective probabilities for all of a set of competing
+hypotheses h1 , h2 , . . . , then, the Bayesian apparatus tells you, given the assumptions stated in the previous two sections, how to update these proba39
+
+

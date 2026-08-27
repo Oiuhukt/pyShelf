@@ -1,0 +1,50 @@
+Mathematics and Metaphilosophy
+
+21
+
+they are true (which would be to speak of mathematical entities – namely,
+symbol types).48 For example, all instances of the Subsets Axiom schema
+would get expressed as follows: # ΦðzÞð ∃ yÞðxÞðx 2 y
+! ðx 2 z & ΦÞÞ:
+On Field’s account, if AXT is the conjunction of the axioms of a mathematical
+theory, T, then what we really know is that <> AXT and that ½ðAXT ! PÞ, for
+“proved” theorems, P. Thus, a difﬁculty facing this position is to explain why
+reasoning about models and proofs is so useful in metalogic, given that it is not
+really about proofs or models. We infer that <> AXT from the premise that AXT
+has a model. And we infer that e <> AXT from the premise there is a proof of
+ðP & ePÞ from AXT . How can Field explain this? He makes an argument
+inspired by Kreisel’s “squeezing” argument (Kreisel [1967b]). Using Field’s
+symbolism, the squeezing argument is as follows:
+1. If ½ðP ! QÞ, then every model of P is a model of Q.
+2. If there is a proof from P to Q (in some standard ﬁrst-order proof system),
+then ½ðP ! QÞ:
+3. Gödel’s Completeness Theorem: If every model of P is a model of Q, then
+there is a proof from P to Q.
+4. So, ½ðP ! QÞ just in case there is a proof of Q from P, just in case every
+model of P is a model of Q. (Logical necessity is coextensive with truth in all
+models and derivability.)
+Field cannot accept this argument, however. According to him, we do not
+know that (1)–(3) are (non-vacuously) true! In order to explain the usefulness of
+proofs and models, Field reasons as follows:
+1. If ½ðP ! QÞ, then ½ð AXZFC ! ½every model of P is a model of QÞ.
+2. If ½ðAXZFC ! ½There is a proof from P to QÞ; then ½ðP ! QÞ.
+3. ½ðAXZFC ! ð½every model of P is a model of Q ! ½There is a proof
+from P to QÞÞ.
+4. So, given that <> AXZFC ; ½ðP ! QÞ just in case ½ðAXZFC ! ½every model
+of P is a model of Q Þ, just in case ½ðAXZFC ! ½There is a proof
+from P to QÞ.
+The problem with Field’s position is that once we give up on intrinsicality, we
+are left with the reliability challenge as the motivation for nominalism.49 But the
+reliability of our belief in, say, <>(ZFC) does not appear to be any easier to explain
+Field actually focuses on the ﬁnitely axiomatizable theory, NBG. But he needs a device for inﬁnite
+conjunction in any event. So I continue to speak of ZFC because it has already been introduced.
+49
+The justiﬁcatory challenge for realism about speciﬁcally scientiﬁcally inapplicable mathematics
+might also seem to favor nominalism. But, in Section 3.5, we will see that the justiﬁcatory (and
+reliability) challenge for mathematical realism can arguably be reduced to that for arithmetic
+realism.
+48
+
+https://doi.org/10.1017/9781108993937 Published online by Cambridge University Press
+
+

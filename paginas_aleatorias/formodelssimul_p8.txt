@@ -1,0 +1,46 @@
+Contents vii
+7
+
+The remathematization of simulations (from 1998 onwards)
+
+118
+
+The first mixed structure-function model: “water
+efficiency” (1997–1999) 119
+The parallel evolution of algorithmic simulation:
+1984–1994 122
+Simulating the individual plant in order to observe
+crop functioning (1997–2000) 129
+The association between AMAP and INRIA: sub-structures
+and factorization (1998–2006) 130
+Recap: pluriformalized simulation and convergence
+between disciplines 134
+8
+
+Twenty-one functions of models and three types of
+simulations – classifications and applications
+
+143
+
+General function, main functions and specific functions
+of models 144
+General characterization and classification of computer
+simulations 148
+System simulation, model simulation, system-simulation
+model and model-simulation model 155
+Applications to different plant models and plant simulations 158
+Conclusion
+
+168
+
+Glossary
+Selected bibliography
+Index of names
+Index of subjects
+
+184
+193
+212
+218
+
+

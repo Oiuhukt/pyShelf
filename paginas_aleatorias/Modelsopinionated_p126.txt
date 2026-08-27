@@ -1,0 +1,43 @@
+6.2 Two Notions of Fiction
+
+113
+
+We encounter similar situations in other domains. In thermodynamics transformations are considered to be quasistatic: they are infinitely slow and only pass
+through equilibrium states. There are no such transformations in a real physical
+system; quasistatic transformations are expedients to do calculations. In solid state
+physics the units of vibrational energy that arise from oscillating atoms in a crystal
+are described as if they were particles, so-called phonons. This facilitates the theoretical treatment of crystals, but there are no particles, which is why they are also
+referred to as “quasiparticles”. In early atomic physics electrons were assumed to
+move in exact orbits, much like the orbits of a planet moving around the sun. But
+classical electron orbits have turned out to be fictions. This, however, does not render them useless. In fact, Bokulich (2009) argues that these orbits perform an important explanatory function, and hence are, their fictional character notwithstanding,
+by no means obsolete.10
+So far the status of a fiction has been conferred on particular elements of science:
+virtual displacements, quasistatic transformations, phonons, and classical electron
+orbits. Depending on where one stands in the realism versus antirealism debate, one
+may not want to limit fictions in this way and subsume the entire theoretical machinery of science under the notion of fiction (in the sense of benign infidelity). Scientific
+realists hold that mature scientific theories provide an at least approximately true
+account of the parts of the world that fall within its scope. Antirealists disagree and
+submit that we should only take claims about observables at face value and, depending on the kind of antirealism one advocates, either remain agnostic about, or downright renounce commitment to, the theoretical claims of a scientific theory. In the
+current idiom, the antirealist regards the theoretical posits as fictions. Fine advocates such a position and calls it fictionalism:
+“Fictionalism” generally refers to a pragmatic, antirealist position in the debate over scientific realism. The use of a theory or concept can be reliable without the theory being true and
+without the entities mentioned actually existing. When truth (or existence) is lacking we are
+dealing with a fiction. Thus fictionalism is a corollary of instrumentalism, the view that
+what matters about a theory is its reliability in practice, adding to it the claim that science
+often employs useful fictions. (1998, p. 667)
+
+Being a fictionalist about something then means being an antirealist about a certain
+domain of discourse, and the domains that can be, and have been, given a fictionalist
+treatment range from morality to mathematics. A discussion of fictionalism in this
+broader sense is beyond the scope of this chapter. We just emphasise, again, that it
+is not fictionalism in this sense that’s at work in the fiction view of models. To make
+this clear, we keep using the moniker “fiction view of models” rather than the more
+succinct “model fictionalism” or “fictionalism about models”.11
+Further examples of fictions of this kind are discussed in Bokulich’s (2008) and some of the
+contributions to Suárez’s (2009).
+11
+For a general introduction to fictionalism see Salis’ (2014). Liu (2016) uses the term “new fictionalism” to refer to the position we call the fiction view of models, and calls fictionalism in Fine’s
+sense “traditional fictionalism”. For further discussions of fiction and fictionalism in philosophy of
+science see Cartwright’s (2010), Fine’s (1993), Morrison’s (2009), Purves’ (2013), and Woods’
+10
+
+

@@ -1,0 +1,43 @@
+walsh, ariew, matthen: four pillars
+
+15
+
+two kinds of evolutionary models, D-models and MS-models. The distinctions are important.
+D-selection models are causal; MS-selection models are not. MS-selection is model relative;
+D-selection is not.
+The statistical interpretation is exclusively a claim about MS-selection and its models. It has
+nothing to say about D-selection, or D-models. It makes the following claims:
+Positive Claim #1: MS-models cite statistical properties of trait types.
+Positive Claim #2: MS-models explain changes in trait distribution.
+Negative Claim: MS-models do not cite the causes of population change.
+These claims are supported by the following commitments:
+1. Natural Selection is a higher order eﬀect.
+2. Trait ﬁtness is primitive.
+3. MS-models are substrate neutral.
+4. MS-selection and drift are model-relative.
+
+Acknowledgments
+This paper began as a response to a request from Alex Rosenberg to set out the precepts of statisticalism.
+We thank Alex for providing the impetus. We beneﬁted from helpful feedback from audiences and discussion groups at ISHPSSB Montréal, University of Toronto, Duke University, Washington University,
+University of Wisconsin-Madison. In particular we would like to thank Elliott Sober, Fermín Fulda,
+Cory Lewis, Eugene Earnshaw-Whyte, and Richard Lauer for helpful feedback.
+
+Literature cited
+Abrams, Marshall. 2013. “Populations and Pigeons: Prosaic Pluralism About Evolutionary Causes”
+Studies in History and Philosophy of Biological and Biomedical Sciences 44: 294–301.
+Ariew, André. 1998. “Are Probabilities Necessary for Evolutionary Explanations?” Biology and Philosophy 13 (2): 245–53.
+Ariew, André. 2003. “Ernst Mayr’s ‘Ultimate/Proximate’ Distinction Reconsidered and Reconstructed.” Biology and Philosophy 18 (4): 553–65.
+Ariew, André. 2008 “Population Thinking.” Oxford Handbook of Philosophy of Biology. Oxford: Oxford
+University Press. 64–86.
+Ariew, André, and Zachary Ernst. 2009. “What Fitness Can’t Be.” Erkenntnis 71 (3): 289–301.
+Ariew, André, and R. C. Lewontin. 2004. “The Confusions of Fitness.” The British Journal for the Philosophy of Science 55 (2): 347–63.
+Ariew, André, Collin Rice, and Yasha Rohwer. 2015. “Autonomous-Statistical Explanations and Natural Selection.” The British Journal for the Philosophy of Science 66 (3): 635–58.
+Beatty, John. 1998. “Fitness: Theoretical Contexts.” In Keywords in Evolutionary Biology, edited by E.
+F. Keller and E. A. Lloyd. Cambridge, MA: Harvard University Press.
+Beatty, John, and S. Finsen. 1998. “Rethinking the Propensity Interpretation: A Peek Inside Pandora’s
+Box.” In What the Philosophy of Biology Is: Essays Dedicated to David Hull, edited by Michael Ruse,
+17–30. Dordrecht: Kluwer Academic Publishers.
+
+ open access - ptpbio.org
+
+

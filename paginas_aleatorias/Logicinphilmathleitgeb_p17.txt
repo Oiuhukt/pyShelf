@@ -1,0 +1,41 @@
+I am not provable in S.
+Gödel derives the existence of G from a general fixed-point lemma (also called
+diagonalization lemma), which says that for every formula A[x] in LS with
+one free variable x14 , there exists a sentence in LS again that says about
+itself (or about a sentence that is provably equivalent to itself) that it has
+the property that is expressed by A[x]. The proof of this lemma is actually
+constructive, that is, Gödel constructs the fixed-point formula in question by
+a concrete procedure that could be run on a computer given the input A[x].
+If A[x] is chosen to be ¬Prov S (x), then this yields the existence of G above.
+The sentence G is reminiscent of the famous “Liar” sentence which says
+I am not true.
+and which seems to lead to a contradiction by means of the following bit
+of informal reasoning: Assume the Liar sentence is true; then what it says
+must be the case; but what it says is that it is not true. So we have: If
+the Liar sentence is true, then it is not true. Now assume the Liar sentence
+is not true: but that is exactly what it says; so it must be true after all.
+So we also have: If the Liar sentence is not true, then it is true. Summing
+up, this yields: the Liar sentence is true if and only if it is not true. But
+that is a logical contradiction in classical logic. There is now a whole area
+in philosophical logic called ‘formal theories of truth’, which deals with the
+Liar paradox and with ways of avoiding its contradictory consequences. In
+spite of the similarity between the Liar sentence and Gödel’s sentence G
+above, it is important to realize that the two are very different still: First of
+all, while the Liar sentence includes a truth predicate, which is a semantic
+predicate, Gödel’s sentence G includes a provability predicate for some formal
+system, where provability in that system is not a semantic but a syntactic
+notion, or, via coding: an arithmetical notion. Indeed, G is but a sentence
+in the language LS that says something about natural numbers and their
+arithmetical properties or relationships or operations, even when we know
+that qua coding G says something about its own unprovability. Secondly,
+while the Liar seems to commit us to the proof of a contradiction, Gödel’s
+sentence G does not: for instance, take S to be elementary arithmetic itself;
+then if S is consistent, which no one doubts, S neither derives G nor ¬G.
+Since, in particular, G is not derivable in S, G is actually a true statement.
+14
+
+Free means: not in the range of a quantifier expression ∃x or ∀x.
+
+17
+
+

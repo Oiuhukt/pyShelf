@@ -1,0 +1,48 @@
+war and we have no arms, we’ll be living under an abhorrent regime but that’s
+better than the (near) extinction of human life. If there’s peace, and we have no
+arms, things are better than peace with arms. Either way, it’s better to disarm.
+The believer in deterrence replies that there is much more likely to be war if we
+disarm than if we don’t, and the expected value of keeping the weapons is
+higher than the expected value of disarming. The details are like that of the
+Marlboro man above.
+So in general, for Jeffrey, where O1, . . . On are the alternative possible outcomes of some possible action, A,
+
+V ( A ) = p (O1 A )V (O1 &A ) + . . . + p (On A )V (On &A ) .
+Note that the theory uses the conditional probabilities of outcome given
+action, in calculating the expected value of an action.
+
+Counterexamples to Jeffrey’s Decision Theory
+Newcomb’s far-fetched example (see Nozick3) will be discussed, in a revised
+version, later, but in honor of its originality, some less far-fetched examples
+have come to be known as “medical Newcomb cases.” Here is one. The
+statistician Sir Ronald Fisher put forward the hypothesis that the correlation
+between smoking and cancer was not to be explained by the fact that smoking
+causes cancer, but that a certain genetic condition causes both cancer and the
+sort of nervous disposition which inclines one toward smoking. That is,
+smoking and cancer are effects of a common cause, like barometer readings
+and rain, or spots and fever, but one doesn’t cause the other. Suppose that were
+true. The conditional probability of getting cancer, given that you smoke, may
+still be considerably higher than the conditional probability of getting cancer,
+given that you don’t smoke (because smoking is a sign that you have the bad
+gene). But this is no longer a reason not to smoke. You either have the gene or
+you don’t, and refraining from smoking isn’t going to reduce your chances of
+getting cancer. Fisher’s hypothesis was, alas, false, but far from unthinkable,
+and its structure is clear. Another more plausible example: Eating chocolate is
+correlated, in susceptible people, with getting migraine headaches, but it might
+well not be a cause. Rather, a craving for chocolate might be a side effect of
+pre-migraine tension—again an effect of a common cause. So the probability
+of getting a migraine, given a craving for chocolate, is high—but on the
+“common cause” hypothesis this is not a reason to resist the chocolate: Nothing
+you can do now can change your chances of getting migraine. In no way does
+it depend causally on your eating chocolate.
+Jeffrey’s decision theory gives the wrong answers. Jeffrey’s theory works fine
+when the conditional probabilities are grounded in beliefs about appropriate
+causal connections, but not when they are grounded in beliefs about joint
+effects of a common cause.
+3. R. Nozick, “Newcomb’s Problem and Two Principles of Choice,” in N. Rescher (ed.), Essays in
+Honor of Carl G. Hempel (Reidel, 1970), 114–5.
+
+77
+© 2011 The Author. Journal compilation © 2011 Wiley Periodicals, Inc.
+
+

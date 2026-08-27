@@ -1,0 +1,43 @@
+Scientific Research in Education
+
+crucial because it suggested a major revision to the extant model of how
+the molecule can replicate itself.
+Genetic analysis by Francois Jacob and Jacques Monod, also in the
+1950s, showed that in addition to providing the templates for constructing
+important proteins, some genes code regulatory proteins that can turn
+specific sets of genes on or off (see Alberts et al., 1997). Early work on
+gene regulation had suggested that when the sugar lactose is present in the
+nutrient medium of the common bacterium E. coli, the bacteria produce
+a set of enzymatic proteins that are responsible for metabolizing that sugar.
+If the lactose is removed from the medium, those enzymes disappear. The
+first evidence that led to an understanding of gene regulation was the
+discovery that there were mutant strains of E. coli in which those enzymes
+never disappeared because the bacteria were unable to shut off specific sets
+of genes. Previous work had shown that mutations—changes in one or
+more nucleotides in the gene sequence—could alter the activity of
+enzymatic proteins by changing the protein structure. Thus, it was first
+hypothesized that in these mutant E. coli strains, mutations resulted in
+some enzymes being changed to an “always-on” state. Again, this model
+was later shown to be invalid when Jacob and Monod demonstrated
+experimentally that these mutant bacteria were instead deficient in the
+proteins that served as regulators that specifically repressed (or “turned
+off ”) those sets of genes.
+Because most regulatory proteins are present in cells in minute quantities, it required more than a decade for advances in cell fractionation and
+purification to isolate these repressor proteins by chromatography. But
+once isolated, the proteins were shown to bind to specific DNA sequences,
+usually adjacent to the genes that they regulate. The order of nucleotide
+bases in these DNA sequences could then be determined by a combination of classical genetics and molecular sequencing techniques.
+This is just the beginning of the story. This work has led to new
+knowledge in molecular biology that affects our understanding of both cell
+development and of genetic disease. The work of countless molecular
+biologists in the past 50 years has resulted in the recent publication of the
+linear “map” of the entire human genome, from which, one day—perhaps
+many years in the future—all genetically influenced diseases and all developmental steps may be deduced.
+
+32
+
+SCIENTIFIC RESEARCH IN EDUCATION
+
+Copyright National Academy of Sciences. All rights reserved.
+
+

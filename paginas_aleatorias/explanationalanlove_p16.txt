@@ -1,0 +1,36 @@
+534
+
+Max Dresow and Alan C. Love
+
+4. Analytical Implications of Ongoing Characterization
+and Interdisciplinary Entanglement
+The CE provides a rich case study for exploring philosophical issues related to characterization and explanation. This section explores some of these issues in relation
+to the themes of entanglement and interdisciplinarity (section 4.1), and then defends
+two substantive claims (section 4.2).
+
+4.1. Features of interdisciplinary entanglement
+As noted at the outset, the characterization of complex phenomena exhibits three distinctive features. First, it is often done for its own sake and not solely for the purpose
+of facilitating explanation or prediction. Second, it tackles multiple dimensions of a
+phenomenon simultaneously (including explananda and potential explanantia), often
+requiring the coordination of multiple disciplinary inputs. And third, it involves an interaction with the construction of explanatory models throughout the career of a research project (the entanglement thesis). We now consider explicitly how the strands
+of research described in section 3 illustrate these features, particularly the entanglement
+thesis and its corollary of interdisciplinarity. In addition, we draw out the implications
+of our analysis for philosophical reconstructions of scientiﬁc practice by defending
+two claims: (1) characterizations of complex phenomena are frequently contested
+along several dimensions of descriptive understanding, and (2) the dynamics of ongoing characterization for complex phenomena are poorly described by models that
+treat recharacterization primarily as a response to explanatory failures (section 4.2).
+Philosophers have tended to regard characterization as a kind of preparatory work
+that serves as a means to the end of the main (explanatory) business of science (section 2). We emphatically dispute this. For complex phenomena like the CE, characterization is ongoing, open-ended, and takes place alongside the construction of
+explanatory models. Attempts to explain complex phenomena must therefore track
+a moving target, and since moving targets are more difﬁcult to hit, this feature of
+characterization imposes a range of challenges on would-be explainers.
+The CE has moved a great deal since it began to garner serious attention during
+the 1970s. Prior to the cladistic revolution, it was thought to represent the initial divergence of major animal groups, and the challenge was to account for the apparently
+rapid origin of nearly the whole of the ‘modern’ marine fauna. Yet, with the advent
+of cladistic and molecular clock methods, this picture began to shift. To an increasing
+number of researchers, the CE seemed to be an explosion of fossils only—the delayed
+expression in the fossil record of a long and cryptic history of body plan evolution.
+The challenge was thus to explain how animal groups that diverged in the Precambrian only entered the fossil record in a giant pulse in the Cambrian or slightly before.
+More recently, reﬁned clock methods have brought estimates of divergence times
+
+

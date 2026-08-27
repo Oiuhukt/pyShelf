@@ -1,0 +1,39 @@
+Fig. 1. Two screen shots of the SIMPLE editor. Users write sentences simply by selecting available options, and they can only write free text whenever the syntax rules indeed allow that. Therefore it is impossible to write malformed sentences.
+
+5
+
+The SIMPLE Interpreter
+
+We will now describe the software component that interprets and enforces the protocols.
+Whenever an agent tries to send a message, this message is first analyzed by the
+interpreter. The interpreter verifies if the agent sending the message indeed has the right
+to send that message and, if so, updates its internal state and forwards the message to the
+other agents connected to the server. If the sender of the message does not have the right
+to send that message he or she is notified that the message has failed. The message will
+in that case not be forwarded to the other agents and the internal state of the interpreter
+is not updated. In fact, we consider this message as not sent.
+The internal state of the interpreter consists of the following data structures:
+– a list of all messages that have so far been sent successfully (the event history)
+– a table that maps the name of each property to the current value of that property
+– a table that maps the name of each agent in the MAS to the role it is playing
+– a table that maps the name of each agent in the MAS to a list of rights for that agent.
+Every time an agent tries to send a message, the interpreter follows the following procedure:4
+1. The list of rights of that agent is made empty.
+2. For each right-update rule in the protocol, the interpreter verifies if its conditions
+are true:
+– If the condition is a property condition then it checks whether that property
+currently has the proper value to make the condition true.
+– If the condition is a past-event condition, the interpreter tries to find an event in
+the event history that matches the condition. If such an event is indeed found,
+then the condition is considered true.
+A rule for which all conditions are true is labeled as ‘active’.
+3. For each right-update consequence in each active rule, the interpreter checks whether
+the identifier matches the sender of the message and, if yes, adds the right corresponding to this consequence to the sender’s list of rights. If this consequence has
+any constraints assigned to it, they are stored together with the right.
+4
+
+This procedure can be implemented in a much more efficient way than presented here, but we
+think this is not very relevant for this paper, so we prefer to present it in a way that is easier to
+understand for the reader.
+
+

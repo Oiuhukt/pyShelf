@@ -1,0 +1,49 @@
+A deflationary account of metaphors
+
+105
+
+magic tricks to amuse an audience. In the context of a discussion about a show
+for a child’s birthday party, the second sense is likely to be activated first, and
+the information (or reminder) that their friend Archie is a magician in this sense
+is likely to satisfy Peter’s expectations of relevance by implying that he might
+perform at Billy’s birthday party. In presuming that her utterance would be
+relevant to Peter, Mary must have expected him to derive this implication,
+which can therefore be seen as an implicit part of her meaning, i.e. an implicature. The disambiguation of ‘magician’ as someone who does magic tricks
+dovetails with this implicature, and the two confirm one another by jointly
+yielding an interpretation that is relevant in the expected way.
+The linguistic meaning of the sentence ‘Let’s ask him’ is very schematic and
+gappy, leaving the second part of Mary’s utterance wide open to an indefinite
+range of interpretations. ‘Him’ may refer to Archie, to Billy, or to someone
+else. ‘Ask’ may be understood as asking for advice, help, an opinion, a favour,
+and so on. Thus, the whole sentence might be used to mean Let’s ask Billy
+whether he would like to have Archie perform magic tricks at his birthday
+party. This interpretation would make sense in the situation, and would be
+quite compatible with Grice’s maxims of conversation, or with standard
+theories of discourse coherence. Still, in a context where the first part of the
+utterance (‘Archie is a magician’) implicates that Archie could perform magic
+tricks at Billy’s party, the first interpretation found by following a path of least
+effort will be that Peter and Mary should ask Archie to perform. Since this
+would satisfy Peter’s expectations of relevance, he should accept it as the
+intended interpretation, without looking any further for alternative interpretations that might also be relevant. (None of these other potential interpretations
+could be optimally relevant, because extra processing effort would be required
+to retrieve them. They are therefore not worth considering unless there is some
+reason to think that Mary has failed to express herself in an optimally relevant
+way.)
+In this example, Mary is speaking literally (which shows how far even the
+interpretation of an utterance that is literally understood can go beyond its
+linguistic meaning and is not just a simple matter of decoding). Our claim is
+that the very same procedure that yields a literal interpretation in this case would
+yield a non-literal interpretation in others.
+
+5.4
+
+Meaning construction
+
+The decoded senses of a word or other linguistic expression in an utterance provide
+a point of departure for an inferential process of meaning construction. The
+meaning constructed may be narrower than the decoded meaning, as in (8) or (9):
+(8)
+
+I have a temperature.
+
+

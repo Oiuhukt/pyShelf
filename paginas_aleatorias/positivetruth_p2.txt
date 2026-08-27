@@ -1,0 +1,50 @@
+3528
+
+M. Zicchetti
+
+disquotational truth are (internally) consistent if closed under global reflection principles. The aim of this paper is twofold: first, I provide a cluster of theories of truth
+in classical logic that is (internally) consistent with global reflection principles: the
+theories of positive truth (and falsity). After that, I analyse the epistemic value of such
+theories. I do so employing the framework of cognitive projects introduced by Wright
+in (2004), and employed—in the context of theories of truth—by Fischer et al. (2019).
+In particular, I will argue that theories of positive truth are trustworthy, analogously to
+the theories of full disquotational truth. Moreover, I argue that, for a given cognitive
+project, if the acceptance of trustworthy theories is taken to be an epistemic norm of
+cognitive project, then one has good reasons to accept theories of positive truth over
+other rival theories of truth in classical logic. On the other hand, the latter theories are
+deemed epistemically unacceptable.
+The paper has the following structure: in Sect. 2, I introduce the relevant notions and
+conventions about arithmetic, theories of truth, and reflection principles. After that,
+in Sect. 2.2 I briefly present and discuss the theories of truth in non-classical logic
+presented by Fischer et al. in Fischer et al. (2017), and their result (Proposition 1)
+together with their observation that for some natural theories of truth—axiomatised
+in classical logic—S, S is internally inconsistent if closed under global reflection. I
+pursue my first aim in Sect. 3: I introduce and investigate the theories of positive
+truth and falsity, and show that these are consistent and internally consistent if closed
+under global reflection. Section 4 is devoted to the epistemological investigation of
+theories of positive truth: after presenting the relevant context of cognitive projects,
+the so-called authenticity-conditions, and epistemic norms, I introduce the distinction
+between full disquotational and scientific truth, and the notion of trustworthiness. After
+that, I argue for my claim that theories of positive are trustworthy. Moreover, I will
+argue that, if to accept trustworthy theories is an epistemic norm, then one has good
+reasons to accept theories of positive truth over well-known rival classical theories,
+which turn out to be epistemically unacceptable. In the remainder of Sect. 4, I will
+discuss a few worries and problems for the proponent of theories of positive truth, and
+suggest some possible ways to respond to these worries.1
+
+2 Introduction: Notation and Conventions
+In this section, I present the notation and conventions adopted in the paper.2 Here, we
+focus on PA and on theories of truth (and falsity) extending PA. We assume =, ¬, ∧, ∀
+as primitive logical symbols (and take ∨, →, ↔, ∃ as standardly defined). We call the
+base language of arithmetic L0 . Terms of L0 are build in the usual way from variables,
+the constant 0, and by the application of successor, + and ×. For a truth theory
+over PA, its language is called LT , and expands the arithmetical vocabulary with the
+addition of a unary truth predicate T. Similarly, a theory of truth and falsity over PA is
+formulated in a language LTF expanding the arithmetical vocabulary with additional
+unary truth and falsity predicates T and F. Here we focus on theories of type-free truth
+1 However, a thorough investigation of the possible responses would exceed the scope of the paper.
+2 These will be standard. See Halbach (2014) for more details.
+
+123
+
+

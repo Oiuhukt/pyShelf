@@ -1,0 +1,44 @@
+Synthese (2022) 200:60
+
+Page 11 of 19 60
+11
+
+pragmatist has always maintained that the correspondence theory has no practical
+bearings, but now it turns out that it not only does have practical bearings, but that it
+can also be more pragmatically advantageous than pragmatist alternatives. However,
+I do not think that my arguments show that pragmatism itself is incorrect. Instead,
+by showing that it can be pragmatically advantageous to accept correspondence, the
+arguments indicate that correspondence can be incorporated into pragmatism without
+there being an internal incoherence. In this current section, I argue that this can be
+done by adopting a particular pluralist framework for truth. I argue for this by showing that this pluralist framework enables pragmatists to accept correspondence for
+some domains of discourse without falling prey to the pragmatist objections to the
+correspondence theory.
+In order to do this, we must let go of monism about truth; we must deny that our
+concept of truth picks out the same property for all our discourse. By doing so, we
+would no longer need to take my arguments to show that pragmatists must accept correspondence across the board, but only that they must accept correspondence whenever it is pragmatically advantageous to do so. This might be the case for science, for
+instance, but need not be the case for aesthetics. In fact, while we should take issue
+with a pragmatist notion of truth for scientific discourse, because it can render the
+disagreement between scientists faultless and thereby promotes stubbornness, this
+would not be a problem for aesthetic disagreement, which we already assume to be
+faultless anyways, and for which steadfastness is appropriate. Therefore, it would not
+be practically advantageous to take truth to be correspondence for aesthetics. In the
+case that there is no pragmatic value to taking truth to be correspondence, the pragmatist need not accept correspondence, so, if we suppose that pragmatists only accept
+that truth is correspondence if it has this pragmatic value, we can say the following:
+(Correspondence) TruthD8 is correspondence if and only if we are pragmatically
+committed to taking truthD to be correspondence.
+Applying the equivalence schema (“p” is true if and only if p) to the left side of this
+biconditional gives us something that looks like a definition of truth for the metalevel
+truth-assigning claim “TruthD is correspondence”:
+(Metalevel) “TruthD is correspondence” is true if and only if we are pragmatically committed to taking truthD to be correspondence.
+This seems to imply that the truth of metalevel statements that assign truth properties
+to domains of discourse consists in pragmatic utility, since the statement has the following form: “p” is true if and only if accepting p is pragmatically advantageous. The
+notion of truth that governs these metalevel claims would therefore be some kind of
+pragmatist notion of truth.
+
+8
+
+TruthD = truth for a domain of discourse D.
+
+13
+
+

@@ -1,0 +1,44 @@
+Laws of Nature
+
+63
+
+give rise to irregular worlds even though it has the form of a generalization!
+However, they might block this implication by proposing a further restriction:
+nomic relations involving simpler construction functions are just more likely
+to obtain. (Perhaps this could be motivated by the claim that simplicity of fundamental theoretical posits is a theoretical virtue.) In sum, if statements of law
+must be written in languages with natural properties, and simpler statements
+are more likely to obtain than complex ones, then there are good reasons not to
+worry about arbitrarily complex functions.105
+These solutions are speculative, of course. However, I think they give us
+some reason for optimism that Non-Humeanism (or some version anyway)
+does provide a better explanation of regularities than Humeanism. However,
+as I mentioned at the outset, this judgment depends on some significant epistemological assumptions as well. In the next section, we’ll examine some of
+them more carefully.
+
+8 Epistemological and Methodological Issues
+
+https://doi.org/10.1017/9781009109949 Published online by Cambridge University Press
+
+8.1 Method in Metaphysics
+In this section, we’ll consider some epistemological and methodological issues
+that arise for the metaphysics of laws of nature. As you may have noticed, metaphysics is hard. Its questions are general and abstract. Competing metaphysical
+theories often are, or seem to be, empirically equivalent.
+Here is a sample description of a method of practicing metaphysics that is
+loosely inspired by Quine (1948):
+Neo-Quinean Method: Metaphysical theorizing consists of determining
+which theoretical beliefs best fit within our web of beliefs – a web that is
+informed, but not wholly determined, by experience. The best fitting theory
+is the one with the best balance of theoretical virtues such as familiarity of
+primitives, simplicity, ontological parsimony, explanatory strength, and the
+like.
+This statement is intentionally vague. I want it to be compatible with many
+specific ways of doing metaphysics. But here are some clarifications.
+
+105
+
+It is worth mentioning that the two constraints suggested here – one concerning natural predicates and one concerning simplicity – align nicely with two constraints proposed by Chen
+and Goldstein (2022) in their defense of a version of Primitivism. Although Primitivists and
+property-based theorists start with different perspectives, we may see a convergence of theories
+as they are updated in response to various explanatory challenges.
+
+

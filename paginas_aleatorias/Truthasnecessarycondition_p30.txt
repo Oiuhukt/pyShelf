@@ -1,0 +1,26 @@
+Both options endorse a non-representational function for idealizations in a model-based
+derivation of an explanatory generalization. But the underlying truth test is arguably more
+faithful to scientists’ reluctance to interpret their models in fundamental terms. Autonomous
+explanations that aim to remain neutral on what is fundamental seem more likely to be true,
+and so a veritist is better served by our more flexible underlying truth test.
+V. Conclusion
+Scientists often explain using models that incorporate idealizations. This feature of
+scientific practice has been used to argue that explanations need not be wholly true. I have
+argued that the best way to defend veritism is to maintain that a model is explanatory when it
+generates an explanatory generalization in the right way. This right way is consistent with the
+presence of falsehoods in the derivation of the generalization so long as there is an appropriate
+truth underlying each falsehood. A scientist can then rationally claim that their model is
+explanatory if they have evidence that these underlying truths exist. It remains to be seen how
+this evidence is to be assembled or what form of scientific realism is consistent with this
+approach to model-based explanation.
+
+Acknowledgments
+This paper has benefitted enormously from comments and questions by a number of
+audiences: (i) the Philosophy Colloquium of Oakland University (March 2019), (ii) the 11th
+Annual Auburn Philosophy Conference (April 2019), (iii) Idealization Across the Sciences,
+Institute of Philosophy, Prague, Czech Republic (June 2019), and (iv) Mathematics and its
+Applications: Philosophical Issues, University of Leeds (Sept. 2019). I am especially grateful to
+
+30
+
+

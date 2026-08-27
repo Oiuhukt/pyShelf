@@ -1,0 +1,46 @@
+Probability does not Capture the Logic of
+Justification
+
+dition, are the observable signs of the problem of induction in scientific inquiry, one
+can measure the intrinsic difficulty or complexity of an empirical question by the least
+number of retraction that Nature could exact from an arbitrary method that converges
+to the right answer.
+Some problems are not solvable under any fixed, finite bound on retractions. For
+example, suppose that it is a priori that the color will change only finitely often and
+the questions is how many times it will changes. Then Nature can lead us to change
+our minds any number of times by adding another color change just after the point at
+which we are sure we will never see another one. But the question is still decidable
+in the limit in the sense that it is possible to converge to the right answer, whatever
+it might be (e.g., by concluding at each stage that the color will never change again).
+There are also problems for which no possible method can even converge to the
+truth in the limit of inquiry. One of them is a Kantian antinomy of pure reason: the
+question of whether matter is infinitely divisible. Let the experiment of attempting to
+cut matter be successively performed (failures to achieve a cut are met with particle
+accelerators of ever higher energy). Nature can withhold successful cuts until the
+method guesses that matter is finitely divisible. Then she can reveal cuts until the
+method guesses that matter is infinitely divisible. In the limit, matter is infinitely divisible (new cuts are revealed in each “fooling cycle”), but the method does not converge to “infinitely divisible.” Nonetheless, it is still possible to converge to “finitely
+divisible” if and only if matter is only finitely divisible: just answer “finitely divisible” while no new cuts are performed and “infinitely divisible” each time a new cut
+is performed. Say that this method verifies finite divisibility in the limit. The same
+method may be said to refute infinite divisibility in the limit, in the sense that it converges to the alternative hypothesis just in case infinite divisibility is false. These
+“one-sided” concepts stand to decision in the limit as verificiation and refutation with
+certainty stand to decision with certainty. Of course, we would prefer a two-sided,
+convergent, solution to this problem, but none exists, so one-sided procedures are
+justified insofar as they are the best possible.
+There are even questions that are neither refutable in the limit nor verifiable in the
+limit, such as whether the limiting relative frequency of green observations exists.
+This problem has the property that a method could output “degree of belief” or “confirmation values” that converge to unity if and only if the limiting relative frequency
+exists, but no possible method of this kind converges to unity if and only if the limiting relative frequency does not exist. And then there are problems that have neither
+of these properties. At this point, it starts to sound artificial to speak of convergent
+success in any sense.
+Changes in background information can affect solvability. For example, let the
+question be whether a sequence of observed colors will converge to blue. Absent
+further background knowledge, the best one can do is to verify convergence to blue
+in the limit (the analysis is parallel to that of the finite divisibility example). But if
+we know a priori that the sequence of colors will eventually stabilize (e.g., the current
+color corresponds to which magnet a damped pendulum is nearest to), then the question is decidable in the limit: just respond “yes” while the color is blue and respond
+“no” otherwise. This shows that extra assumption may make a problem intrinsically
+easier to solve without giving the game away altogether.
+
+99
+
+

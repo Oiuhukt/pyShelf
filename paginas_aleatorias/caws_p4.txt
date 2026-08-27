@@ -1,0 +1,37 @@
+Peter Caws
+will hold in the future any more than the inductive ones?
+After a bit of spluttering, and assuming that the question is taken
+seriously (as I mean it to be), the reply to this is likely to be a challenge:
+How could the deductive relations be different, since they are rules of
+procedure and not laws of nature? What would it be like for them to be
+different? What conceivable test could be proposed that would reveal
+exceptions to them? To which I readily answer that I have no idea, I
+can't imagine an exception, it doesn't even make sense to me — but nor
+do I conclude, from these limitations on my powers of fantasy, that the
+thing is impossible. I can readily think of exceptions in the case of induction; I can't conceive of them in the case of deduction — but there
+must surely be more to it than that, or if there isn't, then the debate is
+shifting to my territory. For imagining, conceiving, and the like aren't
+logical categories at all, but rather psychological and thus empirical
+ones.
+But for counterinstances to arise in the deductive case would surely involve a self-contradiction. Here the deductive logician is likely to start
+writing things down, showing that the very rules of the language L entail
+the analyticity of this proposition or that. Now, however, I can afford
+to be generous. I have no objection whatever to analyticity within languages—for incorporating the law of contradiction as a rule in such
+languages; indeed, given the world we live in, it seems a sound move.
+But I can quite easily imagine a language in which the law of contradiction was not a rule, in which (let us say) truth-values were assigned at
+random; it might be spoken by some latter-day Epimenides, who would
+explain that Cretans aren't really liars, it's just that they don't,care one
+way or the other, and if they contradict themselves then they contradict
+themselves and that's all there is to it. We care about truth —and that
+is a fact, not a principle of logic. And it is our caring about truth, not
+just about the rules of the language, that makes us choose the rules we
+do.
+If during the argument the logician has written something down,
+that is particularly gratifying. For inscriptions have a factual presence,
+and as long as we hang on to them we can keep ideas (and propositions
+and a lot of other metaphysical baggage) at arm's length. The curious
+dependence of logicians on factual things like inscriptions (not to mention brains) ought to tip us off to a discrepancy between theory and
+practice. In theory logic reaches for immutable truth (most logicians
+490
+
+

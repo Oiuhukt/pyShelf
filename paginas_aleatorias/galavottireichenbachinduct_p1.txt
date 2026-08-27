@@ -1,0 +1,37 @@
+Synthese (2011) 181:95–111
+DOI 10.1007/s11229-009-9589-6
+
+On Hans Reichenbach’s inductivism
+Maria Carla Galavotti
+
+Received: 13 May 2009 / Accepted: 8 June 2009 / Published online: 1 July 2009
+© Springer Science+Business Media B.V. 2009
+
+Abstract One of the first to criticize the verifiability theory of meaning embraced
+by logical empiricists, Reichenbach ties the significance of scientific statements to
+their predictive character, which offers the condition for their testability. While identifying prediction as the task of scientific knowledge, Reichenbach assigns induction
+a pivotal role, and regards the theory of knowledge as a theory of prediction based on
+induction. Reichenbach’s inductivism is grounded on the frequency notion of probability, of which he prompts a more flexible version than that of Richard von Mises.
+Unlike von Mises, Reichenbach attempts to account for single case probabilities,
+and entertains a restricted notion of randomness, more suitable for practical purposes.
+Moreover, Reichenbach developed a theory of induction, absent from von Mises’s perspective, and argued for the justification of induction. This article outlines the main
+traits of Reichenbach’s inductivism, with special reference to his book Experience and
+prediction.
+Keywords
+
+Probability · Induction · Epistemology
+
+1 Reichenbach’s probabilism
+Wesley Salmon, a prominent pupil of Hans Reichenbach, wrote of his mentor: “Just
+as Hume was the great empiricist of the eighteenth century, so it may be, will Reichenbach be remembered as the great empiricist of the twentieth century” (Salmon
+1979, pp. 2–3). There is no doubt that this statement features a distinctive trait of
+Reichenbach’s philosophy. Echoing Salmon’s statement, one could also claim that as
+Hume was the great inductivist of the eighteenth century, Reichenbach was the great
+
+M. C. Galavotti (B)
+Department of Philosophy, University of Bologna, via Zamboni 38, 40126 Bologna, Italy
+e-mail: mariacarla.galavotti@unibo.it
+
+123
+
+

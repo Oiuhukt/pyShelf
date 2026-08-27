@@ -1,0 +1,48 @@
+Philosophical Review
+
+NISHI SHAH
+
+gio Tenenbaum, Kevin Toh, Maura Tumulty, and two anonymous readers for
+the Philosophical Review. I also am indebted to an audience at New York University for a stimulating discussion of this paper. Work on this paper was supported by a faculty research grant from Amherst College.
+1 See Richard Moran, “Making Up Your Mind: Self-Interpretation and SelfConstitution,” Ratio n.s. 1 (1988): 135–51, at 146, and his book Authority and
+Estrangement (Princeton: Princeton University Press, 2001), 60–65. In the book
+(61), he argues that it is a mistake to think of “transparency” as expressing the
+claim that, for example, the questions, “Do I believe that there will be a third
+world war?” and “Is it true that there will be a third world war?” are indistinguishable from or reducible to each other, because the fact that answers the
+question about the war is different from the fact about a particular person’s
+belief, and anyone asking himself these questions knows this. But he does not
+consider whether the deliberative question whether to believe there will be a
+third world war is indistinguishable from or reducible to the question of
+whether it is true that there will be a third world war, and whether it is the relations between these two questions that is meant by “transparency.” It is quite
+plausible that, for this pair of questions, the fact that answers one question also
+answers the other question, since the deliberative question whether to believe that
+p is not answered by any psychological fact about oneself, and anyone who asks
+himself these questions must know that the questions are answered in the
+same way. If “reducibility” just means that the same facts answer both questions, and “indistinguishable” just means that an agent cannot think that the
+questions have different answers, then it may very well be that “transparency”
+refers to relations of reduction and indistinctness.
+2 It is natural to associate a use of ‘ought’ with the prescription to believe p
+only if p is true. But ‘ought’ has multiple uses, including an all-things-considered usage that may factor in considerations of desirability. Therefore, in
+order to avoid misunderstanding, from now on I will refrain from couching
+my proposal in terms of a directive ought, which might be confused with this
+other type of ought, and stick to speaking in terms of ‘correctness’, where
+accepting truth as the standard of correctness for belief involves accepting a
+directive to believe that p only if p is true.
+3 I will use the boldface belief to refer to the concept of belief, ‘belief’ to
+refer to the word, and belief (plain text) to refer to the property of being a
+belief, or when it is left open whether the metaphysics or the semantics of
+belief is being referred to. I may also omit the boldface when I use the phrase
+‘concept of belief’.
+4 Of course, whether we agree on which norm I am to accept will depend
+upon whether we share the same higher-order norms. That is, we must agree
+on the kinds of reasons that justify the acceptance of norms governing the fulfillment of professional obligations, and this is a matter of whether we accept
+the same higher-order norms for selecting lower-order norms.
+5 See Allan Gibbard, Wise Choices, Apt Feelings (Cambridge: Harvard University Press, 1990), chap. 3.
+6 Ibid., 46.
+7 It may be that, as ascribers of rationality to beliefs, we are also committed
+
+476
+
+Published by Duke University Press
+
+

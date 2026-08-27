@@ -1,0 +1,41 @@
+SELECTION AND CAUSATION
+
+211
+
+the moon on the tides (e.g., by altering its orbit). More interestingly,
+it may well be that there is no physically possible process that will
+meet the conditions for an intervention on the moon’s position with
+respect to the tides. . . . It is nonetheless arguable we have a principled basis in Newtonian mechanics and gravitational theory themselves for answering questions about what would happen if such a
+surgical intervention were to occur and that this is enough to vindicate
+the causal claim (G). (Woodward 2008)
+Woodward proposes, rightly in our view, that “a properly formulated
+version of a manipulability theory will thus allow us to talk about causal
+relationships in some contexts in which interventions are not physically
+possible” (2008).
+We believe that it is possible to envisage a ‘surgical intervention’ on
+gravitation itself. Accordingly, we would like to say (paraphrasing Woodward) that we have a principled basis in Newtonian mechanics for answering questions about what would happen if we (or God) were to surgically intervene on the relationship between mass and gravitational
+attraction. If we made it, for instance, an inverse-cube relation instead of
+an inverse-square relation, or changed the gravitational constant, then we
+would change the gravitational force exerted by the moon without changing the mass of the moon or of the ocean. Newtonian mechanics would
+lead us to expect that in such a case, the motion of the tides would change.
+This is why we say that according to Newtonian mechanics, gravitational
+attraction is an intermediary between mass and motion—a tertium quid
+as the force-body paradigm urges. Physically impossible intervention is
+the proper analytic tool for supervenience cases, not loosening the ‘hold
+everything else the same’ clause.
+As implied by the earlier discussion, the theory of natural selection is
+different from that of gravitation, for natural selection is mathematically
+necessary. When there are heritable differences in traits leading to differential reproduction rates, the probability of the fitter types increasing in
+frequency is greater than that of the less-fit types increasing. This is simply
+a mathematical truth. Applying the manipulability test, we have to tolerate
+hypothetical interventions that are physically impossible, but refuse to
+tolerate hypothetical interventions that are mathematically impossible.
+This is why the manipulability test cannot properly be applied to
+(5*) Natural selection caused evolutionary change in population P.
+There is no room for a manipulable intermediary between advantageous
+heritable traits and the increase in frequency that results from their being
+advantageous. Such an intermediary would not be distinct from the increase in frequency. The analogy with gravitational attraction is flawed.
+
+https://doi.org/10.1086/648102 Published online by Cambridge University Press
+
+

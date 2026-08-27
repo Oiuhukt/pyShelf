@@ -1,0 +1,61 @@
+5.7. Gödel’s Second Incompleteness Theorem
+
+137
+
+𝑚
+(ix) If 𝜑𝑚 is the formula ¬𝑣𝑖 < 𝑣𝑗 then 𝑠𝑚
+𝑖 ≮ 𝑠𝑗 .
+
+(x) If 𝜑𝑚 is the formula 𝜑′ ∧ 𝜑″ then ∃𝑚′ , 𝑚″ < 𝑚 such that 𝜑′
+″
+′
+equals 𝜑𝑚′ , 𝜑″ equals 𝜑𝑚″ and 𝑠𝑚 = 𝑠𝑚 = 𝑠𝑚 .
+(xi) If 𝜑𝑚 is the formula 𝜑′ ∨ 𝜑″ then ∃𝑚′ < 𝑚 such that 𝜑′ equals
+′
+𝜑𝑚′ and 𝑠𝑚 = 𝑠𝑚 , or ∃𝑚″ < 𝑚 such that 𝜑″ equals 𝜑𝑚″ and
+𝑚
+𝑚″
+𝑠 =𝑠 .
+(xii) If 𝜑𝑚 is the formula ∃𝑣𝑖 𝜑′ then ∃𝑚′ < 𝑚 such that 𝜑′ equals
+′
+𝑚
+′
+𝜑𝑚′ and 𝑠𝑚
+𝑘 = 𝑠𝑘 , ∀𝑘 < min(𝛼(𝑚), 𝛼(𝑚 )), 𝑘 ≠ 𝑖.
+(xiii) If 𝜑𝑚 is the formula (∀𝑣𝑖 < 𝑣𝑗 ) 𝜑′ then ∀𝑎 < 𝑠𝑗𝑚 ∃𝑚′ < 𝑚 such
+′
+
+′
+
+that 𝜑′ equals 𝜑𝑚′ , 𝑠𝑖𝑚 = 𝑎 and such that 𝑠𝑚
+= 𝑠𝑚
+𝑘
+𝑘 , ∀𝑘 <
+′
+min(𝛼(𝑚), 𝛼(𝑚 )), 𝑘 ≠ 𝑖.
+This notion of certificate makes sense in any model 𝔐 of PA and one
+has
+𝔐 ⊧ “𝜑 has a certificate” if and only if 𝔐 ⊧ 𝜑.
+This is checked by induction on #𝜑 in the model 𝔐 (it is crucial here
+that 𝔐 is a model of PA and not only of PA0 ).
+Furthermore, one may express the existence of a certificate for 𝜑 in
+𝔐 by a Σ1 -formula in the Gödel number of 𝜑. More precisely, there exists
+a Σ1 -formula 𝑆 ′ (𝑣), such that in any model 𝔐 of PA, for any code #𝜑 of
+a ‘strict Σ1 -formula’ (even non-standard), 𝔐 ⊧ 𝑆 ′ (#𝜑) if and only if 𝔐 ⊧
+“𝜑 has a certificate”. One constructs 𝑆 ′ (𝑣) by coding conditions (i)-(xiii)
+that are clearly expressed by Σ1 -conditions. The equivalence between
+𝔐 ⊧ 𝑆 ′ (#𝜑) and 𝔐 ⊧ “𝜑 has a certificate” is checked by induction on #𝜑
+in the model 𝔐. Here again it is important that 𝔐 is a model of PA. □
+
+5.7. Gödel’s Second Incompleteness Theorem
+Let 𝑇 be a recursive ℒ𝑎𝑟 -theory containing PA. To state and to prove the
+Second Incompleteness Theorem, we will explicitly construct a specific
+formula expressing that a sentence is provable.
+We consider Σ1 -formulas Sen(𝑣), Ax𝑇 (𝑣), MP(𝑣0 , 𝑣1 , 𝑣2 ) as well as
+Gen(𝑣0 , 𝑣1 ) representing respectively the set of Gödel numbers of sentences, the union of the sets of Gödel numbers of logical axioms and of
+those of 𝑇, the set of triples (#𝜑, #𝜓, #𝛿) with 𝜑, 𝜓 and 𝛿 formulas such
+
+Licensed to Mathematisches Forschungsinstitut. Prepared on Thu Sep 30 04:18:29 EDT 2021for download from IP 188.1.230.74.
+License or copyright restrictions may apply to redistribution; see https://www.ams.org/publications/ebooks/terms
+
+

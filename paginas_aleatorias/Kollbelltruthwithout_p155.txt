@@ -1,0 +1,42 @@
+138 Truth Without Objectivity
+
+McDowell emphasizes, the coextensiveness of the two predicates, where the ranges
+over which they are defined overlap, should come as a discovery.
+19 See the discussion in the previous section for more accurate thoughts on assertion.
+6 Relative Truth and Linguistic Communication
+
+The assignment of contents to sentences (or pairs of contexts and sentences) is of
+course to be effected via a Davidsonian T-theory. In Chapters 1 and 5, I have already
+discussed the fact that such a theory does not by itself assign contents to sentences. It
+needs to be supplemented in some way to yield content ascriptions from interpretive
+T-sentences. I understand semantics here in such a way that it includes the relevant
+supplement, but shall not dwell on the exact form of the supplement, as I want to
+keep the account compatible with many different views. See Chapter 5, §3, above,
+for my own view.
+2 I am aware that the term 'pragmatics' has been used in many different ways. I am
+here using it in the sense of an assignment of communicative function in the sense of
+Chapter l. If a reader wants to reserve that term for something else (such as a theory
+studying among other things Gricean implicatures), then he or she should replace my
+'pragmatics' by 'theory of communicative function'.
+3 Such as accounts by Lewis 1975, Davidson 1979, Brandom 1983, or Rumfitt 1995.
+4 See Horwich 1998: 2-6; KOibel 1997: 44. (T) is also supposed to be neutral with
+respect to Strawson's 'Gigantomachia', i.e. neutral on the issue as to whether the
+notion of truth is somehow prior to the notion of meaning or content (Strawson
+1970).
+5 This distinction corresponds to Huw Price's distinction between evidential and inferential disagreement; see Price 1988: 158.
+6 Recently, testimony as a source of knowledge has deservedly received renewed attention, see for example Coady 1992, Fricker 1995 and Goldman 1999.
+The point that the possibility of challenging assertions and conducting discussions
+is part of the function of linguistic communication can be taken to support-independently of my purposes here-accounts of assertion that stress this
+aspect, such as Brandom 1983 and Searle 1969.
+7 I say 'very roughly', because (a) some beliefs are more important than others, and
+(b) it is conceivable that temporary false belief may sometimes be a necessary step
+on the path to new knOWledge.
+8 For example, it is compatible with different views on how it is that particular sentences express the propositions they do express, have the iIIocutionary force they
+have and what it is for communicators to know this (e.g. Searle 1969, Lewis 1975,
+McDowell 1980, Brandom 1983, Grice 1989, Larson and Segal 1995, Laurence
+1995, Rumfitt 1995, Horwich 1998). Moreover, it is compatible with various competing views of truth, in particular with those views that assign to truth an explanatory role in the theory of meaning (e.g. Davidson 1990, Wright 1992) as well as
+those that don't (e.g. Strawson 1970, McDowell 1980, Horwich 1998, Williams
+1999).
+9 Laver bread is a Welsh culinary speciality made from seaweed.
+
+

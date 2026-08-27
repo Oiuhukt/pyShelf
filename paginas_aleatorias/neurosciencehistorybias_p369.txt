@@ -1,0 +1,91 @@
+356
+
+Automaton, 105, 259n17
+Autopoiesis, 17n6
+Bacon, Francis, 81, 215–217
+Barlow, Horace, 27n22, 121, 133, 135,
+141, 158, 220–221, 224
+Batterman, Robert, 51, 232
+Bechtel, William, 59, 61, 66, 77n15,
+171–172, 285
+Behaviorism, 78, 80–89, 247, 258
+Bergson, Henri, 14, 184, 206, 240, 304,
+306
+Bickle, John, 59n31, 126n14
+Biological naturalism, 248, 263–266,
+274, 278–284
+Black box, 83–84, 89, 147, 154–155,
+285–286
+Borges, Jorge Luis, 265
+Brain computer interface (BCI), 144n44,
+164, 193
+BRAIN Initiative, 140n39, 141, 219
+Bridgman, Percy, 78–79, 91
+Buckner, Cameron, 135n31, 237n34,
+239n40, 269
+Burge, Tyler, 43n13, 297–307
+Cajal, Ramón y, 30, 133n28
+Canguilhem, Georges, 16, 26, 57, 65n1,
+74n12, 83n24, 105n17, 115n27,
+117–118, 213, 217n15
+Canonical neural computation, 231
+Cantwell Smith, Brian, 252n11
+Cao, Rosa, 100n9, 106n21, 233–234,
+241, 254
+Carandini, Matteo, 28, 116, 123n10,
+132, 137, 231, 232n29
+Carnap, Rudolph, 56
+Cartwright, Nancy, 15, 39n5, 120, 136,
+138
+Cassirer, Ernst, 12, 25n18, 48, 50n20,
+54n21, 57, 184, 205n26, 206n27,
+271, 295, 305
+
+Index
+
+Causation, 57, 84–86, 102–104, 129,
+154, 157, 160, 165–168, 196, 293,
+296. See also Explanation, causal;
+Interventionism
+distal, 43, 155, 162, 301n26
+proximal, 153, 155, 161, 301
+realist/antirealist views on, 59–60,
+169, 177–181
+Cavendish, Margaret, 3, 17n6
+C. elegans, 5
+Cerebellum, 4, 9
+Chakravartty, Anjan, 38n4, 50n19, 136,
+202–203
+Chal­mers, David, 113, 245, 263–266,
+278–279
+Chang, Hasok, 35,40, 47, 130n22
+ChatGPT, 257, 272n32
+Churchland, Patricia Smith, 97, 146n47,
+209n1, 283n8
+Coelho Mollo, Dimitri, 151,
+272n32
+Cognitive revolution, 77, 89, 93
+Cognitive science, 77, 88, 93, 105n19,
+151, 158, 175, 197, 287n11,
+289n13, 304, 305n27
+Complexity, 5, 15, 28, 36–39, 44, 47,
+73, 80, 85, 93–95, 99, 101, 105n18,
+111, 130–131, 136, 145, 184–185,
+194, 201–203, 226, 233, 283,
+288
+definitions of, 8–12, 143, 286
+environmental complexity thesis,
+291n14
+Computationalism, 92–98, 113, 220,
+275, 283, 305n27
+Computationalism about consciousness,
+263
+Computational implementation,
+107–109, 113–114, 167, 280,
+286
+Computational theory of mind, 105n19,
+113, 250, 254–255
+
+Downloaded from http://direct.mit.edu/books/oa-monograph-pdf/2345162/book_9780262378628.pdf by guest on 30 June 2025
+
+

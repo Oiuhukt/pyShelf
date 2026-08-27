@@ -1,0 +1,47 @@
+https://doi.org/10.1017/9781009039154 Published online by Cambridge University Press
+
+44
+
+The Philosophy of Mathematics
+
+can be used to explain the possibility or impossibility of a given construction.
+However, as an abstract explanatory proof, this involves some loss of control
+over how to actually carry out a given construction. The proof provides
+a uniform criterion for possible constructions and yet does not provide any
+uniform method for carrying out a given construction. Similarly, there is
+a uniform criterion for impossible constructions, but this does not sufﬁce to
+prove that a given construction is impossible.
+This loss of control creates a problem for Lange: when he discusses this sort of
+case, he denies that an explanatory classiﬁcation may treat the objects classiﬁed in
+different ways. This is because Lange supposes that the salient feature of an
+explanatory classiﬁcation is the unity of the various parts of the classiﬁcation. If
+unity is the salient feature, then to be explanatory “the proof must exploit some
+other, similar respect in which those cases are alike and must proceed from there
+to arrive at the result by treating all of the (classes of) cases in exactly the same
+way” (Lange 2017, p. 287). Consider, then, two possible constructions, for
+example bisecting an angle and constructing a square on a line segment, and
+two impossible constructions, for example trisecting an angle and squaring
+a circle. Bisecting an angle and constructing a square are uniﬁed by their
+possibility, while trisecting an angle and squaring a circle are uniﬁed by their
+impossibility. But our proof of the theorem involving degrees of ﬁeld extensions
+does not afford a uniﬁed treatment of the constructions it classiﬁes. We establish
+that the possible constructions are possible, but to show how the constructions
+work, additional speciﬁc steps need to be carried out. The same point holds for the
+other kind of construction: we can establish that the impossible constructions are
+impossible, but additional features of the points and their coordinates are needed
+to show this impossibility. For example, for trisecting the angle, one proof
+involves features of the cosine function. By contrast, to show that we cannot
+construct a square with the same area as a circle, we need to investigate the
+features of pi. In particular, if we show that pi is not an algebraic number (i.e. not
+the solution to any polynomial equation of any degree), then we have shown that
+no ﬁeld extension that includes pi has the right degree (Stewart 2004, pp. 81–82).
+The upshot is that Lange is not able to endorse our classiﬁcation of ruler-andcompass constructions as explanatory. He does not allow for explanatory classiﬁcations where there is a generic reason for some outcome across a range of cases,
+and yet that generic reason has to be supplemented with case-speciﬁc reasons.53
+Lange does allow that explanatory proofs differ in degree in a way that is tied
+to how effectively the salient feature of the theorem is traced back to that feature
+53
+
+Lange also suggests that explanatory classiﬁcations may have a contrast as the salient feature, but
+I do not think this avoids the basic worry I have raised. See Lange (2017, pp. 263–264, fn. 23).
+
+

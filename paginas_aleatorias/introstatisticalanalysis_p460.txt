@@ -1,0 +1,47 @@
+Review, 80, 237–251. https://doi.org/10.1037/h0034747
+Kass, R. E., & Raftery, A. E. (1995). Bayes factors. Journal of the American Statistical Association, 90, 773–795. https://doi.org/10.1080/01621459.1995.10476572
+Keynes, J. M. (1923). A tract on monetary reform. Macmillan & Company.
+Kline, P. (1994). An easy guide to factor analysis. Routledge. https://doi.org/10.4324/
+9781315788135
+Kruschke, J. K. (2011). Doing Bayesian data analysis: A tutorial with R and BUGS. Academic
+Press.
+Kruskal, W. H., & Wallis, W. A. (1952). Use of ranks in one-criterion variance analysis.
+Journal of the American Statistical Association, 47, 583–621. https://doi.org/10.1080/
+01621459.1952.10483441
+Kühberger, A., Fritz, A., & Scherndl, T. (2014). Publication bias in psychology: A diagnosis based on the correlation between effect size and sample size. Public Library of
+Science One, 9, 1–8. https://doi.org/10.1371/journal.pone.0105825
+Larntz, K. (1978). Small-sample comparisons of exact levels for chi-squared goodnessof-fit statistics. Journal of the American Statistical Association, 73, 253–263. https://
+doi.org/10.1080/01621459.1978.10481567
+Lee, M. D., & Wagenmakers, E.-J. (2014). Bayesian cognitive modeling: A practical course.
+Cambridge University Press. https://doi.org/10.1017/CBO9781139087759
+Lehmann, E. L. (2011). Fisher, Neyman, and the creation of classical statistics. Springer.
+Levene, H. (1960). Robust tests for equality of variances. In Olkin, I. and others (Ed.),
+Contributions to probability and statistics: Essays in honor of harold hotelling (pp. 278–
+292). Stanford University Press.
+McGrath, R. E., & Meyer, G. J. (2006). When effect sizes disagree: The case of 𝑟 and 𝑑.
+Psychological Methods, 11, 386–401. https://doi.org/10.1037/1082-989x.11.4.386
+Meehl, P. H. (1967). Theory testing in psychology and physics: A methodological paradox. Philosophy of Science, 34, 103–115. https://doi.org/10.1086/288135
+Pearson, K. (1900). On the criterion that a given system of deviations from the probable
+in the case of a correlated system of variables is such that it can be reasonably supposed to have arisen from random sampling. Philosophical Magazine, 50, 157–175.
+https://doi.org/10.1080/14786440009463897
+Peterson, C., & Seligman, M. (1984). Causal explanations as a risk factor for depression:
+Theory and evidence. Psychological Review, 91, 347–374. https://doi.org/10.1037/
+0033-295X.91.3.347
+Pfungst, O. (1911). Clever hans (the horse of mr. Von osten): A contribution to experimental
+animal and human psychology (C. L. Rahn, Trans.). Henry Holt.
+Rosenthal, R. (1966). Experimenter effects in behavioral research. Appleton.
+Sahai, H., & Ageel, M. I. (2000). The analysis of variance: Fixed, random and mixed models.
+Birkhauser.
+Shaffer, J. P. (1995). Multiple hypothesis testing. Annual Review of Psychology, 46, 561–
+584. https://doi.org/10.1146/annurev.ps.46.020195.003021
+Shapiro, S. S., & Wilk, M. B. (1965). An analysis of variance test for normality (complete
+samples). Biometrika, 52, 591–611. https://doi.org/10.1093/biomet/52.3-4.591
+Sokal, R. R., & Rohlf, F. J. (1994). Biometry: The principles and practice of statistics in biological research (3rd ed.). Freeman.
+Stevens, S. S. (1946). On the theory of scales of measurement. Science, 103, 677–680.
+https://doi.org/10.1126/science.103.2684.677
+Stigler, S. M. (1986). The history of statistics. Harvard University Press.
+Student, A. (1908). The probable error of a mean. Biometrika, 6, 1–2. https://doi.org/
+
+445
+
+

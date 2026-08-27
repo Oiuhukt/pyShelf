@@ -1,0 +1,38 @@
+428
+
+Previously Published Articles
+
+might well countenance a pair set (in its sense) precisely matching the satisfaction predicate of that previous formal language but not matching its
+own satisfaction predicate. Satisfaction for the first language will thus be
+directly definable by (3) in the second language, not just inductively; and
+similarly for truth. The analogy between a hierarchy of epsilons and a hierarchy of truth predicates thus turns out to be by no means mere. They are
+of a piece.
+In his early version of his theory of types, mentioned at the end of §3,
+Russell sought to block the paradoxes both of truth and of membership by
+decreeing a single complex hierarchy of predicates. The scheme was vague
+and cumbersome. It was subsequently sharpened and simplified for purposes of set theory by dispensing with the truth aspect as extraneous to set
+theory. And now we see a new interlocking of the membership hierarchy
+with the truth hierarchy, along clean-cut lines and for clear but subtle reasons that could not be foreseen in Russell’s day.
+We can picture the hierarchy of membership predicates and the hierarchy of truth predicates as embraced within a single inclusive language. If
+we do, we must beware of assuming that the truths at each level constitute
+a set, a class; for that could enable us to define a single comprehensive
+truth predicate after all, by quantifying over those classes.
+Alternatively, we can picture a hierarchy of languages, each with its
+unique membership predicate and a unique truth predicate for the next
+lower language. This approach has an important mathematical application
+in establishing relative strengths of formal systems. One system is proved
+to be stronger than another by interpreting its predicates in such a way
+as to be able to define, within it, the truth predicate of the other system.
+
+7. Excluded Middle
+Pilate was probably not the first to ask what truth is, and he was by no
+means the last. Those who ask it seek something deeper than disquotation,
+which was the valid residue of the correspondence theory of truth (§2). Yet
+there is surely no impugning the disquotation account; no disputing that
+‘Snow is white’ is true if and only if snow is white. Moreover, it is a full
+account: it explicates the truth or falsity of every clear sentence, with all
+the clarity that is enjoyed by the sentence itself. It is even a more than
+full account: it imposes a requirement on the truth predicate that is too
+strong for any predicate within the language conceived—on pain of contradiction (§3).
+
+

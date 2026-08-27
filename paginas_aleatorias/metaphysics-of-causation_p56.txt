@@ -1,0 +1,54 @@
+50
+
+Metaphysics
+
+Causal eliminativism with respect to physics seems incompatible with causal
+realism with respect to models that are developed outside fundamental physics,
+given the (partial) unity of science (Tahko 2021), and in particular the existence of
+reduction relations (Nagel 1961). If causal models are interpreted realistically,
+how could causation “emerge” as a relation of variables outside of fundamental
+physics, although the variables of the special sciences supervene on those of
+physics? The tension can be resolved in an instrumentalist and pragmatic way by
+interpreting causal models as tools for prediction, not to be taken as descriptions
+of reality (Hitchcock 2007a, p. 52).145 Moreover, it has been suggested that the
+tools provided by causal models have no application in fundamental physics.146
+Eliminativist and antirealist arguments often rely on controversial assumptions. Such arguments can be criticized by showing that those assumptions can
+be dropped.
+1) Norton (2003, p. 3) suggests that if causation were real it would have to be
+analogous to energy. However, causation can be realistically interpreted
+without postulating the existence of “causity”147 as a type of substance or
+quantity, analogous to energy.
+2) Many authors argue that a realistic interpretation of causation is incompatible
+with quantum mechanics because causation requires necessitation of the
+effect by the cause.148 This assumption is dropped by probabilistic accounts.
+3) Russell does not clearly distinguish between the claim that there are causes
+and the truth of the “law of causality” or “principle of causality,” “the
+principle ‘same cause, same effect’” (Russell 1912/1919, p. 188).149
+Causal realism is compatible with abandoning the law of causality.
+4) Norton (2003, p. 8) suggests that the fact that classical mechanics is not
+a deterministic theory entails that there are “uncaused events” and “acausality” in classical physics. Probabilistic accounts, such as causal models, show
+that the concept of causation is independent of determinism. Counterfactual
+and process accounts are compatible with the existence of events to which
+classical mechanics doesn’t even attribute any probability.150
+
+constraints that relativity theory imposes on physically possible processes “are best understood
+as devices for cataloging the different ways that the light-cone structure may be spread globally
+over space-time” (Norton 2007, p. 228). Cf. Kistler (2021).
+145
+According to Norton’s causal “anti-fundamentalism” (Norton 2003), causal models should not
+be interpreted realistically because causation belongs to “folk science.”
+146
+“Fundamental physics is not a hospitable context for causation” (Woodward 2009, p. 257). See
+also Woodward (2014, p. 702); Glennan (1996, p. 68).
+147
+The term is Castañeda’s (1984).
+148
+“The law of causality is no longer applied in quantum theory” (Heisenberg 1958, p. 88).
+149
+150
+Hitchcock (2007).
+Wysocki (2023).
+Downloaded from https://www.cambridge.org/core. IP address: 177.249.162.188, on 23 May 2025 at 03:58:29, subject to the Cambridge Core terms
+of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/9781009260800
+
+

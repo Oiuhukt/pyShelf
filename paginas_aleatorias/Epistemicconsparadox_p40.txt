@@ -1,0 +1,50 @@
+34
+
+Epistemology
+
+PD1:
+PD2:
+PD3:
+PD4:
+PD5:
+PD6:
+PD7:
+
+~PC1
+~PC2
+~PC3
+~PC4
+~PC5
+~PC6
+PC1 & PC2 & PC3 & PC4 & PC5 & PC6 & there is no truth-preserving
+derivation to a contradiction
+PD8: PC1 & PC2 & PC3 & PC4 & PC5 & PC6 & there is a truth-preserving
+derivation to a contradiction
+
+The reader can verify with sentential logic that the disjunction of the eight PDs
+is true. As before, let’s examine the obvious, immediate philosophical consequences of each disjunct, PD1–PD8, in order.
+PD1: It’s not the case that there is at least one tree in my backyard.
+If PD1 is true in this Element, then it is either true or not true in ordinary
+discourse. If it is true in ordinary discourse, that is wildly counterintuitive, on
+straightforward empirical grounds. If it is not true in ordinary discourse (but true
+in this Element), then we have been wildly wrong about interpretation. Both
+options are philosophically counterintuitive: They are inconsistent with either
+a great many of our ordinary commonsensical beliefs, a signiﬁcant portion of
+our most conﬁdently held ordinary beliefs or belief-dispositions, or key philosophical ideas held by many contemporary philosophers. Hence, PD1 itself is
+philosophically counterintuitive, either directly (if it’s true in ordinary discourse) or indirectly (if it’s true in this Element but false in ordinary discourse,
+despite my linguistic instructions; see discussion of bridge premises in
+Section 4).
+PD2: It’s not the case that every tree in my backyard is composed of chemical
+atoms.
+If PD2 is true in this Element, then it’s true in ordinary discourse. If it’s true in
+ordinary discourse, then we have a philosophically counterintuitive result, as
+any scientiﬁcally informed person could tell you. And if it’s not true in ordinary
+discourse, because the relevant bridge premise is false, we still have
+a philosophically counterintuitive result for the same reason we had one in the
+case of PD1.
+PD3: It’s not the case that for every tree in my backyard that is composed of
+chemical atoms, there is a group of chemical atoms that composes it.
+
+https://doi.org/10.1017/9781009052948 Published online by Cambridge University Press
+
+

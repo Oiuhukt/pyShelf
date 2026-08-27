@@ -1,0 +1,44 @@
+ber38413_ch11_545-612.indd Page 547 12/6/12 2:27 PM
+
+F-400
+
+We conclude that dI satisfies At1 . . . tn if and only if dI[I(a)/x] satisfies At1 . . . tn.
+The basis clause—in particular, the case where an atomic formula has
+the form At1 . . . tn—is the crux of our proof. It will be straightforward to show
+that the addition of connectives and quantifiers to build larger formulas does
+not change matters. The inductive step in the proof of 11.1.1 is
+Inductive step: If every formula P with k or fewer occurrences of logical
+operators is such that dI satisfies P(a/x) if and only if dI[I(a)/x] satisfies P, then the same is true of every formula P with k  1 occurrences
+of logical operators.
+Proof of inductive step: Letting k be an arbitrary positive integer, we
+assume that the inductive hypothesis holds—that our claim is true of
+every formula with k or fewer occurrences of logical operators. To show
+that it follows that the claim is also true of every formula P with k  1
+occurrences of logical operators, we consider each form that P may have.
+Case 1: P has the form ~ Q. Then P(a/x) is ~ Q(a/x), the
+negation of Q(a/x) (that is, any replacements of x that were made
+had to be made within Q).
+• By the definition of satisfaction, dI satisfies ~ Q(a/x) if
+and only if it does not satisfy Q(a/x).
+• Because Q(a/x) contains fewer than k  1 occurrences of
+logical operators, it follows from the inductive hypothesis
+that d fails to satisfy Q(a/x) if and only if dI[I(a)/x] fails
+to satisfy Q.
+• By the definition of satisfaction, dI[I(a)/x] fails to satisfy
+Q if and only if dI[I(a)/x] does satisfy ~ Q.
+Therefore, dI satisfies ~ Q(a/x) if and only if dI[I(a)/x] satisfies ~ Q.
+Case 2: P has the form Q & R. Then P(a/x) is Q(a/x) & R(a/x),
+that is, all replacements of x occurred within Q and R.
+• By the definition of satisfaction, dI satisfies Q(a/x) &
+R(a/x) if and only if dI satisfies Q(a/x) and dI satisfies
+R(a/x).
+• Both conjuncts contain fewer than k  1 occurrences of
+logical operators, so, by the inductive hypothesis, dI satisfies Q(a/x) if and only if dI[I(a)/x] satisfies Q, and dI
+satisfies R(a/x) if and only if dI[I(a)/x] satisfies R.
+• By the definition of satisfaction, dI[I(a)/x] satisfies both Q
+and R if and only if dI[I(a)/x] satisfies Q & R.
+11.1 SEMANTIC PRELIMINARIES FOR PL
+
+547
+
+

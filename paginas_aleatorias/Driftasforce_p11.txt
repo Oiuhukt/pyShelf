@@ -1,0 +1,35 @@
+11
+
+factors (the amount of water and fertiliser) that are extremely sensitive to a change in the
+background conditions. Alternatively, imagine that we have a theory that describes the details
+of the physiological mechanisms governing plant growth by referring to a series of biochemical
+reactions. Such a theory would allow deriving an invariant generalisation like
+(3) Y = a1X1 + a2X2 + … + anXn + U’
+where Y is the plant’s height and the Xs denote a set of variables relative to the physiological
+features of the plant, while U’ is a subset of U. (3) might be thought as “unpacking” U in a set
+of known variables such that, being manipulable, explicitly spell out how they interfere in the
+causal outcome (i.e., plant height). In making explicit those variables, (3) allows explaining,
+for instance, how the composition of the soil, temperature, air or noise pollution, presence of
+pests etc. can, in terms of types of biochemical reactions, make a difference to Y. Since it is
+difficult to imagine a generalisation about plant height that takes into account all background
+conditions (consider logically possible metaphysical scenarios such as drastic changes in the
+physical structure of the universe – for instance, a change in the composition of matter or in
+the structure of space), (3) still must include a variable for background U’. Nonetheless, (3) is
+more stable than (2), because it is insensitive to many of those circumstances that disrupted
+(2). Accordingly, an explanation invoking (3) is deeper that an explanation invoking (2)
+because (3) “enable[s] inferences to more counterfactual situations” (Ylikoski and Kuorikoski
+2010, p. 209) than (2).
+Explanatory depth is not just related to the stability of the explanatory generalisations, but
+also to the choice of the variables taken into account. In this respect, Hitchcock and Woodward
+observe that “ideally, one would like to formulate generalisations that are not sensitive at all to
+the ways in which the values of the variables figuring in them are produced” (2003, pp. 1867). Remember that, in the manipulationist framework, it is precisely the (logical) possibility of
+interventions what allows establishing the counterfactual dependence between an effect and its
+causes. Importantly, variables that can be manipulated independently from the specificity of
+the scenario under study make the generalisation in which they appear portable to other
+scenarios. (2), besides being shallow in the sense that it does not take into account potentially
+disrupting background conditions, is also shallower than the explanation invoking (3) because
+it relates Y to variables quite sensitive to the way in which they are manipulated. Amount of
+water and fertiliser are certainly relevant to explain the height of many plants, but are not
+relevant in all cases (think about, for instance, aquatic plants): the explanation invoking (2) is
+
+

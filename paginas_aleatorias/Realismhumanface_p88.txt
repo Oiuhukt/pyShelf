@@ -1,0 +1,82 @@
+Metaphysics
+
+Truth and Convention
+
+It is easy to see why Professor Antipode should like this line. In the
+case of the two versions we have been discussing, the reductive interpretation is syncategorematic; that is, it interprets sentence (1) (and
+likewise any other sentence of Carnap's language) as a whole, but
+does not identify the individual words in (1) with individual words
+and phrases in (2); nor does it identify "mereological sums" with any
+objects in the language to which the reducing is being done. (1) as a
+whole is "translated" by (2) as a whole; but the noun-phrase "object
+which is partly red and partly black" has no translation by itself. In
+this case the moral of the translation-the moral if Professor Antipode imitates Quine's rhetoric-is slightly different. We cannot say
+either mereological sums are identical with the entities with which we
+identified them or they don't really exist (because the "translation,"
+or relative interpretation of the Polish logician's language in Carnap's
+language, didn't identify "mereological sums" with anything; it just
+showed how to translate sentences about them syncategorematically).
+The moral is, rather, mereological sums don't really exist, but it is
+sometimes useful to talk as if they existed. Of course Professor Antipode would be delighted with this moral!
+I do not mean to give the impression that the possibility of reducing
+entities away by a formal translation scheme is always decisive evidence that they don't really exist, according to Quine. Sometimes we
+have the choice of either doing without one batch of entities, call them
+the A entities, or doing without another batch, call them the B entities-the reduction may be possible in either direction. In such a case,
+Occam's Razor doesn't know whom to shave! Or the reducing language may itself seem suspicious (some people think sets are very suspicious entities). But, when the reducing language (the prima facie
+"poorer" language) is one we are happy with, and the reduction does
+not go both ways, it is clear that Quine regards this as very strong
+evidence for denying the real existence of the unreduced entities.
+Carnap, on the other hand, rejected the idea that there is "evidence" against the "existence" of numbers (or against the existence
+of numbers as objects distinct from sets). He would, I am sure, have
+similarly rejected the idea that there is evidence against the "existence" of mereological sums. I know what he would have said about
+this question: he would have said that the question is one of a choice
+of a language. On some days it may be convenient to use what I have
+been calling "Carnap's language" (although he would not have
+objected to the other language); on the other days it may be conve-
+
+nient to use the Polish logician's language. For some purposes it may
+be convenient to regard the Polish logician's language of mereological
+sums as "primitive notation"; in other contexts it may be better to
+take Carnap's language as the primitive notation and to regard the
+Polish logician's language as "abbreviations," or defined notation.
+And I agree with him.
+It will be seen that there are a number of different stances one could
+take on the question of the relation between (1) and (2). One could
+say:
+
+102
+
+103
+
+(a) The two sentences are mathematically equivalent.
+(b) The two sentences are logically equivalent.
+(c) The two sentences are neither logically nor mathematically
+equivalent.
+(d) The first sentence is false and the second true (Professor
+Antipode's position).
+(e) The two sentences are alike in truth-value and meaning.
+(f) The two sentences are alike in truth-value and unlike in
+meanmg.
+(g) The second sentence can be used as an abbreviation of the
+first, but this is really just a useful "make believe."
+My own position-and my own internal realism-is that there is
+no fact of the matter as to which of these positions is correct. Taking
+the original dispute up into the "metalevel" and reformulating it as a
+dispute about the properties-mathematical or logical equivalence,
+synonymy, or whatever-of linguistic forms doesn't help. None of
+these notions is well defined enough to be a useful tool in such cases.
+Suppose, for example, I follow the apparently innocent route
+pioneered by Donald Davidson, and say that the test for meaning is
+to see what we get when we construct a theory of the language which
+is (i) recursively presented (in the style of a Tarskian truth definition),
+and (ii) in accord with translation practice.' Obviously, I shall have
+to admit that it violates standard translation practice to give (2) as a
+translation of (1).6 This settles the truth-value of (e) above; (e) is false,
+whether the sentences are alike or unlike in truth-value, since they are
+not the same in meaning.
+Suppose we follow Davidson farther, and accept the central
+Davidsonian tenet that if I regard a sentence in an "alien language"
+as meaningful (and I claim to know what it means), then I must be
+able to give (or would be able to give, if I were sufficiently self-con-
+
+

@@ -1,0 +1,45 @@
+Philosophy of Developmental Biology
+
+61
+
+organization of a developmental system without affecting normal cytodifferentiation mechanisms” (1975: 169). This concept was widely adopted, and
+different types of selector genes are recognized today: ﬁeld-, region-, celltype, tissue- and compartment-speciﬁc (Mann and Carroll, 2002). As their
+name suggests, these genes select in some deﬁned area of the embryo which
+other genes are activated. Their effect is that one among several different
+developmental pathways is selected. All selector genes are transcription factors
+that directly bind to DNA, often together with several cofactors, to regulate the
+expression of nearby target genes. Gradient-forming morphogens (see
+Section 3) determine what selector genes are activated when and where in the
+embryo. In contrast to the morphogens, selector genes act cell-autonomously,
+which means that they only have an effect on cells which express them (see
+Section 4.1). Thus, selector genes are parts of intricate networks of transcription
+factors that are said to “interpret” the positional information provided by
+morphogen gradients.
+While the concept of selector genes came from classical genetic research on
+wing development in Drosophila, several other classes of genes were eventually
+admitted to the category of selector genes. I shall brieﬂy discuss two examples:
+the Hox genes, a class of region-speciﬁc selector genes, and eyeless/Pax6,
+a ﬁeld-speciﬁc selector gene. Hox genes are involved in patterning the embryo
+along the anteroposterior axis. They determine the identity of each one of the
+segments on an insect embryo (see Box 3).
+It has not been easy to identify the genes on which the Hox genes act. As
+usual, the best understood systems are found in Drosophila. For example,
+Lovegrove et al. (2006) have studied the coordinated control of several target
+genes of the Hox-gene Abdominal-B during development of the respiratory
+organ of the larva, known as the spiracle. Abd-B (see Box 3) speciﬁes the
+identity (i.e., normal development) of the last ﬁve posterior segments of the
+ﬂy. According to the study by Lovegrove et al., Abd-A ﬁrst activates a layer of
+four regulator genes, each of which regulates the activity of a set of realizator
+genes belonging to three functional groups, namely genes encoding cell
+adhesion proteins (molecules that make speciﬁc cells stick together), cell
+polarity genes (encoding proteins differentiating the cell membrane into
+a side facing the surface and one facing the interior of the tissue), and proteins
+regulating cytoskeleton formation (cytoskeleton: intracellular protein ﬁbers
+that give the cell stability as well as allowing cell movements). Abd-B and the
+four regulatory genes thus coordinate the activities of these genes, determining the cells to form speciﬁc structures such as the spiracles. Figure 6 shows
+coordinated control of gene expression by the Hox gene Abdominal-B in the
+fruit ﬂy.
+Downloaded from https://www.cambridge.org/core. IP address: 201.141.17.62, on 16 Mar 2022 at 22:01:23, subject to the Cambridge Core terms
+of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/9781108954181
+
+

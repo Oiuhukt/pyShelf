@@ -1,0 +1,36 @@
+This is the author's accepted manuscript without copyediting, formatting, or final corrections. It will be published in its final form in an upcoming issue of The British
+Journal for the Philosophy of Science, published by The University of Chicago Press on behalf of The British Society for the Philosophy of Science.
+Include the DOI when citing or quoting: https://doi.org/10.1086/728261. Copyright 2023 The British Society for the Philosophy of Science.
+
+Relative Significance Controversies in Evolutionary Biology
+
+Notice how this description adds nuance to what is at stake in the controversy concerning
+allopatric and sympatric speciation. When doubt was cast on whether sympatric speciation
+ever occurred in nature or was merely a theoretical possibility, the theorists involved were
+inquiring about whether (or how often) selective pressures could be strong enough for subpopulations to evolve and become reproductively isolated from one another. In other words,
+this controversy began with researchers asking a frequency question, which then shifted to
+researchers asking about the causal mechanisms that generated sympatric speciation events.
+This led to another shift: how often are the mechanisms of sympatric speciation causally
+efficacious?10 Although I will delve into this more in sections 3 and 4, the answer to this
+question is more substantive than the answer to how often speciation events are the result of
+a geographic barrier. It also becomes far more understandable why this debate seems meaningful and important to evolutionary biologists who have engaged in it.
+The controversy involving the evolution of dispersal patterns also seems better framed as
+a blend of frequency and efficacy questions although it did not start out that way. In reflecting on previous work on the evolution of dispersal patterns, Dobson and Jones ([1985]) argue
+that previous investigators mistakenly concluded that dispersal patterns must have evolved
+because of a single cause. These theorists generalized from their data to conclude that ‘the
+major cause of natal dispersal […] among mammals is competition […] and the “inbreeding
+hypothesis” is both inadequate and unnecessary to explain general dispersal patterns’
+(Moore and Ali [1984], p. 107). This claim suggests that initially, Moore and Ali took the
+evolution of dispersal patterns to be a relative frequency controversy; an observed dispersal
+pattern could be explained by one of three causes and to make a general claim about mammalian dispersal patterns, one simply needed to count up the cases. In response, Dobson and
+Jones ([1985], p. 855) argue that this approach is mistaken, as these hypotheses ‘are not
+exclusive […] Even if one cause is of primary importance in some species, other factors may
+contribute to the magnitude of dispersal’. Thus, they are interested in efficacy claims. However, Dobson and Jones are still in the business of making general claims about dispersal
+
+10
+
+Dietrich’s ([2020]) observation that the positions of scientists (often) change in both subtle and more radical
+ways as the relative significance controversy extends over time is complementary to the view I defend here—
+that the question at the heart of the controversy can shift.
+
+

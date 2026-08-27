@@ -1,0 +1,52 @@
+Family Ties
+
+235
+
+qualification “Munich” is owed to the fact that several prominent exponents of the
+movement held chairs at the Ludwig Maximilians University of Munich, making it the
+epicentre of the movement. Early works in this tradition are Sneed’s (1971) and Stegmüller’s (1976, 1979). Balzer et al. (1987) is the foundational text that the crystalised
+the movement. The collections edited by Balzer and Moulines (1996) and Balzer et al.
+(2000) give insight into the panorama of work done in the movement. For a discussion
+of the aims of MS, and a defence against criticisms, see Lorenzano’s (2013).
+2 I would like to thank José Díez for many illuminating discussions on MS and for a long
+list of helpful comments on earlier drafts of this chapter.
+3 The presentation of the material in this section and the next follows Balzer et al. (1987).
+Moulines’ (2002) and (1996) offer introductions. Concise summaries of the main ideas
+can be found in Díez’s (2002, Sec. 1) and Gähde’s (2002, Sec. 2); Kuiper’s (2001,
+Ch. 12) and Niiniluoto’s (1984, Ch. 6) offer chapter-length introductions.
+4 The notation in this chapter is chosen so that it is continuous with the notation used earlier in the book, in particular in Chapter 5. This notation deviates from what is common
+in the literature on MS, where M is used to designate the class of actual models, CTa, M p
+is used to designate the class of potential models CTp, and M pp is used to designate the
+class of partial potential models CTpp (which we introduce shortly).
+5 The words “force” and “mass” have, of course, been used before Newton. But when
+used by other writers they did not denote the same concepts as they do in Newton. In
+fact, before Newton, “mass” was used as a synonym for “weight” and the difference
+between something somehow being heavy and something having a determinate mass
+can only be made in Newtonian mechanics.
+6 The quantifiers are crucial. A concept is T-theoretical iff all determinations of a concept
+use a law of T. If this is not that case, then a concept is T-non-theoretical. Being T-nontheoretical is, however, compatible with there being some determinations of the concept
+that rely on a law of T; the crucial condition is that there is at least one determination
+that does not. For instance, distance is Newtonian-mechanics-non-theoretical because
+is it can be measured with rods, but it can also be measured using dynamical laws. The
+notion of T-theoreticity originates in Sneed’s (1971). Its canonical formulation is due
+to Balzer et al. (1987, Sec. II.3). Further discussions can be found in Andreas’ (2008),
+Balzer’s (1986), Díez’s (2002), and Moulines’ (1985). Torretti’s (1990, Secs. 3.3 and
+3.4) offers a critical discussion of MS’s conception of T-theoreticity.
+7 MS’s full definition of the core contains three other elements. Constraints take relations between models into account (for instance, if the same particle appears in several
+models of the theory); links specify the relations of the model of one theory to the
+models of related other theories; and approximations specify what kind of idealisations
+are permissible to make the theory applicable to physical systems. I set these additional
+elements aside because they are not essential for the discussion in this chapter.
+8 Force functions that lead to equations that have no unique solutions are then dismissed
+as “unphysical”. Norton (2008) objects and argues that that there is no reason to dismiss such force functions. For our current purposes it is immaterial how this issue is
+resolved.
+9 For instance, Suppe’s sizeable collection is entitled “The Structure of Scientific Theories”. Darrigol (2008) gestures in a similar direction as MS when he emphasises that
+physical theories have a modular structure.
+10 Formally, a theory net is “a partially ordered set of theory-elements with a basic element on the ‘top’, from which the rest of the theory-elements come out by a process of
+successive restrictions of the class of actual models (and constraints and links) and of
+the range of intended applications. What gives its unity to the theory-net is the basic
+element” (Moulines 2002, 8).
+11 It is interesting to note that the empirical claim can also be expressed through the
+Ramsey sentence, which we introduced in Section 4.6 (Díez 2005, 89).
+
+

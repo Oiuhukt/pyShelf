@@ -1,0 +1,62 @@
+Perception as as a source of knowledge > Indirect realism
+
+The answer, surely, is nothing! From the perceiver’s perspective, it doesn’t make any
+difference if there is an external object causing the sense data or not - their perception
+will be exactly the same in both cases.
+This presents a problem for indirect realism: Indirect realism says that perception works
+like situation 1: the tree causes sense data that represents the tree. But if we only
+perceive the sense data, how could we know there really is a mind-independent tree
+causing this sense data? Reality could be like situation 2 and there would be absolutely
+no difference from the perspective of the perceiver. If we only perceive sense data and
+not the object itself, then there is no way of telling if the sense data is an accurate
+representation of the external world - or even that there is an external world at all! There
+exists a veil of perception between the object and the sense data that we cannot get past.
+The argument, then, is this: indirect realism claims that there is a mind-independent
+external world, but cannot possibly provide any evidence for this claim because all we
+ever perceive is sense data.
+
+Indirect realist responses to the sceptical problem
+Several indirect realist philosophers have responded to the problem of the veil of
+perception above. The syllabus lists three responses to the veil of perception (and we
+also cover these responses in the scepticism discussion starting from page 73).
+
+Russell: External world is the best hypothesis
+Bertrand Russell concedes that there is no way we can conclusively get past the veil of
+perception and prove the existence of the mind-independent external world. However,
+Russell argues that the existence of a mind-independent external world is the best
+hypothesis (best explanation) for our perceptions.
+Russell’s argument is as follows:
+
+e
+
+Either:
+o
+©
+
+A: Mind-independent objects exist and cause my sense data
+B: Mind-independent objects do not exist and do not cause my sense data
+
+e
+
+|can’t prove
+A or B definitively
+
+e
+
+So,| have to treat A and B as hypotheses
+
+¢
+
+Aisa better explanation of my experience than B
+So, mind independent objects exist and cause my sense data
+
+e
+
+Russell uses an example of a cat to explain why he thinks hypothesis A is a better
+on a sofa
+explanation for his perceptions than hypothesis B. Suppose | see a cat sitting
+and then later | see it sitting on the floor, the two explanations are:
+
+47
+
+

@@ -1,0 +1,46 @@
+Carnapian Explication
+
+
+
+. Carnap’s Explicit Discussion of Explication
+The ﬁrst use of the term “explication,” in Carnap’s technical sense, occurs
+in his article “Two Conceptions of Probability.” A more elaborate discussion of explication, as a philosophical method, occurs in Meaning and
+Necessity. There Carnap characterizes it as follows:
+The task of making more exact a vague or not quite exact concept used in
+everyday life or in an earlier stage of scientiﬁc or logical development, or
+rather of replacing it by a newly constructed, more exact concept, belongs
+among the most important tasks of logical analysis and logical construction.
+We call this the task of explicating, or of giving an explication for, the
+earlier concept. (M&N, –, original emphasis)
+
+Similarly but more concisely, he writes in Logical Foundations of
+Probability: “By an explication we understand the transformation of an
+inexact prescientiﬁc concept, the explicandum, into an exact concept, the
+explicatum” (LFP, , original emphasis). Later commentators have also
+used “conceptual engineering“ for the method articulated by Carnap,
+based on the fact that he talks about “language engineering” occasionally.
+As its title makes clear, the two core concepts to be explicated in
+Carnap’s  book are “meaning” and “necessity.” In this  book,
+as well as the closely related  article, his focus is on “probability” and
+“conﬁrmation,” two other targets of explication. The longer quote above
+indicates that Carnap thinks of his approach in the –s not as a
+radical departure from but as the development of earlier approaches,
+especially “logical analysis” and “logical construction” (Russellian terminology). There is also a direct link to the method of “rational
+reconstruction“ in Carnap’s earlier Der logische Aufbau der Welt ().
+Among the concepts “analyzed” and “reconstructed” in his earlier works,
+from the s to the early’s, are: “space” (in various senses); “completeness” (for axiom systems); and “analytic” or “logical truth” (building
+on Wittgenstein’s notion of “tautology“). In the s–s, he treats
+
+
+
+See (IA, ), also Creath (a, ). I owe this point and the references to Georg Brun.
+In the preface to the second edition of Aufbau, published in , Carnap actually starts to replace
+the label “logical reconstruction” explicitly by “explication,” as Georg Brun pointed out to me.
+Hence, this early book can be seen as providing Carnapian explications for a wide range of
+empirical concepts.
+
+Cf. Carnap’s Der Raum, Allgemeine Axiomatik (), Logische Syntax der Sprache (LSS) and
+Introduction to Semantics (IS), respectively; see Leitgeb and Carus () for precise references.
+
+
+

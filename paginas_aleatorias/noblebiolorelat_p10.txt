@@ -1,0 +1,67 @@
+Downloaded from rsfs.royalsocietypublishing.org on December 10, 2012
+
+64
+
+Review. Theory of biological relativity
+
+D. Noble
+
+59 Winslow, R., Varghese, A., Noble, D., Adlakha, C. &
+Hoythya, A. 1993 Generation and propagation of triggered
+activity induced by spatially localised Na-K pump inhibition in atrial network models. Proc. R. Soc. Lond. B
+254, 55 –61. (doi:10.1098/rspb.1993.0126)
+60 Nash, M. P. & Hunter, P. J. 2001 Computational mechanics of the heart. J. Elast. 61, 113– 141. (doi:10.1023/
+A:1011084330767)
+61 Smith, N. P., Pullan, A. J. & Hunter, P. J. 2001 An anatomically based model of transient coronary blood ﬂow in
+the heart. SIAM J. Appl. Math. 62, 990– 1018. (doi:10.
+1137/S0036139999359860)
+62 Brenner, S. 2010 Sequences and consequences. Phil.
+Trans. R. Soc. B 365, 207 –212. (doi:10.1098/rstb.
+2009.0221)
+63 Feytmans, E., Noble, D. & Peitsch, M. 2005 Genome size
+and numbers of biological functions. Trans. Comput. Syst.
+Biol. 1, 44 –49. (doi:10.1007/978-3-540-32126-2_4)
+64 Lewontin, R. C. 1974 The genetic basis of evolutionary
+change. New York, NY: Columbia University Press.
+65 Siegelmann, H. T. 1995 Computation beyond the Turing
+limit. Science 268, 545 –548. (doi:10.1126/science.268.
+5210.545)
+66 Garny, A., Noble, D. & Kohl, P. 2005 Dimensionality in
+cardiac modelling. Progr. Biophys. Mol. Biol. 87, 47–66.
+(doi:10.1016/j.pbiomolbio.2004.06.006)
+67 Nottale, L. 1993 Fractal space-time and microphysics:
+towards a theory of scale relativity. Singapore: World
+Scientiﬁc.
+68 Nottale, L. 2000 La relativité dans tous ses états. Du mouvements aux changements d’échelle. Paris, France: Hachette.
+
+Interface Focus (2012)
+
+69 Nottale, L. 2011 Scale relativity and fractal space-time: a
+new approach to unifying relativity and quantum mechanics. London, UK: Imperial College Press.
+70 Auffray, C. & Nottale, L. 2008 Scale relativity theory and
+integrative systems biology. I. Founding principles and
+scale laws. Progr. Biophys. Mol. Biol. 97, 79 –114.
+(doi:10.1016/j.pbiomolbio.2007.09.002)
+71 Nottale, L. & Auffray, C. 2008 Scale relativity and integrative systems biology. II. Macroscopic quantum-type
+mechanics. Progr. Biophys. Mol. Biol. 97, 115–157.
+(doi:10.1016/j.pbiomolbio.2007.09.001)
+72 Hinch, R., Greenstein, J. L., Tanskanen, A. J. & Xu, L.
+2004 A simpliﬁed local control model of calcium-induced
+calcium release in cardiac ventricular myocytes. Biophys.
+J. 87, 3723–3736. (doi:10.1529/biophysj.104.049973)
+73 Hinch, R., Greenstein, J. L. & Winslow, R. L. 2006
+Multi-scale modelling of local control of calcium induced
+calcium release. Progr. Biophys. Mol. Biol. 90, 136–150.
+(doi:10.1016/j.pbiomolbio.2005.05.014)
+74 Tanskanen, A. J., Greenstein, J. L., Chen, A., Sun, X. &
+Winslow, R. L. 2007 Protein geometry and placement in
+the cardiac dyad inﬂuence macroscopic properties of calcium-induced calcium release. Biophys. J. 92, 3379–3396.
+(doi:10.1529/biophysj.106.089425)
+75 Einstein, A. 1936 Lens-like action of a star by the
+deviation of light in the gravitational ﬁeld. Science 84,
+506– 507. (doi:10.1126/science.84.2188.506)
+76 Petters, A. O., Levine, H. & Wambsganss, J. 2001 Singularity
+theory and gravitational lensing. Boston, MA: Birkhäuser.
+77 Bitbol, M. In press. Downward causation without foundations. Synthese. (doi:10.1007/s11229-010-9723-5)
+
+

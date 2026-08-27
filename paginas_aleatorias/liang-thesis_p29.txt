@@ -1,0 +1,35 @@
+Chapter 3
+
+Hyphenation
+
+Let us now try to apply the ideas of the previous chapter to the problem of
+hyphenation. T£JX82 will use the pattern matching method described in Chapter 1,
+but we shall first discuss some related approaches that were considered.
+
+Finite-state machines with output
+We can modify our trie-based dictionary representation to perform hyphenation
+by changing the output of the trie (or finite-state machine) to a multiple-valued
+output indicating how the word can be hyphenated, instead of just a binary yes-no
+output indicating whether or not the word is in the dictionary. That is, instead of
+associating a single bit with each trie transition, we would have a larger "output"
+field indicating the hyphenation "action" to be taken on this transition. Thus on
+recognizing the word hy-phen-a-tion, the output would say "you can hyphenate
+this word after the second, sixth, or seventh letters".
+To represent the hyphenation output, we could simply list the hyphen positions,
+or we could use a bit vector indicating the allowable hyphen points. Since there
+arc only a few hundred different outputs and most of them occur many times, we
+can save some space by assigning each output a unique code and storing the actual
+hyphen positions in a separate table.
+To conveniently handle the variable number of hyphen positions in outputs,
+we will use a linked representation that allows different outputs to share common
+portions of their output lists. This is implemented using a hash table containing
+pairs of the form (output, next), where output is a hyphenation position and next
+is a (possibly null) pointer to another entry in the table. To add a new output list
+to the table, we hash each of its outputs in turn, making each output point to the
+previous one. Interestingly, this process is quite similar to suffix compression.
+The trie with hyphenation output can be suffix-compressed and packed in the
+same manner as discussed in Chapter 2. Because of the greater variety of outputs more of the subtrics will be distinct, and there is somewhat less compression.
+
+23
+
+

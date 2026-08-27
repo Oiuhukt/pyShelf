@@ -1,0 +1,110 @@
+(1) The specification of some non-empty set, written George satisfies “Gx” on this interpretation, but one
+|M| to serve as the domain of quantification mapping “x” to Ringo will not. The same variable
+for the language.
+assignment that satisfies “Gx” might not satisfy
+This set is the sum total of entities the quanti- “Gy” if it maps “y” to Ringo.
+fiers are interpreted to “range over”.
+variable assign(2) A function assigning, for each constant in the Definition: The value of term 𝑡 for M
+ment
+𝑠
+for
+structure
+M,
+written
+Val
+𝑠 (𝑡), is defined
+language, some fixed member of |M| for which
+recursively as follows:
+it is taken to stand.
+M
+M
+For a given constant 𝑐, this member is denoted (1) If 𝑡 is a constant 𝑐, then Val𝑠M (𝑡) is 𝑐 ;
+(2) if 𝑡 is a variable 𝑥, then Val𝑠 (𝑡) is 𝑠(𝑥);
+in the metalanguage by 𝑐 M .
+function term 𝑓 (𝑡1 , … , 𝑡𝑛 ), then ValM
+𝑠 (𝑡) is
+(3) A function assigning, for each predicate 𝐹 with (3) ifM𝑡 is a M
+M
+𝑓
+(Val
+(𝑡
+),
+…
+,
+Val
+(𝑡
+)),
+i.e.,
+the
+value
+of the
+1
+𝑛
+𝑠
+𝑠
+superscript 𝑛 in the language, some subset of
+function assigned to 𝑓 in the structure for the
+|M|𝑛 , written 𝐹 M .
+values of the argument terms as arguments.
+That is, the structure assigns to each predicate
+a set of 𝑛-tuples from |M|, its “extension”.
+Definition: The notion of a variable assignment 𝑠
+(4) An assignment, for each function letter 𝑓 with
+in structure M satisfying a given formula 𝜑, writsuperscript 𝑛 in the language, some 𝑛-place opten M, 𝑠 ⊨ 𝜑, is defined recursively. For a given
+eration on |M|, written 𝑓 M .
+variable assignment 𝑠 in structure M:
+(i) M, 𝑠 ⊨ ⊤, always holds; M, 𝑠 ⊨ ⊥ never holds.
+You can take “interpretation” here pretty literally;
+(We can write this as M, 𝑠 ⊭ ⊥.)
+a structure is basically an assignment of a universe
+I.e., ⊤ and ⊥ are, respectively, satisfied by
+of discourse to the quantifiers, and an appropriate
+every assignment for every structure, and
+semantic value to each non-logical constant of the
+satisfied by no assignment for any structure.
+language.
+
+Variable assignments and satisfaction
+Definition: A variable assignment, 𝑠, for interpretation M, is a function that maps every variable
+of the language of M to a member of |M|.
+There can be (and unless M has only a single
+member always are) many different variable assignments for any given structure.
+E.g., if |M| is {John, Paul, George, Ringo}, then
+there is one that maps every variable to John, one
+that maps every variable to Ringo, one that maps
+“x” to John and the rest to Ringo, etc.
+Suppose we have an open formula, “Gx”, meaning, e.g., “x is a guitarist”. A given interpretation
+(structure)—such as the one that makes GM the set
+{John, George}—does not say that this is true or
+false, because it depends on “x”. But we say the
+formula is satisfied when “x” is assigned to George.
+Technically, we make satisfaction a relationship
+between a variable assignment and a formula (open
+or closed). A variable assignment mapping “x” to
+10
+
+(ii) If 𝜑 is an atomic wff of the form 𝐹 (𝑡1 , … , 𝑡𝑛 ),
+M
+then M, 𝑠 ⊨ 𝜑 iff ⟨ValM
+𝑠 (𝑡1 ), … , Val𝑠 (𝑡𝑛 )⟩ ∈
+𝐹 M.
+I.e., atomic wffs are satisfied when the values
+of their terms on the assignment are members
+of the extension the structure assigns to the
+predicate.
+(iii) If 𝜑 is of the form ¬𝜓 , then M, 𝑠 ⊨ 𝜑 iff M, 𝑠 ⊭
+𝜓.
+I.e., an assignment satisfies a negation just in
+case it does not satisfy what it negates.
+(iv) If 𝜑 is of the form 𝜓 ∨ 𝜃, then M, 𝑠 ⊨ 𝜑 iff
+either M, 𝑠 ⊨ 𝜓 or M, 𝑠 ⊨ 𝜃.
+I.e., an assignment satisfies a disjunction iff
+it satisfies either of the two disjuncts.
+(v) If 𝜑 is of the form 𝜓 ∧ 𝜃, then M, 𝑠 ⊨ 𝜑 iff both
+M, 𝑠 ⊨ 𝜓 and M, 𝑠 ⊨ 𝜃.
+I.e., an assignment satisfies a conjunction iff
+it satisfies both conjuncts.
+(vi) If 𝜑 is of the form 𝜓 → 𝜃, then M, 𝑠 ⊨ 𝜑 iff
+either M, 𝑠 ⊭ 𝜓 or M, 𝑠 ⊨ 𝜃.
+
+

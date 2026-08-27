@@ -1,0 +1,56 @@
+338
+
+BAS C. VAN FRAAS SEN
+
+where the chance of X at t in Yi is equal to that of X at t in Xi (because
+Yi ,t Xi). So (3) is equivalent to:
+
+(4)
+
+Pt(X)
+
+=: L Pt(y)ci(x)·
+yEK
+
+So far we have simply followed through the reasoning for the R-principle. If
+we now want to conditionalize, we must move back to step (2) above. There
+will be no harm done if we toss out, say, worlds Xk+l' ... ,X m which means
+discarding sets ak+l' . .. ,an altogether, and renormalize:
+
+(5)
+where alk = al U ... U ak. By reasoning as above, we get
+
+(6)
+There is no harm done because whole sets H(x, t) are discarded at once, not
+just parts of them. But that is true not only if we conditionalize on alk, but
+if we conditionalize on any backward-looking proposition. In the finite case
+we have therefore, by generalizing (6) and reasoning as for (4) above:
+
+(7)
+
+1
+Pt(XjE) = Pt(E)
+
+L {Pt(y)ci(X):yEE}
+
+provided Pt(E) 0/= 0 and E is backward-looking at t.
+Generalizing also to the non-nnite case, we arrive at the:
+(Basic Principle):
+
+Pt(XjY) = Expy Ct(X)
+
+= Pt~Y)
+
+Iv
+
+Ct(X) dPt
+
+provided Y is backward-looking at t, and
+Pt(Y) 0/= O.
+
+Intuitively, this says that, in appropriate cases, the conditional probability of
+a proposition equals the conditional expected value of its chance.
+To see that the proviso (backward-looking) cannot be eliminated, it suffices
+to consider Y = K - X. This provides no difficulty if Y is backward-looking,
+
+

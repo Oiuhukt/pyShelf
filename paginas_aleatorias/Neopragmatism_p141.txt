@@ -1,0 +1,46 @@
+130
+
+Neopragmatism
+
+Cartwright’s view (in Cartwright 1979) is that general causal relations—­which
+she calls causal laws—­provide the grounds for the effectiveness of the effective
+strategies we may use to promote our ends. I propose to reverse the order of
+explanation here, and theorize that the general causal relations are as they are in
+virtue of which methods are the effective ones.
+This leaves me in agreement with Cartwright that in any effective method
+<M, K, E>, the kind of state of affairs that can be a value of M(x) must be among
+the causes of the kind of state of affairs that can be a value of E(x), when the
+background condition K(x) is in place—­at least in the kinds of cases that
+Cartwright was interested in. There is an important exception, though: in some
+cases, the means in an effective method helps to ground the end, rather than to
+cause it. For example, consider the method <M(t), K(t), E(t)> where:
+M(t) = the proposition that Bert believes at t that it is raining at t
+K(t) = the proposition that it is not raining at t
+E(t) = the proposition that Bert has a false belief about the weather at t
+This is a clear case of an effective method. You can indeed get Bert to have a false
+belief about the weather by means of getting him to think it’s raining when it’s
+really not. But in a successful implementation of this method, the means does not
+cause Bert to have a false belief about the weather—­it simply is Bert’s false belief
+about the weather. In a case like this, M(x)&K(x) entails E(x), in the sense that
+there is no (broadly) logically possible world in which M(x)&K(x) is true while
+E(x) is not. One of the things that Hume got right about causation is that there
+can be no such entailment of an effect by its cause. Causal connections are not
+logical connections.13
+So, here are three plausible principles relating general causation to ef­fect­ive­
+ness of methods:
+(5a) If M(x)&K(x) entails E(x) for some value of x, then M(x) is not a cause
+of E(x) in conditions K(x).
+(5b) If <M, K, E> is effective, and M(x)&K(x) does not entail E(x) for any
+value of x, then M(x) is a cause of E(x) in conditions K(x).
+(5c)
+
+If M is a cause of E in conditions K, then <M, K, E> is effective.
+
+We might call (5a) “Hume’s principle” and (5b) “Cartwright’s principle.” Here is
+the rationale for (5c): suppose I do bring about a cause of my end, under condi­
+tions in which that cause does indeed act as a cause, and suppose my end is then
+realized—­
+don’t I bear b-responsibility for the realization of my end, then?
+13 I am grateful to Philip Pettit for discussion on this point.
+
+

@@ -1,0 +1,40 @@
+PART II : EXPLANATION, C AUSATI O N , AND LAWS
+explanation, " but not a dictionary definition. A dictionary definition merely
+reports how scientists and others actually use the words "scient ific explanation ." Traditional philosophy of science seeks a checklist of conditions that any
+scientific explanation should satisfy. When all are satisfied, the checklist guarantees the scientific adequacy of an explanation. In other words, the traditional
+approach seeks a set of conditions individually necessary and jointly sufficient
+for something being a scientific explanation. This "explicit " definition , or as it
+was sometimes called, this "explication " or "rat ional reconstruction " of the
+dictionary definition , would render the concept of scientific explanation precise
+and philosophically well founded. Carl Hempel offers such definitions or rational
+reconstructions of what he considers to be two basic types of scientific explanation: Deductive-Nomological and Probabilistic or Probabilistic-Statistical
+Explanation . His definitions make explicit what has long been assumed: that
+explanation in science is driven by laws of nature or our best hypotheses about
+what these laws are.
+An explicit definition, such as the one Hempel seeks, gives the necessary
+and sufficient conditions for a thing, event, state, process, property to be an
+instance of the term defined. For example, triangle is explicitly defined as
+"plane figure having three sides. " Since the conditions are together sufficient
+we know that everything which fulfills them is a Euclidean triangle and since
+the conditions are individually necessary, we know that if just one is not
+satisfied by an item, it is not a Euclidean triangle. The beauty of such definitions is that they remove vagueness, and provide for maximally precise
+definitions.
+An explicit definition or "explicat ion" of the notion of a scientific explanation
+could serve the prescriptive task of a litmus test or yardstick for grading and
+improving explanations in the direction of increasing scientific adequacy. The
+demand that philosophical analysis result in such a precise and complete definition is in part a reflection of the influence of mathematical logic on the Logical
+Positivists and their immediate successors in the philosophy of science, like
+Hempel. For in mathematics concepts are introduced in just this way-by providing explicit definitions in terms of already understood previously introduced
+concepts. The advantage of such definitions is clarity: there will be no borderline
+cases and no unresolvable arguments about whether some proposed explanation is "scient ific" or not. The disadvantage is that it is often impossible to give
+such a complete definition or "explicat ion" for most concepts of interest. One
+way to show that the concept of explanation is not amenable to such rational
+reconstruction is to devise counter-examples-bona fide scientific explanations
+that do not satisfy the definition , and non-explanations that do satisfy it, thus
+showing that the concept in question fa ils to capture the essence of scientific
+explanation. This is van Fraassen's strategy in "The Pragmatics of Explanation. "
+He goes on to argue that explanation is not as Hempel assumes, a logical
+
+40
+
+

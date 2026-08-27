@@ -1,0 +1,41 @@
+mathematical individuals to be derivative from the existence and properties
+of structures—so that e.g. the nature of the natural number 2 is exhausted
+by the fact that it comes third in the successor relation 0−1−2−3−4−. . .—
+has traded on logical methods. For instance: While first-order axiomatisations of arithmetic are provably incapable of excluding unintended interpretations of the symbols of arithmetic5 , there are second-order axiomatisations
+of arithmetic—most famously, the system of the second-order (Dedekind)Peano axioms—which are provably categorical in the sense that every two
+models of such a system of axioms are isomorphic to each other, that is,
+have the same structure. This categoricity theorem, which was proven by
+the German mathematician Richard Dedekind already in the 19th century,
+and which may be called a model-theoretic theorem (model theory being a
+part of logic again), explains therefore how and why we might be able to
+get epistemic access to mathematical structures such as the one of the natural numbers: by their categorical second-order axiomatisations (see Shapiro
+1997 for more on this).
+Similarly, Nominalism about mathematics, according to which there are
+no abstract objects at all even though mathematical theories may still be
+used to shorten longish purely logical derivations of statements about the
+physical world from other statements about the physical world, experienced
+a much richer, more precise, and much more sophisticated revival by means of
+logical theorems than it had ever had before in the traditional metaphysical
+debates between Realists and Nominalists: Hartry Field’s Science Without
+Numbers (Field 1980), which formulates physical theories without reference
+to numbers on the basis of representation theorems that were once proven in
+what one might now call the model theory of geometry, is the most famous
+example.
+But without doubt the most drastic impact that a logical result ever
+had on a school in the philosophy of mathematics is the impact that Kurt
+Gödel’s (1931) famous Incompleteness Theorems6 had on Formalism, which
+5
+
+There is a whole branch of mathematical logic which deals with such non-standard
+models of arithmetic or with non-standard models of mathematical theories more generally.
+6
+Boolos, Burgess, and Jeffrey (2002) is a classical introduction to the theorems. Smith
+(2009) is a recent and detailed reconstruction of the Incompleteness Theorems which is
+accessible also to non-mathematicians. Hájek and Pudlák (1991) is recent mathematical
+treatment of formal systems of first-order arithmetic in general. Raatikainen (2005) and
+Torkel Franzén’s Gödel’s Theorem. An Incomplete Guide to Its Use and Abuse (Franzen
+2005) give excellent surveys of the philosophical significance of the Incompleteness Theo-
+
+4
+
+

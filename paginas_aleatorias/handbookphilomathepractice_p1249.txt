@@ -1,0 +1,57 @@
+The Ethics of Mathematical Practice
+
+1253
+
+Floridi L, Sanders JW (2004) On the morality of artiﬁcial agents. Mind Mach 14(3):349–379
+Frankel MS (2013) Scientists’ social responsibilities in an evolving global research environment.
+Address to American Association for the Advancement of Science, annual meeting, Boston,
+16 February 2013. https://www.aaas.org/sites/default/ﬁles/Social-Responsibility_Frankel.pdf.
+Accessed 26 Nov 2020
+Franklin J (2005) A “professional issues and ethics in mathematics” course. Aust Math Soc Gaz
+32(2):98–100. http://www.austms.org.au/wp-content/uploads/Gazette/2005/May05/franklin.pdf.
+Accessed 26 Nov 2020
+Gödel K (1931) Über formal unentscheidbare Sätze der Principia Mathematica und verwandter
+Systeme I. English edition (1967): From Frege to Gödel: a source book in mathematical logic
+(trans and ed: van Heijenoort J). Harvard University Press, Cambridge, MA, pp 592–617
+Goldacre B (2012) Bad pharma. Faber and Faber, London
+Goldstein D (2014) The teacher wars: a history of America’s most embattled profession, 1st edn.
+Doubleday, New York
+Gorur R (2016) Seeing like PISA: a cautionary tale about the performativity of international
+assessments. Eur Educ Res J 15(5):598–616
+Grind K, Schechner S McMillan R, West J (2019) How Google interferes with its search algorithms
+and changes your results. The Wall Street Journal, 15 November 2019. https://www.wsj.com/
+articles/how-google-interferes-with-its-search-algorithms-and-changes-your-results11573823753. Accessed 1 Jan 2021
+Grossman V (1980) Life and fate. New York Review Classics, New York
+Hacking I (2014) Why is there philosophy of mathematics at all? Cambridge University Press,
+Cambridge, UK
+Hardy GH (1929) Mathematical proof. Mind 38(149):1–25
+Hardy GH (1940) A mathematician’s apology. Cambridge University Press, Cambridge, UK
+Harper D (n.d.) Online etymology dictionary. http://www.etymonline.com/index.php?
+term¼justiﬁcation. Accessed 14 Sept 2013
+Harris M (2015) Mathematics without apologies: portrait of a problematic vocation. Princeton
+University Press, Princeton
+Harris M (2017) Do mathematicians have responsibilities? In: Sriraman B (ed) Humanizing
+mathematics and its philosophy. Springer, Cham, pp 115–123
+Hauge KH, Kacerja S, Lilland IE (2019) Xenophobia and numbers in the media – discussing
+mathematics education in the post-truth era. Philos Math Educ J 35:1–23. http://socialsciences.
+exeter.ac.uk/education/research/centres/stem/publications/pmej/pome35/index.html. Accessed
+28 Nov 2020
+Hersh R (1990) Mathematics and ethics. Humanist Math Netw J 1(5):20–23. http://scholarship.
+claremont.edu/hmnj/vol1/iss5/9. Accessed 20 Dec 2020
+Hersh R (1997) What is mathematics, really? Jonathon Cape, London
+Hyndman M (1978) Schools and schooling in England and Wales: a documentary history. Harper &
+Row, London
+Johnson TC (2012) Ethics and ﬁnance: the role of mathematics. http://papers.ssrn.com/sol3/papers.
+cfm?abstract_id¼2159196. Accessed 15 Sept 2013
+Johnson TC (2017) Ethics in quantitative ﬁnance: a pragmatic ﬁnancial market theory. Springer,
+Cham
+Johnson B (2020) UK Prime Minister’s broadcast on British national TV, 10 May 2020 about the
+Covid-19 virus threat and the UK Government response. https://www.youtube.com/watch?
+v¼P8HC5sOHzus. Accessed 22 May 2020
+Joseph GG (2000) The crest of the peacock, non-European roots of mathematics. Princeton
+University Press, Princeton/Oxford, UK
+Kitcher P (1984) The nature of mathematical knowledge. Oxford University Press, New York
+Kline M (1980) Mathematics: the loss of certainty. Oxford University Press, Oxford, UK
+Knuth DE (1985) Algorithmic thinking and mathematical thinking. Am Math Mon 92:170–181
+
+

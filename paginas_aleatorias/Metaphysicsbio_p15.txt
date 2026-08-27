@@ -1,0 +1,39 @@
+OF MICE AND METAPHYSICS
+
+445
+
+be (virtually) indistinguishable to predators. Thus, not just any specific
+variation in genotype is causally sufficient for selection.16
+Further, the same is true of variation in phenotype. Suppose that the D
+allele has pleiotropic effects so that all mice with this allele are slightly
+more sensitive to pain and suppose that this trait has no consequences
+for survival and reproduction. Then, variation in sensitivity to pain will
+be perfectly correlated with variation in coat color, but although there will
+be selection of mice who are sensitive to pain there will not be selection
+for sensitivity to pain (see Sober 1984). Thus, not just any heritable variation in phenotype is causally sufficient for selection.
+Finally, such properties like variation in genotype and variation in phenotype are unable to capture certain biological similarities. Consider the
+rock pocket mice again. Hoekstra and Nachman (2003) showed that there
+were no significant differences between rock color among four lava flows
+in New Mexico and Arizona. And, although there were minor phenotypic
+differences between populations—melanic mice in the New Mexico populations were slightly, but significantly, darker than those in the Arizona
+population—it is clear that similar selection pressures existed in these
+different populations (Hoekstra and Nachman 2003). Despite differences
+in causal processes occurring in these populations at the genetic level, it
+is biologically important to recognize that the same type of relatively
+abstract, causal natural selection process acted in each population. Variation in camouflage ability (which must include relations to the environment and not just the coat color of mice) caused changes in phenotypic
+and genotype frequencies over time. Finer-grained population-level properties (like variation in genotype) are unable to capture this important
+biological similarity. Further, this similarity with respect to selection processes is distinct from other causal similarities that might obtain between
+populations: e.g., similar amounts of gene flow, similar population structure/history.
+For similar reasons, one should not claim that the various selection
+pressures acting on a population are identical to an instance of the causal
+process of natural selection. Rather, the abstract causal selection process
+is realized by the various selection pressures acting on different populations. As Walsh, Lewens, and Ariew (2002, 467) argue, in what I call the
+identity argument, identifying selection pressures such as predation and
+sunlight exposure with natural selection would lead to the untenable conclusion that natural selection is identical to drift (or that selection constitutes drift), since in certain cases these selection pressures lead to drift.
+16. Cf. Millstein: “It does not matter if a particular individual has a superb ability to
+survive and reproduce—there will be no selection at all if other individuals who are
+physically different have the same ability” (2006, 644, emphasis in original).
+
+https://doi.org/10.1086/522900 Published online by Cambridge University Press
+
+

@@ -1,0 +1,65 @@
+12
+One could argue that this solution falls short of a justification of logic. Indeed, this is not the sort of
+proof that Kant hoped to give in his “refutation of idealism” (B274-9). But this is so because Frege is
+much more aware that some arguments can only be given after ‘stepping outside logic.’ As far as
+informal arguments go, Frege’s reasoning in the controversial passage is sound. Skepticism is a
+scientific dead end. Therefore, to engage in scientific investigation, we must set it aside. If others
+dare doing otherwise, says Frege, one can only urgently warn them. This is not a proof, but it gives
+us a strong motivation to accept Frege’s basic laws. Either we accept them, or we claim that there is
+no way humans can, even ideally, accumulate knowledge.33
+
+Notes
+1
+
+Unless otherwise noted, all quotations from the Grundgesetze are to the Ebert and Rossberg (2016)
+translation. I only discuss translation issues in notes (see notes 6, 24, and 29)
+2
+As Conant (1992) emphasizes, the idea that logical mistakes are in some sense impossible can be found in the
+early Wittgenstein’s writings (TLP, 5.473, 5.4731; NB, 2) I discuss elsewhere how Frege’s justification of logic
+relates to Wittgenstein’s. For the moment I should only say that, in my interpretation of Frege, logical mistakes
+are not impossible in the sense that Conant attributes to both Frege and Wittgenstein.
+3
+A third important problem is this: in a sense, Frege’s logical aliens are now commonplace; thus, they are
+hardly impossible. For instance, Priest (1987) believes in true contradictions. This is a possibility that Frege
+never considered, because he never encountered, or envisioned, a logician seriously defending non-classical
+logics. To apply Frege’s argument to the contemporary debate one would have to take this into account. But
+this is not relevant for the present historical discussion. Thus, I discuss this elsewhere.
+4
+See also TLP, 6.1271 5.4731.
+5
+See also Hacker 1986, 43, among others.
+6
+When it comes to interpreting Frege’s epistemology of logic, interpretative issues overlap with translation
+issues. De Pierris translates ‘einleuchten’ as ‘self-evident,’ just like Geach does (Frege 1960, 234). Ebert and
+Rossberg translate it as ‘obvious’ in the same passage (Frege 2016, 253) because, they say: “Frege uses the
+term to indicate that something, such as a proof, is easily understood or accepted” (Ebert & Rossberg 2016,
+xxii). In TLP 6.1271, where Wittgenstein criticizes Frege’s alleged appeal to self-evidence, he uses the term
+‘einleuchten.’ This might suggest that he was targeting the notion that De Pierris and Geach translate as ‘selfevident.’ But then it is surprising that Frege does not use it in the passages usually quoted in connection with
+the secondary problem of pure reason (Frege 1884, §14; 1893, xvii). Nor does he use ‘selbstverstandlich,’ the
+word that Ebert and Rossberg too translate as ‘self-evident.’ I maintain that translation issues can be set aside:
+regardless of translation, if Frege intended to claim that the basic laws are self-evident, he would have used at
+least one of the words (einleuchten or selbstverstandlich) in the crucial passages.
+7
+This idea is also in Friedman 1985 (endnote 72).
+8
+Conant and Diamond (2004) argue, contra Williams (2004), that TLP is in no sense contradictory or selfdefeating. Therefore, in Conant’s reading, Wittgenstein is overall less likely to have a self-defeating lapsus than
+Frege. I argue elsewhere that it is TLP that seems to contain lapsus in connection to the justification of logic.
+9
+See also, among others, Frege 1906c, 184 and 1906d, 185.
+10
+Strictly speaking this is incorrect. To complete his project, Frege only needed to derive the Peano axioms, or
+other axioms from which the rest of arithmetic is derivable. He says otherwise because at the time this had not
+yet clearly emerged.
+11
+I say that this is Frege’s lifelong project because this idea recurs throughout Frege’s writing. In the
+Begriffsschrift, Frege says that he aims to see “how far one could get in arithmetic […] supported only by the
+laws of thought, which transcend all particulars” and he adds, making it quite clear that he already has in mind
+his logicist project, that he developed his conceptual notation to make sure that, in the deduction of
+arithmetic, “something intuitive could not squeeze in unnoticed” (Frege 1879, 104).
+12
+The term “logical aliens” was used by Conant (1992), whose title “In search for logically alien thought” seems
+to refer back to Sluga’s (1980) chapter V “In search of logical objects” (96-123). The term is meant to refer to
+subjects that reason in a way that humans cannot possibly reason. This is somewhat ambiguous: a logical alien
+may be (i) a subject that can grasp unthinkable thoughts, (ii) a subject that can grasp thoughts that humans
+
+

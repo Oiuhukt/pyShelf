@@ -1,0 +1,200 @@
+THE ELEMENTS. BOOK X
+(Sj)
+
+[Fourth binomial
+
+(82 )
+
+(Fourth apotome
+
+w
+
+Fifth binomial
+
+&/o±
+
+(Props. 51, 88)
+
+;
+
+a/(1+A)
+
+409
+
+kpS(l+\)±kp; (Props. 52, 89)
+
+Fifth apotome
+tfi)
+
+(&)
+
+Sixth binomial )
+
+Vk.p±V\.p.
+
+J
+I
+
+Sixth apotome ]
+
+(Prop. 53, 90)
+
+Here again it is to be observed that these binomials and
+apotomes are the greater and lesser roots respectively of
+certain quadratic equations,
+
+a 2 being the roots of x 2 — 2kp.x + \ k p
+2
+
+ax
+
+,
+
+ft, ft
+
+33
+
+i
+
+Yv Y2
+
+33
+
+3
+
+^2
+
+33
+
+3
+
+#i>
+
+X* —
+
+2k
+
+V(l-A 2
+
+62
+
+33
+
+33
+
+&>
+
+&2
+
+33
+
+33
+
+2
+
+)
+
+— 0,
+A2
+
+" 1-A k p = 0,
+
+x+
+
+x 2 — 2mVk.px + \ 2
+
+1
+
+*1>
+
+2
+
+2
+
+2
+
+2
+
+m kp' = 0,
+2
+
+i
+
++A
+
+x 2 -2kp\/(l+\).x + \k 2 p 2 = 0,
+x 2 -2\/k.px + (k-\)p 2 = 0.
+
+The next sets of propositions (54-65 and 91-102) prove the
+connexion between the first set of irrationals (A 1} A 2 ... Fli F2 )
+
+and the second set (a x a 2 ... &, £2 ) respectively.
+
+It is
+
+,
+
+shown
+
+Proposition 54, that the side of a square equal to the
+
+e.g., in
+
+rectangle contained by p and the first binomial oc ± is a binomial
+of the type
+
+A lf and the same thing is proved in Proposition 91
+In fact
+
+for the first apotome.
+
+V{p(kp±k P VT^\ 2 )} =>-/{i*(i+x)j ±pV{ik(i-\)}.
+Similarly A/(pft), V(pft)
+
+<^re
+
+irrationals of the type
+
+B
+
+lt
+
+B
+
+2
+
+respectively, and so on.
+
+Conversely, the square on A 1 or A 2
+
+,
+
+if applied as a rectangle
+
+to a rational straight line (0-, say), has for its breadth a binomial
+
+or apotome of the types oc x
+
+,
+
+ol
+
+2
+
+respectively (60, 97).
+2
+
+In fact
+
+(p
+
+± Vk pf/a- = C { (1 + k) ± 2 Vk}
+.
+
+,
+
+and -ft 2 B2 2 are similarly related to irrationals of the type
+ft, ft, and so on.
+,
+
+

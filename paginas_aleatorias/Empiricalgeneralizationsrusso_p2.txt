@@ -1,0 +1,50 @@
+generalisations and have the characteristic of being exploitable for explanation
+or for causal assessment. In this paper, I focus on questions related to causal
+assessment rather than explanation. That is to say, I will be concerned with
+what makes empirical generalisations causal rather than with what makes them
+explanatory.
+In §2, I present the manipulationist account of empirical generalisations. I
+make it clear that manipulation is central for the account. The rest of the paper
+investigates the status of manipulation for questions of causal assessment.
+In §3 I argue that the manipulationist account is trapped in a dilemma. If the
+project is read as contributing to the conceptual analysis of causality, then it is at
+an impasse concerning the methods for causal assessment, i.e. no story about how
+to establish whether X causes Y is offered. If the project is read as contributing
+to the methodology of causality, then a second dilemma opens up. Strictly
+interpreted, manipulationism fails to offer methods for causal assessment in
+scientific areas where manipulations are not performed. Charitably interpreted,
+instead, manipulationim becomes so vague as to be an unilluminating—and even
+misleading—rationale underpinning causal reasoning in both experimental and
+nonexperimental contexts.
+In the light of the previous discussion, in §4 I reassess empirical generalisations. The core of agreement with manipulationist theorists is that empirical
+generalisations are indeed change-relating relations and that for empirical generalisations to be causal they indeed have to be invariant, albeit in a sense that
+does not take manipulations as methodologically fundamental. The importance
+of the change-relating character of empirical generalisation has to do with the
+rationale underpinning causal reasoning: it is not manipulation but variation
+that does this job.
+
+2
+
+Manipulationist Empirical Generalisations
+
+To understand the manipulationist project, we need to spell out the notions of
+(i) empirical generalisation, (ii) invariance, (iii) intervention, and the relations
+they stand with respect to each other.
+An empirical generalisation is a relation between variables that has the characteristic of being change-relating or variation-relating: changes in the putative
+causal-variable X are associated with changes in the putative effect-variable Y .
+Of course, the problem of distinguishing causal from spurious or accidental generalisations immediately arises. We could hit upon a change-relating relation
+that is accidental: an increased number of storks might be statistically associated with an increased number of births, but arguably there is no causal link
+between these two variables. Or, a change-relating relation might be spurious:
+yellow fingers might be statistically associated with lung cancer but this is the
+case because they are effects of a common cause, that is cigarette smoking.
+Change-relating relations have to show a certain invariability or stability
+in order to be causal (or to be explanatory—this falls outside the scope of
+the paper). Briefly put, this means that empirical generalisations have to be
+invariant under intervention or under a sufficiently large class of changes.
+There are two different types of changes we might be interested in. The
+first sort of changes involves background conditions, whereas the second sort
+of changes is exactly those that establish invariance. The former, also called
+
+2
+
+

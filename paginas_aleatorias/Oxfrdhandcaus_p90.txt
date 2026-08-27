@@ -1,0 +1,43 @@
+inference and discourse. Without such causal references, it seems, one would have at most a
+very long narrative about, rather than a genuine explanation of, causal discourse.
+
+5. CAUSAL REDUCTIONISM
+What can Hume grant to causal reductionists? First, of course, he can agree that many
+causal judgements are true. More specifically, he can grant that constant conjunction—or
+rather, the very specific kind of constant conjunction that is in fact detected by the corrected
+causal sense, with its specific standards of relevant resemblance—is both necessary and
+sufficient for the existence of a causal relation. Indeed, this constant conjunction is—like the
+satisfaction of Hume’s coextensive second definition of ‘cause’—necessary and sufficient for
+the existence of a causal relation that is itself an example of causal necessity. Were this not
+the case, he could not conclude, as he does in ‘Of liberty and necessity’ (THN 2. 3. 1 and EHU
+8), that the uniform conjunction of particular kinds of human actions with particular kinds of
+circumstances, characters, and motives, is (like the satisfaction by these things of the
+coextensive second definition of ‘cause’) sufficient for the causal necessity of those actions—
+regardless of other respects in which the activity of minds might differ from that of bodies.
+Furthermore, he can also grant that the relation of causation might well be the relation of this
+particular kind of constant conjunction, just as the quality of redness may prove to be the
+quality of having a certain surface reflectance property, and the quality of virtue to be the
+possession of features of character useful or agreeable to their possessor or others.
+But while Hume is friendly to these metaphysical claims of the reductionist, he would deny
+nearly all of the semantic reductionism that has often supported them. He would deny that
+either of his two definitions of ‘cause’ is synonymous with the term ‘cause’ itself; for under
+the most natural standard for individuating concepts, they specify three different concepts. (It
+is just as well, of course, that neither definition is synonymous with ‘cause’; Hume treats the
+definitions as parallel, and they are obviously not synonymous with each other.) In fact, the
+Humean concept of CAUSATION has no semantic analysis into conceptual parts at all.
+(Similarly, more specific causal concepts such as those expressed by the transitive verbs
+‘move’, ‘drop’, and ‘convince’ can be semantically simple and need not have the more general
+concept CAUSATION as a part.) He would also deny the related epistemological claim that
+knowledge of constant conjunction is alone sufficient for knowledge of causal relations—for
+in addition, one must know, a posteriori, that constant conjunction is what the causal sense
+detects.
+Finally, Hume has reason to be sceptical of a broad and rather vague metaphysical claim
+often made by (and even more often ascribed to) reductionists: namely, that there is definitely
+‘nothing more to causation than constant conjunction’. Of course, if this means simply that
+causation is the same relation as a particular kind of constant conjunction, then he can grant
+that it may well be true. But even if that is true, there may be additional features of cause-andeffect pairs that are highly relevant to their being so related—just as there might be underlying
+subatomic features of bodies in virtue of which they have given surface reflectance properties,
+or features of human physiology intimately tied up with having features of character that are
+useful or agreeable to their possessor or others. Indeed, being so related as to produce
+
+

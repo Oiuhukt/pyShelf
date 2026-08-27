@@ -1,0 +1,64 @@
+A Causal Theory of Counterfactuals 649
+
+concept of an "actual cause", but instead used the substitute concept of
+"direct positive influence". There are well-known cases in which causes and
+positive influences come apart. These pose problems for my theory of
+counterfactuals, and they pose problems precisely because of the divergence
+of my substitute concept from that of an actual cause.
+
+Fig. 7 illustrates a case of "preemption". Two assassins conspire to kill a
+king: the Master Assassin and the Bumbling Assassin. The Master Assassin
+hides in the closet, dagger in cloak. The Bumbling Assassin mixes poison in
+the king's soup, and carries it from the kitchen. But the Bumbling Assassin
+
+really is a bumbling assassin, and he bumps the closet door as he passes by,
+locking the Master Assassin inside. Then he runs into a chair. He stumbles
+and the soup sloshes in the bowl, but he recovers, and sets the soup in front
+of the king, who eats it and dies shortly afterward.
+
+TCM applied to the model of Fig. 7 gets the right answers for the case.
+For example, BA = 0 > KD = 1 is false. But we might also represent the
+case as in Fig. 8. Given laws similar to those we assumed for the original
+case, MA counts as a "direct positive influence" on KD in a model for
+Fig. 8, while BA does not. Thus, TCM treats the case as similar to that of
+
+the poison and antidote, Fig. 1(a), and we get the wrong answer that
+BA = 0 > KD = 1 is true.
+
+This example illustrates both that positive influences (MA) can f
+actual causes, and that negative influences (BA) can be. Given a m
+
+as Fig. 8, direct positive influences can fail to be causes, and direct n
+
+influences can be. However, it seems to me that this is possible on
+models that are incomplete in crucial respects. Fig. 7 is clearly
+representation of the case in question, and in it the relations o
+influence do match the causal facts. I suggest that all cases of n
+
+influences that are causes are cases in which the cause interacts with other
+
+influences on the effect. Those interactions occur in causally intervening
+processes. I suggest also that all cases of positive influences that are not
+actual causes are cases in which some intervening causal process does not go
+to completion. (Unfortunately, to argue these points would take us into the
+details of theory of causation.14)
+
+Clause (iii) says, "M is complete enough to accurately represent the
+
+causal relations among the events of C that appear in M". "Complete
+enough" means that the model represents cases of mixed influence as such
+(e.g., the multiple paths from BA to KD in Fig. 7), and includes enough
+variables to capture whether intervening causal processes go to completion
+(e.g., whether MA is locked in the closet). This tells us to use Fig. 7 rather
+than 8 for the case of the assassins. I suggest that these requirements suffice
+
+to solve the problems that arise from our use of the substitute concept of
+direct positive influence.
+
+Clause (ii) of "Good Model" says, "(ii) the laws of M are accurate of
+C, or accurate enough". This is the really difficult requirement. The issue
+
+This content downloaded from 131.156.224.67 on Sat, 03 Sep 2016 11:41:24 UTC
+All use subject to http://about.jstor.org/terms
+
+

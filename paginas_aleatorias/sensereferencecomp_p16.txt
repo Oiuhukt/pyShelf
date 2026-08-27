@@ -1,0 +1,40 @@
+16
+Because only closed terms are taken into account in the
+validation of a hypothetical judgment, it can be shown that the
+following principle, which can be regarded as a stronger version
+of the so-called Axiom K (Streicher, 1993), obtains
+x : A, p : x =A x ⊢ p ≡ refl(x) : x =A x
+because, for a closed term a : A, a closed equality term b :
+a =A a will always evaluate to a canonical term of a =A a,
+which means that p ↓ refl(x). Since a =A a is a canonical type,
+c ≡ refl(a) : a =A a obtains. This principle is a straightforward
+consequence of the reflection rule
+p : x =A y
+x≡y:A
+which can be easily validated using a similar line of reasoning
+and expresses the fact that, semantically, every propositional
+equality is also a judgmental equality.
+4
+
+Sense and reference
+
+It was Dummett (1978) who first noticed that Frege’s theory
+of sense and reference could be rendered constructively by
+assuming that the sense of a singular term is related to its
+reference as a program is related to its value, and that the
+thesis that the reference of a sentence is a truth value should
+be entirely rejected, since, if we think of the sense of an
+expression not as a mode of presentation of its reference but
+as an effective method for determining it, that would imply a
+means of deciding whether a proposition is true or false.9
+Although the idea that a sentence refers to a truth value
+has no place in a constructive setting, Martin-Löf (2001) has
+observed that an interpretation of singular terms as terms and
+propositions as types in the sense of the meaning explanations
+9
+
+Moschovakis (1994) adds to this interpretation a mathematical notion
+of recursive algorithm that allows for a more rigorous theory of sense. It
+can be seen as a forerunner of the theory of sense of reference of MartinLöf (2001), which is grounded in type theory instead.
+
+

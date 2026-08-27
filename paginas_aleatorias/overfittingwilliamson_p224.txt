@@ -1,0 +1,36 @@
+Frege puzzles
+
+197
+
+that P like the absence of an object. Just as an object o must be there
+for you to see o, it must be that P for you to see that P. Moreover,
+both object-​seeing and seeing-​that normally require a suitable
+causal connection to what is seen: a merely accidental match of
+your visual image to something external, e, does not constitute
+seeing e.
+In Knowledge and Its Limits, I argue that seeing that P is a specific
+form of knowing that P. Thus, when we see the apple together, typically, each of us is in a position to know that the other knows that
+it is an apple. There would be little point in my judging merely that
+you believe that it is an apple, for why should I make that judgment
+if I doubt that you see that it is an apple?
+Psychologically, seeing-​that seems to be treated as a paradigm of
+knowing-​that. ‘See’ is often used in an extended sense for a wide range
+of cases of knowing or recognizing (coming to know): ‘I see your
+point’; ‘I don’t see how that follows’. What drives the generalization
+from literal seeing and other forms of sense perception to knowing?
+A key factor is memory. When you turn away, you no longer see that
+there are apples on the tree, but you still remember that there are (or
+at least were), and many of the effects on action are similar—​you may
+still go to the tree when hungry. Remembering that P is another form
+of knowing that P. Having seen the agent see the fruit put somewhere,
+the rhesus macaques continue attributing knowledge that it is there
+to the agent even when they can see that the agent can no longer see
+the fruit. A large part of the excess of knowledge over sense perception is simply what remains when sense perception ceases.
+In light of these considerations, knowledge attribution looks
+rather easier and more natural than philosophers’ preoccupations
+make it seem. We should not be surprised that the level of cognitive sophistication required for attributing knowledge turns out
+to be lower than the level of cognitive sophistication required for
+attributing belief—​just as it can take less to recognize whether
+someone knows that P than to recognize whether they have an attitude internally similar to knowing that P.
+
+

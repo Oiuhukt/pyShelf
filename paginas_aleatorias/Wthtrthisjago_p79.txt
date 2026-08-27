@@ -1,0 +1,43 @@
+“”What Truth Is”’’ — 2018/3/20 — 14:28 — page 66 — #78
+
+66
+
+arguments for truthmaking
+
+course, once prompted, one can always produce the relevant utterance:
+‘a and b are quarks makes it true that a and b have something in
+common’. But that response misses the point. There are ways things
+are which we don’t know about, which we haven’t named, and about
+which we may never utter a word. Then there will never be an instance
+of (2.8) mentioning such ways. Nevertheless, things which are those
+ways all have something in common. The nominalist can’t account
+for this.
+(Should the nominalist go more extreme, and deny that things
+are ways of which we haven’t yet thought or spoken? That form of
+extreme idealism is very confused. We discover new features of the
+world all the time. That’s to say we discover things (and ways those
+things are) which pre-date our discoveries. It isn’t our investigations
+that make those things the ways they are. It’s worth noting that
+my present opponent is an extreme nominalist, and that she has
+no business going in for this extreme idealism. Idealists hold that
+certain features of the world depend on our language, or concepts,
+or thought, or proofs, or computations. So our idealist will happily
+say that there are properties, numbers, other mathematical entities,
+spacetime points and so on; but she will hold that they are constructs
+which depend on us. Contrast this with the extreme nominalist’s view,
+on which there no such things.)
+Our nominalist had better back up. Her instances of (2.8) had
+better go beyond the ways we’ve named. And, most likely, it will have
+to go beyond the ways we could name. So she won’t write her list
+in English or any other natural language. Her best bet is to say her
+theory consists of all propositions (many nominalists will shudder)
+of the form indicated by (2.8).
+Now recall what we said in §1.2 about the deflationist’s attempt
+to form such a list of propositions. She had to accept the structured
+notion (either Fregean or Russellian) of a proposition. The same
+argument applies here. On the sets-of-possible-worlds account, there
+is but one instance of (2.8): the set of all worlds. (That’s because the
+nominalist needs to treat (2.8) as a necessary truth, which corresponds
+to the set of all possible worlds.) By contrast, pleonastic propositions,
+
+

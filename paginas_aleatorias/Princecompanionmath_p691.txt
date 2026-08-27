@@ -1,0 +1,116 @@
+IV. Branches of Mathematics
+
+M(h, T )
+
+668
+
+T < Tc
+T = Tc
+T > Tc
+
+M+
+
+temperature Tc . For T > Tc , the magnetic susceptibility, denoted χ(T ), is deﬁned to be the rate of change of
+M(h, T ) with respect to h, at h = 0. This partial derivative in h diverges as T approaches Tc from above, and
+the exponent γ is deﬁned by
+χ(T ) ∼ C(T − Tc )−γ ,
+
+h
+
+Finally, δ describes the manner in which the magnetization goes to zero as the external ﬁeld is reduced to
+zero at the critical temperature. That is,
+M(h, Tc ) ∼ Ch1/δ ,
+
+as h → 0+ .
+
+These critical exponents, like those for percolation, are
+predicted to be universal and to obey various scaling
+relations. They are now understood mathematically in
+all dimensions except d = 3.
+
+M+(T)
+
+1
+
+5.4
+
+0
+T=0
+
+T = Tc
+
+Figure 9 Magnetization versus external ﬁeld, and
+spontaneous magnetization versus temperature.
+
+For dimensions d ⩾ 2, the behavior of M+ (T ) when T
+lies between these two extremes is quite surprising. In
+particular, it is not diﬀerentiable everywhere: there is a
+critical temperature Tc , depending on the dimension,
+such that the spontaneous magnetization is strictly
+positive for T < Tc and zero for T > Tc , and it is at
+T = Tc that diﬀerentiability fails. Schematic graphs of
+the magnetization versus h and the spontaneous magnetization versus T are shown in ﬁgure 9. What happens at the critical temperature itself is delicate. In all
+dimensions except d = 3 it has been proved that there
+is no spontaneous magnetization at the critical temperature, which is to say that M+ (Tc ) = 0. It is believed that
+this is true when d = 3 as well, but it remains an open
+problem to prove it.
+5.3
+
+as T → Tc+ .
+
+Critical Exponents
+
+The phase transition for the Ising model is again described by critical exponents. The critical exponent β,
+given by
+M+ (T ) ∼ C(Tc − T )β ,
+
+as T → Tc− ,
+
+indicates how the spontaneous magnetization disappears as the temperature increases toward the critical
+
+Exact Solution for d = 2
+
+In 1944, Onsager published a famous paper in which
+he gave an exact solution of the two-dimensional Ising
+model. His remarkable computation is a landmark in
+the development of the theory of critical phenomena.
+With the exact solution as a starting point, critical exponents could be calculated. As with two-dimensional
+percolation, the exponents take interesting values:
+1
+
+β = 8,
+5.5
+
+7
+
+γ = 4,
+
+δ = 15.
+
+Mean-Field Theory for d ⩾ 4
+
+Two modiﬁcations of the Ising model are relatively easy
+to analyze. One is to formulate the model on the inﬁnite binary tree, rather than on the integer lattice Zd .
+Another is to formulate the Ising model on the so-called
+“complete graph,” which is the graph consisting of n
+vertices with an edge joining every pair of vertices, and
+then take the limit as n goes to inﬁnity. In the latter,
+known as the Curie–Weiss model, each spin interacts
+equally with all the other spins, or, put another way,
+each spin feels the mean ﬁeld of all the other spins. In
+each of these modiﬁcations, the critical exponents take
+on the so-called mean-ﬁeld values
+1
+
+β = 2,
+
+γ = 1,
+
+δ = 3.
+
+Ingenious methods have been used to prove that the
+Ising model on Zd has these same critical exponents
+in dimensions d ⩾ 4, although in dimension 4 there
+remain unresolved issues concerning logarithmic corrections to the asymptotic formulas.
+
+

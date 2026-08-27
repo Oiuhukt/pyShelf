@@ -1,0 +1,54 @@
+[§ 20]
+
+Mean Value o f a Random Variable
+
+69
+
+can assume such-and-such values with such-and-such probabilities.
+But the mean value of the random variable calculated by this table is
+already capable of yielding such an estimate because this is namely the
+value which our quantity will assume on the average in a more or less
+extended series of operations. We see that from the practical side,
+the mean value characterizes the random variable especially well
+when we are dealing with a mass operation or one that is repeated
+frequently.
+P roblem 1. A series of trials with the same probability p of the
+occurrence of a certain event A is carried out, in which connection the
+results of the individual trials are mutually independent. Find the
+mean value of the number of occurrences of the event A in a series of
+n trials.
+The number of occurrences of event A in a series of n trials is a
+random variable with possible values 0, 1, 2 ,..., n, where the
+probability of the value k is equal, as we know, to
+
+Therefore, the mean value sought equals
+1 kPnik).
+
+k=0
+
+We calculated this sum in the course of the proof of Bernoulli’s
+theorem (see page 53) and we saw that it was equal to np. We also
+verified that the most probable number of occurrences of the event A in
+n trials is, in the case of large n, close to np. We now see that the
+average number of occurrences of the event A for arbitrary n is pre­
+cisely equal to np. Thus, in the given case, the most probable value
+of the random variable coincides with its mean value. We must,
+however, avoid thinking that this coincidence holds for arbitrary
+random variables for, in general, the most probable value of a random
+variable can be very far removed from its mean value. Thus, for
+instance, for the random variable with distribution law
+0
+
+5
+
+10
+
+0.7
+
+0.1
+
+0.2
+
+the most probable value is 0 and the mean value is 2.5.
+
+

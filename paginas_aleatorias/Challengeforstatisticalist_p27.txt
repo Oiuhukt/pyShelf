@@ -1,0 +1,53 @@
+Mathematical Explanations in Evolutionary Biology or…
+
+1099
+
+non-causal explanations, then Walsh should address the present challenge. The compatibility with a naturalist stance is not a matter of quantity. So, to investigate whether Walsh’s
+account is compatible with a naturalist stance, we have to search whether at least one kind
+of MENP is an acceptable kind of explanations in Walsh’s view.
+And it seems that at least one kind of MENP is in fact acceptable in Walsh’s view,
+namely drift explanations. Indeed, in several places Walsh describes drift explanations
+along the same lines in which drift explanations are described by MENP supporters,
+such as Lange (2013a). For example, in Walsh (2007) he explains why drift is stronger in
+smaller populations by making reference to different series of coin tosses and the CLT.
+Walsh’s example can be summarized as follows. Suppose that two fair coins are tossed
+50 times each. The result of each toss can be either head (H) or tail (T). The probability
+of H and T “can be seen as the analogue of the fitnesses of two alleles at the same locus”
+(Walsh, 2007, p. 293), and the number of tosses can be seen as the analogue of the size of
+a population. There are at least three different ways to describe the 100 tosses performed.
+(1) A single series of 100 tosses of a fair coin. The results are:
+(a) 49 H; 51 T
+(2) Two series of 50 tosses of a fair coin, with two coins being tossed. In this case, the
+results are:
+(a) 20 H; 30 T
+(b) 29 H; 21 T
+(3) Ten series of 10 tosses of a fair coin. The results are of the tosses are:
+(a) 4 H; 6 T
+(b) 7 H; 3 T
+(c) 3 H; 7 T
+(d) 5 H; 5 T
+(e) 4 H; 6 T
+(f) 5 H; 5 T
+(g) 5 H; 5 T
+(h) 5 H; 5 T
+(i) 4 H; 6 T
+(j) 7 H; 3 T
+What is notable and worth of being explained is that in the “population” of 100 tosses
+taken as a whole, there is only a slight departure from the expected outcome of 50 H and
+50 T. On the contrary, there is a considerably greater degree of departure from expectation
+in the population considered as two series of 50 tosses. Finally, the degree of departure from
+expectation observed is greater still when we consider the same population as ten series of
+10 tosses. But those three results do not refer to three different populations, rather they are
+“different ways of describing the same population” (ibidem, p. 296). Now, according to
+Walsh, the only way to provide a satisfactory explanation of why the “force of drift in the
+population as a whole is small” (ibidem) is to deny that that population can be regarded as
+really made of ten independent tosses. Only if we consider it as a whole we can explain the
+fact that drift is larger in smaller sub-populations of a given population. Indeed, in this way
+we can regard each of the ten series of 10 tosses as “drawn at random from a larger, normally
+distributed population” (ibidem), and this would explain why drift is larger in the series of
+ten tosses that constitutes the population than in the population as a whole: it is the “central
+limit theorem [that] entails that the means of samples of the same size drawn from a normal
+
+13
+
+

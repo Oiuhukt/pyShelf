@@ -1,0 +1,49 @@
+OUP CORRECTED PROOF – FINAL, 14/8/2018, SPi
+
+THE POWER OF INTERVENTION
+
+
+
+a corrosion inhibitor. We concede that this distinction between prevention and
+interference is not completely sharp. It may be a distinction that applies just on the
+basis of how detailed is the speciﬁcation of the effect. In interference, one is effectively
+preventing a very precisely speciﬁed effect occurring even if a similar though slightly
+different one occurs. Hence, in a case we could think of as interference, some iron
+rusting after ﬁve years may be prevented from occurring, but rusting after ten years
+occurs in its place. So for many of the examples we will discuss here, we need not take
+the trouble to adhere rigidly to the distinction between prevention and interference.
+The possibility of prevention can be a bad thing, we have seen, if it is important
+to us that the expected effect is produced. We always want aeroplanes to stay aloft
+through their forward and upward thrust and that an antibiotic will kill a bacterial
+infection. Anything that interferes with the desired causal process, such as antibiotic
+resistance, is thus a threat to these desired outcomes. But the opportunity of prevention
+can also be to our advantage, where the effect is something that we want to avoid.
+If we can prevent a disease killing someone, or rain causing a mudslide, then it is
+all to the good. Interference in the otherwise regular course of events then comes to
+be thought of as an intervention or manipulation, especially if human agents are the
+ones interfering.
+The possibility of intervention can be crucial. If causes produced perfect regularities then we would be powerless to prevent them. Whenever there was C, there
+would be E. This is another way of saying that there would be the regularity of
+C always followed by E, which is what we mean by a perfect regularity. Of course, we
+could, in that case, try to prevent C from occurring in the ﬁrst place, if E is something
+one needed to avoid. For example, suppose that if a nuclear reactor goes critical, the
+core will melt, releasing lethal doses of radiation. In that case, one’s best approach is
+to prevent the reactor going critical.
+But there are other cases where C may have occurred already or be unavoidable, so
+we cannot stop it. Or C might have otherwise desirable effects that we wish to exploit.
+What does one then do if the undesirable E always follows C? It seems one has to
+accept the inevitable doom of the disease, or the radiation of x-ray photography. That
+is at least what a pure regularity view seems to imply.
+However, the possibility of prevention and interference can be our saviour from
+the inevitability of undesirable causation. Since causes typically interact and produce
+different outcomes in different contexts, it is possible for us to intervene to avoid an
+unwanted effect. We can also intervene to bring about the effect we do want. This is
+why there are philosophers who understand causation in terms of intervention or
+manipulability (for instance Woodward 2003).
+Sometimes we need a whole set of advanced tools and instruments to perform the
+manipulation, such as those we assemble under laboratory conditions. A striking
+example is, as already mentioned, the vast mechanism and organization, spending a
+huge budget, that is required to collide hadrons with adequate control at CERN. The
+cheaper option is where some manipulations are simply simulated in a model for
+
+

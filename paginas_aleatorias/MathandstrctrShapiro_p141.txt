@@ -1,0 +1,38 @@
+130 STRUCTURALISM
+
+We have here an instance of implicit definition, a technique familiar in mathematical logic.15 Notice that a direct description can succeed in communicating a structure even if no instance of the structure is displayed. One may describe a variation of
+a baseball defense or a government that has not been tried yet. Someone might wonder how it would go if there were two presidents, one of whom is commander in chief
+of the armed forces and the other vetoes legislation. Structures described this way
+need not be freestanding, of course, but they clearly can go beyond those exemplified in the actual physical world that we all know and love. Structures successfully
+described by implicit definition are naturally construed as ante rem (if they exist at
+all, of course).
+Notice also that in characterizing a structure by implicit definition, one uses singular terms to denote the places of the structure. That is, “the centerfielder” and “president” are definite descriptions or proper names. However, the terms do not denote
+people; they denote places in the respective structures. They denote the offices, not
+the officeholders. In chapter 3, this orientation toward the structure is called “placesare-objects.”
+The mathematical cases are more pristine. In the opening pages of a textbook on
+number theory, we might read that each natural number has a unique successor, that
+0 is not the successor of any number, and that the induction principle holds. Similarly, a treatise in real analysis might begin with an announcement that certain mathematical objects, called “real numbers,” are to be studied. The only thing we are told
+about these objects is that certain relations hold among them. We may be informed,
+for example, that the numbers have a dense linear ordering, that there are associative
+and commutative operations of addition and multiplication, and so on. One easily
+gets the impression that the objects themselves do not matter; the relations and
+operations or, in a word, the structure is what is to be studied.16 Implicit definition
+and structuralism go together like hand and glove.
+
+15. There is an ambiguity in the phrase “implicit definition.” In one sense, an implicit definition
+presupposes that all but one of the terms of a language already has fixed meaning. Let L be a language
+and T a theory in L. Let c be a singular term that does not occur in L. A purported implicit definition of
+c is a set S of sentences that contains the new constant. It succeeds if, in each model of T, there is exactly one way to assign a denotation to c to make every member of S true. So, for example, “c is a
+perfect number and c < 10” is an implicit definition of 6 in arithmetic. This is not the sense of “implicit
+definition” used here. In the present context, an implicit definition is a simultaneous characterization
+of a number of items in terms of their relations to each other. In contemporary philosophy, such definitions are sometimes called “functional definitions” (see chapter 3, section 6).
+16. To be sure, most mathematics texts do not have such austere beginnings. A study may begin
+by defining a particular subclass of previously understood mathematical objects, such as the analytic
+complex-valued functions or the partial recursive functions. Alternately, the book may indicate that its
+objects are constructed out of familiar mathematical material. For example, it may deal with sequences
+of real-valued functionals. These works can also be given a straightforward structuralist interpretation,
+because the objects they start with (e.g., functions or functionals) are the places of a structure. In terms
+of chapter 3, systems whose objects are the places of other structures are defined, and the structures of
+those systems are studied.
+
+

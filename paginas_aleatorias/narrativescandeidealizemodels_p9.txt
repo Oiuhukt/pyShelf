@@ -1,0 +1,72 @@
+Philosophy of Science
+
+247
+
+The superstar firm model consists of a system of equations, some of which are
+shown here:
+ 
+
+
+q pω  pσ
+(1)
+ω d Apω
+  
+  
+(2)
+q pω  pω  cω q0 pω  0
+ 
+ε pω  Apω d0 Apω =dApω   σ
+(3)
+pω
+cω
+
+(4)
+
+wV
+pω qω
+
+(5)
+
+mω ≡
+Sω ≡
+
+We can interpret these equations by assigning economic meaning to the
+mathematical variables and parameters: q(pω), for example, refers to the quantity
+demanded for an individual good ω, pω refers to the price of such a good, σ is a
+preference parameter, ε(pω) is the so-called elasticity of demand, mω are what
+economists call firm markups, and cω are marginal costs. Thus interpreted, these
+equations basically tell you about the demand side (equation one), the supply side
+(equations two and three), the markups (equation 4), and the labor share (equation 5)
+in the model economy.
+In practice, the economists not only interpret the model by assigning meaning in
+this way. They tell us much more about the model by offering further verbal
+descriptions that outline other features of the model in economic terms. For example,
+they tell us that “in the model, entrepreneurs entering an industry are ex ante
+uncertain of their productivity zi. They pay a sunk entry cost κ and draw zi from a
+known productivity distribution with density function λ(z). Firms that draw a larger
+value of z will employ more inputs and have a higher market share” (Autor et al. 2020,
+654). While this verbal description tells us more about the model, importantly, this is
+not where I want to suggest that we find the narrative.11 To appreciate the role that
+the narrative plays in this case study, we need to pay attention to the fact that the
+economists not only posit the model or describe the modifications they have made to
+its predecessor(s). They further engage with it.12
+One thing that the economists of the case study do with the model is that they
+manipulate it to mathematically derive results. These results are presented in terms
+of three major “propositions” (Autor et al. 2020, Appendix) establishing relationships
+between key variables considered in the model. The first result establishes a
+relationship between two variables, the size of a firm and the size of its labor share,
+11
+Commonly, interpreting a model means assigning a unique meaning to the primitive nonlogical
+symbols (such as variables and parameters) that turns a mathematical structure into a scientific model
+(see, e.g., Frigg 2023 for different versions of this). In that case, such verbal descriptions are not part of an
+interpretation. On less orthodox notions of interpretation, one might treat such informal elucidations as
+“interpreting” a model. Crucially, however, I suggest that the narratives (at least those I focus on in this
+article) are not primarily tasked with informally describing a model in this way, but they emerge in a
+further engagement with the model as discussed in this section.
+12
+Locating narratives in this further engagement follows Morgan (2012) who sees narratives as
+emerging in the processes of model manipulation (see also Wise 2011, 2017).
+
+https://doi.org/10.1017/psa.2024.64 Published online by Cambridge University Press
+
+

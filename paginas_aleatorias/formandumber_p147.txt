@@ -1,0 +1,70 @@
+Archimedean solids
+According to Pappus, Archimedes discovered thirteen
+solids, besides the five regular ones, that were ‘contained by equilateral
+and equiangular, but not similar, polygons’.1 This condition is not a
+complete characterization. Pappus then proceeded to enumerate the
+various solids in terms of the numbers of faces of each type of regular
+polygon, giving the numbers of edges and vertices of the solid. The
+solids are shown, with their modern names, in Figures 3.11 and 3.12.
+Notice that these figures together contain fourteen polyhedra, for the
+rhombicuboctahedron and pseudo-rhombicuboctahedron are noncongruent polyhedra that both have 18 square faces and 8 triangular
+faces; thus Pappus’ account could technically describe either. [Hero
+of Alexandria ( fl. 62 CE) recorded that Archimedes said that Plato
+knew of the cuboctahedron.2 Hero’s report contains inaccuracies: it
+claims that Archimedes’ thirteen solids included the five regular solids
+and a solid with eight square and three triangular faces. Even if the
+statement about Plato’s knowledge of the cuboctahedron is correct,
+Archimedes was the first to attempt a systematic study of this class of
+polyhedra.]
+Pappus’ account is a discussion of how the sphere is the largest
+solid with a given surface area, and examines solids that appear ‘regular’ (in an informal sense, not in the technical sense).3 Thus it is
+reasonable to conclude that Archimedes was concerned with solids
+that can be inscribed in a sphere, in the sense that there is a sphere
+passing through all of their vertices. This excludes polyhedra such
+as the triangular dipyramid (see Figure 1.7 on page 28). A scholium
+to Pappus, which has only partly survived, describes how Archimedes constructed the truncated tetrahedron, cuboctahedron, truncated
+octahedron, and truncated cube from the tetrahedron, cube, octahedron, and cube respectively, by truncating them at each vertex by a
+specified amount.4 The scholium breaks off before the construction of
+the rhombicuboctahedron or pseudo-rhombicuboctahedron, the fifth
+solid in Pappus’ order.5 It is plausible, though, that he constructed
+the rhombicuboctahedron by truncating the cube along each edge,
+then truncating those vertices of the resulting shape that lay on the
+diagonals of the original cube.6
+It is straightforward to see that if truncation of a regular solid is
+uniform, in the sense of being invariant under the symmetries of the
+original solid, then it will yield another solid that can be inscribed in
+a sphere. So such truncations would have supplied Archimedes with
+examples of ‘regular’ solids inscribable in a sphere. And some of these
+would have regular faces. But this does not account for two of the
+thirteen solids he discovered: the snub cube and snub dodecahedron
+cannot be obtained by such a process of truncation.7 Thus Archimedes
+cannot have found them in this way. But the solids that he could have
+found by uniform truncations would have had the same configuration
+of faces at each vertex.
+109
+
+Ch. 3
+
+Beauty and Subtlety
+
+Archimedes
+
+1 Pappus, Collection, § V.xix;
+trans. Dijksterhuis,
+Archimedes, p. 405.
+
+2 Hero, Definitiones,
+§ 104, p. 66.
+
+3 Pappus, Collection, § V.xix.
+
+4 Dijksterhuis,
+Archimedes, p. 407.
+5 Loc. cit.
+
+6 Ibid., p. 408.
+
+7 Cromwell,
+Polyhedra, p. 84.
+
+

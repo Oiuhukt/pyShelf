@@ -1,0 +1,50 @@
+96
+
+Chapter 4. Biased Preferences Equilibrium
+
+A preference bias is modelled as a systematic and uniform change in the
+K be the set of biases. A bias
+weights placed on the considerations. Let B = R++
+
+β = (βk )k ∈K transforms every vector of consideration functions u = (u k )k ∈K into
+the vector of biased consideration functions T (u , β ) = (βk u k )k ∈K .
+
+That is, if an agent i enters the model with the vector of consideration
+
+functions (u ki ) and the bias vector is (βk ), then the agent behaves as if his
+vector of consideration functions is (βk u ki ) and chooses from X i by maximizing
+Σk ∈K βk u ki (x ). The preferences are unbiased when β = (c , . . . , c ) because (u ki )
+and (c u ki ) induce the same preferences. Any bias can be normalized to sum
+to 1 and therefore, can be naturally interpreted as a vector of weights on the
+different considerations.
+The specification of K consideration functions is important beyond inducing an agent’s preference relation. Two vectors of consideration functions,
+u = (u k ) and v = (v k ), can induce the same preference relation, and yet
+their biased preferences, T (u , β ) and T (v , β ), may induce different preference
+relations, as shown in the following example:
+Let K = {1, 2}, X 1 = X 2 = {0, 1} × {0, 1} (the four corners of the unit square),
+
+u 1 (x ) = x 1 , u 2 (x ) = 4x 2 , and v 1 (x ) = x 1 , v 2 (x ) = 2x 2 . Both (u k ) and (v k ) induce
+the same preferences (1, 1)  (0, 1)  (1, 0)  (0, 0), but when the bias vector
+
+is β = (3, 1), the preferences induced by T ((u k ), β ) are unchanged while the
+preferences induced by T ((v k ), β ) become (1, 1)  (1, 0)  (0, 1)  (0, 0).
+
+On the other hand, when the set of alternatives X is the positive
+
+orthant of an Euclidean space, any two additively separable, monotonic, and
+differentiable utility functions that represent the same preferences on X are
+transformed by the bias map T into the same biased preferences.
+Claim: Preference Preservation in Euclidean Spaces
+|K |
+
+Let X = R+ be the common set of alternatives.
+
+Let u = (u k )k ∈K
+
+and v = (v k )k ∈K be vectors of consideration functions, so that both u k
+
+and v k depend only on x k and are differentiable with strictly positive
+derivatives. If u and v induce identical preference relations, then for any
+β , the biased preferences induced by T (u , β ) and T (v, β ) are identical.
+
+

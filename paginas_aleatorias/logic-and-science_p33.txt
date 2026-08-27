@@ -1,0 +1,50 @@
+Logic and Science
+
+27
+
+discussion will advance our understanding, particularly in the context of the
+anti-exceptionalism debate.
+It seems fair to say that the debate on logical anti-exceptionalism has, until
+now, been characterized by limited and sometimes vague discussions about the
+supposed scientiﬁc status or the anti-exceptional nature of logic. In fact, in
+examining the current state of the debate, it is clear that many logicians and
+philosophers of logic readily suggest that logic closely resembles a science.
+However, they often hesitate to delve into discussions about what it precisely
+means for logic to be considered a science. Regardless of the current state of the
+debate in the philosophy of logic, we maintain that the question of whether, and
+to what extent, logic qualiﬁes as a science is not only philosophically signiﬁcant
+but also important and inherently complex. Consequently, it warrants a more
+focused and detailed discussion. That being said, it is important to clarify that
+the primary aim of discussing demarcation criteria in relation to logical antiexceptionalism is not to argue that a sensible anti-exceptionalist stance on logic
+requires a strict set of criteria for distinguishing science from non-science.
+Rather, the goal is to show that a more nuanced understanding of these criteria
+and their interconnections offers a clearer picture of what it means to be an antiexceptionalist about logic, and to what extent.
+To begin with, we take it that when we inquire into whether and to what extent
+logic is a science, we end up engaging with three, undoubtedly intricate, issues
+at once, namely: (i) the issue of what counts as logic (i.e.: how do we demarcate
+logic from non-logic?); (ii) the issue of what counts as science (i.e.: how do we
+demarcate science from non-science?); (iii) the issue of whether logic meets
+(some or all of) the demarcation criteria for being a science (i.e.: does logic
+qualify as a science?). The plan for this section and the subsequent two is thus to
+discuss these three questions and to provide some useful indication concerning
+how to address them in relation to the aim of advancing the debate on antiexceptionalism about logic. Let’s start with the issue of how to demarcate
+science from non-science.
+
+3.2 Demarcation Problems in Science
+“Science” is one of those terms that we, as competent users of a natural
+language living in a society heavily relying on technological and scientiﬁc
+knowledge, are all acquainted with. We inherently grasp an intuitive, though
+somewhat vague, distinction between what qualiﬁes as science and what does
+40
+
+40
+
+Contrary to the usage by Boudry (2017: 38) and Hansson (2013: 63–65), who employ “science”
+as a broad equivalent to the German concept “Wissenschaft” encompassing all academic
+research ﬁelds, we will limit our use of “science” to primarily denote the natural sciences.
+This aligns with the conventional understanding of the term in British and American English.
+
+Downloaded from https://www.cambridge.org/core. IP address: 177.249.162.188, on 23 May 2025 at 03:56:12, subject to the Cambridge Core terms
+of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/9781009233897
+
+

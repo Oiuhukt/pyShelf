@@ -1,0 +1,42 @@
+KEITH S. DONNELLAN
+
+when the speaker believes that some particular thing or person
+fits the description, and it can be used referentially in the absence
+of this belief.
+My main point, here, however, has to do with Linsky's view
+that because the presupposition is not satisfied, the statement is
+neither true nor false. This seems to me possibly correct if the
+definite description is thought of as being used attributively
+(depending upon whether we go with Strawson or Russell). But
+when we consider it as used referentially, this categorical assertion
+is no longer clearly correct. For the man the speaker referred to
+may indeed be kind to the spinster; the speaker may have said
+something true about that man. Now the difficulty is in the notion
+of "the statement." Suppose that we know that the lady is a
+spinster, but nevertheless know that the man referred to by the
+speaker is kind to her. It seems to me that we shall, on the one
+hand, want to hold that the speaker said something true, but be
+reluctant to express this by "It is true that her husband is kind to
+her."
+This shows, I think, a difficulty in speaking simply about "the
+statement" when definite descriptions are used referentially. For
+the speaker stated something, in this example, about a particular
+person, and his statement, we may suppose, was true. Nevertheless,
+we should not like to agree with his statement by using the sentence
+he used; we should not like to identify the true statement via the
+speaker's words. The reason for this is not so hard to find. If we
+say, in this example, "It is true that her husband is kind to her,"
+we are now using the definite description either attributively or
+referentially. But we should not be subscribing to what the original
+speaker truly said if we use the description attributively, for it was
+only in its function as referring to a particular person that the
+definite description yields the possibility of saying something true
+(since the lady has no husband). Our reluctance, however, to
+endorse the original speaker's statement by using the definite
+description referentially to refer to the same person stems from
+quite a different consideration. For if we too were laboring under
+the mistaken belief that this man was the lady's husband, we could
+agree with the original speaker using his exact words. (Moreover,
+it is possible, as we have seen, deliberately to use a definite descrip300
+
+

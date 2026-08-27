@@ -1,0 +1,47 @@
+OUP CORRECTED PROOF – FINAL, 14/8/2018, SPi
+
+CALCULATING CONDITIONALS
+
+
+
+For our purpose here, we should keep the distinction between these three. This
+allows us to meaningfully ask: is the ratio formula suitable for generating accurate
+estimates of conditional probability? We think the answer is no, which might be
+unsurprising in light of our commitment to propensity theory (cf. Humphreys’
+paradox, 1985) and causal singularism. Nonetheless, we think there is more to be
+said about exactly why the ratio formula fails as a tool for calculating conditional
+probabilities.
+Our ﬁrst concern is that conditional probabilities are here analysed in terms of
+unconditional probabilities. We have already indicated in Section 21.1 why we follow
+Popper (1959) and de Finetti (1974) in taking conditional probabilities as primitive.
+The source of the problem, however, lies not primarily in the understanding of
+probabilities, but in how conditional and causal relations are traditionally analysed.
+These, we will argue, need to be treated as primitive wholes rather than being analysed
+into something else.
+Kolmogorov’s ratio formula is a typical analysis, given as an equation. The
+equation indicates a symmetric relationship, but some asymmetry still follows.
+Understood as a deﬁnition, the formula must be read left to right, from the conditional to the unconditional probabilities. As a tool for calculation, however, we must
+use it right to left: that is, we start from the unconditional probabilities in order to
+calculate the conditional probability. Many equations have this asymmetry involved,
+even though the value on each side is the same. Take Newton’s second law, F = ma.
+F might be deﬁned as ma, but the calculation only goes one way, from mass and
+acceleration to force. Of course, from any two values we can calculate the third. But
+the case we are considering is where we know only the value of F. We then know the
+value of ma but we cannot, from this, decompose that value into the individual values
+of m and of a. And in the arithmetic equation 2 + 2 = 4, we know that 2 + 2 can only
+have one answer while 4 could be the result of many different calculations. The same
+could be said of chance and propensities. Even if an overall chance is made up of
+individual propensities, we cannot say what the individual propensities are from the
+overall chance. The fact that something can be calculated from certain components
+does not, therefore, entail that they can be analysed into those exact components.
+There could be composition without decomposition.
+We think conditional probabilities neither compose nor decompose. They are
+primitive. We thus deny that they can be deﬁned, derived, analysed, or calculated by
+way of unconditional probabilities. But our reason for saying this is that we think
+conditionals in general do not compose or decompose, as we now go on to explain.
+
+21.3 Calculating Conditionals
+Within standard propositional logic, conditional statements, ‘if p then q’, are represented by the material conditional, ‘p ⊃ q’. But since this is deﬁned only as a function
+of the antecedent ‘p’ and the consequent ‘q’, the conditional is thought to be composed
+
+

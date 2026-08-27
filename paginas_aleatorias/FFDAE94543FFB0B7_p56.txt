@@ -1,0 +1,33 @@
+56
+
+To resolve this tension, we need to observe that basic law I cannot be false given how Frege
+defined the notions in it. This is the sort of claim that Frege is making as he introduces it—
+where indeed, he appeals to the stipulations he made in §12 concerning the conditional
+stroke. But surely under different stipulations the same formulas could be false.60
+Frege justifies his stipulations by referring to his theory of reference. There, he never
+suggests that any natural language meets the standards that he sets for his formal
+language.61 Rather he argues that when language is used for scientific purposes it must
+meet these standards—a claim which motivates his stipulations. Now, the evidence
+supporting Frege’s understanding of scientific language seems to be his own familiarity with
+scientific languages and the human mind. He takes for granted claims that, according to
+him, reflect uncontroversial facts about scientific discourse. This makes the justification of
+basic laws somewhat human-centred. The laws cannot be false in the Begriffsschrift, which
+is an ideal language for human scientific discourse. But a different community might not
+accept the same claims about scientific language that we accept—for instance, a community
+might not accept that in scientific language no term should fail to refer.
+Frege repeatedly envisions the possibility of mathematical aliens. He seems to take this as a
+nomological possibility, since he considers scenarios in which, as a result of evolution,
+
+60
+
+For instance, Frege postulates that no term in his formal language fails to refer (1893,§5). Should
+
+we remove this assumption, the truth-table of the conditional stroke would change –it would have
+to account not only for the cases in which antecedent and consequent are true or false, but also for
+the cases in which they fail to refer. This could affect basic law I since Frege appeals to the definition
+of the conditional stroke to justify it.
+61
+
+For instance, he admits that natural language terms might fail to refer (1892, 40).
+
+

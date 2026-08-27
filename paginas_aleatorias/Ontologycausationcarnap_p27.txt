@@ -1,0 +1,29 @@
+since their “basic” powers ontologyM is not sufficiently informative on this rather domain-specific issue
+(see section 4.1). Are obesity and race causes, according to the realist’s powers ontologyM? Do they have
+“real” causal powers? It seems that either the realist has to admit that the powers ontologyM cannot
+directly answer this type of domain-specific questions, or they need to deny that this is a fair question.
+In my view, Carnapian pragmatism offers a more sensible way to make sense of this controversy.
+Holland’s answer to “what can be a cause” is no longer so surprising if we notice that it is a direct
+consequence of the causal framework he has accepted. He restricts the scope of causes to treatments
+because the potential-outcomes framework he has adopted takes randomized experiments as the paradigm
+of causal inference. In RCTs, the causes being considered are, by default, treatments. Now, Holland does
+have good reasons to accept the potential-outcomes framework. First, randomized experiments have been
+considered one of the most reliable methods of causal inference. Based on the idea of an RCT, the
+potential-outcomes framework provides a conceptually clear and practically convenient definition of
+causal effects. In particular, as Hernán and Taubman (2008) argue, if a variable cannot be conceived as a
+treatment variable in a randomized experiment, its effects on other variables may be ill-defined. Besides,
+the primary goal of the potential-outcomes framework is to inform public policy in medical and social
+sciences. The framework is a suitable tool for achieving this goal. In view of all this, it starts to sound
+reasonable that causes should be restricted to treatments.
+Pearl has a quite different answer to “what can be a cause” given his acceptance of another causal
+framework, namely, SCMs. Causes are not, and cannot, be restricted to treatments in this framework since
+to represent the underlying causal structure or mechanism of a target system with a graphical model, we
+often need to include various attributes as causes. The SCM framework is hence in sharp contrast to the
+potential-outcomes framework in the sense that the latter takes the target system as a black box and only
+cares about the effects of treatments on the system. But why does Pearl choose the SCM framework? An
+important motivation is that Pearl’s causal inference framework wants to represent the causal structure of
+a target system rather than just informing policymaking. This can be seen from Pearl’s (2018) distinction
+
+27
+
+

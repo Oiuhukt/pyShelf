@@ -1,0 +1,32 @@
+GLOSSARY
+
+Abductive Argument
+An argument that attempts to provide the best explanation possible of certain other phenomena as its
+conclusion. Also known as inference to the best explanation.
+Argument
+A group of propositions, one of which, the conclusion, is (supposed to be) supported by the others, known as
+the premises.
+Cogent Argument
+A strong inductive or abductive argument with true premises. If an argument is cogent, then its conclusion is
+likely to be true.
+Conclusion
+The proposition in an argument that the premises are supposed to be supporting.
+Conclusion Markers
+Words that generally indicate that what follows is a conclusion, e.g. “therefore,” “thus,” “consequently.”
+Conditional
+A proposition of the form “If A then B,” connecting two simpler propositions A and B. The A in a conditional
+is known as the antecedent, and B the consequent.
+Counterexample
+A counterexample is a scenario in which the premises of the argument are true while the conclusion is false.
+If an argument has a counterexample, it is not valid.
+Declarative Sentences
+Sentences which communicate that something is, or is not, the case. For example, “Bob won the 50m
+freestyle.” Declarative sentences can be contrasted with those that pose questions, called interrogative
+sentences, and those which deliver commands, known as imperative sentences. (Declarative sentences are
+also known as indicative sentences)
+Deductive Argument
+An argument that aims to be valid.
+
+74 LOGIC
+
+

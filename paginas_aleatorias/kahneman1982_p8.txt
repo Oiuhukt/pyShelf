@@ -1,0 +1,14 @@
+208
+
+AVAILABILITY
+
+sensible to expect that events will unfold as planned. However, the
+cumulative probability of at least one fatal failure could be overwhelmingly high even when the probability of each individual cause of failure is
+negligible. Plans fail because of surprises, occasions on which the unexpected uphill change occurs. The simulation heuristic, which is biased in
+favor of downhill changes, is therefore associated with a risk of large and
+systematic errors.
+
+Downloaded from https:/www.cambridge.org/core. Boston University Libraries, on 27 Jun 2017 at 08:48:21, subject to the Cambridge Core
+terms of use, available at https:/www.cambridge.org/core/terms. https://doi.org/10.1017/CBO9780511809477.015
+
+

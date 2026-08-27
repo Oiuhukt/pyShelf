@@ -1,0 +1,51 @@
+48
+
+Philosophy of Physics
+
+the connection coefﬁcients seem to be the wrong sort of mathematical object
+for the representational job.
+Curiel (2019, §§6–7) provides a different argument that he interprets as
+proving the nonexistence of a gravitational energy–momentum tensor. In order
+for such a tensor to source the EFE, it must be a twice covariant symmetric
+tensor ﬁeld. Further, it must be expressible as a sum of ﬁelds deﬁnable from
+the Riemann tensor, Ricci tensor, and the metric, such that it vanishes only
+if the Riemann tensor vanishes and is divergence-free in vacuum regions of
+spacetime. Finally, he requires that the tensor be invariant under any homothety
+gab 7→ λgab for constant λ > 0, suggesting that this mapping represents a mere
+change in units. He then proves a theorem with a corollary stating that there is
+no tensor ﬁeld satisfying all these constraints.
+The theorem is in fact similar to one stated by Aldersley (1977) and later
+elaborated by Navarro and Sancho (2008) about the uniqueness of the EFE
+as a ﬁeld equation. As Fletcher et al. (2018, §6.1) point out in the context
+of the discussion of these results, homothetic transformations represent scale
+transformations, not just changes in units. If the cosmological constant Λ , 0
+or one considers any matter theories with intrinsic timescales or length scales,
+then one wouldn’t expect such transformations to be symmetries as these results
+assume.25 Accordingly, Curiel’s argument is not as deﬁnitive as it might at ﬁrst
+seem.
+There is a different, simple argument against gravitational energy–
+momentum, due to Geroch and Malament in its original form (Dewar &
+Weatherall 2018, §1). (What follows is a slight variation on this form.) Recall
+that the two functions for energy–momentum, uniﬁed in GR, are to be the
+source for the EFE and to facilitate the description and explanation of the local
+dynamics of matter. First, suppose that gravity contributes as a source to the
+EFE. It must then be representable as a twice covariant tensor ﬁeld. Then, in
+Ricci-ﬂat, vacuum spacetimes (ones where Rab = 0 and matter ﬁelds vanish),
+the gravitational energy–momentum is just Λgab (cf. Baker 2005). But this
+expression does not covary with the gravitational phenomena possible in such
+spacetimes, such as the presence of gravitational waves of various amplitudes.
+(I analyze the case of gravitational waves in more detail in the next subsection.)
+
+25
+
+Curiel (2019) does acknowledge at least the point about the cosmological constant,
+countering that one must take Λgab to be simply the energy–momentum content of spacetime
+itself. (Aldersley [1977] and Navarro and Sancho [2008] counsel the same.) He does not
+acknowledge, however, the tension between afﬁrming spacetime energy–momentum while
+denying gravitational energy–momentum. I discuss this option further in the remainder of
+this section.
+
+Downloaded from https://www.cambridge.org/core. IP address: 177.249.162.188, on 23 May 2025 at 04:25:52, subject to the Cambridge Core terms
+of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/9781108954082
+
+

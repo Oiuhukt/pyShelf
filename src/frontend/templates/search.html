@@ -9,69 +9,7 @@
 {% endblock %}
 
 {% include 'header.html' %}
-{% include 'navigation.html' %}
 
-<style>
-  #book-shelf {
-    display: grid !important;
-    grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)) !important;
-    gap: 16px !important;
-    padding: 20px !important;
-    width: 100% !important;
-    box-sizing: border-box !important;
-  }
-
-  a.book {
-    display: flex !important;
-    flex-direction: column !important;
-    align-items: center !important;
-    justify-content: flex-start !important;
-    width: 100% !important;
-    max-width: 180px !important;
-    height: 270px !important;
-    padding: 8px !important;
-    box-sizing: border-box !important;
-    background-color: #1e293b !important;
-    border: 1px solid rgba(255, 255, 255, 0.1) !important;
-    border-radius: 8px !important;
-    text-decoration: none !important;
-    margin: 0 auto !important;
-    overflow: hidden !important;
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
-  }
-
-  a.book:hover {
-    transform: translateY(-4px);
-    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.5);
-  }
-
-  .book-thumbnail, .book-thumbnail figure {
-    width: 100% !important;
-    height: 200px !important;
-    margin: 0 !important;
-    overflow: hidden !important;
-  }
-
-  .book-thumbnail img {
-    width: 100% !important;
-    height: 200px !important;
-    object-fit: cover !important;
-    object-position: top !important;
-    border-radius: 4px !important;
-  }
-
-  .book-title-sub {
-    width: 100% !important;
-    margin-top: 8px !important;
-    font-size: 0.82rem !important;
-    color: #e2e8f0 !important;
-    text-align: center !important;
-    white-space: nowrap !important;
-    overflow: hidden !important;
-    text-overflow: ellipsis !important;
-    display: block !important;
-  }
-</style>
 
 <section id="master-container">
     <div id="book-shelf">

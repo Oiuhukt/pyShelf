@@ -1,0 +1,55 @@
+3/10/2021
+
+e.Prooﬁng
+
+then we can argue that any old probability ascription models chance. (Schaffer,
+2007, for examples, raises this kind of challenge to Loewer, 2001).
+On the other hand, Laws and Conditions Test restricts what counts as admissible
+information to information about the present and past but not information about the
+future. What non-arbitrary justification is there for counting the present and past as
+admissible but not the future? In lieu of some argument for either Macrophysical
+Test or Laws and Conditions Test from premises that do not beg the question
+against either the compatibilist or the incompatibilist, the strategy of using chance’s
+predictive role as a guide to where the chances ends in stalemate.
+
+4. Moving forward
+4.1. Chance’s role in probabilistic explanation
+Of the four tests discussed above, which, if any, is correct? Let’s start answering
+that question by first considering the tests that go by way of chance’s explanatory
+role.
+Whether Good Explanation Test is true depends, of course, on where we draw the
+line between an ideal explanatory text and no explanation at all. As noted above,
+however, I think that there are too many ways for probability ascriptions to feature
+in merely good explanations without being true or without being about chance to
+warrant much confidence in Good Explanation Test.
+Ideal Explanation Test is motivated by the attractive thought that a probability
+ascription could not be a non-eliminable part of an ideal explanatory text of an
+event’s occurrence without also being an accurate description of the event’s chance
+of occurring. Furthermore, Ideal Explanation Test provides a tractable way into the
+debate between the compatibilist and the incompatibilist through the somewhat
+firmer ground of our judgements about the content of ideal scientific explanations.
+For these reasons, Ideal Explanation Test seems to be a plausible and helpful guide
+to where the chances are—the chances are wherever the probability ascriptions of
+ideal scientific explanations say that they are.
+It is nowhere near as clear where things stand with the tests that go by way of
+chance’s predictive role. What we would like is an argument for either Laws and
+Conditions Test or for Macrophysical Test from premises that do not presuppose a
+verdict on whether chance and determinism are compatible or on whether there can
+be macrophysical chances that are independent of microphysical chances. And it is
+obviously no help to replace both Laws and Conditions Test and Macrophysical Test
+with a more flexible but less informative “admissibility” test. Such a strategy
+simply passes the buck; now the problem is to give some non-question begging
+argument about when (or whether) the laws and conditions are admissible and when
+(or whether) only the macrophysical laws and conditions are admissible. Our
+problem is not a lack of clever ways to define “admissible information” so as to
+sidestep one argument or another. Instead, our problem is to provide motivation for
+some such definition without prejudging the question of where the chances are.
+Both the compatibilist and incompatibilist should acknowledge that chance plays
+some predictive role and that chance’s predictive role can be a guide to which
+probability ascriptions accurately describe a world’s chances. If we are to use
+chance’s predictive role to adjudicate between the compatibilist and incompatibilist,
+https://eprooﬁng.springer.com/journals_v2/printpage.php?token=DwNxx4zkpFLLJXb8ERPNmJj-3hDUWc6wmupgptGsQtSxMbg-iFzAdbMg0PXxae4z
+
+12/24
+
+

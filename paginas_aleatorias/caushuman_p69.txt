@@ -1,0 +1,38 @@
+58
+
+Causation with a Human Face
+
+suppose, actual cause judgments are not very central to physics. More generally,
+different causal notions are differentially important in different sciences. The
+control-​related notion of causal specificity (a notion not discussed in this book,
+but see Woodward 2010) is important in biology but arguably not in physics, in
+part because of contingent facts about biological organisms and perhaps other
+designed structures. So in stressing the continuity among various forms of causal
+thinking I do not mean to imply that, say, every feature of common-​sense causal
+thinking is reproduced throughout science.
+
+A.5. Eliminativism
+Some philosophers are commonly interpreted as holding that thinking about the
+world in terms of cause and effect is fundamentally misguided or confused—​
+perhaps because such thinking is inconsistent with what “fundamental physics”
+tells us about the world or perhaps for some other reason.52 These writers favor
+elimination of the notion of cause from our thinking or at least from important parts of it (such as scientific inquiry) and its replacement with something
+else—​often claims about correlations or regularities interpreted along “Humean”
+lines. As explained earlier, advocates of a functional perspective can agree that
+the application of causal notions has empirical preconditions and that it is possible that these will not be satisfied in certain domains of inquiry. But, as argued,
+functionalists will also insist that just because these preconditions are not satisfied in certain domains, it does not follow that they are unsatisfied in all others
+and that causal thinking is inappropriate everywhere. Moreover, functionalists
+will (or should) ask about the proposed replacement for causal thinking (if any)
+and about the extent to which it can fulfill the functions previously associated
+with causal thinking. Suppose, for example, that the replacement does not provide the resources to distinguish between those relationships that are exploitable
+for manipulation and control and those that are not. Advocates of a functional
+approach (or at least advocates who think that the interventionist framework captures aspects of the function of causal thinking) will see this as highly
+problematic since there is an important function of causal thinking that is not
+supplied by the replacement. (Note that the replacement is rejected on that basis
+and not just because it is contrary to “intuition.”)
+
+52
+
+One candidate for such a view is Russell 1912.
+
+

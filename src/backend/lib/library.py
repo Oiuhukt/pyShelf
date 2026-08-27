@@ -191,33 +191,18 @@ class Catalogue:
 
         # Extraer la primera página del PDF como imagen de portada (JPEG base/bytes)
         cover_image = None
-        try:
-            images = convert_from_path(book, first_page=1, last_page=1)
-            if images:
-                buffer = io.BytesIO()
-                images[0].save(buffer, format="JPEG")
-                cover_image = buffer.getvalue()
-        except Exception as e:
-            self.config.logger.error(f"Error generando portada para {book}: {e}")
-
-        description = None
-        identifier = None
-        publisher = None
-        date = None
-        rights = None
-        ftags = None
 
         return [
             title,
             author,
             cover_image,
             fname,
-            description,
-            identifier,
-            publisher,
-            date,
-            rights,
-            ftags,
+            None, #description,
+            None, #identifier,
+            None, #publisher,
+            None, #date,
+            None, #rights,
+            None #ftags,
         ]
 
     @staticmethod

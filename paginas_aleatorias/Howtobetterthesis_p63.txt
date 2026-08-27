@@ -1,0 +1,45 @@
+52
+
+4 Making a Strong Start
+
+What constitutes ‘relevant’ varies between disciplines, but in general the bulk of
+the citations will be to academic literature, that is, to documents that are accepted
+by the community as a reliable source of knowledge. These are typically refereed, widely accessible, identifiable, and durable. A PowerPoint slide found on the
+web fails most of these criteria, as does an email, even if from an eminent authority. Slightly more tricky are primary sources. In the sciences, these might include
+lab notebooks, say; these are the evidence underpinning your conclusions, but the
+citable form of these is the discussion of them in your thesis, not the notebooks
+themselves. In the humanities, primary sources might include, say, anything from
+wartime diaries to logs of web page accesses; whether they would be cited is discipline-dependent, but most often they would be listed as sources rather than included
+in the thesis’s bibliography.
+There are many ways in which we learn beyond the academic literature, including newspaper articles, corridor conversations, resources such as Wikipedia, and
+the web in general. In most cases it is appropriate to confirm such knowledge in
+an academic source, and it is the academic source that should be cited. To take a
+wider perspective, we read for many reasons: to establish that our work is novel and
+to identify new lines of questioning, for example, as well as to set our work in an
+academic context. Such reading informs us, but is not necessarily a part of the final
+thesis. Reading can sometimes be footnoted rather than listed as a formal reference.
+To explore the literature, I recommend the strategy of finding the gateways then
+following the paths. A gateway is a paper or book or other source you discover
+through actively exploring, say by using a search facility to try and find new material on a given topic; or you may be introduced to a gateway in a seminar, or by a
+colleague. In such discovery, don’t expect to find what you need by simply issuing
+a quick query at a search interface. As you search, you will learn new terminology
+and use it to help discover more references. Also, be broad in your use of tools.
+General web resources, university portals, and publisher portals all tend to index
+different materials and may provide very different results.
+Gateways lead to paths. Each paper has a list of citations; each paper may also be
+cited by others, and online resources can help you find these works too. Following
+these trails, or pathways, is a certain way to discover new literature. Use the web to
+chase down other work by the same authors and same research groups. Once you’ve
+identified other people working the same area, regularly check to see if they have
+published something new. I also recommend that you plan your search. Identify
+fields and subfields that you need to explore, and focus on one at a time. And be
+inclusive in your definition of ‘relevance’; for example, a paper can be useful, not
+just because it is on the right topic, but because it embodies an approach to a similar
+kind of problem in an interesting way, and it is this approach that you wish to cite.
+Don’t neglect the traditional source of academic literature: namely, libraries. Students in some disciplines now have little immediate reason to go to the library, since
+so much of the literature is online, but even in these cases I advise the occasional
+library visit—and I am often rewarded by students telling me how much unexpected
+work the visit turned up. Simply browsing the shelves near their usual journals and
+texts can turn up a great range of new sources.
+
+

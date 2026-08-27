@@ -1,0 +1,51 @@
+88
+
+Theories of Meaning
+
+grammatical strings do. And the idea of grammaticality is a sophisticated one, even
+though it is grasped however dimly by 4-year-olds.
+Third, consider the category of what linguists used to call semi-grammatical utterance.
+Some of the utterances that people produce are only semi-grammatical, in that if their
+words were written down on paper, the result would not count as an entirely grammatical
+sentence by some rule of grammar (it has some grammatical infelicity in it), but it is
+coherent enough to be understood. In fact, I suspect most people talk that way most of the
+time. At the very least, we all do things like making false starts, and we all engage vigorously
+in mid-course editing. Yet not only do we get understood by our hearers; nobody even
+notices. We correct for semi-grammaticality quite automatically. That correction is a
+theoretical move made by our brains, and yet another abstraction away from speech events
+in the real world.
+2 Paragraph 43 of Wittgenstein’s (1953) Philosophical Investigations is famously misquoted. It reads, “For a large class of cases—though not for all—in which we employ
+the word ‘meaning’ it can be deﬁned thus: the meaning of a word is its use in the
+language.” Wittgenstein was very serious about “though not for all”; he did not hold that
+“meaning is use,” period. Indeed, he was allergic to universal generalizations. He
+thought it a deep defect of philosophy that philosophy seeks universal generalizations;
+the real world, he contended, is always more complicated than that.
+As Georg Henrik von Wright put it, Wittgenstein “lived on the border of mental illness
+. . . throughout his life” (“Biographical Sketch,” in Norman Malcolm, Ludwig Wittgenstein: A Memoir, Oxford: Oxford University Press, 1958). Wittgenstein also distinguished himself from most twentieth-century English-speaking philosophers by having
+had quite an interesting life; see Ray Monk’s wonderful biography, Ludwig Wittgenstein:
+The Duty of Genius (New York: Free Press, Maxwell Macmillan International, 1990).
+3 Reported by Norman Malcolm (1958: 65). “A central idea of his philosophy, the notion
+of a ‘language-game,’ apparently had its genesis in this incident.”
+4 Horwich (1998) offers a similar if less well worked-out picture. Unlike Brandom, he
+emphasizes that individual expressions have meanings: a given expression’s “meaning
+property” is “its use being governed by such-and-such regularity—or, more speciﬁcally,
+the property that every use of the word is explained in terms of the fact that we accept
+certain speciﬁed sentences containing it” (p. 6, italics original). For each word, there is a
+“basic use regularity.” Examples: We tend to accept “That’s red” (if it is actually uttered)
+in the presence of a red thing; we accept “p and q” if we accept p and we accept q.
+(“Accepting” a sentence is supposed to be a psychological notion (pp. 94–6), rather than
+a recognizable form of actual social behavior; this is another departure from Wittgenstein and from Brandom.) Compositionality is brieﬂy addressed in Chapter 7: A complex
+expression’s meaning property consists in a “construction property,” e.g.: x means
+DOGS BARK in that “x results from putting terms whose meanings are DOG and
+BARK, in that order, into a schema whose meaning is NS V” (p. 156). But, unless I have
+missed it, nothing is said as to how the “schema” is supposed to have a “use regularity”
+despite not being an expression of English.
+
+Further Reading
+•
+
+The literature on Wittgenstein is so vast that I hesitate to mention one or two
+or three exegetical works to the exclusion of others. But: Rhees (1959–60),
+Pitcher (1964: ch. 11), Hallett (1967), Kenny (1973: chs. 7–9).
+
+

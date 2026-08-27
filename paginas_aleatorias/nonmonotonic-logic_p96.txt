@@ -1,0 +1,48 @@
+88
+
+Philosophy and Logic
+
+is a δ ∈ (0, 1] such that for all proper probability functions P for D: if, for all
+C ⇒ D ∈ D, P(D | C) ≥ 1 − δ, then P(B | A) ≥ 1 − ϵ.
+Does this approach lead to a more well-behaved entailment relation and what
+are characteristic properties of ϵ-entailment? Let us have another look at our
+example.
+Example 55 (Example 54 cont.). Where D = {b ⇒ ¬f, b ⇒ w}, we have, for
+instance, b ⇒ ¬f ∧ w ∈ Cnϵ (D). In order to show this, let ϵ ∈ (0, 1] be arbitrary
+and consider a probability function P. We need to ﬁnd a δ ∈ (0, 1] such that if
+P(¬f | b), P(w | b) ≥ 1 − δ, then P(¬f ∧ w | b) ≥ 1 − ϵ. Let δ = ϵ/2 and suppose
+that P(¬f | b), P(w | b) ≥ 1 − δ. Then,
+P(¬f ∧ w | b) = 1 − P(f ∨ ¬w | b)
+
+
+P((f ∨ ¬w) ∧ b)
+P(f ∧ b) P(¬w ∧ b)
+=1−
+≤ 1−
++
+P(b)
+P(b)
+P(b)
+= 1 − (P(f | b) + P(¬w | b))
+= 1 − ((1 − P(¬f | b)) + (1 − P(w | b))) = P(¬f | b) + P(w | b) − 1
+≥ 2(1 − δ) − 1 = 2 − 2δ − 1 = 1 − 2δ = 1 − ϵ
+What we have just shown in the context of our example is not coincidental.
+Indeed, the proof of AND for ϵ-entailment follows exactly the structure of
+the proof in Example 55. What is more, ϵ-entailment can be shown to coincide
+with system P for ﬁnite knowledge bases (Geffner, 1992; Lehmann & Magidor,
+1990): a remarkable correspondence between two rather different perspectives
+on the meaning of ⇒.
+
+14.2 Other Quantitative Approaches
+We close this section with some pointers to related approaches. While in
+Adams’ approach we ﬁnd a probabilistic characterization of P-entailment, the
+reader may wonder whether also R-entailment can be represented by a quantitative approach. Indeed, utilizing a nonstandard probabilistic approach including
+inﬁnitesimal values, Lehmann and Magidor (1992) present a variant of Adams’
+system that characterizes rational entailment.
+Instead of probability measures other quantitative measures have been utilized in the literature to give meaning to defaults. We let S again be a ﬁnite set
+of situations and v : Atoms → ℘(S) an assignment function.
+• A possibility measure (Dubois & Prade, 1990) Poss : ℘(S) → [0, 1] determines the possibility of a set of situations, from impossible (0) to maximally
+Downloaded from https://www.cambridge.org/core. IP address: 187.202.145.21, on 25 Oct 2025 at 20:20:51, subject to the Cambridge Core terms of
+use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/9781108981699
+
+

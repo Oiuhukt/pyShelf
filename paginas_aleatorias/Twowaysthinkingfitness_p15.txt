@@ -1,0 +1,49 @@
+THINKING
+
+ABOUT
+
+FITNESS AND NATURAL
+
+SELECTION
+
+67
+
+law of addition of forces gives us a value for totalforce, and the latter
+feeds into the consequence law.
+By contrast, vernacular fitness is specified in comparative terms and
+in restricted contexts. For example, you might learn that the optimal
+reproductive strategy with respect to sex determination is to produce
+male offspring when there are fewer males in the population, and
+females when there are fewer females. But this only tells you about
+the relative merits of strategies within a circumscribed set, with other
+factors held constant. The analysis does not tell you whether producing offspring of the minority sex is more or less advantageous than
+other fitness-relevant things you can do; there is, generally, no way of
+combining the effects of a good strategy in this game, with good or
+bad strategies in other games. For example, we have no way of
+calculating whether a given sex-selection strategy interacts with a
+given parental-care strategy, and how the fitness produced by variants
+of these strategies combine. This inability to add the "forces" of
+fitness is even more pronounced when the source laws are in unrelated domains. Suppose a certain species undertakes parental care, is
+resistant to malaria, and is somewhat weak but very quick. How do
+these fitness factors add up? We have no idea at all. The theory of
+probability has no general way to deal with such questions.15
+Since we cannot add up the values produced by the source laws, the
+quantification of fitness in the laws of population genetics is conceptually independent of their occurrence in source laws in a way not paralleled in the Newtonian treatment of force. The overall fitness values
+demanded by consequence lawsmust be estimated statistically,that is, by
+looking at actual values for number of offspring, and using these actual
+values to estimate expected values and other statisticalquantities. This
+independence has been remarked on by more than one philosopher of
+biology. "Fitnessmust be measured by its effects,"saysAlexander Rosenberg.16 But the independence of consequence laws has often been
+misdiagnosed. Rosenberg thinks that it arises because there are multiple
+physical realizations of fitness. Sober takes a related line: "The supervenience of fitness-the fact that fitness is not a single physical property15
+Donald Davidson makes structurally the same point in "How Is the Weakness of
+the Will Possible?" in Joel Feinberg, ed., Moral Concepts(New York: Oxford, 1971),
+pp. 93-113. He argues (pp. 108-11) that there is no systematic way of comparing the
+negative value of brushing one's teeth given that one is sleepy with the positive value
+of doing so given that one values healthy teeth. And it follows that there is no
+systematic way of constructing the "all things considered"judgment on whether one
+should brush one's teeth.
+16
+"Fitness," this JOURNAL, LXXX, 8 (August 1983): 457-73, at p. 459.
+
+

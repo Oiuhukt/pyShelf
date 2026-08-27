@@ -1,0 +1,41 @@
+46
+
+Metaphysics
+
+for practices of modal commitment and discourse in science in a way that
+satisﬁes empiricists, pragmatists, and other theorists who regard metaphysics
+with suspicion. Such views are regarded as naturalistic because they decline to
+pursue empirically intractable and metaphysically lofty questions about the
+metaphysics of modality and instead attend to the empirically tractable domains
+of cognition and language use.
+These views fall under a broader category that we will label ‘projectivism’,
+since they tend to agree that our modal theorising is ultimately a matter of
+a projection of some aspect of our own cognitive lives. Fellow members of this
+broader category include Blackburn (1993) and Thomasson (2020). While
+projectivist views are of independent interest, we think they lack direct bearing
+on the kind of modal naturalism we have in mind. The naturalism involved in
+a projectivist outlook is a naturalism at the metaphilosophical level, which
+places empirically tractable practices at the centre of inquiry, rather than
+a naturalism at the epistemological level, which prescribes a science-centred
+epistemology for modality conceived as a domain of mind-independent facts.
+While we appreciate the spirit of these views and their contribution to our
+understanding of the modal content of science, we see modal naturalism as
+pursuing different ends. Rather than accounting for modal dimensions of scientiﬁc
+practice in a metaphysically minimal way, the modal naturalist regards science as
+an important source of modal metaphysical knowledge. Nevertheless, projectivism and modal naturalism in our sense are not incompatible; one could simultaneously hold that while modality itself is of our own making, nonetheless we have
+made modality in such a way that modal naturalism is the correct account of its
+ﬁrst-order epistemology. However, there is at least some tension here: some central
+motivations for modal naturalism, concerning our epistemic access to modal facts
+and their rational relevance to us, seem to be undercut by a projectivist account of
+modal reality that renders the access question and the relevance question misconceived (Thomasson 2020). Our modal naturalist assumes a straightforwardly
+realist treatment of modal facts and takes seriously questions about the knowability
+and relevance of these facts.
+
+7.5 Modal Science
+While none of the views we have discussed so far have been clearly identiﬁable
+as forms of modal naturalism, Williamson’s ‘Modal Science’ (2016) more
+closely approaches the kind of modal naturalism that we propose. In that
+paper, Williamson argues that objective modal knowledge is an integrated
+component of scientiﬁc knowledge. Scientiﬁc laws support subjunctive conditionals, and when they do so successfully over time, we have abductive grounds
+
+

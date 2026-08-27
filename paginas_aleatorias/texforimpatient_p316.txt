@@ -1,0 +1,56 @@
+3 Jan 2020
+
+2:18 p.m.
+
+No 316
+
+TEX for the Impatient
+
+296
+
+A compendium of useful macros
+
+\
+
+§12
+
+\eqnotrue \leqnofalse % Have \eqno, not \leqno.
+\@eqnotoks = {#2}\@eqtoks = {#1}%
+\fi
+\generaldisplay$$}%
+\def\@ldisplaytest#1\leqno#2\leqno#3\@ldisplaytest{%
+\@eqtoks = {#1}%
+\if #3%
+\eqnofalse % No \leqno; we’re done.
+\else
+\eqnotrue \leqnotrue % Have \leqno.
+\@eqnotoks = {#2}%
+\fi}%
+You can format displays differently by defining your own macro, analogous to \leftdisplays. The macro definition must place a call on
+\displaysetup in \everydisplay so as to ensure that \displaysetup
+is called at the start of every display. The macro definition must also
+include a definition of \generaldisplay.
+\newtoks\previouseverydisplay
+\def\leftdisplays{%
+\previouseverydisplay = \everydisplay
+\everydisplay =
+{\the\previouseverydisplay \displaysetup}%
+\def\generaldisplay{%
+\leftline{%
+\strut \indent \hskip\leftskip
+\dimen0 = \parindent
+\advance\dimen0 by \leftskip
+\advance\displaywidth by -\dimen0
+\@redefinealignmentdisplays
+\ifeqno \ifleqno
+\kern-\dimen0
+\rlap{$\displaystyle\eqn$}%
+\kern\dimen0
+\fi\fi
+$\displaystyle{\eq}$%
+\ifeqno \ifleqno\else
+\hfill $\displaystyle{\eqn}$%
+\fi\fi}}}%
+\def\centereddisplays{\let\displaysetup = \relax}%
+
+

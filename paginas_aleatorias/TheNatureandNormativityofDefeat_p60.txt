@@ -1,0 +1,43 @@
+54
+
+Epistemology
+
+proﬁciency to take up information about the presence of blue things. Likewise,
+in the Degas case, my ability to learn from testimony is a proﬁciency with the
+function of generating testimonial knowledge via a contained proﬁciency to
+take up testimonial information – here that you like Degas. It is these information-uptake proﬁciencies that are key to making room for external defeat, as
+I will explain in what follows.
+
+https://doi.org/10.1017/9781009161022 Published online by Cambridge University Press
+
+6.5 External Defeat
+With these points on proﬁciencies and their normative import in play, let’s
+return to external defeat. In what follows, I will outline how proﬁciencies – and,
+in particular, information-uptake proﬁciencies – can pave the way towards
+a better account of external defeat.
+To begin with, note that the norm that corresponds to the proper functioning
+of information-uptake proﬁciencies is a genuinely epistemic norm. This is
+because it derives from a genuinely epistemic function of epistemic proﬁciencies, that is, ultimately, the production of knowledge that is the function of the
+proﬁciencies of which information-uptake proﬁciencies are constituents (Kelp
+2023; Simion 2021).
+Second, this epistemic norm is a norm one may fail to live up to without
+forming any belief or taking up any contents at all. For instance, in the case in
+which I am looking at a blue dot on a white background, my epistemic ability to
+perceptually recognise blue things contains a proﬁciency which, when functioning epistemically properly, will take up the content (and, under normal
+conditions, the information) that the dot is blue upon being presented with
+a blue dot on a white background. If I fail to take up the content that the dot is
+blue, I am in violation of this norm. Similarly, in the testimony case, my ability
+to learn from testimony involves a proﬁciency to take up information. When it
+functions epistemically properly, it will take up the content (and, under normal
+conditions, the information) that you like Degas upon me being told that you do.
+If I fail to take up the content that you like Degas, I violate this norm.
+Recall what I take to be the crucial problem with external defeat for virtue
+epistemology, that is, that the normative framework it employs, telic normativity, is too limited in that it doesn’t allow us to assess attempts that one hasn’t
+made. We can now see that my distinctively functionalist version of virtue
+epistemology, in conjunction with proﬁciencies, allows us to make progress on
+this problem. This is because the functions of epistemic proﬁciencies give us
+norms that are genuinely epistemic and that one may violate without forming
+beliefs or even taking up any contents at all. And that is exactly what telic
+normativity-based virtue epistemology failed to do.
+
+

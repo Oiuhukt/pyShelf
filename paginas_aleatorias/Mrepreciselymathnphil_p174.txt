@@ -1,0 +1,37 @@
+162
+
+More Precisely
+
+information as it can about the other. Just as we defined the effective
+information from A to B, so we can define the effective information from B to
+A. This quantity EI(B —> A) is I(B*; A). Now the effective information
+between A and B is EI(A ↔ B) = EI(A →B) + EI(B →A). The effective
+information between A and B represents how tightly they are informationally
+coupled to each other. It is the strength of their coupling.
+The different bipartitions of 8 have different strengths. Among all these
+bipartitions, at least one is the weakest (there may be many tied for weakest).
+Just as the strength of a chain is the strength of its weakest link, so the
+integration of S is the strength of its weakest bipartition. But here we need to be
+careful. Since the bipartitions may have parts with very different sizes, we
+cannot compare them directly. To compare them, we need to normalize them.
+Let EI*(A ↔ B) be EI(A ↔ B) divided by the minimum of the two entropies
+H(A*) and H(B*). The weakest partition is the one for which EI*(A ↔ B) is
+minimum. Once we find the weakest partition, we can say that the integration of
+the system 8 is the (non-normalized) effective information at that partition.
+Thus (13(8) is the effective information at this weakest link. Thus CNS) is EI(A
+↔ B) if and only if EI*(A ↔ B) is minimum over all bipartitions (A, B) in S’l‘.
+
+It’s clear that <1) is a way of measuring a certain kind of complexity of a system.
+It is less clear whether (1) measures the consciousness of a system. Of course,
+Tononi offers many arguments that <1) does measure consciousness. Whether he
+is right or wrong, the use of the mathematics helps to demystify consciousness.
+Although we have talked about defining (I) for physical systems, its definition
+does not in fact depend on physicality. No physical concepts were used in the
+definition of (D. The quantity (1) can be defined both for material brains and (if
+they exist) immaterial minds.
+1
+
+Exercises
+Exercises for this chapter can be found on the Broadview website.
+
+

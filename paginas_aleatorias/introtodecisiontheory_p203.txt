@@ -1,0 +1,48 @@
+SOCIAL CHOICES
+genstern utility functions, one might wonder why anyone would think it a
+reasonable condition to place on SWFs. Yet there are major conceptual and
+practical obstacles to using additional alternatives when ranking a single pair —
+whether the extra ones are deemed relevant or not. Take, for instance, the
+method of counting the number of alternatives located between two alternatives
+as a means of measuring preference intensities, which in turn could be used to
+decide whose preferences to favor. Can we conclude from table 6-8 that Jones’s
+preference for coffee over tea is more intense than Smith’s for tea over coffee?
+Jones ranks many beverages between coffee and tea, but perhaps steps down his
+ranking indicate only slight changes in preference whereas steps down Smith’s
+indicate great changes. In that case Smith might prefer tea to coffee much more
+than Jones prefers coffee to tea. But how are we to tell? And if we could tell,
+would it be just or fair to take such preference intensities into account? What
+if the introduction of “really" irrelevant alternatives such as preferences for
+clothes, movies, or books put their preferences for coffee and tea in a new light?
+And what is really irrelevant anyway? Such questions raise difficult issues that
+must be faced by anyone using many of the methods that do not satisfy condition
+I. This is not to say that it is impossible to deal with them satisfactorily. How¬
+ever, they show that, other things being equal, an SWF satisfying condition I
+is preferable. Thus it was reasonable for Arrow to include it on his list of con¬
+ditions.
+We can now prove the implication that we set aside until the discussion
+of condition I had been completed. This is done in the following lemma.
+the pareto lemma. Any SWF that satisfies conditions PA, CS, and I also
+satisfies condition P.
+proof. Assume that the SWF satisfies conditions PA, CS, and I. Next as¬
+sume that P i is a profile in which every citizen ranks alternative x above
+another, y. To establish that condition P is met we must show that the
+SWF yields a social ordering for Pi in which x is ranked above y. Since
+condition I is in force we can restrict our attention to just the alternatives
+x and y. Any social ordering of x and y determined by considering just
+their respective places in a profile cut down to just these two alternatives
+must hold for all larger profiles containing it. We will suppose for Pi the
+SWF does not socially rank a above y and derive a contradiction. Then
+there must be some profile Pi different from P i for which the SWF so¬
+cially ranks a above y, because CS is in force. Furthermore, Pi and Pi
+must differ in their placement of x and y. Thus some citizens in Pi do not
+prefer x to y. Yet the placement of x and y in Pi can be obtained from
+that of Pi by moving x up in the ranking of one or more citizens. Hence
+by PA, the social ordering for it must rank x above y. But then by condi¬
+tion I, the social ordering for Pi must also rank x above y. And that con¬
+tradicts the assumption that the SWF failed to socially order a above y
+for Pi.
+
+185
+
+

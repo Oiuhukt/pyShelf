@@ -1,0 +1,49 @@
+INTRODUCTION
+limited amounts of information, never make logical or mathematical mistakes,
+and know all the logical consequences of their beliefs. Of course, no humans —
+not even geniuses —come close to such ideals. This may favor studying more
+realistic models of rational agents, but I do not think that we have grounds for
+dismissing the usual theories of rationality altogether. The ideals they describe,
+although unattainable in practice, still serve to guide and correct our thinking.
+For example, we know that perfect memories would help us make better deci¬
+sions. Instead of settling for poor decisions, we have tried to overcome our limi¬
+tations by programming computers —which have larger and better memories
+than we do —to assist us in those tasks whose success depends on storing and
+retrieving large quantities of information.
+Another problem with putting much weight on the distinction between nor¬
+mative and descriptive decision theory is that some abstract decision models
+have been introduced with neither normative nor descriptive ends in mind. I am
+thinking of the concept of rational economic man used in economics. This
+hypothetical being is an ideally rational agent whose choices always are the most
+likely to maximize his personal profit. By appealing to a hypothetical society of
+rational economic men economists can derive laws of supply and demand and
+other important principles of economic theory. Yet economists admit that the no¬
+tion of rational economic man is not a descriptive model. Even people with the
+coolest heads and greatest business sense fail to conform to this ideal. Sometimes
+we forget the profit motive. Or we aim at making a profit but miscalculate. Nor
+do economists recommend that we emulate economic man: Maximizing personal
+profit is not necessarily the highest good for human beings. Thus the model is
+intended neither normatively nor descriptively, it is an explanatory idealization.
+Like physicists speculating about perfect vacuums, frictionless surfaces, or ideal
+gases, economists ignore real-life complications in the hope of erecting a theory
+that will be simple enough to yield insights and understanding while still apply¬
+ing to the phenomena that prompted it.
+For these reasons I favor dropping the normative-descriptive distinction in
+favor of a terminology that recognizes the gradation from experimental and sur¬
+vey research toward the more speculative discussions of those interested in ei¬
+ther explanatory or normative idealizations. With the caveat that there is really
+a spectrum rather than a hard-and-fast division, I propose the terms “experimen¬
+tal and “abstract” to cover these two types of decision-theoretic research.
+This book will be concerned exclusively with abstract decision theory and
+will focus on its logical and philosophical foundations. This does not mean that
+readers will find nothing here of practical value. Some of the concepts and meth¬
+ods I will expound are also found in business school textbooks. My hope is that
+readers will come to appreciate the assumptions such texts often make and some
+of the perplexities they generate.
+Another important division within decision theory is that between deci¬
+sions made by individuals and those made by groups. For the purposes of this
+division an individual need not be a single human being (or other animal). Cor¬
+porations, clubs, nations, states, and universities make decisions as individuals
+4
+
+

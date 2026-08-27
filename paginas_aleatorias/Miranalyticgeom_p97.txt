@@ -1,0 +1,57 @@
+92
+
+Geometric Properties of Second-order Curves
+
+in the right half-plane, x > 0 for all its points. Thus, our task
+is to investigate the function
+
+y = + ^ Y x 2— a2,
+
+(3)
+
+where x > 0 , and to draw the graph of this function.
+To begin with, let x = 0. Substitution of x = 0 in the right
+member of (3) gives y =
+Y ~ a2, that is, an imaginary number.
+As x increases, y remains imaginary until x becomes equal to a.
+Setting x = a in (3), we find y = 0. Consequently, the point
+A (a, 0 ) is the extreme left point of the graph. As x increases
+further, y is continually real and positive in value; this is imme­
+diately evident from formula (3) since, for x > a, we have
+x2 — a2 > 0. From formula (3), it is
+also evident that y is an increasing
+function of x (when x > a ) , which
+means that, as x increases, y does like­
+wise all the time. Finally, we see from
+formula (3) that, as x increases in­
+definitely, y also increases indefinitely
+(as x -> -l-oo, t/->- + oo). Bringing all
+these results together, we come to the
+following conclusion: As x increases
+from a, the variable point M(x, y),
+which describes the graph, moves continually to the “right” and
+“upwards”, starting from the point A (a, 0) and receding indefi­
+nitely from both the axis Oy (to the “right”) and the axis Ox
+(“upwards”; see Fig. 55).
+87.
+Let us examine more closely the manner in which the point
+M “goes to infinity”. Besides the equation
+
+y ^ + ^ V ^ — a2,
+
+(4)
+
+representing (for x ^ a ) the portion of the hyperbola under
+investigation, let us consider for this purpose the equation
+
+y= + 7*.
+
+(5)
+
+which represents the straight line with slope k = — and passing
+through the origin. Figure 55 shows that part of the line which
+lies in the first quadrant (to construct it, we have used the right
+triangle OAB with sides OA = a and AB = b\ obviously, the
+slope of the line OB is precisely k =
+
+

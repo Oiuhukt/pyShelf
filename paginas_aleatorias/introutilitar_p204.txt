@@ -1,0 +1,38 @@
+17 • The Cluelessness Objection
+
+Premise 1: Long-Term Cluelessness
+Imagine a doctor saving the life of a pregnant woman many centuries ago.3 This
+seems like a clearly good act. Alas, it turns out that the woman was an ancestor
+of Hitler. So the seemingly good act turned out to have actually disastrous overall
+consequences.
+This example illustrates how we might fail to grasp the long-term effects of our
+actions. But the point generalizes even to less dramatic actions, as small changes
+can ripple unpredictably into the future. For example, one’s choice of whether or
+not to drive on a given day will “advance or delay the journeys of countless others,
+if only by a few seconds,”4 and they in turn will slightly affect others. Eventually
+the causal chain will (however slightly) affect the timing of a couple conceiving
+a child. A different sperm will fertilize the egg than would otherwise have been
+the case, leading to an entirely different child being born. This different person
+will make different life choices, impacting the timing of other couples’ conceptions, and the identity of the children they produce, snowballing into an ever
+more different future. As a result, we should expect our everyday actions to have
+momentous—yet unpredictable—long-term consequences. Some of these effects
+will surely be very bad, and others very good. (We may cause some genocidal
+dictators to come into existence thousands of years from now and prevent others.)
+And we’ve no idea how they will balance out.
+Long-term consequences swamp short-term ones in total value. And because
+we generally can’t predict the long-term consequences of our actions, it follows
+that we generally can’t predict the overall consequences of our actions.
+But there may be some exceptions. Proponents of longtermism believe that
+some actions—such as reducing existential risk—have robustly positive expected
+value in the long term. So, at a minimum, the sub-conclusion (premise 2) needs
+to be weakened to the claim that we’ve no idea what to do other than work on
+reducing existential risks. But even this weakened claim would remain surprising:
+it sure seems like we also have good reason to save lives in the here and now. The
+next section evaluates whether this is so.
+3. Adapted from Lenman, “Consequentialism and Cluelessness,” 344.
+4. Hilary Greaves, “Cluelessness,” Proceedings of the Aristotelian Society 116, no. 3 (October 2016):
+314, https://doi.org/10.1093/arisoc/aow018.
+
+191
+
+

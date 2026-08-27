@@ -1,0 +1,43 @@
+Values of Truth and Truth of Values
+
+237
+
+non-standard theory of mind. An initially more plausible approach might be
+to reject the premise, appealed to just above, that the expressivist needs to read
+(TN) as
+Socratic: It is correct to believe <p> in virtue of <p> being true.
+How else to read (TN)? Well, one possibility is to read it as
+Euthyphronic: <p> is true in virtue of it being correct to believe <p>.
+Another would be to take it that truth and alethic correctness are simply identical.
+Earlier we noted that this is implausible if we take correctness to attach to the
+act of believing and truth to the proposition believed. But we might try avoiding
+this by construing ‘correct to believe <p>’ as equivalent to ‘<p> is correct to
+believe.’ If so, then we might claim:
+Identical: <p> is true = <p> is correct to believe.
+Both of these interpretations have their problems; but for present purposes, we
+need only note that neither will do for the expressivist. If either Euthyphronic
+or Identical is endorsed together with expressivism about alethic correctness, the
+latter position collapses. Here’s why. Let us grant, for the moment, that the
+expressivist is entitled to deﬂationism after all. And thus let us grant that she
+is entitled to her distinction between the alethically engaged and disengaged
+perspectives. Thus, on her view, from the alethically disengaged perspective
+<p> is correct to believe
+does not state a fact—or a fact, even if from the engaged perspective, we are
+entitled to say that it is true, and thus expresses a fact in the deﬂationary sense.
+But now consider: if either Euthyphronic or Identical are true, then it is difﬁcult
+to see how
+<p> is true
+could fail to be non-factual as well. Take Euthyphronic, which says that the
+truth of a proposition is determined by its being correct. If it is non-factual
+whether x, and x determines y, then it can’t be a factual matter whether y. Thus
+if being correct is not a factual matter, and correctness determines truth, then
+being true is not a factual matter either. Even more obviously, if correctness is
+just identical to truth, as Identical contends, then if correctness is non-factual,
+so is truth. Things get worse from here. For given the T-schema, where
+<p> is true
+fails to be factual, so must p. Which is to say that nothing at all is a
+fact. And that seems bad, not only because it is absurd—but because it once
+again deconstructs the distinction between facts and facts that the expressivist
+requires.
+
+

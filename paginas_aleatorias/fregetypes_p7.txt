@@ -1,0 +1,45 @@
+7
+be the expression of the function. Now of course he has after all put these Greek
+letters into the argument places, so it does not have holes in it any longer, it just
+looks like the usual expression for an old-fashioned function. (Martin-Löf, 1993,
+p.53)
+In Martin-Löf’s terminology, the function type interpretation states that Frege’s functions
+must be understood in the modern sense. That is, a function name ‘Φ(ξ)’ in the theory of
+levels should be regarded as a closed term of some function type τ → σ. Under the open
+term interpretation to be defended here, however, Frege’s functions must be taken in the oldfashioned sense, meaning that ‘Φ(ξ)’ is an open term of a type σ depending on a type τ .
+Before we can decide which interpretation should be rejected and which should be endorsed
+we must take a closer look at Frege’s views on functionality.
+3
+
+Frege’s theory of function levels
+
+Now let me return to the discussion of Frege’s theory of function levels. There was an
+influential view among Frege’s predecessors that a function is an analytical expression
+distinguished by its dependence on variables. It can be found, for instance, in the writings of
+Lagrange and Boole, and, as can be seen in Rüthing (1984), traced back to Euler. In an attempt
+to avoid the pitfalls of formalism, Frege opposes the idea that functions are expressions already
+in Grundgesetze §1. Frege tells us that one will be tempted to rather say that a function is the
+meaning or reference of such an incomplete expression. But according to him the problem
+with this view is that in ‘(2 + 3x2 )x’ we find a variable ‘x’, which does not refer to an object
+as ‘2’ does, for example, but, as he says, “only indicates one indeterminately”.4
+The argument places of a function name are from this point on are written with small Greek
+letters such as ‘ξ’ and ‘ζ’ throughout Grundgesetze. Therefore, such small Greek letters
+only indicate indeterminately. Landini (2012, §2.6) maintains that these Greek letters are
+metalinguistic devices used parametrically to facilitate the rule of substitution. They are
+therefore not part of the object language of the ideography. As it will be seen in Section 4,
+Frege will also speak of Roman letters as signs that only indicate something indeterminately
+later in Grundgesetze §8. For Frege, these letters have an entirely different purpose.
+Because the argument places of a function name do not refer, Frege rejects the above proposal
+and concludes in Grundgesetze §1 that a function is in essence the connection established
+between the objects whose names we put for a variable and the objects that then appear as
+referents of the now complete expression. Assuming the old-fashioned convention that the
+name of a function must always carry an argument place, Frege writes that:
+The nature of the function reveals itself, rather, in the bond that it establishes
+between the numbers whose signs we put for ‘x’ and the numbers that then result
+as the reference of our expression […] The nature of the function lies therefore in
+that part of the expression that is present without the ‘x’. (Grundgesetze §1)
+4
+
+“nur unbestimmt andeutet” (Grundgesetze §1).
+
+

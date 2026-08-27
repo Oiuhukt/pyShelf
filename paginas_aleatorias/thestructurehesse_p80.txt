@@ -1,0 +1,48 @@
+70
+
+The Structure of Scientific Inference
+
+similarity is not to be eliminated by counting or measuring intensional
+properties, but for different reasons from his. In his account this suggestion
+is an abortive attempt to eliminate similarity, · first by definition in terms of
+extensional classes of objects, which as he rightly argues leads to a vacuous
+similarity relation in which all pairs of objects are equally simple, and then
+by rejecting intensional properties as no more economical than the many­
+dimensional relation of similarity itself. But in our account we are not looking
+for economy but accurate analysis, in which similarity is not eliminated by
+intensional properties but recognized as having intensional property­
+dimensions.
+Similar remarks apply to Goodman's proof that similarity of objects in
+virtue of shared properties cannot be used to give an extensional definition of
+properties. For example, the three pairs of three objects a, b, c may be equally
+similar in sharing at least one property, for instance PQ(a), QR(b) , RP(c),
+but this does not serve to define any one property as an extensional similarity
+class. Our concept of similarity here, however, is not required to provide any
+such definition, for it is already assumed that we know that these pairs of
+objects are similar in three different respects, and indeed the property Q, for
+example, could be defined on this view of similarity as that which a and b
+have in common, and not c. Similarity is a relation between objects in respect
+of a certain property, not a relation between objects as such.
+It may be concluded that Goodman's strictures do not capture the concept
+of similarity required by the network model, and are not inconsistent with
+that concept.
+VII. Absolute universals again
+
+Let us now return for a moment to the theory of absolute universals and ask
+whether it can be maintained in any sense in the light of the process of initial
+classification and modification by coherence conditions that has been
+described. It might be suggested that the theory of absolute universals has to
+face the problem of modifications in any case, for this is the problem of
+errors or illusions or recognition. The mirage 'looks like' the oasis, but no one
+who believes in absolute universals would regard himself as committed to the
+view that they therefore both share in absolute oasishood. However, the
+situation in the network model aggravates the problem. For it has been
+argued that P may come to be regarded as incorrectly predicated of a in cases
+where there is neither radical change of meaning of P nor illusion, but in
+virtue of further evidence and resulting theory changes. That whales were
+for long described as fish, or all species of mice as members of the same
+family, is not usually regarded as the result of error of recognition or illusion,
+nor was the description of the two 'companion stars' of Saturn that were
+later recognized as part of Saturn's rings. Or rather, if these are said to be
+
+

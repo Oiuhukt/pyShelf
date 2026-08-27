@@ -1,0 +1,40 @@
+tOO
+
+Yes, No or Maybe
+
+This is a regression equation, which only differs
+from those considered above in that it is in two
+independent variables t and v, not one.
+If we knew the coefficients ~o' ~l'
+., ~22'
+then we could easily design the training system
+for best results, i.e. find the pertinent values of t
+and v. In other words, we could determine the
+coordinates to' V o of the lowest point 'to of the
+paraboloid. The coefficients being unknown, the
+sprinter and his coach can only make observations
+to be used to work out approximate values for
+the coefficients and hence approximate values
+for to and V o.
+Each experiment takes a long time, actually
+several weeks, for the sprinter's organism to adapt
+to the new procedure and for the results to be
+obtained for this procedure. Therefore, it is impossible to try very many forms of the procedure
+but it is desirable to arrive at the optimal one as
+quickly as possible. What is more, for a chosen
+procedure we should admit some unpredictable
+things: the sprinter may get not enough sleep,
+he may be under some stress, the weather may be
+uncooperative, and so on. In short, there are
+many impacts not covered by the model selected
+that may predetermine the spread of results for
+the same training procedure. We wil l take this
+spread to be random, and so will make use of
+statistical techniques in estimating the coefficients. The shrewd reader may now have surmised
+what I am driving at: the coefficients are .best
+estimated using the method of least squares. In
+the previous sections the method of least squares
+was used for functions in one variable, but several
+variables change essentially nothing both in con-
+
+

@@ -1,0 +1,39 @@
+Frege on Sentences
+sentence to determine the sentence’s sense. But we should notice that Frege’s
+claim that the sense of a sentence determines its truth condition suggests a
+different direction of explanation. According to this, the sense of a sentence
+determines the sentence’s truth condition, and the senses of the component
+expressions consist in their contribution to fixing the truth conditions of the
+sentences in which they figure (Frege 1893, paragraph 32).
+Lastly, (Q10) asked whether there can be a systematic philosophical study
+of natural language. Frege regarded natural language as defective because it
+contains expressions that are ambiguous or that are vague, as well as empty
+names and sentences that lack truth value. For the purposes of mathematics
+and science, Frege advocated replacing flawed natural languages with an
+artificial language free of those deficiencies and which makes more evident the
+logical relations between Fregean thoughts.
+
+Questions for discussion
+Question 1
+Fregeans claim that the primary bearer of meaning is the sentence. They take
+this to be a lesson of Frege’s context principle: the principle that words have
+meaning only in the context of a sentence (Frege 1884, p. x). Fregeans also
+claim that the sense of a sentence is determined by the senses of its constituent
+expressions (plus the sentence’s syntax). Are those claims compatible?
+Question 2
+Fregeans claim that the sense of a sentence is determined by the senses of its
+constituent expressions (plus the sentence’s syntax). They further claim that
+the sense of every such expression is determined by its contribution to the
+senses of the sentences in which it figures. Are those claims compatible?
+Question 3
+If someone claimed that all true sentences refer to the same state of affairs,
+would their view differ substantially from Frege’s view that all true sentences
+refer to the True? Or would their claim be using different terminology to say
+the same thing as Frege?
+Question 4
+Some philosophers, such as Dummett, find Frege’s talk of indirect sense
+obscure. It has been replied that such talk is no more obscure than talk of
+
+85
+
+

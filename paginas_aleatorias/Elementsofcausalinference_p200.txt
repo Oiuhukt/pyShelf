@@ -1,0 +1,38 @@
+9.4. Conditional Independences and Graphical Representations
+
+183
+
+takes a graph G with observed and hidden variables and constructs a new graphical object G̃ over the observed variables. The precise definition can be found in
+Shpitser et al. [2014, Definition 4], for example. The resulting graph structure is
+called an acyclic directed mixed graph (ADMG) and contains both directed and
+bidirected edges. Again, the m-separation leads to a Markov property [Richardson,
+2003]. Instead of searching over DAGs with latent variables, we may now search
+over ADMGs.
+We will see in Section 9.5 that distributions over the observed variables from a
+DAG with latent variables satisfy constraints other than conditional independences.
+ADMGs obey the possibility to take some of those constraints into account in the
+following way. The idea is to define a nested Markov property [Richardson et al.,
+2012, 2017, Shpitser et al., 2014], such that a distribution is nested Markovian
+with respect to an ADMG if not only some conditional independences hold that
+are implied by the graph structure but also other constraints; see Section 9.5.1,
+for example. It turns out that even the nested Markov property does not encode
+all constraints (in the discrete case they do encode all equality constraints, though
+[Evans, 2015]). We therefore have [Shpitser et al., 2014]:
+{PO : PO,V induced by a DAG G with latent variables}
+⊆ {PO : PO is nested Markovian with respect to corresponding ADMG}
+⊆ {PO : PO is Markovian with respect to corresponding ADMG}.
+For ADMGs with discrete data and the ordinary Markov property, Evans and
+Richardson [2014] provide a parametrization. This parametrization can be extended to nested Markov models and it can be used to compute (constraint) maximum likelihood estimators [Shpitser et al., 2012]. ADMGs are called bow-free
+if between each pair of nodes there is only one kind of edge. For linear Gaussian models, this subclass of models allows for parameter identifiability [Brito and
+Pearl, 2002a]; additionally, there are algorithms that compute maximum likelihood
+estimates [Drton et al., 2009a] or perform causal learning [Nowzohour et al., 2015].
+Chain graphs consist of directed and undirected edges and do not allow for
+partially directed cycles [Lauritzen, 1996, Section 2.1.1]. There is an extensive
+body of work on chain graphs; see, for example, Lauritzen [1996] for an overview
+and Lauritzen and Richardson [2002] for a causal interpretation. Note that for chain
+graphs, different Markov properties have been suggested [Lauritzen and Wermuth,
+1989, Frydenberg, 1990, Andersson et al., 2001].
+Summarizing, the representation of constraints (so far, we have mainly talked
+about conditional independences) using graphs, in particular in the case of hidden
+
+

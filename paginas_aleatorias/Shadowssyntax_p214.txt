@@ -1,0 +1,68 @@
+6
+
+7
+8
+9
+10
+
+11
+12
+
+13
+14
+15
+16
+
+17
+18
+19
+20
+
+21
+
+22
+
+This is one reason that my argument improves upon Quine’s (1970b)
+infamous “change of logic, change of subject” argument, see again my (2018)
+for discussion of Quine’s argument and a version of my own without explicit
+reliance on inferentialism. And see Morton (1973) for an important early
+critical discussion of Quine’s argument.
+See Humberstone (2000b), where such extensions are called “contraclassical” logics.
+See Kuhn (1962), Feyerabend (1975), and Lakatos (1970).
+See section 4 of my (2018); see also the discussion of charity in my (2016c).
+Kripke (1980), Putnam (1975), and Burge (1979) are the canonical semantic
+externalist writings. See Morris (2018) for a popular account of how all of this
+leads to an objection to Kuhnian philosophy of science.
+Once again see Brandom (1994) and Sellars (1953) on this point.
+I think that “tonk” is itself a logical notion, since it plausibly meets my criteria
+for being logical. This might be denied since in a trivial tonk language no
+sentence expresses contingent truths, thus perhaps undercutting topic
+neutrality.
+See the discussion in my (2015b).
+For much more on all of this, see my (2015b).
+For discussion of some of these variations see section 5 of my (2015b).
+Among others, Burgess and Burgess (2011), Chihara (1979), and
+Wittgenstein (in Diamond (1976)) have flirted with the idea that our actual truth
+principles are inconsistent. Some of these authors have noted that speakers
+are not actually disposed to exploit inconsistencies. I think this is of crucial
+importance for understanding the liar and related paradoxes. I plan to
+investigate this matter in future work. The distinction between complex and
+composite dispositions introduced in my (forthcoming a) provides a potentially
+useful tool with which to analyze this approach (see also 2.VII). I don’t mean
+to suggest that these authors all have similar views, see Chihara (1977) for
+criticism of Wittgenstein’s approach.
+In Glivenko (1929).
+Of course, the tonk rules are only as powerful as they are given certain
+background assumptions; see Cook (2005) for extended discussion.
+As noted in 3.IV, the bilateralist system of rules I have used is separable. This
+is worth noting since standard classical systems are not separable.
+This narrow holism also allows us to get around the problems Kroedel (2012)
+tries to raise for implicit definition accounts of logical knowledge, though I think
+even rigidly non-holist views can probably avoid these problems.
+See Beall and Restall (2006); see Restall (2002) for arguments that this kind
+of pluralism doesn’t lead to a conventionalist-style pluralism of the kind I
+endorse.
+I think this is important and under-recognized; the semantic counterpart
+approach to pluralism I develop below is also discussed in my (2015a) and
+
+

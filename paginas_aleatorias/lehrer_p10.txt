@@ -1,0 +1,41 @@
+Keith Lehrer
+system. Languages without individual constants may be thought of as
+being defined by a partition, only in this case the partition will not be
+a set of state-descriptions. Finally, let it be noticed that a partition can
+be generated from any set of statements. If one has a set of statements,
+hi, h2, and so forth, then one can construct a partition by forming maximal conjunctions such that each h^ or its negation (but not both) is
+contained in order in each maximal conjunction. When one thus obtains
+a set of such conjunctions containing all possible permutations and then
+eliminates those maximal conjunctions that are inconsistent, the remaining set of maximal conjunctions will be a partition.
+6. Results of the Inductive Rule. With the foregoing technical remarks
+on the board, we may then ask what sort of results (I) yields. The results may be succinctly characterized. A disjunction of members of the
+ultimate partition may be inductively inferred from background knowledge if and only if the probability of the hypothesis on background
+knowledge exceeds the probability of the denial of at least one disjunct
+on the same knowledge.10 A single member of the ultimate partition
+may be inductively inferred from background knowledge if and only if
+it is more probable than its denial on background knowledge.11 Only
+(but not all) those hypotheses having a probability greater than 1/2 on
+background knowledge will be ones that can be inductively inferred
+from background knowledge.12
+We obtain a more concrete idea of the results by again considering
+lotteries. In the fair lottery, we may not inductively infer that the number one ticket will not win, because this hypothesis may be considered
+as a disjunction of the hypotheses saying that either the number two
+ticket or the number three ticket and so forth will win. The denial of
+each of these disjuncts is equal in probability to that of the hypothesis
+that the number one ticket will not win. Hence the probability of the
+hypothesis does not exceed the probability of the denial of any disjunct
+contained in it.
+Now let us consider some skewed lotteries where the tickets have differing probabilities of being the winner. In the event that it is more
+probable that a ticket will win than lose, we may inductively infer the
+10
+
+See T6 in the appendix for a proof of this result.
+See T5 in the appendix for a proof of this result.
+The proof of this hypothesis follows from the theorem that a hypothesis having
+a probability no greater than 1/2 has no greater probability than its denial.
+11
+12
+
+304
+
+

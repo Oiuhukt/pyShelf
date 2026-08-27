@@ -1,0 +1,55 @@
+628
+
+Aidan Lyon
+
+discrepancy between W and the mean of W , which is, say, 1000. So the sum
+that we need to examine is:
+
+where ci is the actual mean of the random variable xi . If we can show that
+W  1000 is normally distributed, then we can conclude that W is normally distributed because normal distributions are invariant under additions of a scalar.
+
+3.2 Varying variances and probability densities
+It remains to be shown that the xi  ci are identically and independently
+distributed. For convenience, I’ll call the new random variables x0i . Let’s
+first start with the identity of the distributions, which I’ll call pi . By definition,
+their means exist and are all 0, but there is more to a distribution than its
+mean. For example, there is its variance. Are the variances of each of the x0i all
+identical? It seems plausible that in fact they are not. For example, the variance associated with the amount of salt is plausibly smaller than the variance
+associated with the amount of flour. If the variances are not all identical, then
+the CLT doesn’t apply, and the explanation doesn’t go through. Moreover,
+for all we know, it’s possible that some of the pi have different functional
+forms. For example, the weight of flour used (minus 625 g) may be a normal
+distribution, but the amount of water lost during the baking process (minus its
+actual mean) might be a symmetric bimodal distribution, with probability
+mass heaped over 1 and almost entirely absent over 0.
+Fortunately, there is a more complicated version of the CLT that relaxes the
+condition that the distributions be of the same form (or have the same variance), so long as they satisfy what is called the Lindeberg condition.
+Central Limit Theorem (Lindeberg–Feller): Let xi be mutually independent random variables with distributions pi such that Eðxi Þ ¼ 0 and
+Varðxi Þ ¼ i2 . Define s2n ¼ 12 +    + n2 . Then, if
+
+ðLindeberg conditionÞ For every t > 0,
+
+X
+pﬃﬃﬃﬃ n
+sn
+k¼1
+
+Z
+
+y2 pi fdyg ! 0
+jyjtsn
+
+then the distribution of Sn ¼ ðx1 +    + xn Þ=sn tends to the normal
+distribution with mean of 0 and variance of 1 (Feller [1971], p. 262).
+
+The Lindeberg condition is complicated, but it entails a simpler condition
+that is easier to understand and is still informative: it guarantees that the individual variances are small compared with their sum (Feller [1971], pp. 262–3).
+Are the variances small with respect to their sum? It seems that they need
+not be. For example, the variance associated with the weight of flour might be
+quite large compared with the sum of the variances. One way for this to
+
+Downloaded from https://academic.oup.com/bjps/article-abstract/65/3/621/1497281 by Universiteit van Amsterdam user on 06 May 2019
+
+ðW  1, 000Þ ¼ ðx1  625Þ + ðx2  375Þ +    + ðxn  cn Þ
+
+

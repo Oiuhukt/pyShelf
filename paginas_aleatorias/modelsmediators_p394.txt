@@ -1,0 +1,26 @@
+Learning from models
+
+381
+
+Figure 12.5 Bimetallism demonstrated with Fisher’s model.
+From Fisher (1911), ﬁgure 7, p. 119.
+
+The principle behind these two outcomes is easily seen – they depend
+on the relative volume of silver bullion in the Sb reservoir above the mean
+level of liquid (in all three reservoirs) compared to the unﬁlled volume in
+the currency vessel below the mean level. Whether or not the outcome is
+Gresham’s Law or bimetallism depends on these relative volumes.
+Having established both bimetallism and Gresham’s Law in the ceteris
+paribus case, as he believes, Fisher then brings back in the complicating
+factors previously held constant – the ﬂows in and out of the bullion ﬂasks.
+Of course, these elements are not independent in the model because connecting the silver bullion ﬂask into the system will alter the level of bullion
+in both silver and gold bullion ﬂasks. This in turn means that production
+and consumption balances for both silver and gold will be ‘upset’ (p. 120).
+Fisher discusses how these inﬂows and outﬂows will alter to create a new
+equilibrium level in all three reservoirs. The arguments resemble those of
+Fisher’s earlier, simpler case of the gold bullion and currency reservoirs.
+purchasing power for gold currency than silver currency, Gresham’s Law would come into play
+– cheaper money would drive out dearer until their values were equal. In this case, the economic
+and physical laws do not work exactly in harmony.
+
+

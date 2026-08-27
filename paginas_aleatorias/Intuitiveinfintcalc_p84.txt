@@ -1,0 +1,110 @@
+square with its sides parallel to the axes. What is the circulation around this square? Consider first the two vertical sides.
+The force F = (P,Q) will be almost the same along both of these
+sides, namely Q evaluated there. As we walk around the square,
+one of these Q-forces go with the circulation and the other
+against it, so their net effect is zero except for the fact that they
+are not quite equal: since the two sides are dx apart their Q∂Q
+values differ by ∂x dx. This, then, is the net force contributing
+to the circulation, and since it acts across a distance of dy its
+∂Q
+net contribution is ∂x dx dy.
+
+(a) Explain why it necessary for F to be conservative for
+this construction to make sense.
+(b) Show that ∇ f = F.
+(c) Conclude that f is a potential energy function.
+What does the arbitrariness of o mean in physical
+terms?
+Restated in purely mathematical terms, this shows that
+any conservative field is a gradient field.
+
+11.4.1. Continue this line of reasoning to show that the circulation around the infinitesimal square is
+11.3.9. Show that the field F(x, y) = (P (x, y),Q(x, y)) is conserva¶
+µ
+tive if and only if P y = Q x at every point in the plane.
+∂Q ∂P
+−
+dx dy
+∂x ∂y
+§ 11.3.2. Problems
+
+§ 11.4. Circulation
+
+Hint: The signs are easily understood by recalling that
+our convention is to round the square counter-clockwise
+and considering whether an increase in P or Q helps or
+hinders this motion.
+
+§ 11.4.1. Lecture worksheet
+R
+We have seen that if F is a force field then F · ds is the work
+done by the field in traversing a certain path, that is, the
+“boost” that field is giving us, like a wind in our backs, as we
+traverse the path.
+
+We now wish to consider any region as an aggregate of infinitesimal squares, which will give us Green’s Theorem:
+¶
+I
+Ï µ
+∂Q ∂P
+−
+dx dy
+P dx +Q dy =
+∂x ∂y
+
+A problem with this image is that we must disregard the forces
+that are trying to push us off the path. This is what we accomplished above with our “ice channel” idea. The analogous idea The left hand side is just the usual work or circulation integral
+H
+for fluid flows would be to imagine that all of the fluid except
+F·ds written out in terms of the components of F = (P,Q). The
+for a narrow channel is instantaneously frozen. Then the fluid right hand side is the sum of the circulations about infinitesiin the channel will, in general, continue flowing around one mal squares.
+way or the other depending on which direction had the greater
+11.4.2. Complete the proof of Green’s Theorem as follows.
+momentum in the original flow, and
+H this net balance of momenta is precisely what the integral F · ds computes.
+(a) Suppose two infinitesimal squares are joined along
+H
+one side. Argue that the circulation around the new
+For this reason, when the work integral F · ds is taken around
+region is the sum of the circulations of the each
+a closed path (indicated by the little circle on the integral sign)
+constituent square considered separately. (The picit is called the circulation. To fix the sign, the convention is that
+ture suggests the idea that the shared edge “canwe traverse the path so that the inside is on our left. The figure
+cels,” but make sure that your explanation makes
+thus shows a negative circulation.
+sense in terms of the fluid flow interpretation of cirThe suggestive idea of the ice channel is all we really need, but if
+culation.)
+you wish to think more about what actually happens to the fluid you
+should be able to convince yourself that, owing to its incompressibility, the fluid will settle into a circulation of uniform speed (as long as
+there are no sources or sinks inside the channel). So, when we freeze
+the rest of the fluid, the flow in the channel also alters, and therefore ceases to represent the forces in the force field interpretation of
+F. Nevertheless, it remains a viable image for the net work done along
+the channel as a whole, which was its purpose in the first place.
+
+(b) We can approximate any region very closely by
+infinitesimal squares, but the boundary will be
+“jagged.” Prove that the flow remains the same if we
+cut across diagonally instead of following two edges
+of the boundary squares.
+§ 11.4.2. Problems
+
+You may also wish to think about how to reconcile the momentum11.4.3. Show that the
+H area of Ha region in the plane is given by
+based account of circulation with the particle-kinetic fluid model that
+the integral x dy or − y dx taken around its boundary.
+we used at the end of §11.1 to argue against momentum effects. Hint:
+Hint: Cut the boundary of the figure into infinitesimal
+the narrow channel now means that the momenta are coordinated afpieces and draw the rectangles x dy for each piece.
+ter all.
+
+These results are often presented as a corollary of Green’s
+We shall now show that the circulation along a loop can be
+Theorem even though it is much more illuminating to
+computed as the sum of the circulations around its interior
+understand them directly from first principles.
+pieces. To this end it is useful to consider first the circulation around an infinitesimal square, and then taking general 11.4.4. By averaging the two area expressions in Hthe previous
+shapes to be made up of them. So consider an infinitesimal
+problem we can also write the area as 12 x dy − y dx.
+84
+
+

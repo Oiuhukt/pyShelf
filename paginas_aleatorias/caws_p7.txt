@@ -1,0 +1,43 @@
+MACH S PRINCIPLE AND THE LAWS OF LOGIC
+
+they also enable us to transcend the actuality of the world. The logical
+operations we are capable of performing are just some of the things
+that our evolutionary development has equipped us to do, and like other
+features of our heredity they can be assumed to reflect a close adjustment
+to the facts of our environment. If these facts are contingent, then
+logical laws are also contingent, while if they are necessary the necessity
+of those laws is still extrinsic to logic and depends on an empirical relationship between it and the world.
+In this light we need to look again at the doctrine that tautologies are
+empirically empty, perhaps to abandon it in favor of the doctrine that
+on the contrary they are empirically full, if I may so put it.2 Identity
+and contradiction aren't just logical rules (although they are that), nor
+are they laws of thought; they are laws of nature, reflecting just those
+properties of the world which, according to the analogous form of
+Mach's principle, determine the logic we are bound to use in dealing
+with it. They aren't obviously falsifiable (as remarked earlier, our imaginations aren't up to envisaging counterinstances, and by now it should
+be obvious why not) but their nonfalsifiability is clearly of a different
+kind from the nonfalsifiability of pseudoscientific or metaphysical claims.
+For that matter, in an important sense the other inductively established
+laws of nature aren't falsifiable either. It is one thing to know (to be
+able to imagine, etc.) what a counterinstance would be like, another to
+be able to produce one. We can of course construct interesting but as
+yet useless systems incorporating alternative rules, but we can do that
+for logic too. Physical laws, like logical ones, function as rules within
+the theoretical systems to which they belong and acquire the status of
+laws only on the successful application of those systems to empirical
+problems.
+What holds for the laws of deductive logic holds equally and under
+precisely the same conditions for the laws of inductive logic. In neither
+case are we really guaranteed success in advance; if in the deductive case
+it is claimed that consistency itself requires the outcome, it must be
+recognized that consistency in language is one thing, consistency in the
+world another, and that the former, again, reflects the latter. We count
+heavily on the world's consistency and are perpetually vindicated in
+2
+
+See in this connection Charles Hartshorne, "Some Empty Though Important
+Truths," in Sidney Hook, ed., American Philosophers at Work (New York: Criterion Books, 1956), pp. 225ff.
+
+493
+
+

@@ -1,0 +1,43 @@
+Protocol Study Exemplar
+
+83
+
+Just looking at this it occurs to me that when force is applied here [he draws a
+downward pointing arrow at the end of the line segment], you not only get a bend
+on this segment, but because there’s a pivot here [points to the “X” in figure 3.14,
+number 11], you get a torsion effect—around here [points to the adjacent segment].
+(121)
+
+That is, he inferred that there would be a twisting in the segments—producing a torsional strain in the wire—from mentally simulating the motion
+of the open segment of the horizontal coil in the dynamical case where
+the force from the weight operates on the coil oriented in the horizontal
+plane (as annotated with arrows in the drawing). He quite likely drew on
+his knoweldge of physics at this point, in calling the twisting at the joint
+a “torsion effect.” He went on:
+Aha!—Maybe the behavior of the spring has something to do with the twist forces”
+[Clement 2005, 3, records that S2 moved his hands as if twisting an object, and
+continued to make either twisting or bending motions as the reasoning about the
+polygonal coil model unfolded.] That’s a real interesting idea—That might be the
+key insight—that might be the key difference between this [flexible rod], which
+involves no torsion, and this [hexagonal coil]. (122)
+
+As Clement characterized this aha! moment, here S2 has made “a major
+breakthrough in the solution,” which can be viewed as a significant scientific insight because “by considering torsion the subject introduces a new
+causal factor into the system. Torsion constitutes a very different mechanism from bending for explaining how the spring resists stretching”
+(Clement 1988, 366). My interpretation adds that rotating the coil into the
+horizontal plane offers a three-dimensional perspective that affords a novel
+simulation that literally exhibits the twist, thus leading to his inference
+that for the spring the mechanism of stretch is torsion.
+Moving on, S2 then constructed a square coil version of a polygonal coil
+model (figure 3.14, number 12) in order to accentuate the torsion effect,
+and he considered the possibility that torsion is what “stops the spring
+from—from flopping” (126). Exploring the properties of this model convinced him that unlike the initial rod model, this hybrid satisfies the
+uniform slope constraint T9. Both the hexagon and the square models
+incorporate features of the rod because straight line segments will bend.
+But the right angle of the square model means that both twisting and
+bending “start over again” (122) at each of the joints, rather than accumulating. Torsion does not accumulate, but
+distributes itself equally across all the joints [ . . . ] so the twist doesn’t get more
+[ . . . ] indeed we have a structure here which doesn’t have this increasing slope at
+the bottom. (130)
+
+

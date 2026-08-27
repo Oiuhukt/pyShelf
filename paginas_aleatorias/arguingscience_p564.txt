@@ -1,0 +1,84 @@
+564 William C.Thompson and Edward L. Schumann
+where the other evidence in the case is weak and
+therefore the prior probability of guilt is low.
+Suppose, for example, that one initially estimates
+the suspect’s probability of guilt to be only .20,
+but then receives additional evidence showing
+that the defendant and perpetrator match on a
+blood type found in 10% of the population.
+According to Bayes’ theorem, this new evidence
+should increase one’s subjective probability of
+guilt to .71, not .90.3
+There is also anecdotal evidence for a second
+error, which we first heard voiced by a criminal
+defense attorney and therefore call the Defense
+Attorney’s Fallacy. Victims of this fallacy assume
+associative evidence is irrelevant, regardless of
+the rarity of the “matching” characteristic. They
+reason that associative evidence is irrelevant
+because it shows, at best, that the defendant and
+perpetrator are both members of the same large
+group. Suppose, for example, that the defendant
+and perpetrator share a blood type possessed by
+only 1% of the population. Victims of the fallacy
+reason that in a city of 1 million there would be
+approximately 10,000 people with this blood
+type. They conclude there is little if any relevance
+in the fact that the defendant and perpetrator
+both belong to such a large group. What this
+reasoning fails to take into account, of course, is
+that the great majority of people with the relevant blood type are not suspects in the case at
+hand. The associative evidence drastically
+narrows the group of people who are or could
+have been suspects, while failing to exclude the
+defendant, and is therefore highly probative, as a
+Bayesian analysis shows. The Defense Attorney’s
+Fallacy is not limited to defense attorneys.
+Several appellate justices also appear to
+be victims of this fallacy (See, e.g., People v.
+Robinson, 1970). If defense attorneys and
+appellate justices fall victim to this fallacy, it is
+quite possible that some jurors do as well,
+thereby giving less weight to associative evidence
+than it warrants.
+
+Whether people fall victim to the Prosecutor’s
+Fallacy, the Defense Attorney’s Fallacy, or neither
+may depend on the manner in which incidence
+rate statistics are presented and explained. In criminal trials, forensic experts often present information about incidence rates in terms of the
+conditional probability the defendant would have
+a particular characteristic if he were innocent (Jonakait,
+1983). Where 1% of the population possess a
+blood type shared by the defendant and perpetrator, for example, experts often present only the
+conclusory statement that there is one chance in
+100 that the defendant would have this blood type
+if he were innocent. This type of testimony seems
+especially likely to lead jurors to commit the
+Prosecutor’s Fallacy. On the other hand, a defense
+tactic used in some actual cases is to point out that,
+notwithstanding its low incidence rate, the characteristic shared by the defendant and perpetrator
+is also possessed by thousands of other individuals. Where 1% of the population possess a blood
+type shared by the defendant and perpetrator, for
+example, the expert might be forced to admit
+during cross examination that in a city of one
+million people, approximately 10,000 individuals
+would have the “rare” blood type. Statements of
+this type may reduce the tendency toward the
+Prosecutor’s Fallacy but induce more errors
+consistent with the Defense Attorney’s Fallacy.
+To test these hypotheses, Experiment 1 had
+subjects estimate the likelihood a criminal suspect
+was guilty based, in part, on statistical evidence
+concerning the incidence rate of a characteristic
+shared by the defendant and perpetrator. The part
+of the evidence concerning the incidence rates was
+presented in two different ways. In one condition
+the forensic expert presented only the conditional
+probability that an innocent person would have the
+“matching” characteristic. In a second condition
+the expert stated the percentage of the population
+who possess the relevant characteristic and the
+approximate number of people who possess this
+characteristic in the city where the crime occurred.
+
+

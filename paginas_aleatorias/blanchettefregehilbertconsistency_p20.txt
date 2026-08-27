@@ -1,0 +1,43 @@
+FREGEAND HILBERTON CONSISTENCY
+
+335
+
+One reason to suppose that Frege would have denied the existence of such an ultimate level of analysis stems from his remarks
+about the "re-carvability"of thoughts (see, for example, FA ?64).
+that a given thought can be
+Frege holds, at least in the GrTundlagen,
+expressed by two sentences neither of which is obtainable from the
+other by analysis of the simple components of either. Thus, for example, the same thought can be expressed via sentences of the form
+'R(a,b)' and 'f(a) =f(b)'. Because neither sentence is obtained from
+the other by a mere expansion of atomic parts, there is no obvious
+sense in which one expresses a fuller analysis of the thought than
+does the other. Frege's acknowledgment of such pairs is a reason to
+give a negative answer to the question of this section. The reason is
+inconclusive, however, since Frege might well have held, if pressed,
+that such incomparable pairs of sentences were always further reducible to some common sentence expressing a final analysis.
+In the end, the answer to this question will have little impact on
+the assessment of Hilbert's consistency proofs. If a set X of sentences
+gives the final analysis of a set Hl of thoughts, then X is syntactically
+consistent just in case H is Frege-consistent. But this will not mean
+that a Hilbert-style consistency proof will demonstrate Frege-consistency. For in order to demonstrate the consistency of Hl, one will
+need not just the Hilbert-style proof of syntactic consistency, but also
+a proof of the auxiliary claim that E does indeed represent the "ultimate" analysis of H1.One will need a demonstration that the analysis
+is finished. And this, of course, is a claim that turns not just on the
+syntactic form of the sentences in E btuton the content of their nonlogical terms. It is the kind of claim, in short, that is indemonstrable
+via a Hilbert-style consistency proof.
+VI. CONCLUSION
+
+Frege's assessment of Hilbert'swork as "on the whole a failure"is notjust
+badly wrong, but terriblyshort-sighted.Given the growing importance at
+the time of Frege's own work of the kind of formal investigationsundertaken by Hilbert, Frege's steadfastrefusal to acknowledge the existence
+of a different but nonetheless extremely valuable conception also called
+(perhaps unfortunately) "consistency"is striking.As the nineteenth-century revolution in geometrical methods and results had made clear, the
+view of axioms as only partiallyinterpreted, and hence as capable of characterizing similaritiesacross abstractstructures,was an undeniably fruitful one. Further, Frege's own interest in formal systems and in relations
+of syntacticderivabilityought to have enabled him to see the importance
+of Hilbert's method for demonstrating nonderivability results, even if
+these did not show what he would have called "independence."
+
+This content downloaded from 128.6.218.72 on Fri, 10 Apr 2015 00:56:43 UTC
+All use subject to JSTOR Terms and Conditions
+
+

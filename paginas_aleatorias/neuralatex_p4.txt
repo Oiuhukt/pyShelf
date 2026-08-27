@@ -1,0 +1,98 @@
+This will show the following output (where the data
+attribute will depend on the random weight initialisation):
+Value(self: 134, data:
+0.324954976758898240, grad: 0.0, prev:
+133,61, next: , op: +, isparam: 0, GC:
+0.0)
+
+% Set next item values
+\x.setdata(\inputx)
+\y.setdata(\inputy)
+\targetclass.setdata(\target)
+
+C. Training utilities
+
+% Compute loss
+\output.multiply(\targetclass,lossone)
+\lossone.multiply(\lossmultiplier,losstwo
+)
+\losstwo.add(\lossbias,lossthree)
+\lossthree.relu(lossfour)
+
+We provide support for checkpointing. After training, model weights, the number of completed epochs
+and the loss values can be written to a text file using \savecheckpoint and training resumed from a
+loaded checkpoint file using \resumetraining. In
+the working example below, we include a trained checkpoint for the spiral dataset as part of the latex source
+files for this paper. Checkpoints are particularly useful
+for submitting NEURALATEX-based papers to arXiv. arXiv
+compile papers from source and significant machine
+learning during the compilation process may cause arXiv
+to time out.
+The example in the following section is created by
+including the source file train_spiral.tex which
+illustrates several other training utilities. These include
+an illustrative training loop with batching, logging loss
+over epochs which can be subsequently plotted and
+scheduled learning rate.
+III. A WORKING EXAMPLE
+We now train a small MLP (the same architecture as in
+Section II-B) to classify the two classes of the nonlinear,
+2D spiral dataset. We provide a spiral dataset utility in
+spiral.tex which provides functionality to create a
+random dataset:
+\input{spiral.tex}
+\spiral{dataset}{\trainitemsperclass}
+
+where dataset will now contain a list of tuples comprising the two input values and the ground truth label.
+Our training dataset is shown in Figure 2 and comprises
+100 samples, 50 from each class.
+We train our model using a max-margin loss. This
+requires defining two constant value nodes:
+\pgfoonew \lossmultiplier=new Value
+(-1.0,{},’’,0)
+\pgfoonew \lossbias=new Value
+(1.0,{},’’,0)
+
+Inside our training loop, a single training example is
+processed as follows:
+
+% Forward through the network
+\mlp.forward(\templist,output)
+\output.getdata(\scores)
+
+% Weight the loss by 1/dataset_size
+\lossfour.multiply(\batchlossscale,loss)
+% Run a backwards pass
+\loss.backward()
+% Zero the gradients of non-parameter
+values
+% Gradients of parameters accumulate over
+the batch
+\loss.zerononparams()
+
+Gradients of parameters with respect to the loss accumulate while we iterate over a batch. Finally, we can
+take a gradient descent step and then zero all parameter
+gradients:
+\loss.step(\lr)
+\loss.zero()
+
+Training for 35 epochs on a dataset of 100 2D points
+(i.e. compiling this latex document) took about 48 hours
+on a Macbook Pro 2.4GHz Quad-Core. The document
+was compiled using TeXShop and the Macbook got very
+hot. We could have trained for more epochs but we think
+it’s clear it was going to converge to zero loss and perfect
+test set performance so we didn’t feel the need to.
+The dynamically generated loss plot is shown in
+Figure 4. The predicted classes for a held-out test set
+are shown in Figure 3. Finally, we provide quantitative
+performance in Table I.
+IV. E VALUATION VERSUS STATE - OF - THE - ART
+We propose two new metrics and show that
+NEURALATEX is state-of-the-art on both. The Written in
+Latex (WIL) metric is the proportion of source code of
+a machine learning library written in LATEX. In Table II,
+we compare against the two most popular deep learning
+libraries and also MATLAB. So far as we know, none
+
+

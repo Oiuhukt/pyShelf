@@ -1,0 +1,20 @@
+350
+
+RENAISSANCE ART AND GEOMETRY
+
+Figure 31.2. Dürer’s paper model of a truncated icosahedron.
+
+The solid, although not the name, has become very familiar to modern people through its
+application in athletics (the ball used in playing soccer) and organic chemistry (a molecule
+of C60 , known as buckminsterfullerene).
+
+31.3. PROJECTIVE PROPERTIES
+Projective geometry studies the relations among figures that remain constant in perspective.
+Among these things are points and lines, the number of intersections of lines and circles,
+and consequently also such things as parallelism (but not always, unless certain “points
+at infinity” remain at infinity) and tangency, but not things that depend on shape, such as
+angles or circles. Like the result from Euclid’s Optics discussed above, its methods come
+out of Euclidean geometry, but explore new implications of the Euclidean definitions and
+assumptions.
+
+

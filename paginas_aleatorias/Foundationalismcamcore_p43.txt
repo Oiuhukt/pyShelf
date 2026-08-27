@@ -1,0 +1,48 @@
+Foundationalism
+
+37
+
+secure foundations and a skepticism with respect to the rest of what we
+believe?
+
+4 Traditional Foundationalism and the Challenge of Skepticism
+We ended the last section worried that our search for secure foundations on
+which to build might leave us in a position where we must try to erect the huge
+ediﬁce of our commonsense beliefs on a foundation too small to support the
+weight of that ediﬁce. We’ll begin this section by considering whether we
+should let a commitment to avoiding skepticism dictate the nature of our
+foundationalism. We’ll then look at the tools available to the philosopher trying
+to build on foundations. More speciﬁcally, we’ll ask what principles of inference might be plausibly included in the foundations of knowledge and justiﬁed
+belief.
+
+4.1 Should We Reject Skepticism from the Start?
+Chisholm (1966) famously suggested that the epistemologist should commit at
+the outset to making whatever moves are necessary to avoid skepticism. While
+the interpretation of Moore (1959) is a bit more complicated, he, too, seemed to
+suggest that when a philosophical theory leads to skepticism, that’s a reason to
+conclude that something is wrong with that theory.56 Do Chisholm and Moore
+have the right approach?
+Later in this section, we’ll explore the ways in which traditional foundationalists might try to escape skepticism. But we should begin by reﬂecting on the
+question of whether philosophers should reject at the outset any view that leads
+to skepticism. Before we do, however, we should very brieﬂy consider different
+forms of skepticism.
+One can be a skeptic about the possibility of knowledge or a skeptic about the
+possibility of justiﬁed belief. One can also be a global skeptic (a skeptic with
+respect to the possibility of every sort of knowledge or justiﬁed belief) or a local
+skeptic (a skeptic with respect only to certain kinds of knowledge or justiﬁed
+belief). The global knowledge skeptic asserts that we don’t know anything at all.
+That view seems to entail that we don’t even know that we don’t know anything.
+The global skeptic with respect to justiﬁed belief asserts even more dramatically
+
+56
+
+Even if you can’t ﬁgure out precisely what is wrong with that theory. Ironically, perhaps, Moore
+was a very traditional sort of foundationalist who understood full well the difﬁculty of recovering
+“commonsense” from the foundations to which he was committed. Chisholm, in particular,
+might have been heavily inﬂuenced by Reid (1764) who emphasized his commitment to an
+epistemology that is guided by “commonsense” and made clear that he found simply absurd the
+posturing of philosophical skeptics.
+
+https://doi.org/10.1017/9781009028868 Published online by Cambridge University Press
+
+

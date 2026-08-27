@@ -1,0 +1,49 @@
+Chapter Eight
+
+A second form of explanation for altruism was developed
+in the 1960s by William Hamilton (1964, 1975), explanations
+in terms of “inclusive fitness” or “kin selection.” An organism
+can be altruistic as an individual but still behave in a way that
+benefits the genes it carries if its generosity is directed at its biological relatives—­individuals who are likely to carry the same
+genes, including the gene for altruistic behavior itself. A third
+approach is based on reciprocity (Trivers 1971). An organism can
+gain a long-­term benefit by making short-­term sacrifices, so long
+as the favors are likely to be repaid. This third framework does
+not use the idea of benefits to groups, and does not require that
+the interacting individuals be related—­t hey might even be from
+different species.
+An influential framework for modeling these issues, especially
+suited to reciprocity but with more general applications, is evolutionary game theory (see also §2.3). The Prisoner’s Dilemma has
+become a focal model for the problem of cooperation. The original scenario does not map very naturally to biological cases, but
+here it is. You and a fellow gang member are separately interrogated by the police. If you inform on your accomplice and he does
+not inform on you, you will be set free and he given a long sentence. If neither informs, there is a very short sentence for both
+of you. If he informs and you do not, you are the one who gets
+the long sentence. If both inform, you receive a short sentence,
+but longer than the one you’d get if neither of you had talked.
+You make your decision knowing that your accomplice has the
+same choice as you, faced simultaneously, and neither party can
+influence the other. This is a symmetrical two-­player game. In the
+matrix below, the payoffs are those for the row player, “Player 1,”
+conditional on what the other player does. “C” stands for cooperation and “D” for defect, where “cooperation” is with the other
+player, not the police.
+Player 2
+C
+122
+
+Player 1
+
+D
+
+C
+
+R=3
+
+S=1
+
+D
+
+T=4
+
+P=2
+
+

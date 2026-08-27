@@ -1,0 +1,34 @@
+random numbers
+
+29
+
+(Figure 1.5). Our box with balls is an urn.
+Dice are the simplest random number generators. An example of such a
+generator is a cube each of whose faces is marked with a different number.
+Another example is a coin (or a token). Suppose five of the faces of a cube are
+marked with the numbers 0, 1, 2, 3, 4, while the sixth face is unmarked. Now
+suppose we have a token one side of which is labelled with 0 and the other
+with 5. Let us throw the cube and token simultaneously and add together the
+numbers that appear face up, the trial being discounted when the unmarked
+face lands face up. This generator allows us to obtain a disordered set of
+numbers from 0 to 9, which can then be easily used to produce sets of random
+numbers. A roulette is a circle marked in sectors, each of which is marked
+with a different number. A roulette has a rotating arrow or rolling ball. A
+trial involves spinning the arrow and recording the number
+A roulette is a circle marked in sectors, each of which is marked with
+a different number. A roulette has a rotating arrow or rolling ball. A trial
+involves spinning the arrow and recording the number corresponding to the
+sector of the roulette circle within which the arrow stops.
+Note that a roulette may have any number of sectors. For instance. we
+could divide a circle into ten sectors and label them from 0 to 9. As a random
+number generator, our roulette in this case is equivalent to the two generators
+discussed above:
+(1) an urn with ten balls and
+(2) a die and a token thrown at the same time.
+A diagram of these equivalent random number generators is shown in Figure 1.5.
+Tables of Random Numbers. An example of a random number table is
+shown in Figure 1.6. The table consists of three hundred four-digit numbers.
+Each digit in the table was chosen randomly, as a result of a trial, e.g. throwing
+a die and a token. Therefore, it is understandable that there is no order in the
+
+

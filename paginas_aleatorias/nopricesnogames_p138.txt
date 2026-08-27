@@ -1,0 +1,42 @@
+5.4 Prestige by Partner: Status Equilibrium
+
+125
+
+the same side). On the other hand, the Y-equilibrium with pairing
+{i 1 ↔ j n /2 , i 2 ↔ j n /2−1 , . . . } is much more permissive since it permits not
+
+only the equilibrium matches, but also any match i k ↔ j l if k +l > n /2+1.
+
+5.4
+
+Prestige by Partner: Status Equilibrium
+
+We now turn to the status equilibrium concept discussed in Chapter 3 (referred
+to as an S-equilibrium in Richter and Rubinstein (2024)). Harmony is achieved
+by means of a status ordering of the agents that blocks an agent from
+approaching certain other agents. In a status equilibrium, agents are paired
+up, and no agent can approach any other with higher status than his current
+partner. The only agents he has the courage to approach are those with a
+(weakly) lower status than his own partner. An equilibrium is harmonious in
+that no agent can find a different partner who is both more desirable and less
+prestigious than his partner.
+In line with the alternative interpretation of public orderings (Chapter 3),
+a status ordering could represent “anti-prestige” whereby lower-ordered agents
+are more prestigious. Under this interpretation, a prestige-focused agent is only
+willing to consider leaving his current partner for more prestigious partners (i.e.
+those who are lower by the status ranking than his current partner).
+Definition: Status Equilibrium
+A status equilibrium is a tuple ‹P, (x i )› where (x i ) is a pairing and P is
+
+a weak ordering of the agents such that, for every agent i , there is no j
+such that j i x i and x i P j .
+
+One more interpretation of a status equilibrium is a kind of “double
+ownership”. For any pair A ↔ B , both A owns B and B owns A. The status
+
+ordering represents a notion of value whereby each agent “owns” his partner,
+
+and can “exchange” him for any weakly “less expensive” agent. In a status
+equilibrium, no agent wishes to do so.
+
+

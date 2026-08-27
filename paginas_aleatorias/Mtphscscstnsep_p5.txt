@@ -1,0 +1,78 @@
+The Metaphysics of Causation
+
+J. Dmitri Gallow
+
+her plant) throughout some time interval. Alternatively, Hart and Honoré
+propose that
+
+about the state of a particular physical system or region of space at
+or during a particular time or time-interval.
+
+negative statements like “he did not pull the signal” are ways of
+describing the world, just as affirmative statements are, but they
+describe it by contrast not by comparison as affirmative statements
+do. (1959 [1985: 38])
+
+On this understanding, a variable’s actual value just corresponds to the
+true proposition in the family. If we assume that facts are just true
+propositions, we get a view on which the token causal relata are just facts
+(of a particular kind).
+
+For example, suppose that, instead of watering the plant, Anna took a
+stroll. Then we could take “Anna’s failure to water her plant” to be a
+contrastive way of describing Anna’s stroll; we could then allow that the
+event of Anna’s stroll caused the plant to die.
+
+In general, it seems that we can take any pre-existing view about token
+causes and effects and translate it into a view about variable values. For
+instance, take a Kimian view of events, on which, for any property F, any
+individual a, and any time or time interval t, ⟨F, a, t⟩ is an event. Then, we
+could have a view on which each value of a given variable corresponds to
+one of these Kimian triples. What’s distinctive about variable values as
+causal relata, then, isn’t the individual values, but rather, how they are
+packaged together into a single variable. For instance, taking the Kimian
+view as our point of departure, we could have a variable, call it who steals
+the bike, whose potential values include ⟨steals the bike, Susan, t⟩ and
+⟨steals the bike, Alex, t⟩. Or we could have a variable, call it what Susan
+steals, whose potential values include ⟨steals the bike, Susan, t⟩ and ⟨steals
+the canoe, Susan, t⟩. And there’s a third variable, call it what Susan does to
+the bike, whose potential values include ⟨steals the bike, Susan, t⟩ and
+⟨buys the bike, Susan, t⟩. Now, there’s an additional metaphysical question
+faced by those who think that the token causal relata are variable values—
+a question not faced by Kim—which is: are the variable values who steals
+the bike = ⟨steals the bike, Susan, t⟩, what Susan steals = ⟨steals the bike,
+Susan, t⟩, and what Susan does to the bike = ⟨steals the bike, Susan, t⟩ all
+the same causal relatum, or are they different? (For more on these kinds of
+questions, see §3.1 below.)
+
+1.1.3 Variable Values
+In contrast to the extensive literature on events and facts, there has been
+comparatively less discussion of the metaphysics of variables and variable
+values. When the issue is discussed, many find it congenial to reduce
+variable values in some way or other to one of the other kinds of entities
+which have been proposed as token causal relata. In many applications,
+binary variables (variables which take on two potential values, usually 0
+and 1) are used for whether a certain event occurs. Then, questions about
+what it takes for the variable to take on a value can be translated into
+questions about what it takes for the relevant event to occur. Hitchcock
+(2012) suggests that the values of variables be taken to be Lewsian event
+alterations. (For Lewis [2000], an alteration of an event, e, is a modally
+fragile event—an event which would not occur, were it ever-so-slightly
+different—which is not too different from e itself. Some alterations of e
+will be ways for e to occur, and some will be ways for e to fail to occur,
+but they are all alterations of e.) An unabridged draft of Hall (2007, see
+reference for link) proposes that a variable is a family of pairwise
+incompatible propositions, where each proposition is
+
+8
+
+Stanford Encyclopedia of Philosophy
+
+Here is an argument (adapted from Dretske 1977) that the variable values
+what Susan steals = ⟨steals the bike, Susan, t⟩ and what Susan does to the
+
+Fall 2022 Edition
+
+9
+
+

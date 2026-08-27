@@ -1,0 +1,38 @@
+Philosophical Review
+
+MATTHEW WEINER
+
+tion is having seen and heard dogs bark or having been told by a trustworthy informant that dogs bark, and either of these warrants is
+sufficient for knowledge. If the speaker’s situation is so unusual that
+she has some other warrant for believing that dogs bark, she should say
+so. Similarly for sentences such as “It’s raining” or “Albert won the batting title last year”; someone who asserts these while disclaiming knowledge is admitting that she does not have the most likely and most
+satisfactory warrant for the truth of her assertion.
+Predictions and retrodictions are generally acceptable in the
+absence of knowledge precisely because the most likely and satisfactory
+warrant for believing in their truth is not sufficient for knowledge.21
+Indeed, predictions and retrodictions can be maintained while knowledge is explicitly disclaimed. Suppose that after Aubrey asserts (3),
+Pullings asks, “How do you know that the French will attack at nightfall?” and Aubrey responds,
+(13) I don’t know they’ll attack at nightfall—we haven’t intercepted their orders—but my prediction is that they will.
+Here Aubrey is still asserting that the French will attack at nightfall; for
+he explicitly describes it as a prediction, which (recall from section 1)
+is a kind of assertion. (See section 4 for more on why it is important to
+count predictions as assertions.) Nor does (13) sound paradoxical.22
+Hence, even if the bald Moorean formulation “p but I don’t know that
+p” sounds odd, it is possible to conjoin an assertion with a denial of
+knowledge.23
+The truth account, together with Gricean mechanisms, thus can
+explain the data that motivated the knowledge account. For our assertions to be proper, not only must they be true, we must have reason to
+believe them true. The hearer thus is entitled to conclude that the
+speaker has some warrant for her assertion. In many cases, the most
+likely warrant combined with truth will be enough for knowledge.
+When it is obvious that the speaker’s warrant would not be enough for
+knowledge, assertion without knowledge is permissible.
+4. Possible Defenses of the Knowledge Account
+I have argued that the truth account can explain the data that the
+knowledge account explains; we should consider whether the knowledge account can accommodate the data that the truth account
+explains. There are three nonexclusive ways to fit cases such as (3) and
+(4) to the knowledge account. One is to say that the utterances in ques238
+
+Published by Duke University Press
+
+

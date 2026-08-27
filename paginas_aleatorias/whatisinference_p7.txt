@@ -1,0 +1,48 @@
+What is inference?
+
+children have meta-beliefs about the relations between their premise judgments and
+their conclusions? Do children have the concepts of premises and conclusions? Do
+they have the normative concept of one belief justifying another?
+Worried, perhaps, by these sorts of consideration, some philosophers have
+proposed doxastic views that are ‘‘meta-propositional’’ rather than meta-attitudinal.
+Philip Pettit, for example, has written:
+A meta- propositional attitude is an attitude towards a proposition – if you
+like, a meta- proposition – in which propositions may themselves figure as
+objects of which properties and relations are predicated. Some metapropositions will ascribe properties like truth and evidential support and
+relations like consistency and entailment to propositions, as in the claim that
+‘p’ is true or that it is inconsistent with ‘q’. …
+The absence of meta-propositional attitudes in the robot and its more flexible
+counterparts means that they are subject to a salient restriction…because the
+robot and its counterparts don’t have meta-propositional attitudes, they cannot
+ask themselves similar questions about connections between propositions, say
+about whether they are consistent or inconsistent, and then do something – pay
+attention to the inter-propositional relations – out of a desire to have a belief
+form one way or the other.
+This restriction means that the robotic creatures cannot reason. (Pettit 2007,
+pp. 498–499)
+So, Pettit’s idea is that a genuine reasoner must be able to ask itself questions
+about the propositions that figure in its judgments and let the answers to those
+questions guide his thinking, if he is to be a genuine reasoner.
+Applied to our Taking Condition, it would imply that a genuine reasoner would
+have to believe (take it) that his conclusion proposition follows, in a suitably broad
+sense, from his premise propositions and let that guide what conclusion he arrives
+at. Someone performing the seemingly simple (Rain) inference would have to have
+the meta-propositional belief
+(Meta-Rain): (3) follows from (1) and (2).
+Now, this proposal successfully evades the first objection to the meta-attitudinal
+proposal; but it seems to leave the second one in place: we still seem committed to
+attributing to ordinary thinkers implausibly sophisticated concepts and propositional
+attitudes. Do Luke and Drew, playing hide-and-seek, really need to have the concept
+of a proposition, and the concept of one proposition following from another?
+To deal with this residual problem, we could try going even more first-order,
+requiring only that a reasoner have a belief in the appropriate conditional:
+(First Order Rain Belief, FORB): If It rained last night and If it rained last
+night, then the streets are wet, then, the streets are wet.
+But this proposal only invites new objections.
+First, we know from Carroll’s famous note (1895) that we must at all costs avoid
+insisting that (FORB) be part of the premises from which the conclusion of the
+(Rain) inference is to be derived. In that direction lies a vicious regress from which
+
+123
+
+

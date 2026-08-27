@@ -1,0 +1,44 @@
+150
+
+RICHARD MONTAGUE
+
+rises, and events in general will form a certain class of properties
+of moments of time. I shall say more about the nature of
+properties, but this much is clear at the outset. There are in¬
+expressible properties; and two properties are identical just in
+case they are coextensive in every possible world, not simply if
+they are coextensive in the actual world. Thus the two objections
+raised in connection with the earlier proposals do not apply here.
+One advantage of identifying events with properties of moments
+is that it is easy to analyze the notion of occurrence. To say that
+an event P occurs at a moment t is simply to say that t possesses
+(or partakes of, or participates in) the property P.
+What I have had in mind so far are events of only one kind,
+what we might call instantaneous generic events. There are other
+kinds, for instance, protracted generic events like the American
+presidential campaign. Such events should be identified with
+properties of intervals, rather than moments, of time (or more
+generally with properties of unions of intervals of time) and
+present no special problems; nevertheless, we shall avoid con¬
+sidering them here. Events of another kind, what we might call
+instantaneous individual events, like a rising of the sun, should
+not, however, be dismissed, and will be considered later, after
+the development of a certain amount of technical equipment.
+Before proceeding to pains, tasks, and the like, we must con¬
+sider the nature of relations, which have traditionally been
+construed in two ways. According to the modern mathematical
+use, an n-place relation is a set of sequences of length n; relations
+are then understood as extensional objects. According to an older
+and perhaps more philosophical use, relations are instead
+intensional, in the sense that two different relations can correspond
+to a single set of sequences. Relations of the latter sort are some¬
+times called relations-in-intension, and I shall use that designation
+for them, as well as the term ‘predicate’. (I believe that the
+propositional functions of Principia Mathematica should be
+understood as predicates; but this contention, like several
+other exegetical hypotheses concerning that work, is not beyond
+controversy.) Thus predicates will not be linguistic entities;
+for the latter we shall reserve such terms as ‘predicate constant’,
+‘predicate variable’, and ‘predicate symbol’. One-place predicates
+
+

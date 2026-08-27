@@ -1,0 +1,96 @@
+That was the Philosophy of Biology that was: Mainx, Woodger, Nagel, and Logical Empiricism,…
+
+he survived the war to emigrate to Vienna in 1946 and stayed
+there for the rest of his career.
+The question of who should author the entry on the foundations of biology in the Encyclopedia of Unified Science
+was debated by Neurath, Frank, and Carnap in the late 1930s
+and 1940s, with Frank preferring Mainx and Carnap initially
+preferring Bertalanffy, with the possibility of Hogben or
+Woodger as an alternative lurking in the background (Reisch
+2005; Hofer 2013). It appears that Mainx was preferred to
+Bertalanffy because his work was (correctly) viewed as
+being closer to contemporary biology because of its emphasis on genetics and evolution. Because of the long delays
+in the publication of the Encyclopedia induced by the war,
+Foundations of Biology only appeared in 1955 even though it
+was largely completed a decade earlier. Since the content of
+this work has entirely been ignored by recent commentators
+(including Hofer) some detail is provided below; it should
+become apparent that it deserves far more attention from
+philosophers of biology than can be devoted to it here.
+Foundations of Biology began from a thoroughly logical
+empiricist perspective. While biology is a special science,
+it is so because of the “observed peculiarity of its object
+and ...the development of its own methods of research and
+points of view,” and not because of metaphysical (including
+ontological) commitments, which are denigrated along with
+all efforts to build a “system” of biology (Mainx 1955, p. 2).
+Mainx endorsed a criterion of demarcation (testability, interpreted as either verifiability or falsifiability) for the empirical statements of biology but, departing from some logical
+empiricist dogma, also endorsed the view that all descriptive
+statements are implicitly theory-laden. Ultimately all that
+mattered was a statement’s ability to make predictions.
+As hypotheses emerge from descriptive statements (which
+requires scientific imagination), new hypotheses should ideally be consistent with the “permanent structure of science”
+(Mainx 1955, p. 6) and be incorporated into it. A remarkable
+discussion followed:
+If the incorporation does not succeed without contradiction, then, by a thorough logical analysis of the
+contradictory statements and their elements, we must
+investigate whether the contradiction is not merely
+apparent and whether it cannot be removed by a
+logical change. In other cases the contradiction can
+be bridged over by means of accessory hypotheses
+which restrict or extend the validity of the hypothesis
+and which, in turn, must satisfy the requirements of
+testability by experience. Naturally, they must not be
+introduced only ad hoc, i.e., they must not be merely
+tautological or formulated without any connection to
+the rest of the system of the relevant science, because
+in that case they would in principle be removed from
+any testability. On account of their heuristic value
+
+159
+
+they can often give birth to a new development in science. If a far-reaching contradiction persists between
+old and new hypotheses, this leads to a “crisis” in the
+empirical sciences concerned. This, in turn, leads to
+a revision of the system of statements hitherto in use.
+(1955, p. 6)
+Ideas later typically associated with Kuhn (his Structure of
+Scientific Revolutions (1962) was also part of the Encyclopedia) were clearly in the air within the logical empiricist
+ambit.
+Turning to the content of biology proper, Mainx distinguished between “elementary” and “complex” points of
+view, the subdivision being “purely practical” and for convenience of exposition (Mainx 1955, p. 7). These points of
+view are methodological in the sense that they represent
+approaches taken to the study of biological systems. Somewhat loosely (and Mainx would not have put it this way),
+the elementary points of view were consistent with contemporary mechanism; less loosely, the complex points of view
+were those typically invoked by the emergentists (see the
+third section).
+There were three elementary points of view, depending
+on whether attention should be directed to visible structure,
+behavior, or “significance as a member of a reproductive
+chain”:
+1. The Morphological Point of View: Under this, Mainx
+discussed the process of classification and noted that
+it involves theoretical commitments (e.g., claims of
+homology) that can be tested. Classification was hierarchical; at the highest level was the “construction plan.”
+This is what Woodger had in mind when he introduced
+“Bauplan” as a technical term in Anglophone biology
+(almost simultaneously to the date when Foundations
+of Biology appears to have been written, ca. 1945; see
+below).
+2. The Physiological Point of View: Physiology was “the
+theory of the functions of the organism, of its organs and
+tissues, or, better, ...the theory of the processes which
+take place in the organism and between the organism and
+the environment” (Mainx 1955, p. 15). Mainx’s treatment of it was desultory. Only two points are particularly
+salient: (1) There was an extended treatment of “blanket statements” (Pauschalaussage; 1955, p. 17) such as
+those about the response of an organism to a stimulus
+which are apparently simple statements with very complex backgrounds and applicable to many situations. (2)
+He noted the special problems for physiology posed by
+the human “inner experience” (1955, p. 19) but left it
+for the psychologists to address.
+3. The Genetical Point of View: Mainx identified this with
+the use of population genetics, especially Mendel’s
+
+13
+
+

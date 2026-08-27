@@ -1,0 +1,46 @@
+https://doi.org/10.1017/9781009039154 Published online by Cambridge University Press
+
+Mathematics and Explanation
+
+15
+
+A stands in some special explanatory relevance relation to B.16 Our genuineness
+principle assumes that some cases have mathematics in the explanation, and yet
+the mathematics is not standing in the appropriate explanatory relation because
+it is representing the explainers. A monist approach makes it hard to see what
+the mathematics is doing in such explanations. More importantly, many relations that monists examine seem to preclude mathematics from standing in that
+relation to targets. So, a monist risks ruling out genuine mathematical explanations altogether (Zelcer 2013; Kuorikoski 2021).
+This challenge is easy to appreciate for the main versions of a causal account of
+explanation. A causal account ﬁrst says what causes are and then clariﬁes how
+explanations relate to causes. In broad strokes, the three main approaches to causal
+explanation can be traced back to Salmon, Lewis, and Woodward. Salmon argued
+that causes are a type of process (Salmon 1984). So we can explain something by
+describing a causal process that led up to its occurrence. Salmon had a somewhat
+restricted notion of a causal process tied to physics, but more recently the so-called
+new mechanists have extended the basic approach so that it is more ﬂexible. One
+summary statement of this mechanist approach is “Mechanisms are entities and
+activities organized such that they are productive of regular changes from start or
+set-up to ﬁnish or termination conditions” (Machamer et al. 2000, p. 3). Our
+ﬂagpole case would then involve a mechanism associated with the transmission of
+light. Mathematics can function to represent mechanisms, but it is only the
+mechanisms themselves that are explanatory. The attempted explanation of the
+height of the ﬂagpole via the length of the shadow then fails because there is no
+mechanism that is “productive” in this direction.
+David Lewis’ inﬂuential work on causal explanation aspires to characterize
+causes in terms of counterfactuals. One simple proposal is that event C causes
+event E just in case that were C not to have occurred, then E would not have
+occurred. However, this simple proposal is vulnerable to a number of counterexamples. Suppose S throws a rock (C) that breaks a window (E), but that were
+S not to have thrown her rock, then B would have thrown his rock (C’) and broken
+the window (E). In such a case, C causes E, and yet it is not the case that were
+C not to have occurred, then E would not occur, as were C not to have occurred,
+the backup C’ would have occurred and brought about E. To handle this worry
+and other objections Lewis required that a cause be connected to an effect through
+a series of intermediate events in a special way: small counterfactual variations in
+the cause go along with small counterfactual variations in some intermediate
+events and in the effect (Lewis 2004, p. 91). For example, S’s throwing of the
+rock, the actual cause, is connected to the breaking by intermediate events such as
+16
+
+See Pincock (2018) for more discussion of this approach.
+
+

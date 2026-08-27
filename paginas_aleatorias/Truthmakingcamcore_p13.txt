@@ -1,0 +1,46 @@
+Truthmaking
+
+7
+
+To say that necessitation is not enough for truthmaking is not to say what is.
+Thus, the notion of explanation is frequently invoked to bridge the gap between
+necessitation and truthmaking. Koko doesn’t explain why “Either there are
+pangolins or there aren’t any pangolins” is true, but she does explain the truth
+of “Koko exists.” Similarly, my existence doesn’t account for why “My parents
+exist” is true, though it perfectly accounts for why “I exist” is true. The notion of
+aboutness is often appealed to here (e.g., Merricks 2007 and Schipper 2020).
+“My parents exist” isn’t about me, so I can serve no role in explaining its truth.
+“I exist,” by contrast, is, so I am a suitable truthmaker for it. Though the notions
+of aboutness and explanation are philosophically fraught, and are themselves
+the subject of enormous theoretical controversy, they both appear to be hyperintensional notions. (For example, the sentences “Triangles have three sides”
+and “2 is prime” are necessarily equivalent in that it’s impossible for one of
+them to be true and the other false, yet they are about different things.) If they
+are part of the truthmaking relation, they can be used to explain why necessitation is not sufﬁcient for truthmaking.6
+Putting together necessitation and explanation, we arrive at a dominant
+perspective in truthmaker theory:
+For any object φ and sentence S, φ is a truthmaker for S if and only if it’s necessary that if
+
+https://doi.org/10.1017/9781009109987 Published online by Cambridge University Press
+
+φ exists, S is true, and the truth of S is explained by φ.
+
+This account can be used to maintain that Koko is a truthmaker for “There are
+gorillas” but not “There are sharks” or “2 + 2 = 4.”
+Another reason to include a hyperintensional dimension to truthmaking is to
+account for that basic slogan of truthmaker theory: truth depends on being, but
+not vice versa. Sometimes necessitation runs in both directions. The existence
+of Koko guarantees that “Koko exists” is true, and the truth of “Koko exists”
+guarantees the existence of Koko. If the truthmaking relation itself is to account
+for the asymmetry between truth and being, then necessitation alone is inadequate. Explanation, however, is an asymmetric relation. If α explains β, then β
+doesn’t explain α. So an explanatory account of the truthmaking relation is
+better positioned for capturing the dependency between truth and being.
+The main impetus for believing that there is a hyperintensional dimension to
+the truthmaking relation is dealing with the counterexamples considered above,
+and accounting for how truth depends on being. The main challenge for such
+accounts is spelling out the relevant notion of explanation (or any other hyperintensional notion deployed). For instance, Jonathan Tallant (2018) wields the
+6
+
+A related hyperintensional notion is grounding, which has also been employed to show what
+separates truthmaking from necessitation (e.g., Schaffer 2008 and Jago 2018).
+
+

@@ -1,0 +1,37 @@
+‘1HE NOTION OF SUBJECTIVE PROBABILITY
+
+255
+
+sponse to Hume’s problem, and proves the reasonableness of inductive behaviour .
+The notion of exchangeability is the necessary step from a subjective view to a full-fledged subjective interpretation of probability,
+for it is exchangeability that guarantees the applicability of subjective probability to practical situations, especially to those encountered within experimental science. Exchangeability is the missing
+aspect in Ramsey’s perspective, that which could have made him
+see the connection between degree of belief and frequency that
+-among other things-would have indicated how degree of belief
+can be justified on pragmatical grounds.
+By way of a conjecture, one might say that at the end of his life
+Ramsey was not only looking for a notion like exchangeability, but
+indeed came close to it. Evidence that he was intrigued by the
+relationship between frequency and degree of belief is to be found
+in “Miscellaneous notes on probability” written in 1928 (in Ramsey
+1991a). There he distinguishes four kinds of connections, namely:
+“(1) if degree of belief = y, most prob((ab1e)) frequency is y (if
+instances independent). This is Bernoulli’s theorem; (2) if freq((uency)) has been y we tend to believe with degree y; (3) if
+freq((uency)) is y, degree y of belief is justified. This is Peirce’s
+definition; (4) degree y of belief means acting appropriately to a
+frequency y”. And he adds: *‘Itis this last which makes calculus of
+frequencies applicable to degrees of belief” (Ramsey 1991a, p.
+275). Now, the result that tells us exactly how to treat the relation
+(4) is the representation theorem. It then seems that Ramsey would
+have found an answer to at least part of what he was looking for in
+the results that de Finetti was working out in the same years, but he
+did not have the chance to know.
+It is nevertheless interesting to point out that Ramsey knew the
+property de Finetti calls ‘exchangeability’. H e probably took it from
+his teacher and colleague W. E. Johnson, whose ‘permutation
+postulate’ is equivalent to Carnap’s symmetry and de Finetti’s exchangeability. Another note by Ramsey, bearing the title “Rule of
+succession” (see Ramsey 1991a), contains a derivation of Laplace’s
+rule of succession from the notion in question, named by him
+‘equiprobability of all permutations’.
+
+

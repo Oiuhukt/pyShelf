@@ -1,0 +1,42 @@
+Laws of Nature
+
+71
+
+we are limited in ways that make metaphysics difficult even if we don’t agree
+with Hume’s later diagnosis of the human condition and his specific empiricist theses. Thus, even before we diagnose the reasons why we struggle to do
+metaphysics well, the following position might seem attractive:
+
+https://doi.org/10.1017/9781009109949 Published online by Cambridge University Press
+
+(Humean) Minimalism: Metaphysics should be avoided insofar as possible.113
+After all, metaphysics is abstract, speculative, and difficult. We are seriously limited, so why go to the trouble? Before we proceed, here are some
+clarifications about this position.
+First, do not confuse Minimalism with a criterion of ontological economy.
+Economy criteria are metaphysical criteria that help us to select metaphysical
+theories. Minimalism tells us to avoid metaphysics.
+Second, Minimalism doesn’t say that metaphysics can’t be done, and it
+doesn’t tell us to avoid metaphysics altogether. (That wouldn’t be very modest.) It might be impossible to avoid metaphysics entirely, especially since
+certain theoretical and practical projects seem to have at least some ontological
+commitments.
+Third, if we are to embrace Minimalism, we’ll need to decide which theoretical projects are essential, as that will determine which parts of metaphysics
+are unavoidable. This is a general point about Minimalism. I have not yet said
+anything about how Minimalism relates to laws. However, this gives us an
+important clue as to how it might.
+Suppose we value the sciences. Then we must trust induction, both to establish scientific theories and to apply them to the world. And in particular, we
+need some way to distinguish between good inductive inferences and bad. To do
+these things, we have to assume that nature is uniform. This claim does not seem
+to be entirely metaphysically neutral. It’s about nature, after all.114 However,
+it does not require us to take a stand on the debate between Humeanism and
+Non-Humeanism. The assumption that nature is uniform supports these theoretical and practical projects to some extent regardless of whether (i) we posit
+Non-Humean whatnots that underlie and explain the principle or (ii) we simply
+113
+
+Minimalism admits of different interpretations, but here is a modest one. We could interpret it
+as a stance in van Fraassen’s (1980) sense, such that adopting the position amounts to endorsing the following: “I resolve to avoid taking a stand on metaphysical questions unless I have
+to do so.” Thanks to Trevor Teitel for encouraging me to consider different formulations of
+Minimalism.
+114 Specifically, it might point towards an objective conception of nature. Further, it may require
+that we give accounts of properties and of the structure of spacetime, since these are involved
+in our understanding of regularities.
+
+

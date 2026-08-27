@@ -1,0 +1,53 @@
+167
+
+Page 8 of 24
+
+Synthese
+
+(2026) 207:167
+
+the target domain. The metaphor is successful if, by grasping the items and processes
+in the source domain, we can better grasp the mapped items and processes in the target
+domain. Lakoff and Johnson (2003) and Fernandez-Duque and Johnson (1999) use
+the mind-as-machine metaphor as an example. Here, machine is the source domain
+and our grasp of machines (e.g., functions, products, automated functioning) can help
+us understand the mind (in this case, mental capacities, ideas, and thinking, respectively). If the source domain of machines is sufficiently similar to the target domain,
+and if the conceptual mapping between the two is apt, then the mind-as-machine
+metaphor makes sense and helps us better understand the target phenomenon. The
+mapping then “gives rise to a systematic use of ordinary, conventional linguistic
+expressions in much of our talk about mental operations” (Fernandez-Duque & Johnson, 1999, p. 85). Hence, the metaphor enables the use of expressions like “I’m a
+little rusty today” and “we’re running out of steam” to be informative about mental
+phenomena (Lakoff & Johnson, 2003, p. 27).
+The key idea behind conceptual metaphor theory was that metaphors are not
+merely a linguistic phenomenon, but a crucial part of human cognition. Thus, conceptual metaphor theory has been applied to phenomena like gestures (Lakoff &
+Johnson, 2003), attention (Fernandez-Duque & Johnson, 1999), and mathematical
+cognition (Lakoff & Núñez, 2000; Pantsar, 2015). Although some remain sceptical
+about the application of conceptual metaphor theory to describe and explain cognitive processes (e.g., McGlone, 2011), those who support its application typically see
+it as more than just useful heuristics. On their view, conceptual metaphors are seen
+as being essential for fields like cognitive psychology. As a representative example,
+consider the way in which Fernandez-Duque and Johnson describe metaphors for
+attention as “defin[ing] entire research programs, circumscribing which attentional
+phenomena are studied, how they are studied, and what counts as evidence” (Fernandez-Duque & Johnson, 1999, p. 83). Importantly, the authors identify the rationale
+of attention metaphors as the cause of problems for candidate theories of attention
+(Ibid.).
+In what follows, we argue that – independently of its possible weaknesses – conceptual metaphor theory can help us make sense of the metaphors that are frequently
+used to describe chatbot mistakes. To be more precise, we argue that it can help us
+understand why key metaphors used in the literature fail to be informative. Just like
+the metaphors for attention can cause theories of attention to run into problems, as
+shown by Fernandez-Duque and Johnson (1999), metaphors for chatbot mistakes, we
+argue, can cause misunderstandings of chatbot behaviours.
+But before we can move on to that argumentation, we need to elaborate conceptual
+metaphor theory by identifying three ways in which metaphors can fail, i.e., in which
+their use does not improve our understanding of the target phenomenon.10 The first,
+and perhaps most obvious, way of failing is when the target domain does not bear
+sufficient similarity to the source domain. “Snakes are just big worms” is a failed
+metaphor in this sense. The source domain (worms) is not similar enough to the target
+
+10
+
+Curiously, even though a lot has been written about conceptual metaphor theory, we are not aware of an
+explicit treatment of the different ways in which metaphors can fail.
+
+13
+
+

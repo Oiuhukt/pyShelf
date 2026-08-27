@@ -1,0 +1,35 @@
+Theorem 13. M∗ |= GRP[KF∗pos ].25
+Proof. We reason about M∗ and take some sentence φ, such that M∗ |= provKF∗pos ⌜φ⌝
+and reason in the following manner: since provKF∗pos ⌜φ⌝ is true in M∗ and is an
+arithmetical sentence, provKF∗pos ⌜φ⌝ is true in N. This shows – by the meaning of
+the provability predicate – that KF∗pos ⊢ φ. By the fact that KF∗pos is closed under
+NEC we conclude that KF∗pos ⊢ T⌜φ⌝. By the fact that NEC is satisfied in M∗ we
+have that M∗ |= T⌜φ⌝. That is, M∗ is a model of GRP[KF∗pos ].
+Moreover, we have the following Corollary:
+Corollary 1. GRP[KF∗pos ] is consistent and internally consistent.
+
+5.4
+
+Philosophical Discussion
+
+This section discusses the philosophical and epistemological ramifications of the
+previous section’s results for discussing trustworthiness. This section employs some
+of the notions introduced in chapter 1. To avoid confusion and enhance clarity we
+repeat the relevant epistemological notions. The remainder of the section considers
+some worries and issues for the proponents of theories of positive truth and aims to
+provide preliminary responses to them.
+
+5.4.1
+
+Projects and Cornerstones
+
+Agents constantly engage in cognitive inquiries. Using the terminology introduced
+by Wright (2004), they engage in cognitive projects. Informally, a cognitive project
+consists of a (collection of) question(s) and a (collection of) procedure(s) agents
+25
+
+This is the proof in (Zicchetti, 2022a).
+
+150
+
+

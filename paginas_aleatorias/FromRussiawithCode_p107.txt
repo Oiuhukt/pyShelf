@@ -1,0 +1,34 @@
+found loyal users it can rely on. However, in the early stage, civic proj­ects
+emerge and are built on a volunteer basis, as “stigmergic collaborations”
+(Eliott 2006)—­a concept used to describe a spontaneous self-­organization
+within open source and civic-­hacking communities based on indirect incentives and mutual support (Eliott 2006; Gregorio 2002; Heylighen 2007b;
+Parunak 2006; Robles, Merelo, and Gonzalez-­Barahona 2005). The proj­ects
+I have studied ­were launched as decentralized collaborations of individuals through GitHub, HabraHabr, Stake Overflow, Livejournal, mailing lists,
+groups in Vkontakte, and other online ecosystems, without a predetermined
+technical task or a strict division of l­abor. Typically, an idea is proposed on
+a blog, a team is quickly formed, a page on GitHub is opened, and the work
+starts with crucial input from the broader it community. Users and testers
+become coproducers and participate in the maintenance and improvement
+of the proj­ect.
+The collaborative and stigmergic nature of civic software extends to its
+business model. The apps I have studied ­were ­either supported by crowdfunding (RosYama, RosZKH, RosPil), grants and prizes (Krasivyy Peterburg, which won the Kudrin’s Innovation Prize), or financial support from
+it entrepreneurs. Globally, no efficient and sustainable business model has
+yet been found for civic applications. This supports the thesis on “lack of
+conditions that facilitate technological innovation” outlined by Marina Fedorova in her chapter on Yandex (this volume). Instead, the civic hacking
+scene operates on “enthusiasm.” My respondents claim to work “for themselves” and “for the soul,” but also “for the country” and “for the ­people.” For
+instance, Timofey T. (the backend developer of WebNabludatel) explains:
+I thought it was the best ­thing I could do to fight against . . . ​how to say . . . ​
+the regime. ­Really, without joking. I could have said that it was just for fair
+elections, but ­these are just words. It was the only ­thing I could do to fight
+against the regime. And I worked for ­free, I even gave a hundred bucks to
+pay for the servers.
+
+For ­others, the motivation comes from a mix of po­liti­cal commitment
+and technical challenge. The “nonprofit gusto” described by Andrey Indukaev in his chapter on Tomsk (this volume), is a very relevant trait for civic
+hackers who share with Siberian computer scientists a specific attraction to
+prob­lem solving, where technical complexity and social importance of a
+given task constitute a more impor­tant value than the monetization of the
+work. As Alexander M. (developer of OpenSalary, an application that provides information on teachers’ salaries) puts it:
+9 4    < K s e n ia E r m o s h i na >
+
+

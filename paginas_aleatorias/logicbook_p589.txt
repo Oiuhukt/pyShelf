@@ -1,0 +1,48 @@
+ber38413_ch11_545-612.indd Page 578 12/6/12 2:27 PM
+
+i. If t1 and t2 are closed terms and t1  t2 ∈ *, then
+a. If Q is a sentence in which t1 occurs, Q ∈ * if and only if every
+sentence Q(t2//t1)(every sentence obtained by replacing one or
+more occurrences of t1 in Q with t2) is a member of *.
+b. If Q is a sentence in which t2 occurs, Q ∈ * if and only if every
+sentence Q(t1//t2) is a member of *.
+Proof: Let t1  t2 be a sentence that is a member of * and let Q be a sentence in which t1 occurs. Assume that Q ∈ *. Every sentence Q(t2//t1)
+is derivable from the set {t1  t2, Q} by E. Therefore, by 11.4.5, every
+sentence Q(t2//t1) is a member of *. Now assume that Q ∉ *. Every
+sentence Q(t2//t1) is such that {t1  t2, Q(t2//t1)}  Q, by E—use
+t1 to replace every occurrence of t2 that replaced t1 in Q(t2//t1), and
+the result is Q once again. So, if any sentence Q(t2//t1) ∈ *, then, by
+11.4.5, Q ∈* as well. Therefore, if Q ∉ *, then no sentence Q(t2//t1)
+is a member of *.
+Similar reasoning shows that if t1  t2 ∈ * and Q is a sentence
+in which t2 occurs, then Q ∈ * if and only if every sentence Q(t1//t2)
+is a member of *.
+j. For each n-place functor f and n terms t1, . . . , tn, there is at least
+one constant b such that f(t1, . . . , tn)  b ∈ *.
+Proof: By property (h), the formula f(t1, . . . , tn)  f(t1, . . . , tn) ∈ *.
+Since f(t1, . . . , tn)  f(t1, . . . , tn)  (∃x)f(t1, . . . , tn)  x, the sentence (∃x)f(t1, . . . , tn)  x must also be a member of *, by 11.4.5.
+And because * is ∃-complete, it follows from our revised definition of
+∃-completeness that there is at least one constant b such that the formula
+f(t1, . . . , tn)  b is also a member of *.
+We now turn to the proof of result 11.4.7 for PDE—that every set of
+sentences of PLE that is both maximally consistent in PDE and ∃-complete
+is also quantificationally consistent. Let * be a set of sentences that is both
+maximally consistent in PLE and ∃-complete. In preparation for constructing a
+model for this set, we associate positive integers with the individual constants
+of PLE as follows:
+First associate the positive integer i with the alphabetically ith individual
+constant of PLE. Let p(a) stand for the integer that has been associated
+with the constant a. Thus p(‘a’) is 1, p(‘b’) is 2, and so on.
+Now we define a second association q: For each constant a,
+q(a)  p(a), where a is the alphabetically earliest constant such that
+a  a is a member of *.
+Note that for each constant a, property (h) of maximally consistent, ∃-complete
+sets assures us that a  a ∈ *, and so we can be certain that q assigns a value
+to a. According to the definition of q, q(‘a’) is always 1 since property (h)
+578
+
+PREDICATE LOGIC: METATHEORY
+
+F-400
+
+

@@ -1,0 +1,38 @@
+192
+
+Anders Strand and Gry Oftedal
+
+be; namely on generating good causal models, rather than establishing singular
+causal claims in isolation.
+
+REFERENCES
+&DUWZULJKW1³0RGXODULW\,W&DQDQG*HQHUDOO\'RHV)DLO´LQ0&
+*DODYRWWL 3 6XSSHV DQG ' &RQVWDQWLQL (GV  Stochastic Causality. CSLI
+Lecture Notes6WDQIRUG&$&6/,3XEOLFDWLRQVSS
+(GZDUGV-6DQG3DOVVRQ%2D³5REXVWQHVV$QDO\VLVRIWKHEscherichia
+coli0HWDEROLF1HWZRUN´LQBiotech Progress 16, pp. 927-939.
+(GZDUGV-6DQG3DOVVRQ%2E³7KHEscherichia coli0*in silico
+0HWDEROLF*HQRW\SH,WV'H¿QLWLRQ&KDUDFWHULVWLFVDQG&DSDELOLWLHV´LQProceedings of the National Academy of Science of the United States of America
+97, pp. 5528-5533.
++DQDGD . 6DZDGD< .XURPRUL7 .ODXVQLW]HU 5 6DLWR .7R\RGD7 6KLQR]DNL . /L :+ DQG +LUDL 0<  ³)XQFWLRQDO &RPSHQVDWLRQ RI
+3ULPDU\DQG6HFRQGDU\0HWDEROLWHVE\'XSOLFDWH*HQHVLQ$UDELGRSVLVWKDOLDQD´LQMolecular Biology and Evolution 28, pp. 377-382.
++DXVPDQ'DQG:RRGZDUG-³,QGHSHQGHQFH,QYDULDQFHDQGWKH&DXVDO
+0DUNRY&RQGLWLRQ´LQBritish Journal of the Philosophy of Science 50, pp.
+521-583.
+.LWDQR +  ³%LRORJLFDO 5REXVWQHVV´ LQ Nature Reviews Genetics 5, pp.
+826-837.
+.X]QLFNL.$6PLWK3$/HXQJ&KLX:0$(VWHYH]$26FRWW+&DQG
+%HQQHWW./³&RPELQDWRULDO51$,QWHUIHUHQFH,QGLFDWHV*/+&DQ
+&RPSHQVDWHIRU*/+7KHVH7ZR3*UDQXOH&RPSRQHQWVDUH&ULWLFDOIRU
+)HUWLOLW\LQC. HOHJDQV´LQDevelopment 127, pp. 2907-2916.
+/HZLV'³&DXVDWLRQ´LQJournal of Philosophy 70, pp. 556-567.
+/HZLV'³&DXVDWLRQDV,QÀXHQFH´LQ-&ROOLQV1+DOODQG/$3DXO
+(GV Causation and Counterfactuals&DPEULGJH 0DVV 7KH0,73UHVV
+pp. 75-117.
+0HQ]LHV 3  ³'LIIHUHQFH 0DNLQJ LQ &RQWH[W´ LQ - &ROOLQV 1 +DOO DQG
+/$ 3DXO (GV  Causation and Counterfactuals. Cambridge (Mass.): The
+0,73UHVVSS
+Mitchell, S., 2009, Unsimple Truths. Science, Complexity and Policy. Chicago:
+7KH8QLYHUVLW\RI&KLFDJR3UHVV
+
+

@@ -1,0 +1,44 @@
+Logic in Philosophy of Science
+
+3
+
+course on scientific explanation still starts with these models, and it
+would be wrong to think that this were so merely because these models
+were historically influential: it is also because they are extremely clear,
+they put all their cards on the table, and they do a very nice job as
+paradigmatic schemata which may help organising our thoughts even
+when we are convinced that they will ultimately prove to be inadequate.
+So here is the counterclaim: just as in any scientific endeavour, abstractness, simplicity and idealisation are often exactly what we want
+in philosophy, and there is nothing wrong about this as long as we
+keep in mind that, for the sake of the general view, we forgot about
+certain properties and we simplified or idealised others.2 And, yes, to
+state the obvious: historical considerations by themselves are not yet
+philosophical ones (even though it never can hurt to be historically
+informed).
+At the end of the day, logical model building is still likely to be one
+of the most successful methods in general philosophy of science. Indeed,
+even some of the “old” logical insights into science from the 1920s and
+1930s are just as relevant to modern philosophy of science as they were
+back then. Let me give an example.
+
+2. Old Things and New Things: A Classic Example of
+Logical Analysis
+Structural Realism (Worrall, 1989) holds that when one of our empirically successful theories of the past got replaced by one that was even
+more successful empirically, the mathematical structure—and more or
+less only the mathematical structure—of the original theory was preserved in the transition. Hence, we should commit ourselves only to
+this mathematical-structural content of our scientific theories.
+This highly influential position in the recent debates on Realism,
+Antirealism, and their alternatives, is not without predecessors; e.g.:
+“. . . we get the result that principally every scientific statement can
+be transformed in the way that it becomes a structure statement.
+But this transformation is not only possible, it is also asked for.
+For science wants to talk of the objective; however, everything
+that does not belong to the structure but to the material, everything concrete, is ultimately subjective. In physics we observe
+2
+See (Kuipers, 2007) for an excellent review of, amongst others, the roles of the
+desideratum of simplicity and of the strategy of idealisation in the explication of
+concepts.
+
+LeitgebLogPhilSciSynthFIN.tex; 2/09/2009; 10:52; p.3
+
+

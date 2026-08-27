@@ -1,0 +1,49 @@
+DECISIONS UNDER RISK: UTILITY
+from each other by means of order-preserving (ordinal) transformations. Two
+interval scales will count as equivalent if and only if they can be obtained from
+each other by means of positive linear transformations.
+Another type of scale with which you are familiar is ratio scales. We use
+these for measuring lengths (in yards, feet, meters) or weights (in pounds,
+grams, ounces). The scales all share two important features: First, they all have
+natural zero points (no length, no speed, no weight), and second, the scales are
+used to represent the ratio of a thing measured to some standard unit of measure¬
+ment. (Something 10 yards long bears the ratio of 10 to 1 to a standard yardstick;
+the latter can be laid off ten times against the former.) In converting from one
+ratio scale to another we multiply by a positive constant. (Thus, to obtain inches
+from feet we multiply by 12.) This turns out to be the equivalence condition for
+ratio scales: Two ratio scales are equivalent to each other if and only if they may
+be obtained from each other by multiplying by positive constants. This is a spe¬
+cial case of a positive linear transformation; thus ratio scales are a tighter kind
+of interval scale.
+One way to appreciate the difference between ratio and interval scales is
+to think of changing scales in terms of changing the labels on our measuring in¬
+struments. If we had a measuring rod 9 feet long, labeled in feet, and relabeled
+it in yards, we would need fewer marks on the stick. If we labeled it in inches
+we would need more marks. But in either case the zero point would remain the
+same. This is not necessarily so with interval scales. If we had a thermometer
+marked in degrees Fahrenheit and changed it to degrees Celsius, we would use
+fewer marks (between the freezing and boiling points of water there are 100 Cel¬
+sius units in contrast to 180 Fahrenheit units), and we would also shift the zero
+point upward. Because there is no fixed zero point on our temperature scales,
+we must be quite careful when we say that something is twice as hot as some¬
+thing else. Suppose that at noon yesterday, the outdoor temperature was at the
+freezing point of water and that today at noon it measured 64 degrees on the
+Fahrenheit scale. Was it twice as hot today at noon as it was yesterday? On the
+Fahrenheit scale, yes, but not on the Celsius scale. Suppose, for contrast, that
+I am driving at 60 miles per hour and you are driving at 30. Now convert our
+speeds to kilometers per hour. You will see that I would still be driving twice
+as fast as you.
+Since we will use interval scales rather than ratio scales to represent
+preference intervals, we cannot assume that arithmetic operations that we per¬
+form freely on speeds, weights, or distances make sense for utilities. I will re¬
+turn to this point later.
+We have already seen that decisions under risk require more than ordinal
+scales. Will interval scales suffice? Or must we move on to ratio scales? No, we
+need not, for any two scales that are positive linear transformations of each
+other will produce the same ranking of acts in a decision table and, thus, will
+yield the same decisions. In short, interval scales suffice for decisions under
+risk. Let us now prove this.
+Let table 4-3 represent any decision table and any two acts in it. I will call
+83
+
+

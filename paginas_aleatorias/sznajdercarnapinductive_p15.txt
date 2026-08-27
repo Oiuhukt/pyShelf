@@ -1,0 +1,43 @@
+Inductive Logic as Explication: The Evolution of Carnap’s Notion of Logical Probability
+
+
+
+431
+
+After all, the concept of probability is explicated within inductive logic in order to
+provide a rational reconstruction of the everyday practice of inductive reasoning
+(1945a, 95). In Foundations (§49–51), moreover, the specific use of inductive probability in determining rational choice through expected utility maximization is a prominent feature of the narrative.
+At the same time, the strong semantic focus of the explicandum does remain in
+place in the later inductive logic, even if the reader might be distracted from it by the
+talk of utilities and rational beliefs. The rationality of belief that Carnap is after goes
+beyond thinking of rational degrees of belief as coherent belief states of some agent.
+He is looking for belief states that are influenced only by the meaning of sentences
+involved; wants to strip a belief state of any reference to nonsemantic, factual knowledge—hence the creation of the concept of credibility and the insistence on the semantic character of the target concept of the explication.
+Overall, the general goal and the structure of the inductive logic project do not
+change significantly. While the formalism did undergo some changes,3 Carnap’s interpretation of the status and the role of the explicatum level of the picture did not
+change at all. What did change is some of the characterizations of the explicandum;
+this change allowed for a more principled way of constructing the explicatum, due to
+a close connection between intuitions about rationality of decisions and the axioms
+for c-functions. It is clear that the revisions from the early to the late inductive logic
+were not significant enough to make the late one unrecognizable from the viewpoint
+of the early one. What remains to be answered is whether the changes were significant enough to warrant the interpretation that Carnap had moved from a logical to a
+subjective notion of probability.
+6. LO GICAL OR S UBJECTIVE?
+Assessing the degree to which Carnap moved away from a logical and toward a subjective interpretation of probability requires knowing what we mean by these two
+terms. Somewhat unsurprisingly, there appears to be no consensus on the exact features of the different interpretations, especially when it comes to the logical one.
+Therefore, my method in what follows will consist in focusing on some of the features of the two interpretations and assessing Carnap’s development of his inductive
+logics against that background—building on the understanding of the project developed over the previous sections. I will focus especially on the interpretations that
+other writers have proposed of the development of Carnapian inductive logic or offered as arguments for the claim that Carnap’s underlying notion of probability had
+changed.
+In practically every philosophical introduction to probability, (the early) Carnap
+is listed as the champion of the logical interpretation, considered as one of the three
+dominant approaches to probability: the logical, the Bayesian or subjective, and the
+empirical. This is not surprising, since Carnap himself, as mentioned repeatedly
+above, takes the target concept of his explication to be exactly that: the logical
+
+Downloaded from https://academic.oup.com/monist/article-abstract/101/4/417/5122836 by University of Birmingham user on 19 November 2019
+
+application to the concrete knowledge situation at the time of the decision.
+(Carnap 1947, 147)
+
+

@@ -1,0 +1,46 @@
+Episteme (2024), 1–19
+doi:10.1017/epi.2024.4
+
+ARTICLE
+
+How the Laws of Logic Lie
+Gillian K. Russell
+Australian Catholic University, Fitzroy, VIC 3065, Australia and University of St Andrews, St Andrews, Fife,
+Scotland, KY16 9AJ
+Email: gill.k.russell@gmail.com
+(Received 22 January 2024; accepted 22 January 2024)
+
+Abstract
+Nancy Cartwright’s 1983 book How the Laws of Physics Lie argued that theories of physics
+often make use of idealisations, and that as a result many of these theories were not true.
+The present paper looks at idealisation in logic and argues that, at least sometimes, the
+laws of logic fail to be true. That might be taken as a kind of skepticism, but I argue rather
+that idealisation is a legitimate tool in logic, just as in physics, and recognising this frees
+logicians up to use false laws where these are helpful.
+Keywords: Logic; anti-exceptionalism; modeling; science; Nancy Cartwright; idealisation; laws of logic;
+natural language; simulations
+
+“We very soon got to six yards to the mile. Then we tried a hundred yards to the
+mile. And then came the grandest idea of all! We actually made a map of the country, on the scale of a mile to the mile!”
+“Have you used it much?” I enquired.
+“It has never been spread out, yet,” said Mein Herr: “the farmers objected: they
+said it would cover the whole country, and shut out the sunlight! So we now
+use the country itself, as its own map, and I assure you it does nearly as well.”
+Lewis Carroll, Sylvie and Bruno Concluded (1894)
+We should not be misled into thinking that the most realistic model will serve all
+purposes best.
+Nancy Cartwright, How the Laws of Physics Lie (1983)
+I hope my title is legible, at least to some, as an homage to Cartwright’s (1983) book How
+the Laws of Physics Lie, which argued that the use of idealisations in physics – things like
+point particles, frictionless planes, and perfectly isolated systems – led to many of its laws
+failing to be true. The present paper argues that logic makes use of idealisations too. Does
+that mean that there are false logical laws? Yes, it does – at least for some laws, and some
+logics. Out of context, saying that some of logic’s laws are false can sound like a criticism
+of logic, but it is not intended as such here. Rather, I argue that idealisation is a legitimate
+tool and that recognition of its role can free logicians from the tyranny of truth, allowing
+© The Author(s), 2024. Published by Cambridge University Press. This is an Open Access article, distributed under the
+terms of the Creative Commons Attribution licence (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted re-use, distribution and reproduction, provided the original article is properly cited.
+
+https://doi.org/10.1017/epi.2024.4 Published online by Cambridge University Press
+
+

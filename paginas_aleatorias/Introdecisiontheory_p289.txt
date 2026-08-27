@@ -1,0 +1,59 @@
+12.4 Iterated Games
+
+strategy, they will achieve outcomes that are much better than those
+achieved by players always playing the dominant, noncooperative strategy.
+Furthermore, the tit-for-tat strategy can be modified in various ways, by
+introducing probabilistic conditions. For example, in real life it would make
+sense to introduce a condition that prevents a player from always playing
+a noncooperative strategy if the opponent failed to cooperate. Perhaps the
+opponent accidentally made a mistake, without having any intention of not
+trying to cooperate. (This is sometimes called the “trembling hand” hypothesis.) Hence, even if the opponent did not cooperate and you are playing tit
+for tat, it might be wise to modify your strategy such that the probability
+that you cooperate against a noncooperative player is not equal to zero.
+Perhaps you should give him a ten percent chance to show that he actually
+prefers to cooperate and that his previous move was caused by an unintentional mistake.
+In order to further clarify how indefinitely iterated prisoner’s dilemmas
+differ from the finitely iterated version of the game, it is helpful to consider
+a numerical example. In order to keep the example as simple as possible, we
+shall make the somewhat unrealistic assumption that both players play the
+grim trigger strategy, and that this is common knowledge. The grim trigger
+strategy is a version of tit for tat in which each player cooperates in the
+initial round of the game, as well as in every future round, as long as the
+other player also cooperates. However, as soon as the other player defects,
+the player will defect in all future rounds of the game, no matter what the
+other players does. The upshot of this is that a noncooperative move will
+never be forgiven.
+Under what conditions is it rational for players playing the grim trigger
+strategy to cooperate? Utility is measured on an interval scale, so without
+loss of generality we can set the utility of the outcome in which both players
+do not cooperate to zero. To make sure that the game is a prisoner’s
+dilemma, we stipulate that A > B > 0 > D.
+
+Table 12.6
+C1: Cooperate
+
+C2: Do not
+
+R1: Cooperate
+
+B,
+
+B
+
+D,
+
+A
+
+R2: Do not
+
+A,
+
+D
+
+0,
+
+0
+
+277
+
+

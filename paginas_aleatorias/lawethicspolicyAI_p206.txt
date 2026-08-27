@@ -1,0 +1,48 @@
+178
+
+Friso Bostoen
+
+problematic. But if tweaks are made simply to give prominence to the platform’s
+own products (“self-preferencing”), consumers may suffer the consequences.
+
+9.3 Algorithmic Competition Issues
+Competition law protects competition, thus guaranteeing consumer welfare, via
+specific rules. I focus on two provisions: the prohibitions of restrictive agreements
+(Article 101 TFEU) and of abuse of dominance (Article 102 TFEU).29 The next sections examine these prohibitions, and the extent to which they substantively cover
+algorithmic competition issues.
+9.3.1 Restrictive Agreements
+Restrictive agreements come in two types: they are horizontal when entered into
+between competitors (“collusion”) and vertical when entered into between firms
+at different levels of the supply chain (e.g., supplier and distributor). An agreement
+does not require a contract; more informal types of understanding between parties (“concerted practices”) also fall under Article 101 TFEU.30 To be illegal, the
+common understanding must have the object or effect of restricting competition.
+According to the case law, “by object” restrictions are those types of coordination
+that “can be regarded, by their very nature, as being harmful to the proper functioning of normal competition.”31 Given that such coordination reveals, in itself,
+a sufficient degree of harm to competition, it is not necessary to assess its effects.32
+“By effect” restrictions do require such an assessment. In general, horizontal agreements are more likely to fall into the “by object” category (price-fixing being the
+typical example), while ­vertical agreements are more likely to be categorized as “by
+effect” (e.g., recommending retail prices). Let us look at horizontal and vertical
+agreements in turn.
+9.3.1.1 Horizontal Agreements
+There are two crucial aspects to every horizontal price-fixing agreement or “cartel”:
+the moment of their formation and their period of stability (i.e., when no cartelist
+
+29
+
+The merger control regime is also important, but algorithmic competition issues have not played an
+important role there yet. For a primer, see Ai Deng and Cristián Hernández, “Algorithmic pricing in
+horizontal merger review: An initial assessment” (2022) Antitrust, 36(2): 36–41.
+30
+See Case C-8/08 T-Mobile Netherlands v Nederlandse Mededingingsautoriteit EU:C:2009:343, para 23
+(“the definitions of ‘agreement’ … and ‘concerted practice’ are intended, from a subjective point of
+view, to catch forms of collusion having the same nature which are distinguishable from each other
+only by their intensity and the forms in which they manifest themselves”).
+31
+Case C-345/14 Maxima Latvija v Konkurences padome EU:C:2015:784, para 18.
+32
+Ibid., para 20.
+
+Downloaded from https://www.cambridge.org/core. IP address: 177.249.163.232, on 22 Feb 2025 at 05:56:29, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://www.cambridge.org/core/product/0AD007641DE27F837A3A16DBC0888DD1
+
+

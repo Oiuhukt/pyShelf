@@ -1,0 +1,39 @@
+BAYESIAN METHODS
+
+features of Bayesian confirmation theory, which seem to indicate that
+the function of general theories in science is not what it is assumed to
+be in the deductivist model and that theoretical inference, like Mill's
+eductive inference or instance confirmation in Carnap's theory, can better be regarded as going from case to case than by way of general theories
+and their entailments.
+It is convenient to begin the examination of confirmation relations in
+scientific theories by a discussion of conditions of adequacy given by
+Hempel which have been shown to give rise to paradoxes. We have
+already seen that the equivalence, entailment, and converse entailment
+conditions are intuitive criteria of adequacy for scientific inference and
+that they are all satisfied by Bayesian theory under certain conditions of
+nonzero probabilities. These are three of the conditions discussed by
+Hempel in his pioneering "Studies in the Logic of Confirmation,"22 in
+which they are initially presented, along with other suggested conditions,
+independently of whether confirmation should be explicated by a probabilistic or any other type of axiomatic system. Hempel's paper gave rise
+to the well-known "paradoxes of the raven," which will be discussed in
+the next section, but some of the other conditions of adequacy give rise
+to another paradox, which I shall discriminate as the "transitivity paradox." My terminology and notation will here be a little different from
+Hempel's.
+Consider first the general question of how far the confirmation relation can be expected to be transitive, that is, should it satisfy the condition "If f confirms h, and h confirms g, then f confirms g"? In this
+general form transitivity is obviously not satisfied by the usual notions of
+confirmation or support. For example, the foundations of a house support
+the walls which support the roof, and it is true that the foundations sup
+port the roof, but although the pivot supports the seesaw, and the seesaw
+the child at one end, it is not in general true that the pivot supports the
+child. Again, if a man has disappeared, to find him shot dead confirms
+the hypothesis that he has been murdered, and that he has been murdered in itself confirms that there is a strangler at large, but that he has
+been shot does not confirm that there is a strangler.
+22
+C. G. Hempel, "Studies in the Logic of Confirmation," Mind, 54 (1945), 1
+and 97, reprinted with a new postscript in Aspects of Scientific Explanation (New
+York: Free Press, 1965), p. 3. See also B. Skyrms, "Nomological Necessity and the
+Paradoxes of Confirmation," Philosophy of Science, 33 (1966), 230.
+
+87
+
+

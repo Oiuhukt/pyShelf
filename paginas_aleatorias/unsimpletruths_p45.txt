@@ -1,0 +1,34 @@
+34
+
+chapter two
+
+Furthermore, although all properties, events, and structures are
+physical (what else could they be?9), not all physical properties, events,
+and structures are biological. Compare a conglomeration of molecules
+constituting a rock with an organization of molecules making up a baby
+monkey. What’s the diﬀerence? It is not to be found by looking at what
+they share, namely, a materialist composition, but only by looking at how
+they diﬀer. at diﬀerence, in part, is what is being picked out by identiing some higher-level structures as emergent. ere is an important,
+explanatory diﬀerence that cannot be captured by the emphasis on the
+reasonable claim that any simple or complex whole is made up of simpler, material parts.
+
+Scientiﬁc Emergence
+A new understanding of emergence has become widespread in scientiﬁc
+accounts of biological and social phenomena that does not share either the
+strong epistemic assumptions of the philosophical view Kim advocates
+or a nonmaterialist metaphysics; that is, it does not preclude explanation om below or above. On this understanding, emergence is identiﬁed
+with certain types of nonaggregative compositional structures, including
+self-organization (see Wimsa 1986, 2000; Bedau 1997; Kauﬀman 1993,
+1995; Camazine et al. 2001). Aggregativity is a particularly simple kind
+of compositional relationship between component parts and the whole.
+e weight of a pile of rocks being the aggregate of the weight of each
+component rock is a simple example. For a more complex example, consider the behavior of a car as an aggregate of the behavior of its parts.
+In these cases, the properties of the whole are predictable, explainable,
+and reducible to the properties of the components. However, there are a
+number of ways in which composition can fail to be aggregate and hence
+fail to be reducible, on Kim’s or any other account of reduction.
+One way is found in the complexity of chaotic systems represented
+by nonlinear dynamics.10 Poincaré in the early 1900s discovered dynamic instability in which a physical system could end up in wildly different end states depending on very small diﬀerences in its initial state.
+is sensitivity to initial conditions is oen identiﬁed with chaos. Nonlinearity, on the other hand, refers to a behavior that cannot be modeled by
+
+

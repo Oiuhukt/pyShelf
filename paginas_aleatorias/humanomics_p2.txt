@@ -1,0 +1,41 @@
+economy have been laid down—is merely the transmittal of information or commands: “I offer
+$4.15 for a bushel of corn”; “I accept your offer”; “You’re fired.” The trouble is that a large part
+of economic talk is not merely informational or commanding but persuasive: “Your price is
+absurdly high”; “We need to work together if our company is to succeed”; “I have a brilliant
+idea for making cooling fans for automobiles, and you should invest in it”; “The new iPhone is
+lovely.”
+Does it matter? Does persuasive economic talk have economic significance? Yes. One
+can show on the basis of detailed occupational statistics for the U.S. that about a quarter of
+income in a modern economy is earned by “sweet talk”—not lies or trickery always, but mainly
+the honest persuasion that a manager must exercise in a society of free workers or that a teacher
+must exercise to persuade her students to read books or that a lawyer must exercise if a society
+of laws is be meaningful. The economy values sweet talk at one quarter of its total income, a
+gigantic and economically meaningful sum. If language in the economy was merely “cheap
+talk,” as the non-cooperative game theorists put it, then ignoring it would not matter, and its
+share of economic would drift towards zero: an economic agent would be no more valuable if
+she were sweet than if she were a mere pipe for transmitted bids and asks. The chattering
+character of people in markets and firms and households about their economic affairs would be
+like left-handedness or red hair: interesting for some purposes doubtless in the Department of
+English, but irrelevant to the tough, scientific matter of the economy. But that is not the case.
+Formal maximum-utility economics cannot explain the sweet talk. The research would
+need to establish the fact beyond doubt, bringing together for example mathematical
+economists and rhetorical theorists. It can be treated mathematically by showing that
+cooperative equilibria (for example) cannot be achieved without a trust created by earnest talk.
+In a way it is the oldest and most obvious finding of game theory that games have of course
+always a context of rules and customs and relationships, all of them affected by language.
+But the main emphasis in a research that would matter for the future of the social
+sciences would focus steadily on the facts of the matter, and not chiefly on the abstract theory
+(the abstract theory can yield any conclusion if permitted to choose any assumptions, as a
+matter of logic; the facts constrain the conclusions scientifically). At one level, sweet talk
+emerges as crucial to experiments and field studies, as Eleanor Ostrom and her colleagues have
+shown. Indeed, experimental economics in the past twenty years has shown that allowing
+experimental subjects to establish relationships (“true”) through conversation radically changes
+the degree of cooperation. "The bonds of words are too weak,” Hobbes declared, “to bridle
+men's ambitions, varice, anger, and other passions, without the fear of some coercive power." It
+appears that Hobbes was wrong. Businesses work with trust, “Good old trustworthy Max”—
+not Max U, the maximizer of utility in a Samuelsonian way, who cannot be trusted at all.
+2
+
+Electronic copy available at: http://ssrn.com/abstract=1889320
+
+

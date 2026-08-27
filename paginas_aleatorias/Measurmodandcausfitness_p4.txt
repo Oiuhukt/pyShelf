@@ -1,0 +1,99 @@
+Abrams
+
+the types of particular individuals, this is a statistical type fitness [see e.g., de Jong (1994) for comparisons of several such
+concepts]. Often researchers treat one or more statistical type fitness concepts as the only type fitness concepts characteristic of
+a population (e.g., Stearns, 1976). Note that the term “statistic”
+is sometimes restricted to functions applied to sample data from
+a larger population; I use the term “statistical type fitness” even
+when measurements on all members of a population are used to
+calculate a fitness measure.
+It’s worth mentioning cases in which what is under study is,
+in part, the response of a lineage to new mutations. For example, Lenski et al. (1991) compared growth rates of Escherichia
+coli lineages which differed only at a marker allele with no significant effect on fitness. The authors argued that differences in
+substitutions of new mutations arising in different lineages were
+responsible for differences in measured growth rates. One can
+view this experiment as aggregating fitnesses of different genotypes resulting from a number of mutations, but one purpose
+of the experiment was to record fitnesses for distinct lineages
+arising from the same initial type. What is being measured in
+this case, then, are statistical type fitnesses of the whole genome,
+including its capability for changes in epistatic interactions as new
+mutations arise.
+2.4. PARAMETRIC TYPE FITNESS
+
+Sometimes researchers view a statistical type fitness as a way
+of estimating some underlying fitness value characteristic of a
+type. For example, Byars et al. (2010), mentioned above, use LRS
+measurements to estimate an underlying selection gradient with
+respect to variation in traits such as height and cholesterol level.
+The regression coefficient in terms of which such a selection gradient is described is a statistical type fitness, since it is defined by
+statistics on a set of measurable token fitnesses. However, Byars
+et al. treat this coefficient as an estimator of something else: this is
+an underlying selection gradient that varies with height, cholesterol level, etc., but which is not measured directly. To treat a
+fitness as an estimator of some kind is, implicitly at least, to have
+in mind an additional kind of fitness which plays a role like that
+of a statistical parameter of the situation. Fitness in the latter
+sense would capture an underlying fact about the population in its
+overall environment, defined partly in terms of probabilities (see
+below). In such cases, what is estimated is what I call a parametric
+type fitness. Note that the estimator is a statistical type fitness; the
+parametric type fitness is what is estimated. Typically, parametric
+type fitnesses are known only approximately via their estimators.
+The degree of certainty of our knowledge of them is given by
+the probabilities determined by the method of estimation and the
+data on which the estimate is based.
+Remarks by Elena and Lenski (2003) also suggest the idea of a
+parametric type fitness. These authors discuss experiments such
+as (Lenski et al., 1991), mentioned above, in which the fitnesses
+of distinct populations of asexual microorganisms are compared.
+Elena and Lenski explicitly describe these fitnesses as properties
+of types (p. 458), and since these fitnesses are determined by measuring the growth rate of an entire population, they are statistical
+type fitnesses. However, Elena and Lenski remark that such a fitness measure “reflects the propensity to leave descendants” (Elena
+
+Frontiers in Genetics | Evolutionary and Population Genetics
+
+Measured, modeled, and causal conceptions of fitness
+
+and Lenski, 2003, p. 458). The use of the word “propensity” suggests that the measured fitnesses are being viewed as estimating
+an underlying tendency of a type. (I don’t assume that Elena and
+Lenski intend “propensity” in the sense described below.)
+Researchers may not always make it clear whether a statistically
+defined fitness is being treated as a value which is itself of interest, or is being treated instead as an estimator of a value which
+is not directly observable. However, the distinction is sometimes
+explicit, as in (Byars et al., 2010), noted above, and is sometimes reflected mathematically. A particularly clear illustration
+of a mathematical distinction between measured and estimated
+quantities is provided by Weir and Cockerham’s (1984) widelyused (Weir and Hill, 2002) methods for estimating F-statistics
+such as FST , which can be used to provide evidence of natural
+selection under some circumstances. [For example, a common
+class of methods use FST values to show that the genetic differentiation between two populations at a particular locus is
+unusual relative to other loci. This provides evidence of selection
+if the extreme FST value can be shown to be improbable without past selection (e.g., Holsinger and Weir, 2009).] In Weir and
+Cockerham’s approach, the way in which F-statistic values are calculated differs depending on whether they are intended to characterize a difference between the measurements of two or more
+populations, or instead are intended to characterize an underlying difference that is estimated by those measurements but not
+directly observed (Weir, 1996, ch. 5; Holsinger and Weir, 2009;
+cf. Nei and Kumar, 2000, section 12.3). This example is discussed
+further below.
+2.5. PURELY MATHEMATICAL FITNESS
+
+All of the preceding concepts should be distinguished from what
+I’ll call purely mathematical fitness concepts. Many fitness concepts are used in mathematical models and computer simulations in ways which are neutral with respect to the distinctions
+described above. When developing or investigating implications
+of a mathematical or computer model, it’s often unnecessary to
+specify whether fitnesses appearing in the model must be defined
+in terms of statistics on collections of individuals within populations, or should instead refer to some underlying parameter.
+Models are often implicitly used as if they abstract from such distinctions, treating fitness as a primarily mathematical concept.
+For example, a model may define the relative fitness wAA of a
+genotype AA as any number between 0 and 1, inclusive, which
+then may be multiplied, in certain formulas, by the number of AA
+individuals (e.g., Nagylaki, 1992; Ewens, 2004; Rice, 2004). Some
+empirical applications of such a model will specify values for
+wAA by calculating statistics derived from measurable token fitness values, but the mathematical model as such does not require
+that method of determining values for wAA . The same model
+might also be interpreted, in some cases, as describing parametric
+fitnesses. It needn’t even be clear whether fitnesses are properties of types or tokens. For example, consider fitnesses in the
+Robertson-Price identity (Lynch and Walsh, 1998, p. 46), a simple version of the Price equation (Price, 1970) (cf. de Jong, 1994;
+Rice, 2004):
+z = cov(w, z) = E (wi − w)(zi − z).
+
+October 2012 | Volume 3 | Article 196 | 4
+
+

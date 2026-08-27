@@ -1,0 +1,36 @@
+El teorema de Gödel. Ernest Nagel & James R. Newman
+
+24
+
+Para la lógica de las proposiciones (frecuentemente llamada el cálculo sentencial), el vocabulario (o lista de ((signos elementales))) es extremadamente
+sencillo. Se compone de variables y de signos constantes. Las variables pueden ser sustituidas por sentencias y reciben por ello el nombre de ((variables
+sentenciales)). Son las letras
+p, q, r, . . .
+Los signos constantes son o ((enlaces sentenciales)) o signos de puntuación.
+Los enlaces sentenciales son:
+‘¬’ que quiere decir ‘no’ (y se llama la ((tilde))).
+‘∨’ que quiere decir ‘o’.
+‘→’ que quiere decir ‘si... entonces...’.
+‘∧’ que quiere decir ‘y’.
+Los signos de puntuación son los paréntesis de apertura y de cierre, ‘(’ y
+‘)’, respectivamente.
+Las reglas de formación están diseñadas de modo que las combinaciones
+de signos elementales, que normalmente tendrı́an forma de proposiciones, se
+llamen fórmulas. Igualmente, cada variable sentencial vale como una fórmula. Además, si la letra S representa una fórmula, su negación formal, es
+decir, ¬(S), es también una fórmula. Análogamente, si S1 , S2 son fórmulas,
+también lo son (S1 ∧ S2 ), (S1 → S2 ) y (S1 ∨ S2 ). Cada una de las siguientes
+expresiones es una fórmula: ‘p’, ‘¬(p)’, ‘(p → q)’, ‘((q ∨ r) → p)’. Pero ni
+‘(p)(¬q)’ ni ‘(p) → (q))∧’ son una fórmula; no lo es la primera expresión
+porque si bien ‘p’ y ‘¬(p)’ son fórmulas, no existe ningún enlace sentencial
+entre ellas; y no lo es la segunda porque el enlace ‘∧’ no está flanqueado a
+derecha e izquierda por una fórmula, como exigen las reglas9 .
+Se adoptan dos reglas de transformación. Una de ellas, la regla de sustitución (para variables sentenciales), dice que de una fórmula que contenga variables sentenciales puede siempre derivarse otra fórmula sustituyendo
+uniformemente con fórmulas las variables. Queda entendido que cuando se
+sustituye una variable en una fórmula debe hacerse la misma sustitución
+en todos los lugares en que esté presente dicha variable. Por ejemplo, suponiendo que ha quedado establecido ya que ‘p → p’, podemos sustituir la
+variable ‘p’ con la fórmula ‘q’ para obtener ‘q → q’; o podemos sustituirla
+con la fórmula ‘p ∧ q’ para obtener ‘(p ∧ q) → (p ∧ q)’. O bien, si sustituimos ‘p’ por frases reales podemos obtener cualquiera de las siguientes
+expresiones a partir de ‘p → p’: ‘las ranas son ruidosas → las ranas son
+ruidosas’; ‘(los murciélagos son ciegos y los murciélagos comen ratones) →
+
+

@@ -1,0 +1,47 @@
+48
+
+Jason Baehr
+
+in the relevant intuitive or commonsense way, we think of it as necessarily
+or categorically more valuable? There may be some initial support for thinking of
+the guiding intuition in this way, for we do not tend to qualify our acceptance of
+the claim that knowledge is more valuable than true belief by saying or explicitly
+thinking that this claim holds only sometimes or only in relation to certain kinds
+or instances of knowledge. This, however, is not sufﬁcient for showing that the
+content of the guiding intuition is general in the relevant sense. At a minimum, it
+leaves open the possibility that this content has certain implicit limits. Speciﬁcally,
+it leaves open the possibility that we regard knowledge (at least implicitly) as
+more valuable than true belief on the basis of certain features that we do not
+(intuitively or otherwise) think of as necessary features of knowledge. I might,
+for example, regard knowledge as more valuable than true belief at the relevant
+intuitive level on account of its being accompanied by good evidence or a kind of
+‘reﬂective epistemic perspective,’ while denying that such a perspective, strictly
+speaking, is required for knowledge. In this case, my intuition to the effect that
+‘knowledge is more valuable than true belief’ would at bottom be an intuition
+to the effect that a certain kind of knowledge (e.g. ‘reﬂective knowledge’) or
+knowledge that involves certain properties (properties which I do not regard
+as essential to knowledge) is more valuable than true belief. Again, nothing
+about the apparent character of the guiding intuition seems to rule out this
+possibility.
+In fact, I take it that there is something prima facie implausible about the
+suggestion that when we think of knowledge as more valuable than true belief
+in the relevant intuitive way, we think of it as necessarily or categorically
+more valuable. We do not, in other words, tend to treat the relevant claim
+as an exceptionless or necessary truth: as applying to any possible instance of
+knowledge. Instead, the judgment in question seems to be something like a
+broad generalization, the content of which may very well be indeterminate with
+respect to whether in every case knowledge is more valuable than true belief. This
+suggests that the alternative, exceptionless characterization is too strong, that it
+attributes more than is warranted to the content of the guiding intuition. Thus,
+while the guiding intuition may be somewhat general, it does not appear to be
+completely or relevantly general.
+This conclusion is reinforced by the idea that there is nothing independently
+or inherently counterintuitive in the suggestion that there might exist, say,
+at least one item of knowledge the value of which fails to exceed that of
+the corresponding item of true belief. I take it, that is, that nothing in our
+commonsense or pretheoretical way of thinking about knowledge rules out such
+a possibility. But again, if the guiding intuition is a product of common sense,
+and if its content is completely general, this suggestion should generate a clash
+of intuitions; it should strike us as questionable or implausible that any item of
+
+

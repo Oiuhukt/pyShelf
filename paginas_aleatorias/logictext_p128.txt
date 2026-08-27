@@ -1,0 +1,26 @@
+Chapter 2: Formal methods of evaluating arguments
+
+By convention, an asterisk on the Venn diagram means that there is at least one
+thing in that category. By putting the asterisk in the intersection of the two
+categories, we are saying that there is at least one thing that is a bird and is
+taller than President Obama, which is exactly what our original sentence was
+saying.
+Finally, let’s consider the statement, “some birds don’t fly.” How would we
+translate this sentence to have the “some S are not P” form? The first step is to
+get the descriptions of the two categories using either nouns or noun phrases.
+The “S” term is easy; it is just “birds” again. But we have to be a bit more
+careful with the “P” term, since its predicate contains a negation. We do not
+want any of our categories to contain a negation. Rather, the negation is
+contained in the form (i.e., the “not”). The category cannot be simply “fly” or
+even “flies” since neither of these are a category of thing. We have to use our
+trick of turning the predicate into a noun phrase, i.e., “things that fly.” Given
+these two category descriptions, we can then translate the sentence to have the
+categorical form, some S are not P:
+Some birds are not things that fly
+Again, although the English sounds clunky here, it has the same form as the
+categorical form, some S are not P, and it allows us to clearly see what the two
+categories are. Below is the Venn diagram for this statement:
+
+121
+
+

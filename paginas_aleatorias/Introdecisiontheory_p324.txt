@@ -1,0 +1,81 @@
+312
+
+Overview of Descriptive Decision Theory
+
+A: $2,500 with probability 0.33
+
+B: $2,400 with certainty
+
+$2,400 with probability 0.66
+$0 with probability 0.01
+
+It can be easily verified that the expected monetary value of prospect A is
+slightly higher than that of prospect B. However, this is of course not
+sufficient for concluding that the students are irrational. It cannot be
+excluded that they preferred B to A simply because their marginal utility
+is decreasing in the interval between $2,400 and $2,500. To make a stronger
+case against the expected utility principle, Kahneman and Tversky also
+asked the same group of students to state a preference between prospects
+C and D below.
+C: $2,500 with probability 0.33
+
+D: $2,400 with probability 0.34
+
+$0 with probability 0.67
+
+$0 with probability 0.66
+
+Now, 83% of the participants preferred C, whereas only 17% said that they
+preferred D. Thus, a large majority preferred B to A, but C to D. These
+preferences are, however, incompatible with the independence axiom,
+and therefore also with the expected utility principle (see Chapter 5).
+To understand why, note that Kahneman and Tversky’s experiment is in
+fact a version of Allais’ paradox. Consider Table 14.1.
+Since the only difference between the two pairs of lotteries is the addition of a 66% chance of winning $2,400 in A and B, it follows that prospect
+A should be preferred to B if and only if C is preferred to D, no matter what the
+decision maker’s utility for money is. (For a detailed explanation of this, see
+Section 4.4.) This experiment has been repeated several times, with similar
+results, by researchers all over the world.
+Kahneman and Tversky also reported that similar violations of the
+expected utility principle can be observed in much simpler lotteries.
+
+Table 14.1
+Ticket 1–33
+
+Ticket 34–99
+
+Ticket 100
+
+Prospect A
+
+$2,400
+
+$2,400
+
+$2,400
+
+Prospect B
+
+$2,500
+
+$2,400
+
+$0
+
+Prospect C
+
+$2,400
+
+$0
+
+$2,400
+
+Prospect D
+
+$2,500
+
+$0
+
+$0
+
+

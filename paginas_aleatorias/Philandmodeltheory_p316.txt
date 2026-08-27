@@ -1,0 +1,110 @@
+13.3. boolean-valued models
+
+299
+
+Definition 13.4: Let B be a complete Boolean algebra and let L be a signature. Then
+a B-valued L -structure, M, consists of
+• a non-empty set, M, which is the underlying domain of M,
+• an object c M ∈ M for each constant symbol c ∈ L ,
+M
+• a map ⟦R( ⋅ , …, ⋅ )⟧ : Mn Ð→ B for each n-place relation symbol R ∈ L ,
+• a map f M : Mn Ð→ M for each n-place function symbol f ∈ L , and
+M
+• a map ⟦ ⋅ = ⋅ ⟧ : M2 Ð→ B
+Where no confusion can arise, we omit the superscript on these maps. These maps must
+satisfy the following, for all n-place relation symbols R ∈ L , all n-place function symbols
+f ∈ L , and all a, b, c, a1 , …, an , b1 , …, bn ∈ M:
+⟦a = a⟧ = 1
+⟦a = b⟧ = ⟦b = a⟧
+⟦a = b⟧ ⋅ ⟦b = c⟧ ≤ ⟦a = c⟧
+⟦a1 = b1 ⟧ ⋅ … ⋅ ⟦an = bn ⟧ ⋅ ⟦R(a1 , …, an )⟧ ≤ ⟦R(b1 , …, bn )⟧
+⟦a1 = b1 ⟧ ⋅ … ⋅ ⟦an = bn ⟧ ≤ ⟦ f (a1 , …, an ) = f (b1 , …, bn )⟧
+Now, where Two is the two-element algebra from before, a Two-valued L structure is essentially just an L -structure, in the standard sense. There is just a
+slightly baroque twist that, instead of considering whether (a1 , …, an ) ∈ RM , as
+M
+in the standard case, we consider whether ⟦R(a1 , …, an )⟧ = True, in the Twovalued case.
+Having defined Boolean-valued structures, though, we can now set up a BooleanM
+valued semantics. Our aim is to define the semantic value, ⟦φ⟧ , of a formula φ in
+a Boolean-valued structure M.
+Much as in Definition 1.5 of §1.5, where M is a B-valued structure, we let M○ be
+○
+the B-valued structure obtained by adding new constant symbols c a with c M
+a =a
+○
+for every a ∈ M. We interpret each L (M)-term, t, as a function t M : Mn Ð→
+M, exactly as in §1.5. We then say that M○ assigns values from B to the L (M)sentences according to the following rules:
+⟦t 1 = t 2 ⟧
+⟦¬φ⟧
+⟦φ ∧ ψ⟧
+⟦∃xφ(x)⟧
+
+M○
+M○
+M○
+M○
+
+○
+
+○
+
+M
+= ⟦t M
+1 = t2 ⟧
+
+M○
+
+⟦R(t 1 , …, t n )⟧
+
+M○
+
+○
+
+○
+
+M
+= ⟦R(t M
+1 , …, t n )⟧
+
+M○
+
+M○
+
+= − ⟦φ⟧
+
+M○
+
+= ⟦φ⟧
+
+⋅ ⟦ψ⟧
+
+M○
+
+M○
+
+= ∑ ⟦φ(c a )⟧
+a∈M
+
+M○
+
+⟦φ ∨ ψ⟧
+⟦∀xφ(x)⟧
+
+M○
+
+M○
+
+= ⟦φ⟧
+
++ ⟦ψ⟧
+
+= ∏ ⟦φ(c a )⟧
+
+M○
+
+M○
+
+a∈M
+
+The clauses for the quantifiers explain why Definition 13.4 requires that B is a complete Boolean algebra: we need to be sure that ∑ X and ∏ X exist for any nonempty
+
+

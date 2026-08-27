@@ -1,0 +1,48 @@
+46
+
+Philosophy and Logic
+Table 19 Undecidability “Metatheorems”
+
+Author Metatheorem about CH
+Gödel
+Cohen
+
+Metatheorem about AC
+
+Con ðZFCÞ  Con ðZFC þ CHÞ Con ðZFÞ  Con ðZF þ ACÞ
+Con ðZFCÞ  Con ðZFC þ :CH Þ Con ðZFÞ  Con ðZF þ :ACÞ
+
+absolute (“such-and-such is consistent”). Gödel’s method of proof, with the socalled inner model of constructible sets, establishes relative consistency not
+only for CH but for a generalization GCH to be introduced in §8.3. Cohen’s
+method of proof, that of so-called forcing, can be used to give a different proof
+of relative consistency for CH as well as a proof of :CH: Both methods have
+been found to have innumerable other applications and are absolutely central to
+the ongoing work of set theorists today. While it would be infeasible to attempt
+to expound these methods in any detail in a work such as this – they are not
+covered even in the most thorough introductory-level texts – it will prove
+possible to give some idea of their nature later.
+Meanwhile let it be noted that either method can be used to prove the relative
+consistency of :SH; as was done by Ronald Jensen using Gödel’s method and
+by Thomas Jech and independently by Stanley Tennenbaum using Cohen’s
+method. Further, Robert Solovay, among many other important early applications of Cohen’s method, used it in joint work with Tennenbaum to prove the
+relative consistency of SH.
+Although these methods originated to deal with problems at the level of the
+theory of arbitrary sets of reals, they have also applications at other levels. In
+particular, John W. Addison, using Gödel’s work, showed that regularity theorems cannot be extended to higher point classes than the classical workers
+between the world wars had handled, while Azriel Levy, using Cohen’s method,
+showed the same for structural theorems, thus explaining the impasse that had
+been reached by the Polish and Russian schools.
+All this means that, if regularity and/or structural theorems are to be obtained
+for higher point classes, or if the status of SH and/or CH is ever to be settled,
+new axioms beyond ZFC will be needed. Gödel and Cohen drew opposite
+philosophical conclusions from this situation, Cohen doubting there was any
+fact of the matter about whether CH is true, and Gödel (1947) advocating a
+search for new axioms to prove or (as he thought more likely) disprove it. Thus
+far, however, no hypothesis settling the size of c has acquired the status of an
+accepted axiom, the way AC, after some resistance, eventually did. But a
+vigorous research program continues, of which more later.
+
+Downloaded from https://www.cambridge.org/core. IP address: 201.141.17.62, on 25 Jan 2022 at 00:17:29, subject to the Cambridge Core terms of
+use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/9781108981828
+
+

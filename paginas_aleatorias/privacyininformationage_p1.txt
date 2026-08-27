@@ -1,0 +1,82 @@
+Privacy and the Varieties of Moral
+Wrong-doing in an Information Age
+
+i,,,,,,,,
+Mi
+
+M.J. van den Hoven
+Department of Philosophy, Erasmus University Rotterdam
+M.J. vandenhoven@fwb.eu,:nl
+
+Anonymity and complexity: lack of trust, free-riding
+and crime.
+he privacy issue goes to the heart of an ongoing debate in
+nearly all Western Democracies between Liberalists (individualists) and Communitarians (collectivists) over the question
+how competing claims for personal freedom and autonomy and
+the needs of the community must be balanced.
+The communitarian arguments to make more information
+on persons available and to relativize privacy claims are often
+clear, straightforward and convincing. They refer to benefits to
+the community of having knowledge about its members freely
+available. A social security agency in The Netherlands (GAK)
+saved the community 30 million dollars in 1996 by means of
+very simple computer matching procedures to detect fraud. The
+Italian government decided to match the list of people who receive government allowances because they are blind and the list
+of persons who recently got their drivers-licence. The potential
+for savings seems to be limited only by the limits of our imagination in data-base management. What more is there to say? Who
+would object to having his data processed if such honorable community causes are served?
+Communitarians usually emphasize that modern societies
+exhibit high degrees of mobility and complexity, hence anonymity. And as they are quick to point out crime, free-riding and the
+erosion of trust are rampant under these conditions. Political
+philosopher Michael Walzer observed that "Liberalism is plagued
+by free-rider problems, by people who continue to enjoy the benefits of membership and identity while no longer participating
+in the activities that produce these benefits. Communitarianism,
+by contrast, is the dream of a perfect free-riderlessness" (Walzer,
+1995: 63).
+It is not accurate to identify the communitarian stance with
+the political right. As the social philosopher Alan Wolfe has observed (Wolfe, 1997: 189) in the privacy issue we have a crossing
+over of political ideas. The political right hails the free-market
+and abhors government intervention, yet they favor government
+intervention when it comes to making knowledge on persons
+widely available, signing Megan's law into action and installing
+clipperchips. The political left has always proclaimed the desirability of government interventions and state regulations, but
+detests interference with private decisions about abortion, sexuality and religion.
+
+T
+
+The communitarian diagnosis of our moral predicament goes
+deeper than just pointing to crime and free-riding as the collateral damage of the volatility and superficiality of modern life. It
+questions the very viability of the liberal conception of the self,
+which is so central to much of modern ethical theory and political philosophy. The liberal self is -as Michael Sandel has called ittoo much of an "un-encumbered self": a self that makes its choices
+-including choices about its own identity- in splendid isolation,
+far from a community and a world that is already there, a self
+which has no constitutive attachments and preceeds the formation of its own identity. The liberal conception of the self is thus
+voluntaristic (San&l), disengaged (Taylor) and radically un-situated (Benhabib). So insisting on a moral right to privacy seems
+doubly wrong from a communitarian perspective: the subject of
+the right -being a figment of Enlightenment philosophy - does
+not exist strictly speaking, and the protection it offers is not worth
+wanting, if not clearly undesirable.
+What we need therefore is not just a matter of a
+counterexample proof definition of privacy, it is a matter of defending a whole philosophical tradition called liberalism and arguing for the plausibility and acceptability of the conception of
+the self that comes with it.
+
+Panoptic technologiesand the public good
+According to communitarians we are thus in a sorry state and
+our unquenchable thirst for privacy serves as its epitome. Information technology's applications--panoptic technologies as Oscar Gandy and Jeffrey Reiman call them--ranging from active
+badges, Intelligent Vehicle Highway Systems (IVHS), Closed
+Circuit Television (CCTV) and data-base mining techniques,
+encourage government agencies, business firms and non-profit
+organizations alike to pursue the communitarian dream of perfect free-riderlessness.
+The communitarian position and the communitarian operation "Restore Trust" are backed up by the logic ofgametheory in
+the following way.
+Many public administration problems can be characterized
+as free-rider problems: law enforcement, tax collection, implementation of environmental policies. The general description of
+a free-rider problem is that it is a situation where a number of
+persons contribute to the maintenance of a public good, where
+each person individually has an incentive to profit from the existence of the public good without making the neccessary con-
+
+Computers and Society, September 1997
+
+33
+
+

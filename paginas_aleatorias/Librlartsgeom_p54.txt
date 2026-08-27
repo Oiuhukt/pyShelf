@@ -1,0 +1,93 @@
+solar system and their physical causes. . . . [But this is a limited
+form of argument since it shows only that] the concept is necessary, relative to a certain well-established practice of scientific reasoning about a certain kind of phenomenon. Kant, instead, argues that the Newtonian concept, and the laws of motion, [are necessary in much more general sense:] They are the
+only basis on which the concept of causality can be applied to
+the universe at large. They are the only basis, indeed, on which
+the phenomena of the heavens can be grasped as something
+more than mere appearances—as the appearance of genuine
+physical objects that stand in objective geometrical and causal
+relations.” (71)
+
+of impressions; if this object was not displaced, but changed
+its state, that is impossible). Thence comes a new distinction
+among external changes: those which may be so corrected we
+call changes of position; and the others, changes of state.
+Think, for example, of a sphere with one hemisphere blue and
+the other red; it first presents to us the blue hemisphere, then
+it so revolves as to present the red hemisphere. Now think of a
+spherical vase containing a blue liquid which becomes red in
+consequence of a chemical reaction. In both cases the sensation of red has replaced that of blue; our senses have experienced the same impressions which have succeeded each other
+in the same order, and yet these two changes are regarded by
+us as very different; the first is a displacement, the second a
+change of state. Why? Because in the first case it is sufficient for
+me to go around the sphere to place myself opposite the blue
+hemisphere and reestablish the original blue sensation. . . .
+
+23.5. 8 What is the relation between geometry and sensory
+perception?
+
+Another example: An object is displaced before my eye; its image was first formed at the center of the retina; then it is formed
+at the border. . . . Why . . . am I led to decide that these two
+sensations, qualitatively different, represent the same image,
+which has been displaced? It is because I can follow the object
+with the eye and by a displacement of the eye, voluntary and
+accompanied by muscular sensations, bring back the image to
+the center of the retina and reestablish the primitive sensation.
+
+23.6. 8 How, and under what conditions, can a mind without
+geometrical preconceptions be led to impose a geometrical structure on sensory perceptions?
+23.7. 8 Does the experience of blind people becoming
+sighted support this account?
+23.8. 8 What is Helmholtz’s critique of Kant? How might a
+Kantian reply to it?
+
+I suppose that the image of a red object has gone from the center to the border of the retina, then that the image of a blue object goes in its turn from the center to the border of the retina;
+I shall decide that these two objects have undergone the same
+displacement. Why? Because in both cases I shall have been
+able to reestablish the primitive sensation, and that to do it I
+shall have had to execute the same movement of the eye, and
+I shall know that my eye has executed the same movement because I shall have felt the same muscular sensations.
+
+H ENRI P OINCARÉ, La Valeur de la Science, 1905, quoted
+from The Foundations of Science, translated by George
+Bruce Halsted, The Science Press, 1913.
+
+“The movements of our body [plays] the preponderant role
+. . . in the genesis of the notion of space. For a being completely immovable there would be neither space nor geometry; in vain would exterior objects be displaced about him, the
+variations which these displacements would make in his impressions would not be attributed by this being to changes of
+position, but to simple changes of state; this being would have
+no means of distinguishing these two sorts of changes, and this
+distinction, fundamental for us, would have no meaning for
+him.
+
+If I could not move my eye, should I have any reason to suppose that the sensation of red at the center of the retina is to the
+sensation of red at the border of the retina as that of blue at the
+center is to that of blue at the border? I should only have four
+sensations qualitatively different, and if I were asked if they are
+connected by the proportion I have just stated, the question
+would seem to me ridiculous, just as if I were asked if there is
+an analogous proportion between an auditory sensation, a tactile sensation and an olfactory sensation.” (I.III.5)
+
+. . . We are led to distinguish the changes produced by our own
+motions and we easily discriminate them for two reasons: because they are voluntary; because they are accompanied by
+muscular sensations. So we naturally divide the changes that
+our impressions may undergo into two categories . . .: the internal changes, which are voluntary and accompanied by muscular sensations; the external changes, having the opposite characteristics.
+
+R ICHARD F EYNMAN, The Feynman Lectures on Physics,
+Addison-Wesley, 1963.
+
+“When we look at an object, there is an obvious thing we might
+call the ‘apparent width’, and another we might call the ‘depth’.
+But the two ideas, width and depth, are not fundamental properties of the object, because if we step aside and look at the
+same thing from a different angle, we get a different width and
+a different depth, and we may develop some formulas for computing the new ones from the old ones and the angles involved.
+. . . If it were impossible ever to move, and we always saw a given
+
+We then observe that among the external changes are some
+which can be corrected, thanks to an internal change which
+brings everything back to the primitive state; others can not
+be corrected in this way (it is thus that, when an exterior object is displaced, we may then by changing our own position
+replace ourselves as regards this object in the same relative
+position as before, so as to reestablish the original aggregate
+54
+
+

@@ -1,0 +1,53 @@
+154
+
+R.L. Millstein
+
+So, to return to the point at hand, recall my claim that, contra Glennan, there
+seems to be at least prima facie reason to think that populations of water bugs as a
+whole often do interact with other entities as a whole. If it were the case that a
+population could interact with other entities as a whole to produce changes in the
+very same population, then a pure “at a level” etiological explanation would better
+illuminate this phenomenon than a constitutive explanation. Thus, Salmon’s
+account, which emphasizes etiological explanations over decompositional ones –
+an account that Glennan accepts as providing an account of causal production, as
+mentioned earlier – is a more promising strategy for characterizing natural selection
+than the new mechanist accounts, which emphasize decompositional explanation
+over etiological explanation.7
+To that end, let me briefly review Salmon’s views. Salmon’s (1984) account8
+describes both causal propagation and causal production. Salmon suggests that a
+baseball at rest or in motion is a causal process because it is capable of transmitting
+(or propagating) a mark through time without further interactions. For example, if
+one makes a scuff on a baseball, the scuff simply persists on the baseball; the
+baseball, with its mark, propagates through time. On the other hand, changes in
+causal processes are produced by causal interactions, that is, intersections of
+processes where changes in the characteristics of the processes occur at and persist
+beyond the space-time point of intersection. For example, the interaction of a
+moving baseball (a causal process) and a window (another causal process) can
+produce a change in both the window and the baseball, namely, the breaking of the
+widow and a change in the trajectory of the baseball. Note that there is no
+decomposition here; neither the baseball nor the window needs to be broken
+down into parts in order to explain the interaction between the two causal processes
+or the production of change. Indeed, the mass of the entire ball is one factor
+(aside from velocity, wind resistance, etc.) in the window’s breaking exactly the
+way it did.9
+
+7
+Skipper and Millstein (2005) offer additional reasons for thinking that the new mechanistic
+philosophy does not, in its current form, adequately characterize natural selection. I have focused
+on the issue of decomposition here in order to address the decompositional assumption behind
+Glennan’s claim that population-level properties do not produce change because the population is
+not a part of the mechanism that produces changes in genotype and phenotype frequencies. I thus
+seek to highlight the way in which Salmon’s account can provide a non-decompositional picture of
+causal production in natural selection.
+8
+I focus on Salmon’s Mark Transmission account rather than his later Conserved Quantity account
+because I believe that it is more broadly applicable to causation outside the domain of physics.
+Indeed, Salmon explicitly states that his 1984 account of scientific explanation is intended to cover
+many different disciplines, such as the behavioral sciences, the physical sciences, and the biomedical sciences (1984, p. 267).
+9
+Similarly, Salmon notes that when two moving pool balls intersect in space-time, energy and
+momentum are transferred, altering the states of motion of both balls; thus, the intersection is a
+causal interaction in which the change in each process can be said to be produced by the other
+process (1984, pp. 169–170).
+
+

@@ -1,0 +1,46 @@
+Firstly, the charge that modal claims would not concern the entities which
+they are about. As Kripke (1980) puts it, it seems I have no reason to (at least
+prudentially) care about what happens to individuals in other spatiotemporally
+isolated worlds, whereas modal claims about oneself are usually prudentially
+relevant. Why should Humphrey care that some counterpart of his won the
+election but not him?
+Another objection, put forth by Adams (1974) is that modal realism implies
+that no matter what one does when faced with a choice, all options will be done
+by counterparts of one. So it’s indifferent what one does. But it seems one
+might be rightly chastised for, say, not wearing a seat belt during a car trip. Of
+course, one would not be excused if by chance nothing bad happens as a result
+of one’s actions. And the reason for that seems to be that easily things could
+have gone differently and taken a wrong turn. However, if we analyse this claim
+in terms familiar to the modal realist, going back to Kripke’s (1980) objection
+then it’s not clear why the person in the actual world should be blamed for what
+happens to wholly distinct individuals in other possible worlds. What we seem
+to want to claim is that easily some negative consequences could have followed
+from the actual person’s actions to them.
+A further worry for this account is that states in standard truthmaker semantics need not be possible. Therefore, accepting impossible states and that
+states simply are concrete objects would lead one to accept impossible concrete
+objects. Significantly, such concrete objects would not merely represent impossibilities, in the same way that a fiction book might narrate an impossible story,
+but rather they realize the impossibility themselves. But then one accepts that
+impossibilities are realized by some objects, which would seem to commit one’s
+theory to impossibilities when quantifying unrestrictedly over what there is13 .
+To resist this last worry one could instead, following Berto (2010), opt for
+hybrid modal realism and a disjunctive account of what states are, according
+to which: (i) possible states are concrete; and (ii) impossible states are abstract
+representations constructed out of possibilia. This account notably rejects the
+parity thesis (Berto and Jago, 2019), namely that impossible and possible states
+are ontologically on a par, and are entities of the same kind. Aside from inheriting the usual difficulties faced by modal realism, one might worry that this
+account does not say enough on why we should distinguish between what the
+possible and impossible states are like. It is clear that the impossible states
+can’t be genuine (i.e. concrete and such that they represent, say, that a is F by
+containing a as a part, in such a way that, in the state, a does indeed satisfy
+F ). Yet if they are not concrete but rather abstract, why not say that all states
+are abstract? One reason that one could present (Berto, 2010) is that we should
+strive for a reductive account of modality, as Lewis (1986) has argued for. But
+it isn’t clear that: (i) such a reduction is desirable in the first place (Stalnaker,
+2012); and (ii) if it is, that it isn’t achievable without an ontology like that of
+the modal realist (Berto and Jago, 2019).
+13 See Lewis (1986) for the original objection. Yagisawa (2010) endorses concrete impossibilia, however Jago (2014) and Berto and Jago (2019) have successfully argued against this
+form of extended modal realism.
+
+8
+
+

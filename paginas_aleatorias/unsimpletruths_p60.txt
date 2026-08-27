@@ -1,0 +1,35 @@
+c o m p l e x i t i e s o f e v o lv e d d i v e r s i t y
+
+49
+
+e scientiﬁc investigation of evolved diversity of the kinds described
+above challenges a central tenet of traditional views of knowledge: complexity can be explained by reduction to simple laws. It has long been
+lamented by some that biology has no laws similar to the purported laws
+of physics (Smart 1963; Beay 1995). at is, products of evolution and
+the rules that describe their behavior appear to be more contingent and
+less universal, more ephemeral, less fundamental, and hence subject to
+change under a variety of contextual scenarios. e standard is clear,
+and it is the one that the nineteenth-century philosophers codiﬁed and
+philosophers have discussed ever since: To be a law, a generalization
+must be universally true, exceptionless, and naturally necessary. Universality means that a law applies to all space and time, and if it is true and
+universal, then there will be no exceptions. Nothing will escape obeying
+a law of nature. ere is almost no generalization true of the biological
+world that can meet these criteria of a scientiﬁc law.
+Natural necessity is a more diﬃcult idea to understand. e intuition
+behind the requirement of natural necessity, however, is clear. Some universal truths seem to be only accidental, while others carry a stronger
+warrant. Consider the diﬀerence between the following two statements:
+All gold spheres are less than a mile in diameter. All uranium spheres are
+less than a mile in diameter (Goodman 1947). Both of these are true,
+there are no exceptions, but the truth of the claim about uranium seems
+to be necessary while the claim about gold, though true, seems to be accidentally so. It could have been the case that enough of the element of
+gold was produced that a sphere of gold could be that large. But there
+is something not accidental about the claim about uranium; its instability precludes having a sphere a mile in diameter. Such a sphere would
+self-destruct. at diﬀerence is what is referenced by appeal to natural
+necessity.2
+Generalizations describing the behavior of the biological systems
+produced by evolutionary processes of random mutation and natural selection do not appear to meet these stringent criteria for lawfulness. ere is even doubt that we have discovered any such strict laws
+in physics (Cartwright 1983, 1994; Earman, Roberts, and Smith 2002).
+Nearly everyone agrees that what we have discovered about organisms,
+species, and ecosystems are contingent, local truths.3
+
+

@@ -1,0 +1,43 @@
+Fallacies
+
+A fallacy is just a mistake in reasoning. Humans are not nearly as rational as we’d like to
+suppose. In fact we are so prone to certain sorts of mistakes in reasoning that philosophers and
+logicians refer those mistakes by name. For now I will discuss just one by name but in a little
+detail. Watch for explanations of other fallacies over the course of the class. For pretty thorough
+catalogue of logical fallacies, I’ll refer to you The Fallacy Files
+(http://www.fallacyfiles.org/taxonomy.html).
+“Ad hominem” is Latin for “against the man.” It is the name for the fallacy of attacking the
+proponent of a position rather than critically evaluating the reasons offered for the proponent’s
+position. The reason ad hominem is a fallacy is just that the attack on an individual is simply not
+relevant to the quality of the reasoning offered by that person. Attacking the person who offers
+an argument has nothing to do whether or not the premises of the argument are true or support
+the conclusion. Ad hominem is a particularly rampant and destructive fallacy in our society. What
+makes it so destructive is that it turns the cooperative social project of inquiry through
+conversation into polarized verbal combat. This fallacy makes rational communication
+impossible while it diverts attention from interesting issues that often could be fruitfully
+investigated.
+Here is a classic example of ad hominem: A car salesman argues for the quality of an automobile
+and the potential buyer discounts the argument with the thought that the person is just trying to
+earn a commission. There may be good reason to think the salesman is just trying to earn a
+commission. But even if there is, this is irrelevant to the evaluation of the reasons the salesman is
+offering. The reasons should be evaluated on their own merits. Notice, it is easy to describe a
+situation where it is both true that the salesman is just trying to earn a commission and true that
+he is making good arguments. Consider a salesman who is not too fond of people and cares little
+for them except that they earn a commission for him. Otherwise he is scrupulously honest and a
+person of moral integrity. In order to reconcile himself with the duties of a sales job, he carefully
+researches his product and only accepts a sales position with the business that sells the very best.
+He then sincerely delivers good arguments for the quality of his product, makes lots of money,
+and dresses well. This salesman must have been a philosophy major. The customer who rejects
+his argument on the ad hominim grounds that he is just trying to earn a commission misses an
+opportunity to buy the best. The moral of the story is just that the salesperson’s motive is
+logically independent of the quality of his argument.
+
+Review and Discussion Questions
+
+1. How does dialectic differ from debate?
+2. What is it for a claim to be true? How does this issue differ from that of determining
+whether a claim is true?
+3. Explain our everyday concept of truth in terms of correspondence.
+20
+
+

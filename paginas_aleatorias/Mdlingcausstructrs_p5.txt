@@ -1,0 +1,43 @@
+Euro Jnl Phil Sci (2013) 3:115–132
+
+119
+
+Fig. 1 A figure from Volterra’s and D’Ancona’s Les associations biologiques au point de vue
+mathematique (1935, p. 28). The graph shows the oscillating population sizes of a predator-preysystem. This is one possible solution for the coupled, non-linear differential Eqs. 1 and 2 if
+appropriate values are assigned to the coefficients (see p. 4)
+
+3 A motivation for modeling: Volterra and D’Ancona on method
+In the first chapter of their joint Les associations biologiques au point de
+vue mathématique (1935), Volterra and D’Ancona discuss which methods are
+suitable for quantitative studies in ecology. They consider several methods one
+by one, explaining why they are desirable, but not suitable for their purposes;
+then they give reasons for preferring their own (modeling) approach. We will
+now review this discussion in some detail.
+The first case on which the authors focus is that of the physiologist, who
+performs experiments on individual animals under laboratory conditions. The
+advantage of this approach, which the authors call “the experimental method”
+(p. 6), is that it allows the scientist to perform controlled experiments: The
+role of putative causes can be established by varying them while keeping
+alternative causes under control. In the authors’ words, one must isolate
+biological phenomena “from external causes which tend to act on their course
+and to disturb the results”.5 Thus, the laboratory physiologist’s approach may
+be characterized as causal inference by controlled experiments. However,
+Volterra and D’Ancona deem this approach unsuitable for studies in ecology,
+since ecologists, unlike physiologists, study interactions of entire populations
+and not of individual organisms.6
+Second, one may transfer the method of causal inference to ecology by performing controlled breeding experiments on whole populations. Volterra and
+D’Ancona find breeding experiments problematic as well, however, mainly for
+two reasons:
+1. Spatial and temporal extendedness: The experiment would have to be
+carried out in a space that is very large relative to the size of animals, and
+over a long time period relative to breeding cycles.
+
+5 “Mais dans le domaine de l’oecologie ces méthodes [the experimental methods] n’ont été jusqu’à
+
+présent que fort peu appliquées et cela s’explique, si l’on songe que les phénomènes biologiques ne
+sauraient devenir l’objet d’une étude quantitative qu’après avoir été isolés des causes extrinsèques
+susceptibles d’agir sur leur cours et d’en troubler les résultats” (Volterra and D’Ancona 1935, p. 6).
+6 We are not denying the possibility of experimental ecology, which today is a rich discipline. We
+do, however, believe that Volterra and D’Ancona are pointing out real difficulties.
+
+

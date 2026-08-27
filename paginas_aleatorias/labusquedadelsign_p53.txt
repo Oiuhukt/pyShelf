@@ -1,0 +1,37 @@
+DESCRIPCIONES
+
+53
+
+irreal. Una proposición tal como «x es irreal» sólo tiene significado cuando
+«0» es una descripción definida o indefinida; en ese caso la proposición será
+verdadera si «o» es una descripción que no describe nada. Pero el que la descripción «a» describa algo o no describa nada, no es en ningún caso un constituyente de la proposición en la que aparece; igualmente «un unicornio», que
+hemos considerado hace un momento, no es un grupo subordinado que tenga
+
+significado por sí mismo. Todo esto resulta del hecho de que, cuando «x» es
+una descripción, «x es irreal» o «x no existe» no es un sinsentido, sino que
+
+siempre son proposiciones significativas y algunas veces verdaderas.
+Podemos ahora proceder a definir de manera general el significado de
+las proposiciones que contienen descripciones ambiguas. Supóngase que queremos hacer un enunciado sobre «un tal-y-tal», donde «tales-y-tales» son
+
+aquellos objetos que tienen una cierta propiedad q, esto es: aquellos objetos x para los que la función proposicional px es verdadera. (Por ejemplo,
+si tomamos «un hombre» como nuestra instancia de «un tal-y-tal», (px será
+«x es humano».) Digamos ahora que queremos aseverar la propiedad y de
+«un tal-y-tab», esto es: queremos aseverar que «un tal-y-tal» tiene aquella
+propiedad que x tiene cuando yx es verdadera. (Por ejemplo, en el caso de
+«Me encontré con un hombre», yx será «Me encontré con x».) Ahora bien,
+la proposición de que «un tal-y-tal» tiene la propiedad y no es una proposición de la forma «Wx». Si lo fuera, «un tal-y-tal» tendría que ser idéntico
+a x para una x adecuada; y aunque (en un sentido) esto puede ser verdadero en algunos casos, no es ciertamente verdadero en un caso tal como el de
+«un unicornio». Es justamente este hecho, que el enunciado de que «un taly-tal» tiene la propiedad y no es de la forma yx, lo que hace posible que
+«un tal-y-tal» sea, en un sentido claramente definible, «irreal». La definición es como sigue:
+El enunciado de que «un objeto que tiene la propiedad e tiene la propiedad y»
+significa:
+«La aserción conjunta de px y yx no es siempre falsa».
+Dentro de los límites de la lógica, ésta es la misma proposición que podría
+expresarse por «algunos q son y)»; pero retóricamente hay una diferencia,
+puesto que en un caso hay una sugerencia de singularidad, y en el otro caso
+de pluralidad. Este no es, sin embargo, el punto importante. El punto importante es que las proposiciones que son verbalmente sobre «un tal-y-tal», cuando se las analiza correctamente, se encuentra que no contienen ningún constituyente representado por esta expresión. Y ésta es la razón por la que tales
+proposiciones pueden ser significativas incluso cuando no hay tal cosa como
+un tal-y-tal.
+
+

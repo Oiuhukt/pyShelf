@@ -1,0 +1,52 @@
+The tool-box
+
+
+
+that the Greek geometer simply knew his Euclid very well, as a set of
+logical facts in need of no reference. There is nothing impossible about
+this – modern readers develop a similar grasp of the Euclidean system
+as they read Greek mathematics, and, as I have shown above, the
+numbers involved are such as to allow this: certainly less than 
+clusters would cover the entire geometrical tool-box.
+I am offering here a hypothesis according to which there is an
+essential difference between the way in which earlier results are used
+inside a given proof, and outside it. I have argued in the preceding section
+that the internal structure of proofs tends to be linear, i.e. results tend
+to be used immediately upon formulation rather than being put aside
+for later use. Inside proofs, results relate to each other like the steps of
+a ladder. The relevant information consists of the recent results only,
+which implies a constant re-editing on the mental ‘page’ of the relevant
+information available directly to the working mathematician.
+On the higher level, however, of systems of propositions, I claim
+that the metaphor should be quite different. It should no longer be a
+ladder; rather, it should be that of an open plane. At any given stage of
+the discussion, the set of accessible prior results is all equally accessible,
+and no changes are made in its content as one goes on.
+It is true, of course, that ‘ladders’ occur in large-scale mathematics.
+I will mention in n.  below Saito’s analysis of Conics .–, which
+is a series of lemmata leading to more central results. In general, I am
+not speaking here about the organisation of particular treatises, but
+rather about the use of the Euclidean tool-box. And yet, it is useful to
+see that even within particular treatises the ladder is often not the
+correct metaphor. In Apollonius’ Conics , most propositions do not
+rely upon immediately preceding propositions. The main organising
+principle in the book is thematic, and – is one of several themes
+developed in the book. Euclid’s Elements book  is a famous example
+of a work which could easily be given a ladder structure, but which
+was not given that shape by Euclid. Mueller was especially interested
+
+
+There are  propositions in this book,  of which might have referred to immediately
+preceding propositions. , , , , , , , , , , , , , , , ,  actually do so
+–  out of , i.e. rather less than a third.
+
+The rest are: –: cones and circles on them; –: the basic conic tool-box; –: elementary ‘topological’ discussion of tangents and intersections (with the intrusion of –, a major
+addition to the conic tool-box); and –, the construction of the sections.
+
+Heron did this, to judge by the Codex Leidenensis (Besthorn and Heiberg () , , , ,
+–); but it is signiﬁcant that Heron’s treatment of the material remained uncanonical, and
+was probably never intended as more than a jeu d’esprit. Moreover, Heron’s point was not the
+ladder structure, but simply the use or avoidance of lines in diagram, as noted in chapter ,
+n. . There was no premium, in Greek mathematics, on ladder structure per se.
+
+

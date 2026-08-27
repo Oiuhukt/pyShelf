@@ -1,0 +1,52 @@
+P. Boghossian
+
+8 The counterfactual proposal
+Let us take stock. I have argued that a thinker doesn’t count as reasoning unless, in
+some appropriate sense, he takes his premises to support his conclusion. And I have
+looked at all the major ways of understanding this taking in terms of some occurrent
+intentional state. Of these ways, the most promising, I believe, is the intuitional
+proposal, though even it faces severe difficulties.
+The question arises, therefore, whether there is some other way of satisfying the
+Taking Condition, other than through an occurrent intentional state. I can think of
+two.
+The first attempts to account for the nature of inference counterfactually.7
+What is it for S to infer (3) from (1) and (2)? According to the Counterfactual
+Proposal, the answer is: His beliefs in (1) and (2) cause S to believe (3). And, were
+he to be asked why he believe (3), he would offer (1) and (2) as his reasons for
+believing (3). And it is the truth of this counterfactual—that S would offer (1) and
+(2) as his reasons for believing (3)—that makes them his reasons for believing (3).
+There need be no occurrent intentional state contemporaneous with the 1-2-3
+transition that constitutes S’s taking the premises to justify his conclusion. Rather,
+the difference between a mere transition and an inference consists in the holding of
+the counterfactual: Were S to be asked (or perhaps were he just to ask himself) why
+he believes (3), he would cite (1) and (2) as his reasons.
+I don’t believe that this proposal can be correct.
+For one thing, it seems to run into the old problem of demanding an unreasonable
+degree of sophistication from reasoners.
+But its main difficulty is that it treats the property of being an inference as though
+it were a response-dependent property, which I believe it cannot be.
+A property is response-dependent, roughly, if our disposition under certain
+circumstances to say that something has that property analytically entails that it has
+the property in question.
+Hume’s account of beauty is such a theory. According to Hume, what makes it
+the case that something is beautiful is that a preponderance of suitably ideal judges
+would judge it to be beautiful. Another favorite candidate for response-dependent
+treatment is color.
+There are many difficulties making sense of response-dependent properties in
+general (for some discussion see Boghossian 1989a, b). But at least such accounts
+have a certain face plausibility in the cases of color and beauty.
+However, the property of a person’s thinking something for a reason is not
+response-dependent. To say that R was S’s reason for A’ing implies that S took R to
+support his A’ing at the time that he A’ed, and that his so taking it led to his A’ing.
+I don’t see how S’s being disposed to say that R was his reason for A’ing could
+make it the case that he took R to support his A’ing and that this taking had a certain
+causal impact. His saying it might be very good evidence that R was his reason. But
+7
+
+I have not tracked down a reference for this view in the literature. It was suggested to me in discussion
+by Tim Scanlon as a view that he was sympathetic to, although I wouldn’t want to commit him to it on
+such a slender basis.
+
+123
+
+

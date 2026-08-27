@@ -1,0 +1,122 @@
+P1: GEM/SPH
+CY504-14
+
+P2: GEM/SPH
+CB421-Boolos
+
+QC: GEM/UKS
+July 27, 2007
+
+T1: GEM
+
+17:7
+
+Char Count= 0
+
+14.3. OTHER PROOF PROCEDURES AND HILBERT’S THESIS
+
+183
+
+Just by way of illustration, the rules for a variant approach in which ∼ and → and
+∀ and = are the official logical operators, and in which one works only with sequents
+of form  ⇒ D, are listed in Table 14-5.
+Table 14-5. Rules of a variant sequent calculus
+(Q0)
+
+⇒A
+
+(Q1)
+
+⇒A → B
+⇒A
+
+A in 
+
+⇒B
+, A ⇒ B
+
+(Q2)
+
+⇒A → B
+ ⇒ ∼∼A
+
+(Q3)
+
+⇒A
+, A ⇒ B
+, A ⇒ ∼B
+
+(Q4)
+
+ ⇒ ∼A
+ ⇒ ∀x A(x)
+
+(Q5)
+
+ ⇒ A(t)
+ ⇒ A(c)
+
+(Q6)
+
+ ⇒ ∀x A(x)
+
+c not in  or A(x)
+
+⇒s =t
+ ⇒ A(s)
+
+(Q7)
+
+ ⇒ A(t)
+⇒t = t
+
+(Q8)
+
+This variation can be proved sound and complete in the sense that a sequent  ⇒ D
+will be obtainable by these rules if and only if D is a consequence of . We give one
+sample deduction to give some idea how the rules work.
+14.21 Example. A deduction.
+(1)
+
+∼A → ∼B, B, ∼A ⇒ ∼A → ∼B
+
+(Q0), (i)
+
+(2)
+
+∼A → ∼B, B, ∼A ⇒ ∼A
+
+(Q0), (iii)
+
+(3)
+
+∼A → ∼B, B, ∼A ⇒ ∼B
+
+(Q1), (1), (2)
+
+(4)
+
+∼A → ∼B, B, ∼A ⇒ B
+
+(5)
+
+∼A → ∼B, B ⇒ ∼∼A
+
+(6)
+
+∼A → ∼B, B ⇒ A
+
+(7)
+
+∼A → ∼B ⇒ B → A
+
+(Q0), (ii)
+(Q4), (3), (4)
+(Q3), (5)
+(Q2), (6)
+
+The lowercase Roman numerals (i)–(iii) associated with (Q0) indicate whether it is the
+first, second, or third sentence in = {∼A → ∼B, B, ∼A} that is playing the role of A in
+the rule (Q0).
+
+

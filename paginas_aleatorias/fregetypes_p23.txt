@@ -1,0 +1,47 @@
+23
+Roman markers, which are both here open terms, is finally settled in constructive type theory
+by keeping functionality on the level of terms and generality on the level of types.
+6.2 Third-level function names
+
+One objection to the open term interpretation is that is unclear how the approach to secondlevel functions could be generalized to third-level functions because we obviously do not
+have something that operates on rules of inferences in type theory. Such an interpretation
+would therefore have to be studied at a metainferential level, a task which I am not willing to
+undertake here since I am not confident about its philosophical significance. The purpose of
+this paper is not to provide an entirely accurate representation of Frege’s theory of function
+levels assuming simple type theory in the background. Instead, the objective is to analyze
+and compare the function type and open term interpretations in order to determine which
+one aligns more closely with Frege’s theory of function levels.
+7
+
+Concluding remarks
+
+I have discussed two representations of Frege’s theory of function levels in simple type theory,
+namely, the function type and open term interpretations. The former states that a type of
+functions is presupposed at the level of the expository language of Grundgesetze. While
+this interpretation is very influential in the literature, it leaves out function names of two
+arguments and goes against Frege’s view of function names as incomplete expressions. On
+the other hand, Frege’s lack of criterion to distinguish function names from Roman markers
+and his account of functionality seem to favor the open term interpretation. Thus understood,
+Grundgesetze only presupposes a ground type of individuals ι and truth-values o assigned to
+every closed term in the language by virtue of the fact that they are complete expressions.
+There are technical complications in extending the open term interpretation to functions
+of third level, but it brings Frege’s and Church’s theories of abstraction together under one
+common framework for open terms and sheds new light on the type-theoretic rendering of
+the view that function names are incomplete expressions.
+References
+
+Bruno Bentzen. Sense, reference, and computation. Perspectiva Filosofica, 47(2):179–203, 2020.
+URL http://philsci-archive.pitt.edu/17408/.
+Méven Cadet and Marco Panza. The logical system of Frege’s Grundgestze: A rational
+reconstruction. Manuscrito, 38:5–94, 2015. URL https://doi.org/10.1590/
+0100-6045.2015.v38n1.mcemp.
+Alonzo Church. A formulation of the simple theory of types. The Journal of Symbolic Logic, 5
+(2):56–68, 1940. URL https://www.jstor.org/stable/2266170.
+Alonzo Church. Abstraction. The Dictionary of Philosophy, New York: Philosophical Library,
+1942.
+Alonzo Church. Schröder’s anticipation of the simple theory of types. Erkenntnis, 10(3):
+407–411, 1976. ISSN 01650106, 15728420. URL http://www.jstor.org/stable/
+20010523. Originally presented at the Congress of the Unity of Science in 1939.
+Michael Dummett. Frege: Philosophy of language. Harvard University Press, 1973.
+
+

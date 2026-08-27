@@ -1,0 +1,53 @@
+Sources of Knowledge of Mathematics
+
+369
+
+deceptive. For our thinking is closely bound up with language and thereby
+with the external world of the senses. Perhaps our thinking is at first a
+form of speaking which then becomes an imaging of speech. Silent think¬
+ing would in that case be speech which has become noiseless, taking
+place in the imagination. Now we may of course also think in mathem¬
+atical signs; yet even then thinking is tied up with what is perceptible
+to the senses. To be sure, we distinguish the sentence as the expression
+of a thought from the thought itself. We know we can have various
+expressions for the same thought. The connection of a thought with one
+particular sentence is not a necessary one; but that a thought of which
+we are conscious is connected in our mind with some sentence or other
+is for us men necessary. But that does not lie in the nature of the thought
+but in our own nature. There is no contradiction in supposing there to
+exist beings that can grasp the same thought as we do without needing
+to clad it in a form that can be perceived by the senses. But still, for
+us men there is this necessity. Language is a human creation; and so
+man had, it would appear, the capacity to shape it in conformity with
+the logical disposition alive in him. Certainly the logical disposition of
+man was at work in the formation of language but equally alongside this
+many other dispositions - such as the poetic disposition. And so lan¬
+guage is not constructed from a logical blueprint.
+One feature of language that threatens to undermine the reliability of
+thinking is its tendency to form proper names to which no objects cor¬
+respond. If this happens in fiction, which everyone understands to be
+fiction, this has no detrimental effect. It is different if it happens in a
+statement which makes the claim to be strictly scientific. A particularly
+noteworthy example of this is the formation of a proper name after the
+
+|H0
+
+pattern of ‘the extension of the concept a', e.g. ‘the extension of the con¬
+cept fixed star1. Because of the definite article, this expression appears
+to designate an object; but there is no object for which this phrase |
+could be a linguistically appropriate designation. From this have arisen
+the paradoxes of set theory which have dealt the death blow to set the¬
+ory itself. I myself was under this illusion when, in attempting to pro¬
+vide a logical foundation for numbers, I tried to construe numbers as
+sets. It is difficult to avoid an expression that has universal currency,
+before you learn of the mistakes it can give rise to. It is extremely diffi¬
+cult, perhaps impossible, to test every expression offered us by language
+to see whether it is logically innocuous. So a great part of the work of a
+philosopher consists - or at least ought to consist - in a struggle against
+language. But perhaps only a few people are aware of the need for this.
+The same expression - ‘the extension of the concept fixed star’ - serves
+at the same time to illustrate, in yet another way, the fatal tendency of
+language to form apparent proper names: ‘the concept fixed star’ is, of
+itself, one such. The definite article creates the impression that this phrase
+
+

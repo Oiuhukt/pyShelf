@@ -1,0 +1,104 @@
+Exercises 3.6
+Skills Warm-up Exercises
+W For Problems 1–8, review the geometric formulas in Appendix C,
+
+the distance between the dock and the boat decreasing when
+it is 30 feet from the dock?
+
+if necessary.
+1. A circular flower bed has an area of 300 square feet. Find its
+diameter to the nearest tenth of a foot.
+2. A central pivot irrigation system covers a circle of radius
+400 meters. Find the area of the circle to the nearest square
+meter.
+3. The hypotenuse of a right triangle has length 50 meters, and
+another side has length 20 meters. Find the length of the third
+side to the nearest meter.
+4. The legs of a right triangle have lengths 54 feet and 69 feet.
+Find the length of the hypotenuse to the nearest foot.
+5. A person 69 inches tall stands 40 feet from the base of a
+streetlight. The streetlight casts a shadow of length 96 inches.
+How far above the ground is the streetlight?
+6. The radius of a spherical balloon is 3 meters. Find its volume
+to the nearest tenth of a cubic meter.
+7. A right circular cylinder and a sphere both have radius
+12 feet. If the volume of the cylinder is twice the volume
+of the sphere, find the height of the cylinder.
+8. The height of a right circular cylinder is twice its radius.
+If the volume is 1,000 cubic meters, find the radius and
+height to the nearest hundredth of a meter.
+
+In Problems 9–14, assume that x = x1t2 and y = y1t2. Find the
+indicated rate, given the other information.
+9. y = x2 + 2; dx>dt = 3 when x = 5; find dy>dt
+10. y = x3 - 3; dx>dt = - 2 when x = 2; find dy>dt
+11. x2 + y2 = 1; dy>dt = - 4 when x = - 0.6 and y = 0.8;
+find dx>dt
+12. x2 + y2 = 4; dy>dt = 5 when x = 1.2 and y = - 1.6; find
+dx>dt
+13. x2 + 3xy + y2 = 11; dx>dt = 2 when x = 1 and y = 2;
+find dy>dt
+14. x2 - 2xy - y2 = 7; dy>dt = - 1 when x = 2 and y = - 1;
+find dx>dt
+15. A point is moving on the graph of xy = 36. When the
+point is at (4, 9), its x coordinate is increasing by 4 units
+per second. How fast is the y coordinate changing at that
+moment?
+16. A point is moving on the graph of 4x2 + 9y2 = 36. When
+the point is at (3, 0), its y coordinate is decreasing by 2 units
+per second. How fast is its x coordinate changing at that
+moment?
+17. A boat is being pulled toward a dock as shown in the figure.
+If the rope is being pulled in at 3 feet per second, how fast is
+
+224
+
+Rope
+
+4 ft
+
+Figure for 17 and 18
+
+18. Refer to Problem 17. Suppose that the distance between the
+boat and the dock is decreasing by 3.05 feet per second. How
+fast is the rope being pulled in when the boat is 10 feet from
+the dock?
+19. A rock thrown into a still pond causes a circular ripple. If the
+radius of the ripple is increasing by 2 feet per second, how
+fast is the area changing when the radius is 10 feet?
+20. Refer to Problem 19. How fast is the circumference of a
+­circular ripple changing when the radius is 10 feet?
+21. The radius of a spherical balloon is increasing at the rate of
+3 centimeters per minute. How fast is the volume changing
+when the radius is 10 centimeters?
+22. Refer to Problem 21. How fast is the surface area of the sphere
+increasing when the radius is 10 centimeters?
+23. Boyle’s law for enclosed gases states that if the volume is
+kept constant, the pressure P and temperature T are related by
+the equation
+P
+= k
+T
+where k is a constant. If the temperature is increasing at
+3 kelvins per hour, what is the rate of change of pressure
+when the temperature is 250 kelvins and the pressure is
+500 pounds per square inch?
+24. Boyle’s law for enclosed gases states that if the temperature
+is kept constant, the pressure P and volume V of a gas are
+­related by the equation
+VP = k
+where k is a constant. If the volume is decreasing by 5 cubic
+inches per second, what is the rate of change of pressure
+when the volume is 1,000 cubic inches and the pressure is
+40 pounds per square inch?
+25. A 10-foot ladder is placed against a vertical wall. Suppose
+that the bottom of the ladder slides away from the wall at a
+constant rate of 3 feet per second. How fast is the top of the
+ladder sliding down the wall when the bottom is 6 feet from
+the wall?
+26. A weather balloon is rising vertically at the rate of 5 meters
+per second. An observer is standing on the ground 300 meters
+from where the balloon was released. At what rate is the distance between the observer and the balloon changing when
+the balloon is 400 meters high?
+
+

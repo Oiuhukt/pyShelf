@@ -1,0 +1,47 @@
+28
+
+Philosophy and Logic
+
+and Peano Arithmetic – a mark of Gödel’s continuing throughout the paper, to
+grapple with the scope of Theorem VI.
+2.4.1 The Mysterious Footnote 48a
+It was just here at the end of section 2 of the paper that Gödel is moved to
+explain, in a footnote, “the true reason for the incompleteness in all formal
+systems of mathematics.” Footnote 48a of 1931 reads as follows:
+
+https://doi.org/10.1017/9781108981972 Published online by Cambridge University Press
+
+As will be shown in part II of this paper, the true reason for the incompleteness inherent in all formal systems of mathematics, is that the formation of
+ever higher types can be continued into the transfinite (see Hilbert [63], p.
+184), while in any formal system at most denumerably many of them are
+available. For it can be shown that the undecidable propositions constructed
+here become decidable whenever appropriate higher types are added (for
+example, type ω to the system P). An analogous situation prevails for the
+axiom system of set theory.
+
+Part II of the paper, which was to include a detailed proof of the Second
+Incompleteness Theorem,86 would never materialize – but this is not our concern here. What is striking about the remark is the degree of knowledge of
+certain logical machinery that was completely unknown at the time. In Section
+1, we noted Gödel’s anticipation of Tarski’s Undefinability of Truth Theorem,
+which is needed for the first informal proof of the First Incompleteness Theorem. Footnote 48a suggests model-theoretic knowledge going beyond this.
+Or what model-theoretic machinery is needed to verify the above claim for
+decidability of undecidable propositions in higher types?
+Before turning to these questions, it may be worth pointing out that Gödel
+demonstrated something of a penchant throughout his career for mentioning
+important metamathematical results in footnotes and casual asides in lectures,
+without proving them. His 1946 Princeton Bicentennial Lecture [44], in which
+Gödel asks for absolute notions of provability and definability, is a case in
+point. Among the assertions there is the claim that ordinal definability is itself
+definable, a fact that is nowadays shown using the Levy Reflection Principle,
+which was proved by Levy in 1960 [88].87 Gödel asserts, and not conjectures,
+here the independence of the axiom of constructibility, V = L.88 Another conjecture is that HOD, the class of hereditarily ordinal definable sets, will be a
+model of set theory satisfying choice, giving a simpler consistency proof of
+86
+
+See the section titled “The Second Incompleteness Theorem” below.
+The principle says that for every n there are arbitrarily large ordinals α such that Vα ≺n V.
+88 In this connection see Gödel’s letter to Wolfgang Rautenberg of June 30, 1967, in [47], p. 183.
+
+87
+
+

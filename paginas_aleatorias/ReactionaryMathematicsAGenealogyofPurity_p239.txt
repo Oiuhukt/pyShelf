@@ -1,0 +1,37 @@
+232
+
+chapter eight
+
+from its relation to empirical reality, but they should not indulge in “sterile
+abstractions and generalizations” either, as the latter might be “founded upon
+not-­too-­sound hypotheses.” It followed that the most pressing problem was
+one of order and discipline: mathematical practice needed to be “rigorized,”
+grounded on solid logical or intuitive terrain. Eighteenth-­century analytic
+practice, with its unbounded algebraic optimism, was not just morally and
+philosophically reprehensible: it was technically unsound. The return to order
+needed to begin from mathematics.9
+Is this interpretation only useful in the context of the Italian peninsula,
+a land of precocious and profound anti-­Enlightenment reactions? There are
+other debates between supporters of geometrical and analytic methods on
+the Continent and in Great Britain during the first half of the nineteenth century, but I do not assume that they can be interpreted along the same lines. In
+any case, concentrating only on the opposition between synthesis and analysis would distract our attention from what seems to be the real leitmotif that
+links the research of Fergola and Ruffini: the defense of reactionary reason
+through mathematics.
+To look for similar mathematical experiences means searching for attempts to rethink mathematics as a self-­standing body of knowledge, not defined by its relation to empirical reality, and whose applications can be useful
+but are limited in scope. Such experiences are often flagged by the appearance
+and success of the new notion of “pure mathematics,” a field that, once properly defined, would be the mathematician’s legitimate kingdom. The nature of
+the foundation can vary from geometrical intuition to some form of logical
+consistency. But the key move is severing once and for all the connection
+between formal algebraic procedures and the inner structure of empirical
+reality—­that is, the link that had legitimated the rampant mathematization
+of social and political life, emblemized by the likes of Condorcet and the
+Neapolitan Jacobins. Emphasis on such a notion of pure mathematics, often
+framed in terms of resistance against French military and philosophical occupation, figured quite prominently, for example, in the German-­speaking
+lands. But rather than describing yet another case from the margins of the
+French Empire, let’s take one last step toward its very center.
+Et in Paris Ego
+Arriving in Paris from Naples via Modena sharpens our gaze. Parisian mathematical life lacked the extreme polarization and the institutional tensions that
+we have found in Naples. Mathematical practice here seems, at first glance,
+more progressive and continuous. The standard narrative of its transformation
+
+

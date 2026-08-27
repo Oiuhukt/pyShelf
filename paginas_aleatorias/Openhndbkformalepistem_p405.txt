@@ -1,0 +1,47 @@
+398
+
+franz huber
+
+possible for her. Such ideal agents ought to do exactly that which they
+ought to do if they could, where the ‘can’ that is hidden in the ‘could’
+expresses possibility for the agent, not metaphysical possibility. Hence the
+principle that Ought Implies Can does not put any constraints on what an
+ideal agent should do, and on what an ideal doxastic agent should believe.
+Belief revision theory models belief as a qualitative attitude towards
+sentences or propositions: the ideal doxastic agent believes a proposition,
+or she disbelieves the proposition by believing its negation, or she suspends judgment with respect to the proposition and its negation. This
+is different from the theory of subjective probabilities, also known as
+Bayesianism (Easwaran 2011a, 2011b; Titelbaum, this volume; Weisberg
+2011; Wenmackers, this volume), where belief is modeled as a quantitative attitude towards a proposition: the ideal doxastic agent believes a
+proposition to a specific degree, her degree of belief, or credence, for the
+proposition. However, we will see that, in order to adequately model conditional beliefs and iterated belief revisions, ranking theory also models
+the ideal agent’s doxastic state with numbers, and thus more than just the
+set of propositions she believes. Genin (this volume) discusses the relation
+between belief and degree of belief.
+2
+
+belief revision
+
+Spohn (1988, 1990) develops ranking theory in order to fix a problem
+that besets the AGM theory of belief revision. In order to provide some
+background for ranking theory I will first present the AGM theory. Ranking
+theory will then arise naturally out of the AGM theory. The latter theory
+derives its name from the seminal paper by Alchourrón et al. (1985).
+Comprehensive overviews can be found in Gärdenfors (1988), Gärdenfors
+and Rott (1995), Rott (2001), and Lin (this volume).
+One version of the AGM theory of belief revision represents the ideal
+doxastic agent’s old beliefs, her doxastic state at a given moment in time, by
+a set of sentences from some formal language, her belief set, together with
+an entrenchment ordering over these sentences. The entrenchment ordering
+represents how firmly the ideal doxastic agent holds the beliefs in her
+belief set. It represents the details of the ideal agent’s doxastic state. The
+new information is represented by a single sentence. The AGM theory
+distinguishes between the easy case, called expansion, and the general case,
+called revision. In expansion the new information does not contradict the
+ideal doxastic agent’s old belief set and is simply added. In revision the
+new information may contradict the ideal doxastic agent’s old belief set.
+The general case of revision is difficult, because the ideal doxastic agent
+has to turn her old belief set, which is assumed to be consistent, into a new
+belief set that contains the new information and is consistent. Usually the
+
+

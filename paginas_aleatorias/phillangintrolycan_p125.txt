@@ -1,0 +1,48 @@
+110
+
+Theories of Meaning
+
+The Big One
+Objection 7
+Following Pierre Duhem (1906/1954), W. V. Quine (1953, 1960) argues that no
+individual sentence has a distinctive veriﬁcation condition, except relative to a
+mass of background theory against which “observational” testing takes place. This
+will take some explaining.
+There is a naive idea that many people have about science. It is that one puts forward
+a scientiﬁc hypothesis and then tests the hypothesis by doing an experiment, and the
+experiment shows, all by itself, whether the hypothesis is correct. Duhem pointed out
+that in the history of the universe there has never been an experiment that could
+singlehandedly verify or falsify a hypothesis. The reason is that there are always too
+many auxiliary assumptions that have to be made to bring the hypothesis into contact
+with the experimental apparatus. Hypotheses do sometimes get disconﬁrmed, outright
+refuted if you like, but only because the scientists involved are holding certain other
+assumptions ﬁxed, assumptions that are disputable and may even be quite wrong.
+Suppose we are doing an astronomical study, and we are verifying and refuting things
+by making observations through complicated telescopes. In using such telescopes, the
+astronomers are assuming virtually all of optical theory, and countless other things
+besides.
+Surprisingly, Duhem’s point holds in everyday life as well. Take any good ordinary
+sentence about a physical object, such as “There is a chair at the head of the table.”
+What is its veriﬁcation condition? A ﬁrst thing to notice is that “the” set of experiences
+that would conﬁrm that sentence is in a way conditional, on one’s hypothetical vantage
+point. We might try something like this: If you walk into the room from the direction of
+this door here, you will have an experience as of a chair at the head of the table. But
+even that depends. It depends on whether you have your eyes open, and it depends on
+whether your sensory apparatus is functioning properly, and it depends on whether the
+lights are on, and . . .. These qualiﬁcations do not foreseeably come to an end. If we try
+to build in the appropriate hedges (“If you walk into the room, and you have your eyes
+open, and your sensory apparatus is functioning, . . .”), more qualiﬁcations crop up:
+Are you walking forward rather than backing into the room? Has something been
+interposed between you and the chair? Has the chair been camouﬂaged? Has it been
+rendered invisible by Martians? Has your brain been altered by a freakish burst of
+Q-radiation from the sky? We can go on like this for days.
+The moral is that what we take to be “the” veriﬁcation condition for a given
+empirical statement presupposes a massive background of default auxiliary assumptions. Those assumptions are usually perfectly reasonable, and it is no accident that
+we make them. But a particular “veriﬁcation condition” is associated with a given
+sentence only if we choose to rely on such assumptions, almost any of which may
+fail. Intrinsically, the sentence has no determinate veriﬁcation condition.
+That is (to say the least) an embarrassment for a theory that identiﬁes a
+sentence’s meaning with that sentence’s veriﬁcation condition. But as we shall
+now see, the matter does not quite end here.
+
+

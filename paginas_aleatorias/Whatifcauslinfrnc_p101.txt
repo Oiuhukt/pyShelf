@@ -1,0 +1,54 @@
+92
+
+Confounding
+
+Fine Point 7.3
+Surrogate confounders. Under the causal DAG in Figure 7.8, there is confounding for the eﬀect of  on  because
+of the presence of the unmeasured common cause  . The measured variable  is a proxy or surrogate for  . For
+example, the unmeasured variable socioeconomic status  may confound the eﬀect of physical activity  on the risk
+of cardiovascular disease  . Income  is a surrogate for the often ill-defined variable socioeconomic status. Should
+we adjust for the variable ? On the one hand, it can be said that  is not a confounder because it does not lie on
+a backdoor path between  and  . On the other hand, adjusting for the measured , which is associated with the
+unmeasured  , may indirectly adjust for some of the confounding caused by  . In the extreme, if  were perfectly
+correlated with  then it would make no diﬀerence whether one conditions on  or on  . Indeed if  is binary and is
+a nondiﬀerentially missclassified (see Chapter 9) version of  , conditioning on  will result in a partial blockage of the
+backdoor path  ←  →  under some weak conditions (Greenland 1980, Ogburn and VanderWeele 2012). Therefore
+we will typically prefer to adjust, rather than not to adjust, for .
+We refer to variables that can be used to reduce confounding bias even though they are not on a backdoor path (and
+so could never completely eliminate confounding) as surrogate confounders. A possible strategy to fight confounding is
+to measure as many surrogate confounders as possible and adjust for all of them. See Chapter 18 for discussion.
+
+VanderWeele and Shpitser (2013)
+also proposed a formal definition of
+confounder.
+
+those so-called confounders. If the adjusted and unadjusted estimates differ, the traditional approach declares the existence of confounding. However,
+change in estimates may occur for reasons other than confounding, including
+selection bias when adjusting for non-confounders (see Chapter 8) and the use
+of noncollapsible eﬀect measures (see Fine Point 4.3). Attempts to define confounding based on change in estimates have been long abandoned because of
+these problems.
+In contrast, a structural approach starts by explicitly identifying the sources
+of confounding–the common causes of treatment and outcome that, were they
+all measured, would be suﬃcient to adjust for confounding–and then identifies
+a suﬃcient set of adjustment variables.
+The structural approach makes clear that including a particular variable
+in a suﬃcient set depends on the variables already included in the set. For
+example, in Figures 7.2 and 7.3 the set of variables  is needed to block a
+backdoor path because the set of variables  is not measured. We could then
+say that the variables in  are confounders. However, if the variables  had
+been measured and used to block the backdoor path, then the variables 
+would not be confounders given  (see also Fine Point 7.3). Given a causal
+DAG, confounding is an absolute concept whereas confounder is a relative one.
+A structural approach to confounding emphasizes that causal inference from
+observational data requires a priori causal knowledge. This causal knowledge
+is summarized in a causal DAG that encodes the researchers’ beliefs or assumptions about the causal network. Of course, there is no guarantee that the
+researchers’ causal DAG is correct and thus it is possible that, contrary to the
+researchers’ beliefs, their chosen set of adjustment variables fails to eliminate
+confounding or introduces selection bias. However, the structural approach
+to confounding has two important advantages. First, it prevents inconsistencies between beliefs and actions. For example, if you believe Figure 7.4 is the
+true causal diagram–and therefore that there is no confounding for the eﬀect
+of  on  –then you will not adjust for the variable , regardless of what
+non-structural definitions of confounder may say. Second, the researchers’ assumptions about confounding become explicit and therefore can be explicitly
+criticized by other investigators.
+
+

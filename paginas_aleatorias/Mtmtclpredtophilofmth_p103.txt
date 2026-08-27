@@ -1,0 +1,74 @@
+96
+
+4 Zermelian Lists
+
+√
+{0} =
+1
+< √2
+{0, 3} = 1 + 41 < √ 2
+{0, 3, 4} = 1 + 14 + 18 < 2.
+We omit 1 and 2 because they do take us beyond the square root of 2:
+√
+{0, 1} = 2 > √ 2
+{0, 2} = 1 + 21 > 2.
+So A5 is the real number
+1+
+
+1 1
++
+4 8
+
+whose square is 1.890625. The idea is to add any power of 21 that does not give our
+sum a square greater than 2. Skipping ahead:
+A9 = {0, 3, 4, 6, 8}.
+So A9 is the real number
+1+
+
+1
+1
+1 1
++ +
++
+4 8 32 128
+
+whose square is about 1.99957. The limiting value A is the smallest
+√real number that
+2. More briefly,
+surpasses
+all
+the
+entries
+of
+M,
+that
+is,
+all
+the
+rationals
+less
+than
+√
+A = 2.
+Exercise 4.32 What real number is {0, 1, 2, 6, 9, 14, 15, 16, 17, 18, 19}?
+Exercise 4.33 Show that the list of all odd numbers {1, 3, 5, 7, . . .} is the real number
+2
+3 . (If you get stuck, look up some facts about geometric series.)
+As I noted a couple pages back, [ ⇒, ω) (ordered by <) looks like [ 0, ∞) (ordered
+by the usual “less than” relation). Why is this of any interest? Well, first, it tells us
+something about quantity: ω has at least as many parts as there are non-negative
+reals. (It has, in fact, exactly as many parts; but showing that requires a bit more
+argument.) It also tells us something about logical possibility: if our theory of lists is
+consistent, then our concept of a linear continuum is not fundamentally incoherent.
+On a more philosophical note, we have also taken a step toward establishing the
+unity of mathematics. Since theorems about the real numbers can be interpreted as
+theorems about lists, mathematicians who study the reals will, whether they know
+it or not, be helping us see what follows from our theory of lists. The set theoretic
+reductive program of the last century showed that virtually all mathematicians are
+working out the consequences of a single comprehensive theory. So even if you find
+your colleague’s work quite incomprehensible, you can be confident you are laborers
+in the same vineyard.
+Exercise 4.34 What would go haywire if we dropped the qualification “non-cofinite”
+from our definition of the real numbers?
+
+

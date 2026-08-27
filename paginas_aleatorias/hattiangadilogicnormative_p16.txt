@@ -1,0 +1,36 @@
+292 Anandi Hattiangadi
+
+Intuitively, EXP entails that from a contradiction, anything
+follows. Yet, if we understand disbelieving Q to be equivalent
+to believing ∼Q, (Wo–EXP) entails that one way to satisfy (Wo–
+EXP) is to believe P, believe ∼P, and not believe ∼Q, though ∼Q
+is just as much a consequence of P ∧ ∼P as Q.
+3.3 Distributed
+Perhaps distributed norms do better with respect to EXP. For
+instance, consider (Do+) applied to EXP:
+(Do+EXP) (P ∧ ∼P ⊨ Q) → If S ought to believe P, and S ought to
+believe ∼P, then S ought to believe Q.
+
+On the face of it, (Do+EXP) seems more plausible than the previous principles, since it entails that you ought to believe Q
+only if you ought to believe both P and ∼P. And it might be
+argued that there are never circumstances in which you ought
+to both believe P and believe ∼P. As a consequence, acceptance of this normative principle will never commit you to
+accepting that you ought to believe anything whatsoever.
+However, the assumption that there are never circumstances in which you ought to have contradictory beliefs is
+questionable. An obvious way to put pressure on it is by appeal to the Preface Paradox (cf. Steinberger 2016). Suppose
+that Sita has written a book about birds. She has researched it
+very carefully, and has good evidence for each of the statements that she makes in the book. Let P be the conjunction of
+these statements. On evidential grounds, it seems that Sita
+ought to believe P. Yet, Sita is also rightly aware of her own
+fallibility. Since it is a very long book, she has excellent reason
+to think that at least one of the statements in it is false. Indeed, if she has very good evidence of her own fallibility, Sita
+arguably ought to think this; she ought to think that ∼P. In
+such a context, acceptance of (Do+EXP) entails that Sita ought
+to believe everything.
+It might be objected that this is not the correct account of
+the Preface Paradox. Perhaps it will be argued that though
+Sita ought to believe each of the statements in the book, she
+ought not to believe their conjunction. This is certainly one
+prominent response to the paradox (cf. Kyburg 1961). However, the question we are considering here does not concern
+
+

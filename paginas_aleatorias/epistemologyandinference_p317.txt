@@ -1,0 +1,41 @@
+302 / Acceptable Generalizations
+denote random quantities, i.e., functions from objects to real numbers or vectors. If we are going to have a general theory of scientific inference, we must
+therefore either have a way of generating an ideal language (not very likely) or a
+way of choosing between alternative languages in the case in which we have
+alternatives to choose between (rather more realistic).
+
+4. UNIVERSAL GENERALIZATIONS
+So far we have in our rational corpus of practical certainties some statistical
+hypotheses, e.g., that between 0.49 and 0.51 of coin tosses result in heads; that
+the distribution of readings of the weight of this object is normal with a mean
+between V— 2.6d and V + 2.6d (i.e, the weight of the object lies between these
+limits); that the mature weight of species X of frogs is normally distributed with
+a mean between mi and ra2 and a standard deviation between d1 and J 2 Now let us consider how these statements are used. According to my notion
+of probability, such statements are ingredients in probability assertions. If we
+know that between 40% and 60% of A's are B's—that is, if the corresponding
+statement is a member of our set of practical certainties—and if x is a random
+member of A with respect to B, relative to what we know, then the probability
+that x will be a B is the interval (0.4, 0.6). Suppose, as is not unreasonable, that
+what we know is that between 0.99 and 1.0 of the ^4's are B's, and that we know
+this at a level of practical certainty of 0.99. Then if x is a random member of
+A with respect to B, the probability that it will be a B is (0.99, 1.0). This is
+perfectly adequate grounds simply to accept that x is B in any lower level
+rational corpus.
+Now suppose that for any term x in the whole language, if "x G A" is added
+to our rational corpus, then either: (1) x is a random member of A with respect
+to B, relative to that possibly enlarged rational corpus, or (2) it is known already
+in that rational corpus that x is a member of B. If this is so, then for any term x,
+if "x is a member of A" is in our rational corpus, "x is a member of B" will be
+in the rational corpus of any lower level. This is tantamount to either: (1) accepting in the rational corpus of practical certainties, the generalization, "All
+^4's are B's," or (2) adopting as a material rule of inference (a Sellarsian P-rule)
+for getting from statements in the set of practical certainties to statements in
+any body of beliefs of lower level: From "x is A," infer "x is B."
+It looks as though we are well on our way to a classical reconstruction of
+scientific inference: we have shown how, in effect at least, a universal generalization can come to be accepted on the basis of enumerative evidence. I used to be
+more or less persuaded of this, but now I have my doubts. I shall express those
+doubts in a strong form: the situation described in the preceding paragraphs
+never happens.
+We might say it never happens because all synthetic universal generalizations
+are false; but this would be a misleading way of putting the matter. A more
+
+

@@ -1,0 +1,96 @@
+LANGUAGE,VOLUME39, NUMBER 2 (1963)
+
+198
+
+choose the sentence The man hits the colorful ball under the derivation given
+
+in Fig. 8.
+The projectionrule componentreceives this sentence and its derivation as
+input after (I) has operated. (See Fig. 9) The first step for the projectionrule
+componentis to amalgamateeach set of paths under each of the grammatical
+markerswhich immediatelydominatesONLYsets of paths, and to associatewith
+the dominatingmarkerthe amalgamso obtained.In the case of Fig. 9, the first
+step is to amalgamateeitherP4 and Ps or P1and P2;the orderis immaterial.
+Let us first take the amalgamationof P4 and P5. The paths comprisingthe
+sets P4 and P5 are as follows.
+P4
+
+1. Colorful-*
+
+Adjective -*
+
+(Color) -* [Abounding in contrast or variety
+
+of bright colors]((Physical Object)v (SocialActivity))
+
+2. Colorful -> Adjective -? (Evaluative) -* [Having distinctive charac-
+
+ter, vividness, or picturesqueness]((Aesthetic Object) v (Social
+Activity))
+P5
+
+1. Ball
+
+-*
+
+Noun
+
+concrete
+
+-+
+
+(Social activity)
+
+-*
+
+(Large)
+
+-?
+
+(As-
+
+sembly) -? [For the purpose of social dancing]
+2. Ball -> Noun concrete -> (Physical Object) -> [Having globular
+
+shape]
+3. Ball -> Noun concrete -> (Physical Object) -> [Solid missile for
+projectionby an engine of war]
+P41is the sense of colorful in The gift came in a colorfulwrapper;P42 is the sense
+in No novel is less colorful than Middlemarch, excepting Silas Marner; P51 is the
+sense of ball in The queen danced at the French ambassador'sball; P42 is the sense
+in Tennis is played with a ball; P53 is the sense in The balls whistle free o'er the
+brightblue sea. It will be noticed that the sense of ball in He plays ball betterthan
+BabeRuthis not representedby a path in P5, though such a path is to be found
+
+in the dictionaryentry for ball. This is becauseball, when it meansthe game, is
+not a concretenoun;the path whichrepresentsthat sense is eliminatedby (I).
+The amalgamationof P4 and P5 is accomplishedby the followingprojection
+rule: (R1)Given two paths of the form: (1) LexicalStringi-* syntactic markers
+of head -* (al) -> (a2) -*... -> (an) -> [1] (set of strings of markers Sl');(2) Lexical
+String2 -* syntactic markers of modifier -> (b1) -+ (b2) ->...-? (bm)-> [2] (set of
+strings of markersQ2), such that there is a substringof of the string of syntactic
+
+or semanticmarkersand crsatisfiesthe conditiong2. Thereis an amalgamof the
+form: Lexical String2 + Lexical String1 -+ dominating node marker -> (ai) ->
+...
+(bm) -* [[2][1]](N), where any (b,) is
+(b2)
+(b1)
+(a2) -+ ... -+ (a")
+null when (laa) (bi = a<)and [[2][1]]is [1]when [2] = [1].2?
++
+
+*
+
+*
+
+>
+
+20 The reason why Q%
+appears in the output of (R1) is that some heads are, in turn, modifiers of other heads; e.g. adjectives are heads for adverbs and also modifiers for nouns:
+(light (red)) ball. In these cases, the conditions in %lwill be required for selection.
+
+This content downloaded from 138.251.14.35 on Fri, 6 Feb 2015 23:06:48 PM
+All use subject to JSTOR Terms and Conditions
+
+

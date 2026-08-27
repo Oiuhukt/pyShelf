@@ -1,0 +1,49 @@
+The Epistemology of Logic
+
+5
+
+was given the dual task of acting both as an instrument for good reasoning and
+as an independent area of philosophy studying these principles:
+[Logic originated as] a science to discriminate between what is true and what
+is false, and to show which reasoning really adheres to the path of valid
+argumentative proof . . . Among the various branches of philosophy, logic has
+two prerogatives: it has both the honour of coming ﬁrst and the distinction of
+serving as an efﬁcacious instrument throughout the whole body. (John of
+Salisbury 1955: II.2–5)
+
+To clarify these roles, philosophers in the later Middle Ages introduced a
+distinction between (i) logica naturalis, the norms of reasoning humans actually
+follow, and (ii) logica artiﬁcialis, the rules laid down by the ﬁeld of logic
+(Hoenen 2010). While logica artiﬁcialis constituted a science (scientia) in its
+own right, with its own distinct subject matter, the laws it produced were
+expected to inform our actual reasoning processes (logica naturalis).2 In other
+words, logic was both a science and an instrument. The question, then, was the
+extent to which the logica artiﬁcialis of the day, the syllogistic, served this
+instrumental role successfully.
+Both Descartes and Bacon famously criticised syllogistic logic for failing to
+be an effective organon. While for Descartes, the forms were at best pedagogical tools for those still honing their intellectual abilities, not useful for the
+already logically clear-minded, for Bacon, the forms were useless in providing
+natural philosophers with the means to make novel discoveries; hence the need
+for a new Organon (Gaukroger 1989).
+Similarly, Locke (1975 [1689]: IV.xvii) criticised the forms for adding little
+to our understanding of whether a particular argument is (in)valid. Rather, they
+are mere codiﬁcations of those arguments we already deem reasonable through
+appreciating the relations between the ideas contained within them. So, if one
+does not ﬁnd the instances of the syllogistic forms reasonable to begin with, the
+forms themselves will have little elucidatory force. Thus, while correct as
+codiﬁcations of these existent acceptable inferences (logic’s role qua science),
+the forms fail to serve logic’s instrumental role.
+Logic’s dual life is also apparent in the work of advocates for logica artiﬁcialis, who defended the science on the basis that it could effectively guide
+reasoning. That artiﬁcial logics are needed to regulate our existing inferential
+standards and avoid unnecessary errors:
+
+2
+
+Calling logic a scientiam in the medieval sense of the term should not be confused with the
+contemporary thesis that logic is akin to the sciences in various regards, known as antiexceptionalism about logic (Martin & Hjortland 2022). Rather, scientiae were simply systematic
+bodies of truths with their own subject matter, derivable from a set of foundational principles.
+
+Downloaded from https://www.cambridge.org/core. IP address: 189.132.150.226, on 10 Oct 2025 at 03:01:36, subject to the Cambridge Core terms
+of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/9781009319881
+
+

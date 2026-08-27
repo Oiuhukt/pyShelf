@@ -1,0 +1,47 @@
+Synthese
+
+(2026) 207:167
+
+Page 19 of 24
+
+167
+
+for these notions did not involve metaphorical thinking, there is a great danger that
+users (and experts) treat them as metaphorical in a more substantial way. For us, the
+possible disadvantages of this kind of lexical shorthand are sufficient reason to steer
+clear of them.
+A critic of our position might concede that we succeed in defending our account
+against the mere language use objection and the lexical shorthand objection to a
+sufficient degree. Yet, they might object to our strategy to capture the source domain
+(the human mind) in philosophical and scientific terms. Instead, they might argue, we
+should be operating with a simpler, folk-psychological understanding of it. According to this potential objection, we impose too strict constraints on the clarity and
+unambiguity of the source domain when the metaphors are actually based on folkpsychological concepts. Call this the folk-psychological concepts objection. Our
+reply to this objection is twofold.
+First, the metaphors at issue, which capture factual chatbot mistakes as hallucinations or bullshit, are frequently used in philosophical and scientific discourses on
+ChatGPT and other chatbots. The question then is why research in philosophy, AI,
+and cognate disciplines should be informed or even guided by metaphors that pick
+out a folk-psychologically conceived source domain. Prima facie, philosophical and
+scientific concepts are more specific, precise, and well-developed than their folkpsychological counterparts. It stands to reason that research in relevant disciplines
+should aim for conceptual clarity and avoid conceptual ambiguity. Consequently,
+operating with folk-psychological concepts is difficult to motivate in scholarly contexts when more precise, theoretically formed and scientifically corroborated concepts are available.
+Second, even where the metaphors at issue are used outside philosophical-scientific discourses and are disseminated through newspaper articles, popular science
+pieces, or progress reports of big tech companies, the folk-psychological concepts
+objection does not succeed. As research in experimental philosophy and philosophy
+of language shows, human agents have different understandings of key folk-psychological concepts such as ‘vision’ (Fischer et al., 2023), ‘pain’ (Coninx et al., 2024;
+Liu, 2023), or ‘lying’ (Wiegmann & Meibauer, 2019). This makes it unlikely that the
+folk has a shared and ubiquitous understanding of other folk-psychological concepts
+such as ‘hallucination’ and ‘bullshitting.’ This lack of a folk-psychological consensus
+about the relevant source domains is exacerbated by empirical evidence suggesting
+that folk-psychological concepts differ substantially across cultures (Henrich et al.,
+2010). Accordingly, the hallucination and bullshitting metaphors fail also when their
+source domains are situated in the context of folk-psychology. The conceptual variability problem still applies, as folk-psychological concepts tend to be as polysemous
+as their philosophical-scientific counterparts.
+
+7 Concluding remarks
+In this paper, we have argued against the use of ‘hallucination’ and ‘bullshitting’
+as terms to describe chatbot mistakes. Using conceptual metaphor theory as a lens,
+we have critically analysed these terms and argued that each metaphor involves at
+
+13
+
+

@@ -1,51 +1,36 @@
-function getScreenSize() {
-    return {
-        width: window.innerWidth,
-        height: window.innerHeight
-    };
-}
+document.addEventListener('DOMContentLoaded', function() {
+    console.log("pyShelf JS iniciado (Vanilla JS)");
 
-function sizeMaster() {
-  var size = getScreenSize();
-  var navbar = $('#navbar-main').height();
-  var footer = $('#footer-main').height();
-  var master = $('#master').height(size.height - navbar - footer);
-}
+    const selectEl = document.getElementById('collection-select');
+    const formEl = document.getElementById('search-form');
+    const inputEl = document.getElementById('search-input');
 
-function getParams() {
-  var url = window.location.href;
-  var params = url.split('?')[1];
-  if (params) {
-    var paramstr = params.split('&');
-    var paramsObj = {};
-    for (var i = 0; i < paramstr.length; i++) {
-      var param = paramstr[i].split('=');
-      paramsObj[param[0]] = param[1];
+    // 1. Redirección al cambiar de colección en el Select
+    if (selectEl) {
+        selectEl.addEventListener('change', function(e) {
+            const val = e.target.value.trim();
+            if (val) {
+                window.location.href = `/collection/${encodeURIComponent(val)}`;
+            } else {
+                window.location.href = '/';
+            }
+        });
     }
-    return paramsObj;
-  }
-  return null;
-}
 
-function localStorePutTest(data) {
-  console.log('localStorePutTest');
-  localStorage.setItem('test', JSON.stringify(data));
-}
+    // 2. Envío del formulario de búsqueda
+    if (formEl) {
+        formEl.addEventListener('submit', function(e) {
+            e.preventDefault();
+            const query = inputEl ? inputEl.value.trim() : '';
+            const collection = selectEl ? selectEl.value.trim() : '';
 
-function localStoreGetTest() {
-  console.log('localStoreGetTest');
-  console.log(localStorage.getItem('test'));
-}
-
-$(document).ready(function() {
-  console.log(getParams());
-  $(".navbar-burger").click(function(){
-    $(".navbar-burger").toggleClass("is-active");
-    $(".navbar-menu").toggleClass("is-active");
-  });
-
-  sizeMaster();
-  $(window).on('resize', function() {
-    sizeMaster();
-  });
-})
+            if (query) {
+                window.location.href = `/api/search?search=${encodeURIComponent(query)}`;
+            } else if (collection) {
+                window.location.href = `/collection/${encodeURIComponent(collection)}`;
+            } else {
+                window.location.href = '/';
+            }
+        });
+    }
+});

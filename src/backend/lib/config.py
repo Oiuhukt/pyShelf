@@ -6,45 +6,10 @@ from loguru import logger
 
 
 class Config:
-    """Main System Configuration.
+    """Main System Configuration."""
 
-    >>> config = Config(root)
-
-    Parameters
-    ----------
-    root : File system root of program
-
-    Attributes
-    ----------
-    root : str() stores root.
-    config_structure : dict() Default Configuration Structure.
-    _fp : str() file pointer to main configuration.
-    _cp : Path() object of configuration file.
-    _data : dict() parsed json of _fp.
-    logger : holds logging configuration from get_logger().
-    book_path : directory pointer to main books folder.
-    TITLE : str() Program title.
-    VERSION : str() Program  version.
-    TITLE : str() Combines TITLE & VERSION.
-    book_shelf : Deprecation TODO: Is this still in use?
-    catalogue_db : str() Database Name.
-    user : str() Database user name.
-    password : str() Database password.
-    db_host : str() Database host.
-    db_port : int() Database port.
-    file_array : list() copy of book_shelf TODO: See book_shelf
-    auto_scan: bool() Do we auto scan on launch?
-    allowed_hosts : list() Allowed host list.
-    db_engine : str() Desired database engine type.
-    db_user : str() Database user name. Duplication Warning.
-    db_pass : str() Database password. Duplication Warning.
-    build_mode : str() Production | Development mode.
-
-    Methods
-    -------
-    get_logger : Setup loguru.
-    open_file : Parse configuration file.
-    """
+    # Variable de clase para asegurar que el Sink del archivo de logs se registre SOLO UNA VEZ
+    _logger_initialized = False
 
     def __init__(self, root):
         """Initialize main configuration options."""
@@ -74,11 +39,12 @@ class Config:
             self._cp = Path.joinpath(root, self._fp)
         except AttributeError:
             self._cp = Path(root, self._fp)
+        
         self._data = self.init_config()
-        try:
-            self.logger
-        except AttributeError:
-            self.logger = self.get_logger()
+        
+        # Inicializa o reutiliza el logger singleton
+        self.logger = self.get_logger()
+
         self.book_path = env.get("BOOKPATH", self._data["BOOKPATH"])
         self.TITLE = env.get("TITLE", self._data["TITLE"])
         self.VERSION = env.get("VERSION", self._data["VERSION"])
@@ -104,17 +70,21 @@ class Config:
         except FileNotFoundError:
             with open(self._fp, 'w') as _config_file:
                 json.dump(self.config_structure, _config_file)
-                _config_file.close()
             return self.open_file()
 
     def get_logger(self):
-        """Instantiate logging system."""
-        _logger = logger
-        _logger.add(PurePath(self.root, 'data', 'pyshelf.log'),
-                    rotation="2 MB",
-                    enqueue=True,
-                    colorize=True)
-        return _logger
+        """Instantiate logging system cleanly without thread leaks."""
+        if not Config._logger_initialized:
+            log_file = PurePath(self.root, 'data', 'pyshelf.log')
+            # enqueue=False previene spawnear hilos en background por cada handler
+            logger.add(
+                log_file,
+                rotation="2 MB",
+                enqueue=False,
+                colorize=True
+            )
+            Config._logger_initialized = True
+        return logger
 
     def open_file(self):
         """Open config.json and reads in configuration options."""

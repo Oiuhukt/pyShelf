@@ -1,0 +1,103 @@
+Variation 4: Learning Conditional Evidence
+
+126
+
+Appendix: Proofs of the Theorems
+Proof of Theorem 4.1: Let the probability distributions p and p0 be represented by Table 4.1 and set p0(E) = k.
+
+H
+
+E
+
+p
+
+p0
+
+T
+T
+F
+F
+
+T
+F
+T
+F
+
+p1
+p2
+p3
+p4
+
+p10
+p20
+p30
+p40
+
+Table 4.1: The probability distributions p and p0 for minimizing an fdivergence.
+The distribution p0 satisfies the following two constraints:
+p10 + p30 = k,
+
+(4.9)
+
+p10 + p20 + p30 + p40 = 1.
+
+(4.10)
+
+Hence, we have to minimize
+4
+
+L =
+
+∑ pi f ( pi0 /pi ) + λ( p10 + p30 − k) + µ p10 + p20 + p30 + p40 − 1 .
+
+
+i =1
+
+To do so, we differentiate by p0k and obtain
+∂L
+= f 0( p10 /p1 ) + λ + µ = 0,
+∂p10
+∂L
+= f 0( p20 /p2 ) + µ = 0,
+∂p20
+
+∂L
+= f 0( p30 /p3 ) + λ + µ = 0,
+∂p30
+∂L
+= f 0( p40 /p4 ) + µ = 0.
+∂p40
+
+These differential equations imply
+
+and
+
+p10 = αp1 ,
+
+p30 = αp3 ,
+
+(4.11)
+
+p20 = βp2 ,
+
+p40 = βp4 .
+
+(4.12)
+
+We insert Equations (4.11) into Equation (4.9) and obtain
+α =
+
+k
+.
+p1 + p3
+
+(4.13)
+
+Next, we insert Equations (4.11), (4.12) and (4.13) into Equation (4.10) and
+obtain
+1− k
+β =
+.
+p2 + p4
+
+

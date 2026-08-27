@@ -1,0 +1,107 @@
+TUGboat, Volume 32 (2011), No. 3
+Towards LATEX coding standards
+Didier Verna
+
+309
+
+- Readability
+- Maintainability
+\relax
+\keepcool
+\takeiteas
+y
+
+Abstract
+
+- Robustness
+- Reliability
+
+Because LATEX is only a macro expansion system, the
+language does not impose any kind of good software
+engineering practice, program structure or coding
+style. Maybe because in the LATEX world, collaboration is not so widespread, the idea of some LATEX
+coding standards is not so pressing as with other
+programming languages. Over the years, however,
+the permanent flow of personal development experiences contributed to shaping our own taste in terms
+of coding style. In this paper, we report on all these
+experiences and describe the programming practices
+that have helped us improve the quality of our code.
+
+1.1
+
+1
+
+If one looks at the rationale behind most coding
+styles, the intended purpose is always to
+
+Introduction
+
+If the notion of coding style is probably almost as
+old as computer science itself, the concern for style
+in general is even older. An interesting starting
+point is the book “The Elements of Style” [16], first
+published in 1918 (the fourth edition appeared in
+1999). This book is a style guide for writing American English and has been a source of inspiration for
+similar books in computer science later on. It is interesting to mention the fact that this book has been
+virulently criticized since its very first publication.
+Although generally considered as a reference book,
+the authors were also accused of being condescending
+in tone and of having only a very partial view on
+what proper American English should be. This is
+already a strong indication that talking about style,
+whether in natural of programming languages, can
+be quite controversial. Indeed, a style, in large part,
+is a matter of personal taste before anything else.
+Consequently, what is considered to be good style by
+one person can legitimately be viewed as bad style
+by another person.
+The first book on style in programming languages was published in 1974 (a second edition appeared in 1978) and was entitled “The Elements of
+Programming Style” [8], as an explicit reference to
+its aforementioned predecessor. Although this book
+was not dedicated to one programming language in
+particular, it was still largely influenced by the few of
+that time. Since then, numerous books on programming style appeared, many of them focusing on one
+specific language, and being entitled “The Elements
+of XXX Programming Style” to follow the tradition.
+This includes recent languages such as C#.
+
+- Portability
+- Extensibility
+- Intercession
+
+Figure 1: The coding standards many-festos
+
+The coding standards many-festos
+
+help programmers read and understand
+source code, not only their own, but that of
+others.
+An interesting paragraph from the introductory section of the GNU Coding Standards [15] reads as
+follows:
+Their purpose is to make the GNU system
+clean, consistent, and easy to install. This
+document can also be read as a guide
+to writing portable, robust and reliable
+programs.
+From these widely accepted views on the notion of
+coding style, we can draw three different points of
+view on the subject, as depicted in figure 1.
+Human From the human point of view, using a
+proper coding style helps to improve the readability
+of source code, and as a corollary, its maintainability.
+Software From the software point of view, using
+a proper coding style helps to make the program
+more robust and reliable. Note that there is a subtle
+but important difference between robustness and
+reliability. Reliability means that the program should
+do what it is expected to do. Robustness means that
+the program should handle unexpected situations as
+gracefully as possible.
+Man-in-the-middle Third and last, the intermediate point of view is at the interface between humans and programs (note the plural). In this regard,
+the GNU Coding Standards mention the question of
+portability. This is essentially due to the fact that
+the GNU project mostly deals with C code, for which
+portability is indeed an important problem. This,
+Towards LATEX coding standards
+
+

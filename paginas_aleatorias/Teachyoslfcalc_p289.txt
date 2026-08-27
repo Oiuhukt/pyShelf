@@ -1,0 +1,66 @@
+y
+P Q
+
+R
+
+S
+
+T U
+
+V
+
+............
+O
+
+A B C D E F
+
+G x
+
+Figure 16.1
+
+Example 16.2.1
+Use the trapezoidal rule with ten strips to find an approximation to
+the integral ∫
+
+1
+dx
+1 + x2
+
+1
+
+0
+
+Divide the interval from 0 to 1 into ten equal divisions each of 0.1.
+Then the lengths of the ordinates will be y0, y1, … , y10 and these
+values give the following table, where all the figures are obtained
+using a calculator and given correct to five decimal places.
+First and last
+y0 = 1.000 00
+y10 = 0.500 00
+
+Sum = 1.500 00
+
+Other ordinates
+y1 = 0.990 10
+y2 = 0.961 54
+y3 = 0.917 43
+y4 = 0.862 07
+y5 = 0.800 00
+y6 = 0.735 29
+y7 = 0.671 14
+y8 = 0.609 76
+y9 = 0.552 49
+  Sum = 7.099 81
+
+Then, using the trapezoidal rule, the area is approximately:
+
+ 1.500 00 + 2 × 7.099 81
+0.1
+ = 0.784 98
+2
+
+
+
+278
+
+

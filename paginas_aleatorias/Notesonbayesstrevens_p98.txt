@@ -1,0 +1,26 @@
+one disanalogy, however: whereas all disciples of deductive logic will reach
+the same deductive conclusions given the same evidence (insofar as any deductive conclusion can be drawn at all), Bayesians will not reach the same
+inductive conclusions given the same evidence. It seems reasonable to say
+that all deductive reasoners share the same deductive commitments; by contrast, as we have seen, even by Howson’s own lights, not all Bayesians share
+the same inductive commitments.
+Howson’s reply is that your priors, and thus all the inductive commitments implicit in your priors, should be considered on a par with the premises in a deductive argument. Then all Bayesians will reach the same conclusions given the same premises, because the premises will include the inductive commitments. (The “premises”, on this view of things, extend far
+beyond what we have been calling the evidence.)
+This is, I suggest, tendentious. Certainly, it seems reasonable to equate
+some aspects of the priors with the premises of a deductive argument—
+perhaps, for example, the ratio of my probability for All ravens are black
+to that for 50% of ravens are black. But other aspects of the priors—I am
+thinking, of course, of those aspects that bear directly on a reasoner’s inductive commitments—seem to have no parallel in deductive logic’s premises.
+An example, I think, would be the ratio of my probability for All ravens are
+black to that for All ravens observed before the year 3000 are black, the rest
+white.
+Howson, no doubt, would point to the similarity between these two examples as a reason to think my distinction invidious. But in making use of
+the notion of an inductive commitment, he himself acknowledges that the
+ratio in the second example gets at something inductively deeper than that
+in the first—something that belongs to the subject matter of inductive logic
+itself, and that is therefore more than a mere premise.
+In summary, the arguments of the radical personalists, though they do
+convey some insights into the nature of bct, do not—and really, could not—
+
+98
+
+

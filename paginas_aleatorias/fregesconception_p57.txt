@@ -1,0 +1,42 @@
+F r e g e ’s C o n c e p t i o n o f L o g i c
+
+40
+
+out of, or otherwise essentially linked to, two lines and the relation of parallelness, and (dir) as expressing a content similarly tied to two quite different
+objects, directions, and the relation of identity.33 One might further be inclined
+on this basis to suppose either (1) that the sentences express different contents, or (2) that the superficial grammatical structure of at least one of them
+is, after all, misleading. Frege’s view is the perhaps-startling one that the
+superficial syntactic structure is in both cases a reliable guide to the composition of the content expressed and that the two sentences express the same
+content. The content is just, on this view, decomposable in a variety of ways.
+As Frege puts it:
+The judgment “line a is parallel to line b,” or, using symbols,
+
+a//b
+can be taken as an identity. If we do this, we obtain the concept of direction, and say: “the direction of line a is identical with the direction of
+line b.” Thus we replace the symbol // by the more generic symbol = ,
+through removing what is specific in the content of the former and
+dividing it between a and b. We carve up the content in a way different
+from the original way, and this yields us a new concept. Often, of course,
+we conceive of the matter the other way round, and many authorities
+define parallel lines as lines whose directions are identical. . . . Only the
+trouble is, that this is to reverse the true order of things. For surely
+everything geometrical must be given originally in intuition. But now I
+ask whether anyone has an intuition of the direction of a straight line.
+Of a straight line, certainly, but do we distinguish in our intuition
+between this straight line and something else, its direction? That is
+hardly plausible. The concept of direction is only discovered at all as a
+result of a process of intellectual activity which takes its start from the
+intuition.34
+In short, we first acquire an understanding of the content of sentences of the
+form (par), together with an understanding, given via intuition, of the contents
+of their singular terms and of their relation-term “. . . is parallel to. . . .” We subsequently arrive at an understanding of the more abstract terms of the form
+“the direction of. . . .” via a recognition of the fact that sentences of the form (dir)
+express the same content as do their counterparts of the form (par). Directions
+are recognized, in short, as what parallel lines have in common, and the Fregean
+explanation of this, at least in 1884, is that direction-identity statements share
+content with parallel-line statements.
+This view that contents are multiply decomposable forms an important part of
+Frege’s semantic theory, appearing as early as Begriffsschrift and surviving the
+change to the mature version of that theory. At Begriffsschrift §9, Frege writes:
+
+

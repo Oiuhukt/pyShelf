@@ -1,0 +1,116 @@
+STOIQEIWN hþ.
+
+ELEMENTS BOOK 8
+
+Α
+Β
+
+Γ
+∆
+
+.
+
+A
+B
+
+C
+D
+
+Κύβος γὰρ ἀριθμὸς ὁ Α κύβον ἀριθμὸν τὸν Β μὴ μετρείτω, καὶ τοῦ μὲν Α πλευρὰ ἔστω ὁ Γ, τοῦ δὲ Β ὁ Δ·
+λέγω, ὅτι ὁ Γ τὸν Δ οὐ μετρήσει.
+Εἰ γὰρ μετρεῖ ὁ Γ τὸν Δ, καὶ ὁ Α τὸν Β μετρήσει. οὐ
+μετρεῖ δὲ ὁ Α τὸν Β· οὐδ᾿ ἄρα ὁ Γ τὸν Δ μετρεῖ.
+᾿Αλλὰ δὴ μὴ μετρείτω ὁ Γ τὸν Δ· λέγω, ὅτι οὐδὲ ὁ Α
+τὸν Β μετρήσει.
+Εἰ γὰρ ὁ Α τὸν Β μετρεῖ, καὶ ὁ Γ τὸν Δ μετρήσει. οὐ
+μετρεῖ δὲ ὁ Γ τὸν Δ· οὐδ᾿ ἄρα ὁ Α τὸν Β μετρήσει· ὅπερ
+ἔδει δεῖξαι.
+
+For let the cube number A not measure the cube number B. And let C be the side of A, and D (the side) of B.
+I say that C will not measure D.
+For if C measures D then A will also measure B
+[Prop. 8.15]. And A does not measure B. Thus, C does
+not measure D either.
+And so let C not measure D. I say that A will not
+measure B either.
+For if A measures B then C will also measure D
+[Prop. 8.15]. And C does not measure D. Thus, A will
+not measure B either. (Which is) the very thing it was
+required to show.
+
+ihþ.
+
+Proposition 18
+
+Δύο ὁμοίων ἐπιπέδων ἀριθμῶν εἷς μέσος ἀνάλογόν ἐστιν
+There exists one number in mean proportion to two
+ἀριθμός· καὶ ὁ ἐπίπεδος πρὸς τὸν ἐπίπεδον διπλασίονα λόγον similar plane numbers. And (one) plane (number) has to
+ἔχει ἤπερ ἡ ὁμόλογος πλευρὰ πρὸς τὴν ὁμόλογον πλευράν. the (other) plane (number) a squared† ratio with respect
+to (that) a corresponding side (of the former has) to a
+corresponding side (of the latter).
+
+Α
+Γ
+∆
+
+Β
+Ε
+Ζ
+
+A
+C
+D
+
+Η
+
+B
+E
+F
+
+G
+
+῎Εστωσαν δύο ὅμοιοι ἐπίπεδοι ἀριθμοὶ οἱ Α, Β, καὶ τοῦ
+μὲν Α πλευραὶ ἔστωσαν οἱ Γ, Δ ἀριθμοί, τοῦ δὲ Β οἱ Ε,
+Ζ. καὶ ἐπεὶ ὅμοιοι ἐπίπεδοί εἰσιν οἱ ἀνάλογον ἔχοντες τὰς
+πλευράς, ἔστιν ἄρα ὡς ὁ Γ πρὸς τὸν Δ, οὕτως ὁ Ε πρὸς
+τὸν Ζ. λέγω οὖν, ὅτι τῶν Α, Β εἷς μέσος ἀνάλογόν ἐστιν
+ἀριθμός, καὶ ὁ Α πρὸς τὸν Β διπλασίονα λόγον ἔχει ἤπερ ὁ
+Γ πρὸς τὸν Ε ἢ ὁ Δ πρὸς τὸν Ζ, τουτέστιν ἤπερ ἡ ὁμόλογος
+πλευρὰ πρὸς τὴν ὁμόλογον [πλευράν].
+Καὶ ἐπεί ἐστιν ὡς ὁ Γ πρὸς τὸν Δ, οὕτως ὁ Ε πρὸς τὸν
+Ζ, ἐναλλὰξ ἄρα ἐστὶν ὡς ὁ Γ πρὸς τὸν Ε, ὁ Δ πρὸς τὸν Ζ.
+καὶ ἐπεὶ ἐπίπεδός ἐστιν ὁ Α, πλευραὶ δὲ αὐτοῦ οἱ Γ, Δ, ὁ Δ
+ἄρα τὸν Γ πολλαπλασιάσας τὸν Α πεποίηκεν. διὰ τὰ αὐτὰ
+δὴ καὶ ὁ Ε τὸν Ζ πολλαπλασιάσας τὸν Β πεποίηκεν. ὁ Δ
+δὴ τὸν Ε πολλαπλασιάσας τὸν Η ποιείτω. καὶ ἐπεὶ ὁ Δ τὸν
+μὲν Γ πολλαπλασιάσας τὸν Α πεποίηκεν, τὸν δὲ Ε πολλαπλασιάσας τὸν Η πεποίηκεν, ἔστιν ἄρα ὡς ὁ Γ πρὸς τὸν Ε,
+οὕτως ὁ Α πρὸς τὸν Η. ἀλλ᾿ ὡς ὁ Γ πρὸς τὸν Ε, [οὕτως]
+ὁ Δ πρὸς τὸν Ζ· καὶ ὡς ἄρα ὁ Δ πρὸς τὸν Ζ, οὕτως ὁ Α
+πρὸς τὸν Η. πάλιν, ἐπεὶ ὁ Ε τὸν μὲν Δ πολλαπλασιάσας τὸν
+Η πεποίηκεν, τὸν δὲ Ζ πολλαπλασιάσας τὸν Β πεποίηκεν,
+ἔστιν ἄρα ὡς ὁ Δ πρὸς τὸν Ζ, οὕτως ὁ Η πρὸς τὸν Β.
+ἐδείχθη δὲ καὶ ὡς ὁ Δ πρὸς τὸν Ζ, οὕτως ὁ Α πρὸς τὸν
+
+Let A and B be two similar plane numbers. And let
+the numbers C, D be the sides of A, and E, F (the sides)
+of B. And since similar numbers are those having proportional sides [Def. 7.21], thus as C is to D, so E (is) to
+F . Therefore, I say that there exists one number in mean
+proportion to A and B, and that A has to B a squared
+ratio with respect to that C (has) to E, or D to F —that is
+to say, with respect to (that) a corresponding side (has)
+to a corresponding [side].
+For since as C is to D, so E (is) to F , thus, alternately,
+as C is to E, so D (is) to F [Prop. 7.13]. And since A is
+plane, and C, D its sides, D has thus made A (by) multiplying C. And so, for the same (reasons), E has made
+B (by) multiplying F . So let D make G (by) multiplying
+E. And since D has made A (by) multiplying C, and has
+made G (by) multiplying E, thus as C is to E, so A (is) to
+G [Prop. 7.17]. But as C (is) to E, [so] D (is) to F . And
+thus as D (is) to F , so A (is) to G. Again, since E has
+made G (by) multiplying D, and has made B (by) multiplying F , thus as D is to F , so G (is) to B [Prop. 7.17].
+And it was also shown that as D (is) to F , so A (is) to G.
+And thus as A (is) to G, so G (is) to B. Thus, A, G, B are
+
+244
+
+

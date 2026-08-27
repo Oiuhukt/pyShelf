@@ -1,0 +1,42 @@
+46
+
+Philosophy and Logic
+
+from Γ in DI . We write `I ϕ to indicate that ϕ can be deduced (in DI ) from the
+empty set of premises.
+8.2.1 Heyting Predicate Calculus
+All but one of the rules for our deductive system D for classical first-order logic
+carry over to DI , and there is one new rule. As before, we define the deducibility
+relation by recursion, starting with a rule of assumptions:
+• (As) If ϕ is a member of Γ, then Γ `I ϕ.
+There are two clauses for each connective and quantifier, indicating how to
+“introduce” and “eliminate” sentences in which each indicated symbol is the
+main connective. The glosses and motivations from the first half carry over.
+• (∧I) If Γ1 `I θ and Γ2 `I ψ, then Γ1, Γ2 `I (θ ∧ ψ).
+• (∧E) If Γ `I (θ ∧ ψ), then Γ `I θ; and if Γ `I (θ ∧ ψ), then Γ `I ψ.
+• (∨I) If Γ `I θ, then Γ `I (θ ∨ ψ); if Γ `I ψ, then Γ `I (θ ∨ ψ).
+• (∨E) If Γ1 `I (θ ∨ ψ), Γ2, θ `I ϕ and Γ3, ψ `I ϕ, then Γ1, Γ2, Γ3 `I ϕ.
+• (→I) If Γ, θ `I ψ, then Γ `I (θ → ψ).
+• (→E) If Γ1 `I (θ → ψ) and Γ2 `I θ, then Γ1, Γ2 `I ψ.
+• (¬I) If Γ1, θ `I ψ and Γ2, θ `I ¬ψ, then Γ1, Γ2 `I ¬θ.
+As with classical logic, by (As), we have that {A, ¬A} `I A and {A, ¬A} `I
+¬A. So by (¬I) we have that A `I ¬¬A. Recall that, in the classical case,
+we added a rule of “double-negation elimination” (DNE): if Γ ` ¬¬θ, then
+Γ ` θ. This is the one rule from the classical deductive system D that does
+not carry over. Instead, we add an elimination rule for negation, like the one
+we introduced in Section 4, called ex falso quodlibet or, more colorfully,
+explosion:21
+• (¬E) If Γ1 `I θ and Γ2 `I ¬θ, then for any sentence ψ, Γ1, Γ2 `I ψ.
+Recall that each instance of this rule is derivable in the classical deductive system D, but that the derivation relies on double-negation elimination (DNE),
+which is not valid in DI .
+21
+
+In presentations of intuitionistic logic, it is customary to introduce a sentential constant ⊥, for
+an absurd statement, and to define negation in terms of it: ¬ϕ: ϕ →⊥. We would add an “elimination” rule for ⊥: Γ, ⊥`I ψ. It is straightforward to confirm that the above rule (¬E) follows.
+Of course, the same move would work for classical logic. The next section concerns logical
+systems that demur from (EFQ).
+
+Downloaded from https://www.cambridge.org/core. IP address: 201.141.17.208, on 28 Apr 2022 at 14:59:39, subject to the Cambridge Core terms
+of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/9781108982009
+
+

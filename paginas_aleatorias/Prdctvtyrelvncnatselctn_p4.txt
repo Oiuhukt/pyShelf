@@ -1,0 +1,57 @@
+328
+
+S. Glennan
+
+understood as continuous paths of objects through space-time that can interact when
+they intersect, producing changes in the properties of the objects that constitute
+those processes.
+An important feature of productive causation is its locality. If one event produces
+another event, the events must be either spatiotemporally contiguous, or they must
+be connected by contiguous intermediate events and processes. When the bowling
+bowl knocks down the pin, it comes into direct contact with the pin. When the
+explosion causes Edward’s deafness, it does not do so directly, but via a causal
+intermediate—the propagating blast wave. Relatedly, productivity is transitive. If
+one event produces a second, and the second a third, then the first produces a third.
+A good example of this is sequences of neuron firings, if neuron A’s firing produces
+neuron B’s firing and neuron B’s firing produces neuron C’s firing, we say also that
+neuron A’s firing produces neuron C’s firing.
+While we often speak of one event being the cause of a second, there are many
+productive causes of any event—both because multiple causes may be necessary to
+produce an effect and because any given cause of an effect will have ancestors or
+successors in their causal chains which are themselves causes of the effect.
+Pragmatic considerations determine which causes we care about.
+Let us turn to the second sort of causal relation—that of causal relevance or
+dependence. Causal relevance is a counterfactual relation of dependence between a
+fact f and an event e. A fact f is causally relevant to e iff either
+(1)
+(2)
+(3)
+
+e would not have occurred had it not been the case that f
+e would have been more or less likely had it not been the case that f
+or, in cases where e and f can be represented by quantitative variables,
+the value of e would have been different if the value of f had been different.
+
+Causal relevance, as I have defined it, is closely connected with the sort of causal
+relation discussed in various counterfactual approaches to causation (e.g., Collins
+et al. 2004; Lewis 1973; Woodward 2003). The most notable modification is that
+while most counterfactual theories take the causal relata to be events, I am
+appealing to a relation between a fact and an event.4
+All kinds of facts can be causally relevant to an effect. Let’s consider some of
+them:
+Case 1: f is the fact that an event occurred
+The fact for instance that the bowling ball struck the pin was causally relevant to
+the pin falling down. More generally, events that produce an effect are also
+causally relevant to that event. But the following case shows the converse doesn’t
+hold.
+
+4
+
+I do not think it is necessary for me here to commit to any particular theories about the nature either of
+facts or events. The main reason for distinguishing between them is that there are a lot more facts than
+there are events—as the examples I discuss will show. For more on the nature of events, facts and other
+possible candidates for causal relata see Schaffer 2003.
+
+123
+
+

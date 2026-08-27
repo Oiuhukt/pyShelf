@@ -1,0 +1,105 @@
+9.3. China is a big country, and it has bamboos in it. This is
+reflected in their methods for measuring the heavens. As
+Chen Zi says, “16,000 li to the south at the summer solstice, and 135,000 li to the south at the winter solstice, if
+one sets up a post at noon it casts no shadow. This single
+[fact is the basis of] the numbers of the Way of Heaven.”
+(From The book of Chen Zi, in the Mathematical Classics
+of the Zhou Gnomon, compiled around the first century
+BCE.)
+
+(a) Draw a picture of this and use it to find a formula
+for the radius of the earth in terms of measurable
+quantities.
+Al-Biruni did indeed carry this out:
+“When I happened to be living in the fort of Nandana
+in the land of India, I observed from an adjacent high
+mountain standing west from the fort, a large plain lying south of the mountain. It occurred to me that I
+should examine this method there. So, from the top of
+the mountain, I made an empirical measurement of the
+contact between the earth and the blue sky. I found that
+the line of sight had dropped below the reference line
+by the amount 0;34◦ . Then I measured the perpendicular of the mountain and found it to be 652;3,18 cubits,
+where the cubit is a standard of length used in that region for measuring cloth.” Al-Biruni goes on to calculate
+the radius of the earth from this data, which comes out
+as 12,803,337;2,9 cubits.
+
+Chen Zi is referring to the point S’ on the earth’s surface perpendicularly beneath the sun S. Now, standing
+somewhere else, we erect a bamboo tube BB’ so that its
+shadow falls at our feet O.
+(a) Draw a picture of this and use it to find a formula for
+the distance to the sun from the earth, SS’, in terms
+of measurable quantities. (Assume that the earth is
+flat.)
+Now, Chen Zi continues, pick up the bamboo tube you
+used as the post and point it towards the sun. Suppose its
+diameter is just big enough for you to see the whole sun
+through the tube (otherwise go get a longer or shorter
+tube).
+
+These numbers are given in a mixed notation. The integer part (before the semicolon) is given in ordinary decimal notation, while the fractional part (after the semicolon) is given in sexagesimal (base 60) form. Thus, for
+example, 12, 803, 337; 2, 9 = 12803337; 2, 9 = 12803337 +
+9
+2
+60 + 602 .
+
+(b) Draw a picture of this and use it to find a formula
+for the diameter of the sun in terms of measurable
+and known quantities.
+
+(b) Check al-Biruni’s calculation. Note that some discrepancy results from imperfections in the trigonometric tables available to him.
+
+(c) The value for SS’ reported by Chen Zi is 80,000 li.
+Does this seem accurate? (Rather than trying to
+look up how long a li is you can answer this on the
+basis of the information in the quotation above.)
+
+“Cubit” means “forearm,” which makes sense as a unit
+for “measuring cloth.” Although the exact value of a cubit intended by an author is often unclear, one may generally assume it to be about 44 cm.
+
+9.4. While the Chinese thus utilised their benefit of having
+vast land and bamboo sticks at their disposal, the Muslims faced other circumstances in response to which
+they devised other methods. Al-Biruni (Book of the Determination of Coordinates of Localities, c. 1025, chapter
+5) discusses a method for measuring the circumference
+of the earth akin to that of Eratostenes, but does not find
+it feasible:
+
+(c) In terms of metric units, with what accuracy does
+al-Biruni specify the height of the mountain?
+The downside of this method is of course that it requires
+“a high mountain close to the seashore, or close to a large
+level desert.” Thus, coming across such a mountain is an
+opportunity too good to pass up even if you are in the
+middle of a war:
+
+“Who is prepared to help me in this [project]? It requires strong command over a vast tract of land and extreme caution is needed from the dangerous treacheries
+of those spread over it. I once chose for this project
+the localities between Dahistan, in the vicinity of Jurjan
+and the land of the Chuzz (Turks), but the findings were
+not encouraging, and then the patrons who financed the
+project lost interest in it.”
+
+“Abu al-Tayyib Sanad bin ’Ali has narrated that he was in
+the company of al-Ma’mun when he made his campaign
+against the Byzantines, and that on his way he passed by
+a high mountain close to the sea. Then al-Ma’mun summoned him to his presence and ordered him to climb
+that mountain, and to measure at its summit the dip of
+the sun.”
+
+Instead: “Here is another method for the determination
+of the circumference of the earth. It does not require
+walking in deserts.”
+
+(d) However, a mountain next to a vast, completely
+flat land is better than a mountain next to the sea.
+Why? (Hint: how do you determine the height of
+the mountain?)
+
+The method is this. Climb a mountain. Let M be the
+mountain top, E its base, and C the centre of the earth.
+Now look towards the horizon and let H be the point furthest away from you that you can see.
+
+(e) Argue on the basis of figure 14 that geographical
+circumstances were ideal for al-Biruni’s measurements.
+13
+
+

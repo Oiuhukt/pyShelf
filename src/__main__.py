@@ -1,45 +1,46 @@
-#!/usr/bin/env python3
-"""PyShelf Entrypoint."""
+"""pyShelf main entry point."""
 import asyncio
-import sys
-from pathlib import Path
-from threading import Thread
+import os
+import threading
+from contextlib import asynccontextmanager
 from backend.lib.config import Config
 from backend.lib.storage import Storage
-from backend.pyShelf_ScanLibrary import execute_scan
-from frontend.lib.FastAPIServer import FastAPIServer
-# import websockets
+from frontend.lib.FastAPIServer import FastAPIServer, app
 
 
-root = Path.cwd()
-config = Config(root)
-PRG_PATH = Path.cwd().__str__()
-sys.path.insert(0, PRG_PATH)
-
-
-def run_import():
-    """Begin live import of books."""
-    config.logger.info("Begining book import.")
-    execute_scan(PRG_PATH, config=config)
-    config.logger.info("Finished book import.")
-    storage = Storage(config=config)
-    # MakeCollections(PRG_PATH, config=config)
+def run_background_sync(config: Config):
+    """Ejecuta el escaneo y la limpieza en segundo plano para no bloquear el inicio."""
+    config.logger.info("Iniciando escaneo de biblioteca en segundo plano...")
+    storage = Storage(config)
+    storage.auto_discover_books()
+    storage.clean_orphaned_books()
     storage.make_collections()
-    return "Import Complete"
+    config.logger.info("Escaneo en segundo plano completado.")
+
+
+@asynccontextmanager
+async def lifespan(app_instance):
+    """Gestor de ciclo de vida moderno para FastAPI (reemplaza a @app.on_event)."""
+    config = Config(os.path.abspath(os.getcwd()))
+    # Iniciar la sincronización en un hilo secundario
+    threading.Thread(target=run_background_sync, args=(config,), daemon=True).start()
+    yield
+
+
+# Asignar el gestor lifespan a la instancia de FastAPI
+app.router.lifespan_context = lifespan
 
 
 async def main():
-    """Program entrypoint."""
-    Storage(config=config).create_tables()
+    config = Config(os.path.abspath(os.getcwd()))
+    config.logger.info("Inicializando pyShelf...")
     
-    # 1. Ejecutar la importación y generación de portadas de forma directa y bloqueante
-    run_import()
-    
-    # 2. Una vez terminado todo el escaneo y colecciones, iniciar el servidor FastAPI
-    fe_server = FastAPIServer(config)
-    _task = await asyncio.create_task(fe_server.run())
-    return [_task]
+    server = FastAPIServer(config)
+    await server.run()
+
 
 if __name__ == "__main__":
-    asyncio.run(main())
-    sys.exit(0)
+    try:
+        asyncio.run(main())
+    except (KeyboardInterrupt, asyncio.CancelledError):
+        print("\nServidor detenido por el usuario.")

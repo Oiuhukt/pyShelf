@@ -1,0 +1,78 @@
+THE
+
+RELATIVITY
+
+OF THE
+
+WELFARE
+
+CONCEPT
+
+377
+
+consider the influence of past and anticipated income on the evaluation of
+present income.
+
+6
+A
+
+5
+im
+
+q
+
+.
+
+‘
+:
+
+;
+
+The Impact of the Past and the Future on Present Income Evaluation'
+
+In the previous models we stressed the dependency of income standards on
+the concept of an ‘anchor income’, which we defined to be (net) current income.
+Although the empirical results are intuitively plausible and statistically of
+good quality, we have to admit that the choice of current income is a rather
+rough one, dictated by the circumstances. It is well known that income fluctuates
+a great deal even for regular employees, and that apart from these more or
+less random
+
+fluctuations, income over life is not constant but will follow a
+
+first rising and then falling profile, with a maximum somewhere near the age
+of 40—although this obviously depends on the job and schooling of the individual. This relation between income and age is frequently called an earnings
+profile (see Mincer, 1958).
+It follows that we may doubt whether the income level of a specific individual at a specific moment in time is the best operationalization of the anchorincome. Are we not looking for a sort of ‘permanent income’ in the sense of
+Friedman (1957) to use as an anchor? Let us denote that concept by y,. Let us
+assume we know the earning profile of an individual; it is the sequence... y_,,
+
+Yoo Viv Y2 .- - where the moment zero is located at present. Then we assume
+that the permanent income must be a weighted average of the individual’s
+earning profile. For instance, assuming only three periods of interest: the
+past with income y,, the present with income y, and the future with income y,,
+we may define the permanent income concept by taking a weighted average
+of the log-incomes where the weights W,, W,, W,, adding up to one, reflect
+the relative impact of the past, the present, and future expectations on the
+formation of the permanent income concept. More specifically, we assume
+en
+eeaeo
+e
+
+In (y,) = W, In (y,) + W, In (y,) + We In (y¢)
+
+The weight W, may be called the memory weight and W, the anticipation
+weight. It is evident that this concept may be refined by the distinction of
+more than three periods. In fact we may consider time as a continuous variable;
+then the weight distribution is described by a continuous density function over
+the time axis.
+We estimated this weight pattern by explaining the observed income standards
+not by current income alone, as done before, but by a weighted average of
+past, present, and future income levels, where the past and future incomes
+have been calculated by applying the previously estimated earnings profile.
+We specified a specific weight pattern in such a way that it depends also on
+| This section is based on van Praag and van Weeren,
+
+1988.
+
+

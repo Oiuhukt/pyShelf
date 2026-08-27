@@ -1,0 +1,45 @@
+Margins for Error in Context
+
+121
+
+AK ¬(pi → ¬pi−1 ∧ ¬pi ∧ ¬pi+1 ), but not the translation (KME)∗ of (KME),
+that is AK [AK ¬pi → (¬pi−1 ∧ ¬pi ∧ ¬pi+1 )].
+
+5.3.3 Margins actualized
+By showing the correspondence between K relative to CS and AK relative to the
+standard two-dimensional semantics, it may seem we did not gain much. We
+did gain an important insight, however, since the introduction of an actuality
+operator shows that the problematic principles can be given a more articulated
+formulation without giving rise to paradox. In this section, we present another
+formulation of the margin principle using the actuality operator, which we call
+(MEA): like (ME)∗ , (MEA) is logically equivalent to (ME) with respect to the
+standard semantics and to CS; when embedded under the operator K , however,
+(MEA) yields a modiﬁed version of (KME) that comes out valid in the model
+of Figure 2.⁹ For ease of exposition, we only consider the upward version of the
+margin for error principle in order to formulate (MEA):
+(MEA) K ¬pi → A¬pi+1
+(MEA) says that if I know that the pen is not i inches tall, then, it is actually the
+case that the pen is not i + 1 inches tall. Since the actuality operator precedes an
+atomic sentence, (MEA) has the same content as upward (ME). When embedded
+under K , however, the principle is likely to express something different from the
+upward version of (KME), namely:
+(KMEA)
+
+K (K ¬pi → A¬pi+1 )
+
+(KMEA) says that in all my epistemic alternatives, if I know there that pi is false,
+then pi+1 is actually false. Note that (KMEA) is much weaker than (KME)—even
+though, as we just said, (MEA) and (ME) equivalent. The reason is that, with
+(KME), the information ¬pi+1 holds at all our epistemic alternatives in which
+the consequent K ¬pi is satisﬁed. By contrast, in (KMEA) the information ¬pi+1
+is no longer referred to the epistemic alternatives, since the actuality operator
+semantically extracts it from the scope of the operator K . The phenomenon is
+exactly analogous to the fact that, by contrast to an anaphoric pronoun like ‘‘he’’,
+an indexical pronoun like ‘‘I’’ cannot be bound by the attitude-holder when
+embedded under an attitude operator: while ‘‘he’’ in ‘‘John thinks he is right’’
+⁹ To complete the picture, one should also consider the formulation of upward (ME) in which
+both antecedent and consequent are preﬁxed with an actuality operator, namely: AK ¬pi → A¬pi+1 ,
+which we may call (AMEA). We only focus on (MEA), however, because (MEA) and (AMEA), and
+their respective K -preﬁxed versions, are equivalent in the framework of CS.
+
+

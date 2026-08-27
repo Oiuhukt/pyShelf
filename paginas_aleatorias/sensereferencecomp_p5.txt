@@ -1,0 +1,42 @@
+5
+cognitive value of a = a and a = b is generally different because
+a and b may differ in their sense, despite being coreferential.
+However, the theory becomes highly controversial when we
+consider the sense and reference of sentences, which are taken to
+express a thought (in modern terminology, a proposition) and
+refer to a truth value, which, since referents are always objects,
+are seen as the simplest representatives of logical objects. Frege
+is well aware of this counterintuitive aspect of his doctrine, as
+he immediately attempts to justify it by noting that what he
+calls an object can only be properly understood in connection
+to concepts and relations and then attempts to substantiate
+his claim that the reference of a sentence is its truth value by
+remarking that the latter remain unchanged when a part of
+the sentence is replaced by a coreferential expression, that is,
+that sentences with the same truth value are interchangeable
+salva veritate. Later on, in the preface of Grundgesetze,
+Frege remarks that the introduction of truth-values may seem
+strange at first, but adds that the fact that everything becomes
+much simpler and sharper with those objects puts a great
+weight in the balance in favor of his own conception.6 In
+the ideography, concepts and relations are treated as particular
+cases of functions that output truth values and Frege explicitly
+states that an object is anything that is not a function.
+Besides the poor justifications for Frege’s adoption of his
+strange doctrine of truth values, it is disappointing that almost
+no considerations about sense or thoughts can be found in
+Grundgesetze, at least if we assume that the real purpose of
+the distinction between sense and reference is to offer a solution
+to the paradox of identity. Although Frege still seems to have
+a strong conviction that a criterion of identity for senses is of
+fundamental importance, as we can judge from, for instance, a
+December 1906 letter to Husserl, where Frege writes:
+It seems to me that an objective criterion is
+necessary for recognizing a thought again as the
+same, for without it logical analysis is impossible.
+(Frege, 1980, p. 70)
+6
+
+Cf. Grundgesetze I, x.
+
+

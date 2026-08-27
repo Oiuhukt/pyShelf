@@ -1,0 +1,25 @@
+of causation in explanation. Can the unification account explain why explanation so often, perhaps always, seems to follow the direction of causation?
+You might think not: the explanation of a flagpole’s height in terms of the
+length of its shadow seems to cite just as unifying a pattern as the explanation of shadow length in terms of pole height—the very same pattern, in
+fact.
+Kitcher takes up the challenge, arguing that the unification account reproduces the asymmetries in explanation usually put down to something
+causal (Kitcher 1981). On his view, a unifying pattern is an argument pattern. Since arguments have a direction, the pattern in which the pole height
+explains the shadow length is distinguished from the pattern in which the
+length explains the height. The unifying power of each must, therefore, be
+assessed separately. To solve the problem, the correct comparison is not between the unifying power of these two argument patterns, but between the
+unifying power of the pattern that wrongly explains pole height in terms of
+shadow length, and that of the pattern we usually cite to explain the height
+of a flagpole.
+Kitcher calls this latter argument pattern an origin and development pattern, and claims that it is instantiated by, and so subsumes, every account we
+give of the properties of a thing that describes its origin and development,
+as when, for example, we tell the story of the construction and erection of
+the flagpole. The pattern is enormously general, then, and so easily wins the
+right to explain the height of the flagpole. Having argued, in effect, that unificationist explanation tends to proceed in the direction of causation, Kitcher
+then makes the dramatic claim that it is the order of explanation that determines the order of causation: our causal beliefs depend on and reflect our
+explanatory practice.
+The second objection to explanatory unificationism is that it makes explanation an overly global matter. How one phenomenon is to be explained
+depends, according to the unificationist, on what best unifies all the other
+
+15
+
+

@@ -1,0 +1,28 @@
+is a tautology.
+4. The ancient Greeks formulated a basic rule of reasoning for proving
+mathematical statements. Called modus ponens, it says that if you know
+ϕ and you know ϕ ⇒ ψ, then you can conclude ψ.
+(a) Construct a truth table for the logical statement
+[ϕ ∧ (ϕ ⇒ ψ)] ⇒ ψ
+(b) Explain how the truth table you obtain demonstrates that modus
+ponens is a valid rule of inference.
+5. Mod-2 arithmetic has just the two numbers 0 and 1 and follows the usual
+rules of arithmetic together with the additional rule 1 + 1 = 0. (It is the
+arithmetic that takes place in a single bit location in a digital computer.)
+Complete the following table:
+
+6. In the table you obtained in the above exercise, interpret 1 as T and 0 as
+F and view M, N as statements.
+(a) Which of the logical combinators ∧, ∨ corresponds to × ?
+(b) Which logical combinator corresponds to + ?
+(c) Does ¬ correspond to − (minus)?
+7. Repeat the above exercise, but interpret 0 as T and 1 as F. What
+conclusions can you draw?
+8. The following puzzle was introduced by the psychologist Peter Wason
+in 1966, and is one of the most famous subject tests in the psychology of
+reasoning. Most people get it wrong. (So you have been warned!)
+Four cards are placed on the table in front of you. You are told
+(truthfully) that each has a letter printed on one side and a digit on the
+other, but of course you can only see one face of each. What you see is:
+
+

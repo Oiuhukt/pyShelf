@@ -1,0 +1,44 @@
+Imagine there are two people and one cake. Each person is to have a portion of cake, and each
+person wants as much as possible for themselves. Only one person can cut the cake. In this
+situation, the fairest way of dividing the cake is if one person cuts it and the other person chooses
+which of the two slices to have. This way, the person cutting the cake knows that the other
+person will choose the biggest slice. It is therefore in the cutter’s interest to cut the cake in half as
+fairly as possible, to make the two slices as similar as possible. If the person who cuts the cake
+does not know which slice she will get, she will cut the cake fairly. If, on the other hand, she
+knows which slice she will have, she will cut the cake unfairly – she will make her slice bigger.
+A similar idea is behind Rawls’s veil of ignorance. Because they do not know what sort of
+person they will be, the people in the original position will choose principles of justice that
+adjudicate fairly between different sorts of people. If you knew that you were going to be an
+upper-class atheist, you might choose a system of justice whereby upper-class atheists got more
+rights and resources than anyone else. However, if you knew there was a chance you might turn
+out to be a working-class Muslim instead, you might well think that things like rights and wealth
+should not depend on class or religion, and this would be a fairer outcome.
+So, the idea of the veil of ignorance is to deny people knowledge of their particular
+circumstances: knowledge that they might use to bias the principles of justice in their favour. If
+they did that, the principles would not be fair. So, in order to develop fair principles of justice, it
+is necessary that people are ignorant of their particular circumstances.
+However, some more requirements are needed if the original position is really to produce fair
+principles of justice. Think back to the cake example. Imagine if you were cutting the cake, and
+that you knew that your companion were very self-effacing. Although she likes cake very much,
+and would like as much cake as possible if she were on her own, her natural kindness and
+modesty leads her to put herself after others. So, if you cut the cake unevenly, she will take the
+smaller slice. Of course, if you know this, and if you are not troubled by matters of conscience,
+you will not cut the cake fairly. Instead, you will cut the cake into one small slice and one much
+larger slice, knowing she will take the smaller one. If she is asked to cut first, she will also cut
+unfairly, feeling that others are entitled to more than her.
+If fairness is to be maintained in this sort of situation, everyone must be self-interested. That is to
+say, everyone must think only of their own position, and not of the position of others. So, Rawls
+makes this a further condition of the original position: in it, people are self-interested, and they
+are also rational. So, people in the original position calculate and prefer what is best for them.
+This way, the chosen principles will be fair.
+It is very important to note that this does not mean that the principles chosen in the original
+position are based on selfishness and individualism, and that is the role of the veil of ignorance.
+Imagine we were all in a political philosophy lecture and we were asked, there and then, to agree
+on principles of justice to govern the lectures. If we were asked to do so using our self-interested
+rationality, each of us would argue selfishly for the principles that would most benefit us as
+individuals. Women would argue for principles favouring women, tall people would argue for
+principles favouring tall people, and so on. But if we used our self-interested rationality from
+behind the veil of ignorance, we would be forced not to be selfish but actually to think through
+what it would be like to be each and every person in the lecture. Because we do not know
+
+

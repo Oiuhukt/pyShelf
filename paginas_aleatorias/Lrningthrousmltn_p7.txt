@@ -1,0 +1,66 @@
+sara aronowitz & tania lombrozo
+
+Learning Through Simulation
+
+move is insufficient to accomplish our original goal: to explain how
+mental simulation can be used to learn about the world. In the waterpouring problem, the query answered through simulation was which
+glass would in fact spill first, not something about a mental model.
+But the view that simulation answers queries about our mental models could be supplemented to include an additional step: something
+like an inference connecting the internal observation to a proposition
+about the external world. For instance, in the water-pouring case, one
+would first observe that one’s motor model “expects” the wider glass
+to spill first, and then infer based on the reliability of this model that
+the wider glass would in actuality spill first. In other words, learning
+through simulation could be reduced to a form of learning through
+observation (of one’s internal model) followed by an instance of learning through inference (in which this internal observation figures in an
+inference about the external world).
+We think this approach is problematic for several reasons. First, recall that we characterized learning through observation as a transition
+involving a relationship of external evidential support. This relationship would need to be modified to account for how one part of the
+mind could stand in the right (external?) relationship to another for
+this relationship (or a close analog) to obtain. The idea that one part of
+the mind performs a simulation, while another observes it, is uncomfortably homuncular, but perhaps not fatal. Our second worry involves
+the subsequent inferential step. An inference from an internal model
+to the external world would require (perhaps implicit) knowledge
+of what justifies the model’s output. While some commitment concerning the relationship between the model and the world may often
+ground uses of simulation in science (see, e.g., Weisberg, 2013, on the
+role of models in science), it seems too demanding to require this of
+
+most mental simulation. As we elaborate below, it is characteristic of
+learning through simulation that we lack access to such commitments.
+A final worry about this strategy is that it breaks up what looks like
+a single process into a series of fully distinct and epistemically independent steps. Doing so leaves us with the problem of explaining why
+these steps would be taken in sequence, and what relates them to each
+other. In sum, the strategy of reducing simulation to an internal observation followed by an inference seems to stretch our understanding
+of both observation and inference, and to miss what’s epistemically
+distinctive about learning through simulation.
+4. Simulation as Learning through Inference
+An alternative way to approach simulation is to treat it as a form of
+learning through inference. By inference, we’ll cast a wide net to include deductive and inductive reasoning, as well as abductive inference.8 Crucially, ‘inference’ here picks out a cognitive act rather than a
+relation between propositions, following Harman’s (1986) distinction
+between inference and implication. As with the reduction to observation, this reduction would explain how simulation can result in learning by appealing to learning mechanisms that are better understood.
+The project of reducing simulation to inference has several appealing features. First, like inference, simulation seems to rely on no
+external input; inference is the canonical form of learning from what
+you already know. A second promising element is that inference has
+a well-defined formal structure. One might think that what is distinctive about inference is that it involves the sort of process we can write
+down in the form of premises and a conclusion. If there were a parallel
+structure of premises and conclusion hidden in cases of simulation,
+this would be tremendously explanatory of the conditions for success
+and failure when it comes to learning through simulation.9
+
+the role of providing phenomenal evidence as well as what she calls physical evidence (evidence about the way things are). Of these two roles, simulation can play the former, but not the latter. Other views similarly suggest
+that imagination can be a similar process to perception, but directed towards
+different subject matters. For example, Williamson (2016) takes the line that
+imagination gives us access to modal facts.
+
+philosophers’ imprint
+
+8. On some views, abduction includes induction, and on others, the reverse
+may be true.
+9. Norton (1991) argues along similar lines that thought experiments have a
+hidden argumentative structure, and so count as arguments for epistemic
+
+–  7  –
+
+vol. 20, no. 1 (january 2020)
+
+

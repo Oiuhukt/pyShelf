@@ -1,0 +1,46 @@
+ESCAPING
+
+FROM
+
+MODEL
+
+LAND
+
+A 1-in-17.6-million-year event is still somewhat more plausible
+than the ‘twenty-five standard deviation moves, several days in a
+row’ that were noted by David Viniar of Goldman Sachs after the
+financial crisis of 2008. This remark is often quoted with a bit of a
+snigger because almost any useful model would be falsified by these
+observations. When something happens that is vanishingly unlikely,
+usually you do not say, ‘My goodness! How terribly unlucky we
+were.’ Instead, you have to say, ‘Ah! My model was wrong.’
+Unfortunately, things are rarely quite so clear-cut. If you observe
+an event that is not vanishingly unlikely but just somewhat unlikely,
+how do you know what to do? Was the unprecedented British
+Columbia heatwave of 2021 a 1-in-a-1,000-year event, or was it
+instead a sign that the weather and climate models used to understand the range of plausible events were inadequate? Probably a bit
+of both. Say you are an insurer, and you’ve paid an expert consultant
+
+for a flood loss model that gives you a threshold for a 1-in-200-year
+event. You write insurance contracts according to that assumption,
+and the following year a large flood severely affects southern
+Germany, where you have a lot of business. What you do next is
+going to depend on the trust that you have in that model. If you have
+
+a strong prior belief that the model is correct, you write off the loss
+as a ‘rare event’ and continue to insure according to those assumptions. If you only have a weak trust in the model, you fire the consultant and get your information from someone else next year (and
+maybe stay away from flooding hazards).
+Try the same thing a different way: I flip a coin and ask you to tell
+me the probability of it being heads or tails: 50-50, right? It’s heads.
+Now I flip it again. What’s the probability this time? Of course, it is
+still 50-50 — the previous outcomes don’t in any way influence the
+next ones and we are confident that the probability of any individual
+coin flip is always 50-50 regardless of what it was last time. But if I
+keep doing this and keep getting heads, how many will it take before
+you are convinced that the coin is biased? There isn’t a single ‘right’
+answer to that question, because it depends on what you think of me
+and whether you’ve examined the coin. If you trust me and the coin
+came from your own pocket, then probably quite a lot. If Iprovided
+203
+
+

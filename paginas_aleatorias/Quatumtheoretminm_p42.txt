@@ -1,0 +1,33 @@
+1.8. INTERLUDE: COMPLEX NUMBERS
+
+21
+
+The particle has position x and the particle has
+momentum p.
+The particle has position x or the particle has
+momentum p.
+Awkward as they are, both of these propositions have meaning in the English language, and in classical physics as well.
+However, in quantum physics, the ﬁrst of these propositions
+is completely meaningless (not even wrong), and the second
+one means something quite diﬀerent from what you might
+think. It all comes down to a deep logical diﬀerence between
+the classical and quantum concepts of the state of a system.
+Explaining the quantum concept of state will require some
+abstract mathematics, so let’s pause for a brief interlude on
+complex numbers and vector spaces. The need for complex
+quantities will become clear later on, when we study the
+mathematical representation of spin states.
+
+1.8
+
+Mathematical Interlude:
+Complex Numbers
+
+Everyone who has gotten this far in the Theoretical Minimum series knows about complex numbers. Nevertheless, I
+will spend a few lines reminding you of the essentials. Fig.
+1.6 shows some of their basic elements.
+A complex number z is the sum of a real number and an
+imaginary number. We can write it as
+z = x + iy,
+
+

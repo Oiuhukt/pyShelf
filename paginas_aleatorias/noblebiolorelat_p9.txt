@@ -1,0 +1,141 @@
+Downloaded from rsfs.royalsocietypublishing.org on December 10, 2012
+
+Review. Theory of biological relativity
+18 Coen, E. 1999 The art of genes. Oxford, UK: Oxford
+University Press.
+19 Hutter, O. F. & Noble, D. 1960 Rectifying properties of
+heart muscle. Nature 188, 495. (doi:10.1038/188495a0)
+20 Noble, D. 1965 Electrical properties of cardiac muscle
+attributable to inward-going (anomalous) rectiﬁcation.
+J. Cell. Comp. Physiol. 66(Suppl. 2), 127 –136. (doi:10.
+1002/jcp.1030660520)
+21 Noble, D. 1960 Cardiac action and pacemaker potentials
+based on the Hodgkin–Huxley equations. Nature 188,
+495 –497. (doi:10.1038/188495b0)
+22 Noble, D. 1962 A modiﬁcation of the Hodgkin– Huxley
+equations applicable to Purkinje ﬁbre action and pacemaker potentials. J. Physiol. 160, 317– 352.
+23 Bassingthwaighte, J. B., Hunter, P. J. & Noble, D.
+2009 The cardiac physiome: perspectives for the future.
+Exp. Physiol. 94, 597– 605. (doi:10.1113/expphysiol.2008.
+044099)
+24 Noble, D. 2007 From the Hodgkin– Huxley axon to the
+virtual heart. J. Physiol. 580, 15– 22. (doi:10.1113/jphy
+siol.2006.119370)
+25 Hodgkin, A. L. & Huxley, A. F. 1952 A quantitative
+description of membrane current and its application to
+conduction and excitation in nerve. J. Physiol. 117,
+500 –544.
+26 Noble, D., Denyer, J. C., Brown, H. F. & DiFrancesco, D.
+1992 Reciprocal role of the inward currents ib,Na and if
+in controlling and stabilizing pacemaker frequency of
+rabbit sino-atrial node cells. Proc. R. Soc. Lond. B 250,
+199 –207. (doi:10.1098/rspb.1992.0150)
+27 Noble, D. & Noble, S. J. 1984 A model of sino-atrial
+node electrical activity based on a modiﬁcation of the
+DiFrancesco–Noble (1984) equations. Proc. R. Soc. Lond. B
+222, 295 –304. (doi:10.1098/rspb.1984.0065)
+28 Foster, R. & Kreitzman, L. 2004 Rhythms of life. London,
+UK: Proﬁle Books.
+29 Cavalier-Smith, T. 2000 Membrane heredity and early
+choroplast evolution. Trends Plant Sci. 5, 174–182.
+(doi:10.1016/S1360-1385(00)01598-3)
+30 Cavalier-Smith, T. 2004 The membranome and membrane
+heredity in development and evolution. In Organelles,
+genomes and eukaryite phylogeny: an evolutionary synthesis in the age of genomics (eds R. P. Hirt & D. S.
+Horner), pp. 335 –351. Boca Baton, FL: CRC Press.
+31 Dawkins, R. 1976, 2006 The selﬁsh gene. Oxford, UK:
+Oxford University Press.
+32 Bernard, C. 1865 Introduction à l’étude de la médecine
+expérimentale. Paris, France: Bailliere. (Reprinted by
+Flammarion 1984).
+33 Cannon, W. B. 1932 The wisdom of the body. Norton, MA:
+Boston.
+34 Guyton, A. C., Coleman, T. G. & Granger, H. J. 1972
+Circulation: overall regulation. Annu. Rev. Physiol. 34,
+13– 46. (doi:10.1146/annurev.ph.34.030172.000305)
+35 Noble, D. 2008 Genes and causation. Phil. Trans. R. Soc.
+A 366, 3001– 3015. (doi:10.1098/rsta.2008.0086)
+36 Noble, D. 2010 Biophysics and systems biology. Phil.
+Trans. R. Soc. A 368, 1125–1139. (doi:10.1098/rsta.
+2009.0245)
+37 Noble, D. 2011 Differential and integral views of genetics
+in computational systems biology. J. R. Soc. Interface
+Focus 1, 7–15. (doi:10.1098/rsfs.2010.0444)
+38 Noble, D. 2011 Neo-Darwinism, the modern synthesis, and
+selﬁsh genes: are they of use in physiology? J. Physiol. 589,
+1007–1015. (doi:10.1113/jphysiol.2010.201384)
+39 Sonneborn, T. M. 1970 Gene action on development.
+Proc. R. Soc. Lond. B 176, 347 –366. (doi:10.1098/rspb.
+1970.0054)
+
+Interface Focus (2012)
+
+D. Noble
+
+63
+
+40 Sun, Y. H., Chen, S. P., Wang, Y. P., Hu, W. & Zhu, Z. Y.
+2005 Cytoplasmic impact on cross-genus cloned ﬁsh
+derived from transgenic common carp (Cyprinus carpio)
+nuclei and goldﬁsh (Carassius auratus) enucleated eggs.
+Biol. Reprod. 72, 510–515. (doi:10.1095/biolreprod.104.
+031302)
+41 Hillenmeyer, M. E. et al. 2008 The chemical genomic
+portrait of yeast: uncovering a phenotype for all genes.
+Science 320, 362–365. (doi:10.1126/science.1150021)
+42 Kohl, P., Crampin, E., Quinn, T. A. & Noble, D. 2010
+Systems biology: an approach. Clin. Pharmacol. Ther.
+88, 25 –33. (doi:10.1038/clpt.2010.92)
+43 Kohl, P. & Noble, D. 2009 Systems biology and the virtual
+physiological human. Mol. Syst. Biol. 5, 291–296.
+44 Noble, D. 2008 Claude Bernard, the ﬁrst systems biologist,
+and the future of physiology. Exp. Physiol. 93, 16– 26.
+(doi:10.1113/expphysiol.2007.038695)
+45 Niederer, S. A., Ter Keurs, H. E. & Smith, N. P. 2009
+Modelling and measuring electromechanical coupling in
+the rat heart. Exp. Physiol. 94, 529–540. (doi:10.1113/
+expphysiol.2008.045880)
+46 Panﬁlov, A. & Holden, A. V. 1993 Computer simulation of
+re-entry sources in myocardium in two and three dimensions. J. Theor. Biol. 161, 271– 285. (doi:10.1006/jtbi.
+1993.1055)
+47 Panﬁlov, A. & Keener, J. 1993 Re-entry generation in
+anisotropic twisted myocardium. J. Cardiovasc. Electrophysiol. 4, 412– 421. (doi:10.1111/j.1540-8167.1993.
+tb01280.x)
+48 Panﬁlov, A. & Kerkhof, P. 2004 Quantifying ventricular
+ﬁbrillation: in silico research and clinical implications.
+IEEE Trans. Biomed. Eng. 51, 195–196. (doi:10.1109/
+TBME.2003.820608)
+49 Plank, G. et al. 2009 Generation of histo-anatomically
+representative models of the individual heart: tools and
+application. Phil. Trans. R. Soc. A 367, 2257–2292.
+(doi:10.1098/rsta.2009.0056)
+50 Trayanova, N. & Eason, J. 2002 Shock-induced arrhythmogenesis in the myocardium. Chaos 12, 962–972.
+(doi:10.1063/1.1483955)
+51 Trayanova, N., Eason, J. & Aguel, F. 2002 Computer
+simulations of cardiac deﬁbrillation: a look inside the
+heart. Comput. Vis. Sci. 4, 259–270. (doi:10.1007/
+s00791-002-0082-8)
+52 Whiteley, J. P., Bishop, M. J. & Gavaghan, D. J. 2007 Soft
+tissue modelling of cardiac ﬁbres for use in coupled
+mechano-electric simulations. Bull. Math. Biol. 69,
+2199–2225. (doi:10.1007/s11538-007-9213-1)
+53 De Robertis, E. M. 2006 Spemann’s organizer and selfregulation in amphibian embryos. Nat. Rev. Mol. Cell
+Biol. 7, 296– 302. (doi:10.1038/nrm1855)
+54 Sander, K. & Faessler, P. E. 2001 Introducing the
+Spemann-Mangold organizer: experiments and insights
+that generated a key concept in developmental biology.
+Int. J. Dev. Biol. 45, 1 –11.
+55 Spemann, H. & Mangold, H. 1924 Über induktion von
+Embryonalagen durch Implantation Artfremder Organisatoren. Wilhelm Roux’s Arch. Dev. Biol. 100, 599–638.
+56 Anderson, P. W. 1972 More is different. Science 177,
+393–396. (doi:10.1126/science.177.4047.393)
+57 Hunter, P., Smaill, B. H., Smith, N. P., Young, A., Nash,
+M., Nielsen, P. F., Vaughan-Jones, R. D., Omholt, S. &
+Paterson, D. J. In press. The Heart physiome project.
+WIREs Syst. Biol. Med.
+58 Winslow, R., Kimball, A., Varghese, A. & Noble, D. 1993
+Simulating cardiac sinus and atrial network dynamics on
+the connection machine. Physica D Non-linear Phenom.
+64, 281–298. (doi:10.1016/0167-2789(93)90260-8)
+
+

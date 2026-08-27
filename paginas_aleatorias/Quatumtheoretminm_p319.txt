@@ -1,0 +1,26 @@
+298
+
+LECTURE 9. PARTICLE DYNAMICS
+
+ilar to Fig. 9.4. The wave packet will spread out and disintegrate. If, on the other hand, it hits a very smooth potential,
+then it will go through the smooth potential, moving more or
+less according to the classical equations of motion. We don’t
+expect quantum mechanics to reproduce classical mechanics
+in every possible circumstance. We expect it to reproduce
+classical mechanics in circumstances where it should—where
+the particles are heavy, the potentials are smooth, and nothing causes the wave function to disintegrate or scatter.6
+
+
+
+Figure 9.4: Spiky Potential Function. Potential functions
+with sharp peaks tend to cause wave functions to scatter.
+The smaller these features are in relation to the wave packet,
+the more the wave packet will scatter, and the less “classical”
+it will become.
+
+What physical situations lead to “bad potentials” that
+break up the wave function? Suppose a potential has fea6
+
+Not as eloquent as Garrison Keillor’s tagline, but true all the same.
+
+

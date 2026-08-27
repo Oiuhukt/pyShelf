@@ -1,0 +1,39 @@
+3. Alice’s daughter is married.
+Alice is a parent.
+4. Alice’s daughter is married.
+Alice is a grandmother.
+5. Some women pay taxes.
+Some taxpayers are women.
+6. All women pay taxes.
+All taxpayers are women.
+7. Being a mammal.
+Being warm blooded.
+8. Being warm blooded.
+9. Being a mammal.
+Exercise Two
+
+For each claim, rewrite it in terms of necessary and/or sufficient conditions.
+Example: You can’t play football without a ball
+Answer: Having a ball is necessary for playing football.
+1. You must pay if you want to enter.
+2. A cloud chamber is needed to observe subatomic particles.
+3. If something is an electron it is a charged particle.
+4. Your car is only cool if it’s a Honda.
+5. Being a triangle just is being a three-sided, two-dimensional shape.
+Exercise Three
+
+Test for yourself the traditional philosophical assumption that concepts are defined by necessary and sufficient
+conditions. Try to provide necessary and sufficient conditions for the following concepts, and then test these set of
+conditions with potential counterexamples:
+• Spoon
+• Garden
+• Success
+• Health (mental and physical)
+Potential counterexamples to your analysis of these concepts in terms of necessary and sufficient conditions can either
+take the form of:
+i. Cases that the concept should apply to, but which don’t fulfill your necessary and sufficient conditions.
+ii. Cases that the concept should not apply to, but which do fulfill your necessary and sufficient conditions.
+
+LOGIC 53
+
+

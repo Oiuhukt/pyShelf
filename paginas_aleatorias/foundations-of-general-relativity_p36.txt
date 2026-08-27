@@ -1,0 +1,48 @@
+30
+
+Philosophy of Physics
+
+structure the matter dynamics presupposes. Neither is more fundamental than
+the other, in line with the conclusions drawn previously in this subsection.
+The line of inquiry might continue: Isn’t it a coincidence that all matter
+ﬁelds involve the same notions of time, distance, and change? Couldn’t there
+be notions of these bespoke to particular types of matter? I can think of three
+sorts of answers to this second question. The ﬁrst is dismissive:
+1. Is this a coincidence worth an explanation? What was one expecting, after
+all? If this is a coincidence, it is not unique to GR, but applies equally
+to all spacetime theories, relativistic and nonrelativistic. It has been an
+adequate modeling assumption for all of these, and there is no clear evidence
+otherwise. That’s why Newton, in the Scholium to his Principia, makes this
+same assumption.
+One can also well resist on conceptual grounds that this is a coincidence, or that
+it cannot be explained through a kind of theoretical equivalence. The second
+and third answers elaborate on this pair of conceptual responses in particular
+ways.
+2. If in fact there is only one matter ﬁeld, only one representation of time,
+length, and change is needed. Such a uniﬁed ﬁeld theory needn’t have the
+strong ambitions of grand uniﬁed theories in particle physics to have a
+simple Lie group as the gauge group for matter; allowing product gauge
+groups would sufﬁce as long as one could interpret values in this space as
+that of a single material ﬁeld. One could argue that this has already been
+achieved in the Standard Model of particle physics.
+3. Suppose that there were matter ﬁelds with separate notions of time, distance,
+and change, and yet those ﬁelds interacted. If it is possible to rewrite their
+dynamical equations in terms of a single metric (or metric-like) structure –
+representing just one notion of time, distance, and change, perhaps with
+extra spacetime structure – then such a theory with, for example, multiple
+structures representing time would be equivalent with one with a single such
+structure. Some such theories have already been proposed, especially in the
+context of problems in cosmology (e.g., Hossenfelder 2008, Hohmann 2014,
+Petit & d’Agostini 2014). Brans-Dicke theory (Weinstein 1996) and TeVeS
+(Brown 2005, §9.5.2) may also count as examples.17
+These sketches of answers deserve fuller pursuit than I can sustain here. It is
+worth emphasizing nonetheless that the questions to which they respond do
+17
+
+See also Lucas (1973) for an earlier philosophical discussion of the possibility of more than
+one temporal structure.
+
+Downloaded from https://www.cambridge.org/core. IP address: 177.249.162.188, on 23 May 2025 at 04:25:52, subject to the Cambridge Core terms
+of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/9781108954082
+
+

@@ -1,0 +1,33 @@
+Mary Hesse
+adapt to the future. And the learner has the predictor's problem of
+choice of initial probabilities, renewed on each occasion upon which he
+receives new evidence.
+To conclude this brief survey, the best that can be said for a decisiontheoretic formulation of confirmation theory is that it provides a sufficient framework in terms of which any choice-problem and subsequent
+decision could be represented, though possibly at the cost of highly
+implausible assumptions about utilities, initial probabilities, and posterior
+transformations. But clearly in itself this representation is vacuous as a
+method of induction; for unless there are some restrictions upon the
+initial distribution and some grounds for using a Bayes or some other
+posterior transformation rule on that distribution, the effect of evidence
+on the posterior distribution is quite arbitrary. Even if the overall probability distribution is required to be coherent or strictly coherent, that
+is, so long as it satisfies the probability axioms, a long run of black crows,
+for example, might be represented as good evidence for the statistical
+generalization "Most crows are white," if only the probability of this
+generalization was initially high enough or if Bayes's theorem is held to
+be irrelevant to the posterior transformation of probabilities. Rational
+decision procedures are not sufficient to capture any interesting inductive sense of rationality, for which further constraints must be found.
+III. Non-Bayesian Transformations
+The possibilities of assignment of initial probabilities and posterior
+transformations have been left wide open by the arguments of the previous section. The weakest possible response to this situation, which might
+be called pure personalism, is the view that the succession of probability
+distributions over hypotheses held by a believer is a purely physical or
+causal matter of belief-response to stimuli deriving from the evidence.
+If no normative constraints are put upon belief distributions other than
+coherence, this is equivalent to adopting an inductively arbitrary, and
+arbitrarily changing, initial probability distribution as a result of each
+new piece of evidence, and cannot in itself yield inductively or predictively useful beliefs except by accident. No serious inductive logician
+could be a pure personalist in just this sense, and in fact those who have
+emphasized the ultimately physical nature of the effect of evidence on
+66
+
+

@@ -1,0 +1,38 @@
+8.2
+
+Explaining Boyle’s Law
+
+311
+
+tains idealizations, the canonical explanation contains none. A comparison
+of the two explanations will reveal the explanatory role of idealization.
+One conclusion that will be possible at the end of the presentation of the
+canonical explanation, before any particular thesis about the nature of idealization is formulated, is the following: if the distortion of the causal details
+perpetrated by the ideal gas explanation of Boyle’s law were corrected—that
+is, if the distorted description were replaced by a true description of the
+same details—there would be no improvement in the quality of the explanation. In other words, the ideal gas explanation is in no way inferior to its
+veridical counterpart.
+Suppose, then, that your task is to construct the canonical explanation
+of the approximate truth of Boyle’s law. Following the account of regularity explanation developed in chapter seven, you should create a causal
+model that has as its explanatory target a gas’s pressure. More exactly, the
+target will be a certain aspect of the pressure, namely, its having a magnitude related to the gas’s volume by Boyle’s law, that is, a magnitude
+of k/V . Call a gas’s pressure’s conforming to this constraint Boylean behavior.
+A model for any aspect of a gas’s pressure represents the causal process
+by which a given volume of gas in a given container exerts a given force
+on the container walls—the steady bombardment of the walls by the gas’s
+molecules. A complete description of this process for a particular gas would
+have to document the trajectory of every molecule in the gas. The kinetic
+theory of gases allows you to give a statistical description of the process using the Maxwell-Boltzmann distribution that is, for all practical purposes,
+just as good. Take this statistical description of the bombardment mechanism as your starting point. (I will show in part four why the statistical
+description is in fact explanatorily superior to the more complete deterministic description; I will also provide some formal apparatus for constructing
+explicitly probabilistic models.)
+Having found and described the underlying process or mechanism, the
+next step is to prune the mechanism description so that it mentions only
+aspects of the mechanism that make a difference to the explanatory target,
+that is, to Boylean behavior. This is where the kairetic criterion comes into
+its own.
+A full description of a gas in modern kinetic theory accommodates all of
+the causal complications omitted in the ideal gas model: long-range forces,
+collisions, and so on. Include all of these factors in the initial causal model,
+
+

@@ -1,0 +1,37 @@
+Incorporating the Environmentally Sensitive Phenotype into Evolutionary Thinking
+
+91
+
+convincing, as plasticity is “ancestral” (was pres­ent prior to colonization of novel host
+plants) and was expressed as clearly adaptive phenotypes.
+A number of studies offer evidence that plasticity can alter the array of phenotypes
+available to se­lection, and hence have potentially altered the direction of evolution through
+ge­ne­tic accommodation (point [ii] above). We elaborate two examples we find compelling
+that are largely compatible with the hypothesis. The first involves phenotypic plasticity of
+morphology in threespine stickleback—­research that also highlights aspects of evolution
+via ge­ne­tic accommodation (Wund et al. 2008, 2012). Laboratory-­reared oceanic (“ancestral”) stickleback exhibit modest but appropriate patterns of plasticity (figure 5.1) when
+raised in environments simulating ­those at the extremes of a benthic-­limnetic foraging axis
+(Wund et al. 2008, 2012). This ancestral plasticity parallels the evolutionary transitions
+made by benthic and limnetic freshwater ecotypes, transitions that have evolved repeatedly and in­de­pen­dently in derived freshwater populations. This pattern suggests that an
+ancestral “flexible stem” (sensu West-­Eberhard 2003) might have influenced the direction of evolutionary change in the adaptive radiation in freshwater, promoting the environmental match. Further, the patterns of induced phenotypic plasticity in freshwater
+populations (figure 5.1) differ from t­hose in oceanic populations ­under the alternative
+laboratory rearing conditions, demonstrating ge­ne­tic accommodation (Wund et al. 2008;
+Wund 2012). Collectively, t­hese studies suggest both that the direction of evolutionary
+change could have been mediated by plasticity and that ge­ne­tic accommodation has
+occurred.
+A particularly intriguing example of the way in which plasticity could have influenced
+subsequent evolution involves the major evolutionary transition in vertebrates from aquatic
+to terrestrial locomotion. Polypterus senegalus, an extant analogue of the fish likely to
+have given rise to tetrapods, exhibit dif­fer­ent limb development when raised in an aquatic
+environment versus a moist terrestrial environment. In a terrestrial environment, ­these fish
+use their fins differently than in the aquatic environment, and they develop limb anatomical
+characteristics that are similar to t­hose observed in stem tetrapod lineages during the
+Devonian Period (Standen, Du, and Larsson 2014). Thus, plasticity could well have influenced the ultimate shape and function of tetrapod limbs by altering the range of phenotypes,
+and under­lying patterns of gene expression exposed to se­lection in the novel, terrestrial
+environment.
+
+Using Population Genomics to Address the Plasticity Hypothesis
+­There is substantial evidence that adaptive phenotypic plasticity readily evolves (Schlichting and Pigliucci 1998; Pigliucci 2001; DeWitt and Scheiner 2004) and is often a component of adaptive divergence (Torres-­Dowdall et al. 2012; Dayan et al. 2015; Kenkel and Matz
+2016). Additionally, a ­great wealth of studies demonstrate how environmental variation
+
+

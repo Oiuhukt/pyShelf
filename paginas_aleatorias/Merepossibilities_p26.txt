@@ -1,0 +1,30 @@
+ON WHAT THERE ISN'T
+
+7
+
+it is the identification of properties with sets that rules out, for him,
+an actualist account of possible worlds.)
+One final methodological remark before getting down to business: it is common to distinguish between "ontologically serious"
+applications of modal semantics and purely instrumental uses; the
+latter includes mathematical uses (for example, the construction
+of models to show the satisfiability, in a technical sense, of certain
+sets of sentences of a formal language ) and heuristic uses that treat
+possible worlds discourse as "a vivid shorthand for sentences containing modal operators:'? It is often suggested that if we are to take
+possible-worlds semantics to be a theory that contributes to a project of philosophical explanation of modality, then we must specify
+a particular model-the intended model of metaphysical possibility. Jon Barwise and John Perry wrote, in criticizing possibleworlds semantics:
+If the model-theoretic structures of possible worlds semantics, the ones that include a set of all possible worlds,
+are supposed to be a model of something, say superreality, under some correspondence or other, then there
+ought to be one that is an intended or standard model, the
+one that really corresponds to super-reality.s
+I think this contrast is overSimplified. Taking pOSSible-worlds semantics seriously as an explanatory account need not require the
+belief that there is one intended model any more than taking quantification theory, and its semantics, seriously requires the belief
+that the intended interpretation is in terms of a single domain of
+absolutely everything. There is controversy about whether it makes
+sense to quantify over absolutely everything, but whether it does or
+not, I think all should agree that we can take quantification theory
+as more than a mathematical tool or a heuristic device even while
+7 Sider 2002, 280.
+
+8 Barwise and Perry 1985, 120.
+
+

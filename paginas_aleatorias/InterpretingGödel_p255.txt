@@ -1,0 +1,18 @@
+Undecidable problems: a sampler
+
+241
+
+direction, many of these problems could be solved if one could decide
+whether a certain search terminates; for these P, an arbitrary instance of
+P can be encoded as an instance of H. The problems for which both
+reductions are possible are called c.e. complete, and they are all of exactly
+the same diﬃculty with respect to Turing reducibility. For example, an
+algorithm for deciding whether a ﬁnitely presented group is trivial could be
+used to decide whether multivariable polynomial equations have integer
+solutions, and vice versa!
+On the other hand, certain other natural problems are strictly harder
+than the halting problem. One such problem is the generalized Collatz
+problem of Section 10.2; see Kurtz and Simon (2007) and Endrullis et al.
+(2009).
+
+

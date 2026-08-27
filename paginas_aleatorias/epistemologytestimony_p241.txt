@@ -1,0 +1,43 @@
+232
+
+Testimony and Epistemic Autonomy
+
+condition incorporating these two factors, which is normatively both necessary
+and sufﬁcient for deferential acceptance is:
+TDAP 2: One properly accepts that P on the basis of trust in another’s
+testimony that P—her word that P—just if she speaks sincerely, and she is
+epistemically well enough placed with respect to P so that were she to have,
+or make a judgement to form, a conscious belief regarding whether P, her
+belief would almost certainly be knowledge; and she is better epistemically
+placed with respect to P than oneself; and one recognizes all these things to
+be so; and one is not aware of signiﬁcant contrary testimony regarding P.
+TDAP 2 speciﬁes when it is proper to accept another’s testimony that P outright. There will also be situations where neither party is in a position to make a
+knowledgeable judgement as to whether P, but one is better epistemically placed
+than the other. In these cases it will be epistemically rational for the worse-placed
+person to defer to the other’s opinion, while falling short of taking her utterance
+as an expression of knowledge; hence forming only a tentative belief regarding
+P. This is required when, for instance, an informed decision about how to act
+is urgently needed. There may be some topics for which this situation is the
+rule—that is, where knowledge as opposed to more or less well-grounded speculation is very hard to come by.¹⁵ It remains true that one should not accept
+outright another’s testimony that P, unless one reasonably believes her to be so
+placed as to (almost certainly) form knowledgeable belief regarding P. Hence
+TDAP2 is the correct general principle governing the outright acceptance of
+another’s testimony.
+An explanatory comment is needed on the role of the complementary ‘internal’ and ‘external’ components of epistemic propriety in TDAP1 and 2. I have
+formulated TDAP1 and 2 incorporating both internal and external components,
+because I am concerned to describe what happens when things go right, and thus
+how knowledge is spread by means of testimony. Externally, things are going
+right when the testiﬁer speaks from her expertise-generated knowledge, and is
+sincere. But epistemic rationality has a key internal component: it is not rational
+to accept unquestioningly the testimony of an expert who, so far as one knows,
+is no such thing. And, though not all-in epistemically proper, it is subjectively
+rational and epistemically blame-free to accept another’s testimony, when one
+falsely but justiﬁedly believes her to be an expert about the topic, being deceived
+about this through no fault of one’s own. I am against purely exernalist accounts
+of when acceptance of testimony is epistemically proper. These fail to incorporate
+the requirement that the subject maintain epistemic responsibility for her own
+beliefs. In Section 3 I spell out the implications, and means of satisfying, this
+requirement.¹⁶
+We may distinguish between a weak and a strong form of deference to another’s testimony:
+
+

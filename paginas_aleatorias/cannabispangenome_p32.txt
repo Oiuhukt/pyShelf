@@ -1,0 +1,58 @@
+Last updated by author(s): 2025-4-14
+
+Reporting Summary
+Nature Portfolio wishes to improve the reproducibility of the work that we publish. This form provides structure for consistency and transparency
+in reporting. For further information on Nature Portfolio policies, see our Editorial Policies and the Editorial Policy Checklist.
+
+nature portfolio | reporting summary
+
+Corresponding author(s): Ryan Lynch, Todd Michael, Lillian Padgit-Cobb
+
+Statistics
+For all statistical analyses, confirm that the following items are present in the figure legend, table legend, main text, or Methods section.
+n/a Confirmed
+The exact sample size (n) for each experimental group/condition, given as a discrete number and unit of measurement
+A statement on whether measurements were taken from distinct samples or whether the same sample was measured repeatedly
+The statistical test(s) used AND whether they are one- or two-sided
+Only common tests should be described solely by name; describe more complex techniques in the Methods section.
+
+A description of all covariates tested
+A description of any assumptions or corrections, such as tests of normality and adjustment for multiple comparisons
+A full description of the statistical parameters including central tendency (e.g. means) or other basic estimates (e.g. regression coefficient)
+AND variation (e.g. standard deviation) or associated estimates of uncertainty (e.g. confidence intervals)
+For null hypothesis testing, the test statistic (e.g. F, t, r) with confidence intervals, effect sizes, degrees of freedom and P value noted
+Give P values as exact values whenever suitable.
+
+For Bayesian analysis, information on the choice of priors and Markov chain Monte Carlo settings
+For hierarchical and complex designs, identification of the appropriate level for tests and full reporting of outcomes
+Estimates of effect sizes (e.g. Cohen's d, Pearson's r), indicating how they were calculated
+Our web collection on statistics for biologists contains articles on many of the points above.
+
+Software and code
+Policy information about availability of computer code
+Data collection
+
+Sequencing data were recorded as fastq files (see Methods), quantitative phenotypic data was collected manually in fields and greenhouses
+and recorded in Microsoft Excel (v18.85) (see Methods).
+
+Data analysis
+
+Each analysis in our study uses software that is described and referenced in our Methods section. Version information, parameters, and
+settings are also provided to allow for a clear understanding of how each analysis was performed. Scripts and analysis pipelines are available
+at https://github.com/anthony-aylward/CannabisPangenomeShared and https://github.com/padgittl/CannabisPangenomeAnalyses.
+
+3D-DNA pipeline (version 180922), Apptainer (v1.1.8), assembly-stats (v1.0.1), bedops , bedtools , Bcftools , Blastn , Braker (v2.1.6), BUSCO
+(v5.4.3), Cactus (v2.6.7), CD-HIT , diamond (v2.1.4), Dorado (v0.3.4), EDTA (v1.9.6), eggNOG-mapper (v2.0.1), FALCON Unzip (PacBio SMRT
+Tools 9.0), FastTree , fastp , Freebayes , GAPIT (v3), Geneious Basic , genespace (v0.9.3), Hifiasm (v0.16.162), HiCanu (v2.2), HISAT2 (v2.2.1),
+IQ-TREE (v1.6.12), Juicebox (v1.11.086), Juicer (v1.6.2), MAFFT (v7.505), MEGA (v11), Minimap , Minimap2 (v2.24), Minigraph-Cactus ,
+modkit , Nextflow (v24.04.3.5916), nf-core/pangenome (v1.1.2), OrthoFinder (v2.5.4), PanKmer , PGGB , plink , plotsr , R (v4.2.2), RagTag
+(v2.1.0), Salmon (v1.6.0), samtools , snakemake , Sourmash (v4.6.182), syRI , Tandem Repeat Finder (v4.09), TopGO , TranslatorX , Trim
+Galore , TSEBRA , vcfbub , vcftools , vg (v1.61.0)
+April 2023
+
+For manuscripts utilizing custom algorithms or software that are central to the research but not yet described in published literature, software must be made available to editors and
+reviewers. We strongly encourage code deposition in a community repository (e.g. GitHub). See the Nature Portfolio guidelines for submitting code & software for further information.
+
+1
+
+

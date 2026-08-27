@@ -1,0 +1,45 @@
+29
+eb
+B
+
+e*T
+
+e*P
+T
+P
+But the trouble now is that this augmented set of equations won’t have independent
+exogenous terms throughout. In particular, the term e*T won’t be independent of e*P, given
+that in truth T depends causally on P. (The term e*T will in effect need to compensate for
+how P in fact varies in ways that are independent of T.)
+Let us say that a system S of equations with exogenous independence is expandable if, for
+any further variables correlated with those in S, there is a larger system of equations
+covering those further variables that also satisfies exogenous independence and which
+embeds the recursive structure of variables in the original equation set S.
+The equations (27) displaying birth control pills B and thromboses P as independent are not
+so expandable, since any larger set of equations embedding (27) and also covering
+pregnancy P will violate the requirement of exogenous independence.
+Let me now turn to mutually correlated variables in multivariate normal distributions. As I
+said, these allow a multiplicity of differently directed structural equations, not all of which
+can match actual causal structure. In these cases too we can dismiss the causally misleading
+equations on the grounds that they are not expandable. Note here that we can usefully view
+the over-supply of equations with exogenous independence in multivariate normal
+distributions as reflecting the way that the bridge principles sometimes fail to determine a
+unique causal order from a limited set of correlations. Earlier, in section 6, I pointed out
+that, given such underdetermination, a wider set of possible correlations can always suffice
+to fix a unique causal order for the variables at issue. If we now assume that such
+discriminating correlations involving further variables will always exist whenever we have
+mutually correlated variables in multivariate normal distributions, we can infer that only
+one of the original sets of equations over the originally correlated variables will be
+expandable, namely the one whose equational order matches the causal order fixed by the
+discriminating set of correlations. (If some other among the original set of equations were
+expandable, then the exogenous independence in the so-expanded equations would imply
+the existence of correlations that were inconsistent with the wider set of actual correlations
+that together with the bridge principles fix a unique casual order.)
+Let me go a bit more slowly, and unpack this with the help of a concrete illustration.
+Suppose that some correlated X and Y have a bivariate normal distribution. Then both
+(29.1) X = eX
+(29.2) Y = aX + eY
+and
+(30.1) Y = e*Y
+
+

@@ -1,0 +1,46 @@
+76
+
+CHAPTER 9. FUNCTIONS
+
+So a function has an inverse function if and only if the function is a bijection.
+The following theorem gives us a useful tool for working with inverses.
+Theorem 9.5. Let A and B be sets. Let iA and iB be the identity functions on A and B, respectively.
+Suppose f : A → B, g : B → A, and g ◦ f = iA and f ◦ g = iB . Then g = f −1 .
+Proof. This proof is a nice reminder that functions are sets of ordered pairs.
+Let A and B be sets, f : A → B, g : B → A, and g ◦ f = iA and f ◦ g = iB .
+Suppose (b, a) ∈ g (i.e., g(b) = a).
+Then f (g(b)) = iB (b) = b, i.e., f (a) = b. So (a, b) ∈ f and thus (b, a) ∈ f −1 .
+Hence, (b, a) ∈ g implies (b, a) ∈ f −1 .
+Thus, g ⊆ f −1 .
+Now, suppose (b, a) ∈ f −1 .
+Then (a, b) ∈ f , so f (a) = b.
+Then g(b) = g(f (a)) = iA (a) = a. Hence, (b, a) ∈ g.
+Hence, (b, a) ∈ f −1 implies (b, a) ∈ g.
+Thus, f −1 ⊆ g.
+Since g ⊆ f −1 and f −1 ⊆ g, we conclude that g = f −1 .
+■
+Example 9.11. Let a, b ∈ R, with a ̸= 0. Consider the function f : R → R defined by f (x) = ax + b for all
+x ∈ R.
+Let g : R → R be defined by g(x) = a1 (x − b) for all x ∈ R.
+Composing these two functions, we find, for any x ∈ R,
+(g ◦ f )(x) = g(f (x)) = g(ax + b) =
+and
+
+1
+1
+(ax + b − b) = (ax) = x
+a
+a
+
+
+(f ◦ g)(x) = f (g(x)) = a(g(x)) + b = a
+
+
+1
+(x − b) + b = x − b + b = x
+a
+
+Hence, g ◦ f = iR and f ◦ g = iR . Hence, by Theorem 9.5, g = f −1 .
+By Theorem 9.4, we conclude also that f is a bijection.
+
+

@@ -1,0 +1,67 @@
+481
+
+0.0
+
+0.1
+
+0.2
+
+PDF
+
+0.3
+
+0.4
+
+Inequalities and limit theorems
+
+−3
+
+−2
+
+−1
+
+0
+x
+
+1
+
+2
+
+3
+
+FIGURE 10.6
+
+PDFs of Student-t distribution with (light to dark) n = 1, 2, 3, 5, 10 degrees of
+freedom, as well as the standard Normal PDF (black). As n → ∞, the Student-t
+PDFs approach the standard Normal PDF.
+Two limit theorems, the law of large numbers and the central limit theorem, describe the behavior of the sample mean X̄n of i.i.d. X1 , X2 , . . . with mean µ and
+variance σ 2 . The SLLN says that as n → ∞, the sample mean X̄n converges to the
+true mean µ with probability 1. The CLT says that the distribution of X̄n , after
+standardization, converges to the standard Normal distribution:
+
+
+√
+X̄n − µ
+n
+→ N (0, 1).
+σ
+This can be translated into an approximation for the distribution of X̄n :
+·
+
+X̄n ∼ N (µ, σ 2 /n).
+Equivalently, we can say that the distribution of the sum Sn = X1 +· · ·+Xn = nX̄n ,
+after standardization, converges to the standard Normal distribution:
+Sn − nµ
+√
+→ N (0, 1).
+σ n
+Figure 10.7 illustrates the progression from a distribution to i.i.d. r.v.s with that
+distribution, from which a sample mean can be formed and studied as an r.v. in
+its own right. Chebyshev’s inequality, the LLN, and the CLT all give important
+information about the behavior of the sample mean.
+The Chi-Square and Student-t distributions are two important named distributions
+in statistics. The Chi-Square is a special case of the Gamma. The Student-t has a
+bell-shaped PDF with heavier tails than the Normal, and converges to the standard
+Normal as the degrees of freedom increase.
+
+

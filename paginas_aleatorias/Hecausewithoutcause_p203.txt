@@ -1,0 +1,46 @@
+180
+
+180
+
+■
+
+Scientific Explanations by Constraint
+
+Broadly logical truths among the
+subnomic truths
+The laws of statics, including the
+parallelogram of forces
+The above along with the fundamental
+dynamical law, the law of the composition of
+forces, and conservation laws, among others
+—but not the force laws
+All of the laws among the sub-nomic truths
+(Λ)
+
+All subnomic truths?
+
+Figure 4.9 Some (though perhaps not all) plausibly subnomically stable sets (for
+simplicity, only sets arising in this chapter are included)
+
+In elaborating what it would be for the statical laws to be independent of the
+dynamical laws, I have appealed to precisely the sort of counterlegals that (I
+have shown) advocates of the statical explanation frequently invoke. As a further example, consider the French mathematician and physicist Louis Poinsot,
+who offered a statical explanation of the parallelogram law that (like Duchayla’s)
+appeals to the principle of the transmissibility of force. He maintained that the
+laws of statics would still have held even if Newton’s second law had not held: “in
+Statics properly so called it is not necessary to know the actual effect of forces
+upon matter … to ascertain, for instance, if a double force produces upon the
+same body a double velocity, or if the same force applied to a body of double
+the mass produces but half the velocity, &c. [In statics,] whatever the action of
+forces upon bodies may be, be they [the forces] proportional or not to their sensible effects, still the truths which we are about to expound will remain no less
+the same” (1847, 2–​3). The parallelogram law’s invariance under certain counterlegal antecedents is not only the fundamental point in dispute between advocates of the dynamical and statical explanations, but also the main point over
+which defenders of Duchayla’s and Poisson’s explanations disagree. Advocates
+of Poisson’s account hold that contrary to Duchayla’s account, the parallelogram
+law would still have held even if the principle of the transmissibility of force had
+not been true. (Earlier I gave Earnshaw’s appeal to this subjunctive fact.)
+The symmetry metalaw that Poisson’s explanation invokes (that the first-​
+order laws are collectively invariant under rotation) is identical to one of the
+constraints (“spatial isotropy”) in the non-​causal explanation of the coordinate transformations, which I presented in ­chapter 3. It is also identical to one
+of the constraints in the non-​causal explanation of the conservation of angular
+
+

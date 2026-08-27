@@ -1,0 +1,48 @@
+There must be at least 5 students.
+Initially, any student can make assignment 1.
+If a student has made assignment 1 then he can make assignment 2.
+If a student has made assignment 2 then he can make assignment 3.
+If there would be only 1 student then this protocol would be very easy to implement in
+Islander. It would just be a linear graph with 4 nodes and three edges, where each edge
+corresponds to making an assignment.
+With multiple students however, you run into the problem that students may make
+their assignments at different speeds. For example, one student may quickly deliver
+assignments 1 and 2, while another is still busy with assignment 1. This means that at
+any moment each student can be in any of 4 states, and thus the protocol as a whole
+can be in any of 4n different states if there are n students. With as little as 5 students
+drawing the graph would already become practically impossible as it would require the
+designer to draw 45 = 1024 states plus all their edges. The only realistic way to specify
+this protocol would be to use the formal language rather than the graph-representation.
+Another way to implement this protocol in Islander would be to implement it as a
+protocol for only 1 student, and then let n of these protocols run in parallel. In this way
+we again only need to draw a linear graph with 4 nodes and 3 edges. However, this is
+only possible because in this example there is no interdependency between the students’
+actions. If we make the example a bit more complicated, for example by adding a final
+exam that only starts when all students have finished all assignments, this is no longer
+possible.
+Another problem with Islander is that one cannot use universal quantifiers. Even
+in Islander’s formal language one cannot directly state something like “If all students
+have finished their assignments...”. The only way to achieve this is to create a list of
+names of students, make sure that the name of a student is added to this list when he
+or she enters the institution, and make sure that the name of a student is removed from
+this list whenever he or she finishes his or her assignment. Then, whenever you need
+the precondition that all students must have finished their assignments, you can specify
+that this list must be empty. In practice, this turns out to be a tedious job to do all this
+in Islander, making it far from user-friendly.
+
+8
+
+Future Work
+
+We consider that the language as it is, is still too limited to be of real practical use. We
+here list the shortcoming that we consider most important and that we plan to fix in the
+near future, as well as other improvements that we are considering.
+Firstly, we will add the possibility to specify the recipient of a message. Currently
+every message is sent to all other agents in the MAS, which makes it impossible to send
+confidential information. This means we will allow to write sentences such as:
+If the auctioneer has said ‘welcome’ to a buyer then that buyer can say ‘hello’ to
+the auctioneer.
+Secondly, we would like the protocol designer to be able to express that a certain event
+must have taken place a certain number of times. For example:
+
+

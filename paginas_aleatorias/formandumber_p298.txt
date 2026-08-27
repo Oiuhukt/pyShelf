@@ -1,0 +1,84 @@
+re-discovered. Considering that his oath did not forbid him from publishing what he had gleaned from del Ferro’s work, Cardano included
+the solution in his Ars Magna. Tartaglia thought this a betrayal and
+excoriated Cardano publicly and at length.1
+Cardano’s Ars Magna (Great Art) is one of the seminal texts of
+algebra, devoted to cubic and quartic equations. In this book, Cardano wrote that del Ferro’s solution of the equation 𝑥 3 + 𝑐𝑥 = 𝑑 was
+‘a very beautiful and admirable [pulchram & admirabilem] accomplishment’.2 Del Ferro’s technique was to calculate numbers
+3
+
+𝑐 3
+𝑑 2 𝑑
+𝑢 = √√( ) + ( ) + ,
+3
+2
+2
+
+Ch. 8
+
+A Kind of Concord
+
+Girolamo
+Cardano
+
+1 Katz & Parshall, Taming
+the Unknown, pp. 215–19.
+2 Cardanus, Ars Magna,
+ch. I, p. 222; trans. C.
+
+3
+
+𝑐 3
+𝑑 2 𝑑
+𝑣 = √√( ) + ( ) − ;
+3
+2
+2
+
+the solution is then 𝑢 − 𝑣. In essence, this follows because the numbers
+𝑢 and 𝑣 have the properties that 𝑢3 − 𝑣3 = 𝑑 and 𝑢3 𝑣3 = (𝑐/3)3 , and
+so
+(𝑢 − 𝑣)3 + 𝑐(𝑢 − 𝑣) = 𝑢3 + 3𝑢2 𝑣 + 3𝑢𝑣2 + 𝑣3 + 3𝑢𝑣(𝑢 − 𝑣) = 𝑑.
+The modern notation here is very different from what Cardano used,
+and Cardano’s demonstration of the result uses the language of geometry and has recourse to Euclid’s Elements.3 One can speculate that
+Cardano’s perception of beauty here arose from the choice of 𝑢 and 𝑣
+and their very neat interaction with each other and the equation.
+Elsewhere in the Ars Magna, though not in the first edition,4
+Cardano made an aesthetic comparison between two solutions of the
+following example problem:
+‘Find three quantities the first plus the second of which is one
+and one-half times the first and third and the first plus the
+third of which is one and one-half times the second and third.’5
+
+𝑥 + 𝑦 = 1 12 (𝑥 + 𝑧),
+
+(C1)
+
+𝑥 + 𝑧 = 1 12 (𝑦 + 𝑧).
+
+(C2)
+
+Cardano gave two solutions to this, proceeding along slightly different
+lines. Here they are given in abbreviated form using modern notation
+and terminology:
+First solution. Subtract 𝑧 from (C2) to see that
+(C3)
+
+From (C1) and (C3), 𝑥 + 𝑦 = 2 14 𝑦 + 2 14 𝑧; subtract 𝑦 to get
+𝑥 = 1 14 𝑦 + 2 14 𝑧.
+
+4 Cardano, Ars Magna
+(trans.), ch. IX, p. 75, n. 13.
+
+5 Ibid., ch. IX, p. 242.
+
+In modern terminology, this problem asks for a solution to these
+simultaneous equations
+
+𝑥 = 1 12 𝑦 + 12 𝑧.
+
+3 Ibid., ch. XI, pp. 249–50.
+
+(C4)
+260
+
+

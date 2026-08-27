@@ -1,0 +1,59 @@
+Limits
+
+67
+
+Proof. Given two real numbers x : and x 2 such that Xj < x 2,
+let and r2 be two rational numbers such that x 1< r l < r 2 < x 2.
+Then x < x t (x rational) implies ax < a 1, while x > x 2 im­
+plies ax > a 2. It follows that
+aXl = lim ax ^ a 1 < a 2 < lim = a 2,
+x-*x2+
+x eR
+
+xeR
+
+i.e., ax is (strictly) increasing. To verify (2.18) for arbitrary real
+numbers, let {/■„} be a sequence of rational numbers converging
+to x and let {/•'} be a sequence of rational numbers converging
+to x \ Then r„ + r'n -> x + x' as n -> oo, and hence
+aX + X
+
+- lim arn+r'n
+n->ao
+
+lim arnarn = lim ar» lim ar'n = axax'.
+n-*co n-+cd
+
+n-*oo
+
+Remark. If 0 < a < 1, then
+(l/a )x
+
+a'x
+
+where a' = I fa > 1. Therefore the addition theorem continues
+to hold in this case, but ax is now a decreasing function.
+Finally we turn our attention to some limits which will play
+an important role later:
+Theorem 2.23. The sequence {>•„} with general term
+n+1
+yn
+n
+is convergent.
+Proof. First we show that if x ^ —1, then
+(1 + x)m > 1 + mx
+
+( 2. 20)
+
+for all m = 1, 2, ..., a result known as Bernoulli''s inequality.
+In fact, suppose (2.20) holds for m = k, so that
+(1 + x )fc > 1 + k x .
+Multiplying (2.21) by 1 + x ( > 0), we obtain
+(1 + x )fc+1 = (1 + kx) (1 + x) = 1 + (k + 1) x + k x 2
+^1
+
++ (& + !)*>
+
+( 2 . 21)
+
+

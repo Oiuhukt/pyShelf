@@ -1,0 +1,42 @@
+
+
+    
+
+(LSL, §). The signiﬁcance of this semantic diﬀerence between the two
+theories becomes apparent when we switch our attention to the pragmatics
+of their languages. Then we can see that in special relativity the homogeneity of physical space is assumed (its curvature is determined by mathematical laws alone), whereas no such assumption is made in general relativity
+(where empirical data are required to calculate the curvature of space).
+So formal semantic distinctions (here that of an expression being either a
+logical or a descriptive symbol) can mirror further distinctions, but the
+import of these further distinctions and their applicability cannot be
+explained by semantics itself. The epistemological distinction mirrored
+here is to be explained in pragmatics.
+Granting this to be an interesting result, the task is to defend the
+methodology used. Since logico-linguistic frameworks are established conventionally, nothing stops language constructors from adopting not only
+logical truths but also empirical generalisations as transformation rules and
+law-cluster deﬁnitions besides arbitrary deﬁnitions. Including P-rules and
+law-cluster deﬁnitions only requires awareness of the terminological complexities that come with such a move. Extending Carnap’s original model
+in this way does not bring any epistemological commitments not previously incurred; in fact, such extended frameworks for semantical analysis
+continue to focus on logical structure. (Epistemological concerns can be
+addressed with their help but, again, this is done in pragmatics.)
+One consequence is that in such an extended framework we cannot
+equate the truths of all framework principles and derived theorems with
+logical truths or truths following from logical rules and purely conventional deﬁnitions. Such extended frameworks present us with a mix of
+analytic and non-analytic sentences and allow the derivation of either.
+As long as the distinction between logical and non-logical truths is upheld,
+as Carnap claimed (LSL, §), no confusion ensues. Instead it ensures that
+Carnap’s defence of analyticity as L-truth yields a workable apparatus for
+semantical analysis that is applicable, when suitably supplemented, to the
+analysis of scientiﬁc theories. P-rules and law-cluster deﬁnitions can be
+treated as framework principles, but this does not make them ‘analytic’ in
+Carnap’s sense. Carnap did not spell this out, but his ﬁnal position on
+analyticity in the theoretical languages of science is consistent with this.
+
+
+Note that what for Carnap was the analytic component of a scientiﬁc theory was only its so-called
+Carnap sentence, which may be understood as a meaning postulate and its logical consequences.
+Roughly, the Carnap sentence says that if a theory’s Ramsey sentence is true, then so are the theory’s
+pre-Ramseyﬁed sentences which name the theoretical entities the Ramsey sentence had replaced with
+second-order variables (see IPoS, –).
+
+

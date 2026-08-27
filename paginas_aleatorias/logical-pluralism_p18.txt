@@ -1,0 +1,55 @@
+Philosophy and Logic
+
+12
+[Ax3] p → ( p ∨ q)
+[Ax4] q → ( p ∨ q)
+
+To be a bit more careful, these are technically axiom schemata. If we take a
+schema and uniformly replace the occurrences of each sentence letter (p, q, etc.)
+with any formula, then we have an axiom. Any formula that follows the pattern
+of one of the schemata counts as an axiom. For example, here are three different
+formulas that follow the pattern of Ax1: (s ∧ t) → s, (( p ∨ q) ∧ r) → ( p ∨ q),
+( p ∧ (r → q)) → p. If we are working in a Hilbert system that accepts Ax1,
+then we are allowed to write down any of those formulas at any time.
+Classical logic is the most widely taught logic. It is what you will ﬁnd in most
+logic textbooks. The inﬂuence of classical logic on contemporary philosophy
+can be traced back to two philosophical mathematicians, Gottlob Frege (1879)
+and Bertrand Russell (1903). We write ⊢CL for derivability in classical logic.
+This is deﬁned as follows.
+Deﬁnition. (Classical Derivability) p1, p2 . . . ⊢CL q means that, in the Hilbert system for classical logic, it is possible to construct a derivation where
+each premise pi is marked with [Assumption], the other steps of the derivation come from the classical axioms or from MP, and the ﬁnal step is the
+conclusion formula q.
+Since classical logic accepts Ax1–Ax4, we can show that p ∧ q ⊢CL q ∨ r.
+1.
+2.
+3.
+4.
+5.
+
+p∧q
+( p ∧ q) → q
+q
+q → (q ∨ r)
+q∨r
+
+[Assumption]
+[Ax2]
+[MP, 1, 2]
+[Ax3]
+[MP, 3, 4]
+
+There is one premise p∧q, correctly marked with [Assumption]. The other steps
+in the derivation come from classical axioms or from MP. This meets all of the
+requirements for a classical derivation. It shows that the argument is classically
+derivable.
+To give a complete Hilbert system for classical logic we need to ﬁll in more
+axioms. We are not going to worry about completeness, but we will look at a few
+interesting classical axioms involving negation and (embedded) conditionals.
+Deﬁnition. (Classical Axioms for ¬ and →)
+[Ax5] ( p → ( p → q)) → ( p → q)
+[Ax6] ( p → q) → ((q → r) → ( p → r))
+[Ax7] p → (q → p)
+Downloaded from https://www.cambridge.org/core. IP address: 189.132.150.226, on 10 Oct 2025 at 14:15:52, subject to the Cambridge Core terms
+of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/9781009189583
+
+

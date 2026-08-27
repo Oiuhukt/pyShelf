@@ -1,0 +1,34 @@
+151
+
+From Organisms to Machines
+
+such as the mouse. Despite the disappearance of "natural" animals from
+biological laboratories and the temporary disappearance of all higher
+organisms from many molecular biology labs, molecular biologists have
+always maintained that the results of their investigations in model systems must at some point be reconnected with the· processes in "real"
+plants and animals. "Technical difficulties" make this goal problematic,
+however. For example, the time ~nd resources needed to work with
+bacteria and cells is several factors smaller than those needed for animals
+like mice. Furthermore, techniques for obtaining embryonic tissues in the
+earliest stages of mouse development were not available until recently,
+nor were the techniques for unspecific or specific alterations of the
+genome of the mouse. Microinjection, available for a few years, has
+changed this, yet a fundamental difficulty remains: compared with plasmids or cell lines, the mouse is enormously resistant to technical manipulation. It is impossible to implement certain alterations of its genetic
+makeup or other relevant changes without, at the same time, killing the
+animal. Changes in natural cycles of reproduction have deadly consequences, particularly when genes or functions in the initial process of
+embryonic development are involved. If one attempts such manipulations, one cannot create a functi~ning production unit.
+·A second fundamental problem with living animals is establishing a
+correspondence between technical intervention and visible effect. If the
+attempt is made to transfer one allele of a mouse gene into a strain
+carrying a different allele and in the process the resulting mouse is born
+too small or dies soon after birth, it is by no means clear whether this
+occurrence is at all related to the attempted genetic manipulation. The
+problem has to do with the fact that a large number of cellular processes
+and other interactions within a complex organism are unknown, are
+unavailable for direct inspection, and cannot be adequately controlled.
+Moreover, the availability of mouse strains with single defective mutations in their genetic makeup, offering a starting point for controlled,
+technically generated variations of genes, is small.
+. Are mice, then, ·unsuitable production machines for materials and substances that may tell us something about their functional relevance in de'velopmental processes? No, since parts of the mouse can be made to
+furnish such materials, in particular those parts which undergo the least
+
+

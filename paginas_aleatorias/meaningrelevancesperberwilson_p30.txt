@@ -1,0 +1,52 @@
+12
+
+Introduction: pragmatics
+
+Explicature (Sperber and Wilson 1995: 182)
+A proposition communicated by an utterance is an explicature if and only if it is a
+development of a logical form encoded by the utterance.
+
+The process of developing a logical form into a fully propositional form may
+involve not only reference assignment but other types of pragmatic enrichment
+illustrated in (4)-(6). The implicatures of an utterance are all the other propositions that make up the speaker’s meaning:
+Implicature (Sperber and Wilson 1995: 182)
+A proposition communicated by an utterance, but not explicitly, is an implicature.
+
+Thus, Lisa’s meaning in (6b) might include the explicature that she has eaten
+supper on the evening of utterance’ and the implicature that she doesn’t want to
+eat with the Joneses because she’s already had supper that evening.
+Explicatures are recovered by a combination of decoding and inference.
+Different utterances may convey the same explicature in different ways, with
+different proportions of decoding and inference involved. Compare Lisa’s
+answer in (6b) (repeated below) with the three alternative versions in (6c)-(6e):
+(6)
+
+ALAN JONES: Do you want to join us for supper?
+LIisA: No, thanks. I’ve eaten.
+
+tisA: No, thanks. I’ve already eaten supper.
+Lisa: No, thanks. I’ve already eaten tonight.
+Lisa: No, thanks. I’ve already eaten supper tonight.
+ep
+aoge
+
+All four answers communicate not only the same overall meaning but also the
+same explicature and implicatures. If this is not immediately obvious, there is
+a standard test for deciding whether some part of the speaker’s meaning is part
+of the explicit truth-conditional content of the utterance or merely an implicature. The test involves checking whether the item falls within the scope of
+logical operators when embedded into a negative or conditional sentence:
+explicit truth-conditional content falls within the scope of negation and other
+logical operators, while implicatures do not (Carston 2002a: chapter 2.6.3).
+Thus, consider the hypothesis that the explicature of (6b) is simply the trivial
+truth that Lisa has eaten something at some point before the time of utterance,
+and that she is merely implicating that she has eaten that evening. The standard
+embedding test suggests that this hypothesis is false. If Lisa had replied
+‘I haven’t eaten’, she would clearly not have been asserting that she has never
+eaten in her life, but merely denying that she has eaten supper that very evening.
+So in replying ‘I’ve eaten’, Lisa is explicitly communicating that she has eaten
+supper that very evening.
+Although all four answers in (6b)—(6e) convey the same explicature, there is
+a clear sense in which Lisa’s meaning is least explicit in (6b) and most explicit
+in (6e), with (6c) and (6d) falling in between. These differences in degree of
+
+

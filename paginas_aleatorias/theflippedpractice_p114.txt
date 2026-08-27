@@ -1,0 +1,40 @@
+Chapter 7
+
+Designing an Active Learning Environment
+Architecture Within a Flipped Classroom
+for Developing First Year Student Engineers
+Julie McCredden, Carl Reidsema and Lydia Kavanagh
+
+Abstract This case study presents the flipped classroom (FC) as a framework
+for a large first-year fundamental engineering practice course (ENGG1200). The
+aim was to develop student engineers who would leave the course with both the
+required academic knowledge of materials engineering and the practitioner skills
+required to apply this knowledge to real-world practices including design, problem-solving, modelling, and professional skills. Using a design approach and
+drawing on relevant research, a learning environment was constructed whose
+architecture comprised an integrated set of learning components that would
+develop within our students the internal mechanisms required for demonstrating
+these skills. A central component of the learning environment was an authentic open-ended design project that was completed by multidisciplinary teams.
+Implementation of the course using a FC framework allowed contact time with
+students to be used for hands-on workshops that developed and scaffolded many
+of the practitioner skills necessary for the design project. Out-of-class hours were
+used by students for acquiring the necessary academic knowledge required for
+the projects, supported by the online learning environment that included modules
+and quizzes, an organisational tool (the Learning Pathway), reflections, and extensive additional resources. The course design process, the design solution, and the
+evaluation of the course architecture are described in this chapter along with the
+characteristics that enabled the learning goals to be achieved. Evaluation revealed
+two main clusters of associated activities: one around the online learning activities
+
+J. McCredden (*) · C. Reidsema · L. Kavanagh
+University of Queensland, Brisbane, Australia
+e-mail: j.mccredden@uq.edu.au
+C. Reidsema
+e-mail: c.reidsema@uq.edu.au
+L. Kavanagh
+e-mail: l.kavanagh@uq.edu.au
+© Springer Nature Singapore Pte Ltd. 2017
+C. Reidsema et al. (eds.), The Flipped Classroom,
+DOI 10.1007/978-981-10-3413-8_7
+
+97
+
+

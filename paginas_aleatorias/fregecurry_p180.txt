@@ -1,0 +1,78 @@
+Frege: An Introduction
+
+to his
+
+Philosophy
+
+consciousness, the question whether it was the same idea in both would remain
+
+unanswerable ... In any case it is impossible for us as men to compare another
+person’s ideas with our own ([1918 <j], pp. 351-2 (15). See also [1879-91], p. 6 (5) and
+[18926], p. 141 (60)).
+
+On Frege’s own view, communication comes about when the
+speaker grasps a Thought and utters the corresponding sentence.
+
+The utterance is perceived by the hearer, who then associates the
+sentence with a Thought which he grasps. Of course, in order for
+this to
+
+be a case of successful communication, the hearer has to
+
+same Thought with the sentence as the speaker
+associated with it. Somewhat earlier, Frege had written that ‘the
+associate
+
+the
+
+task of our natural language
+
+is
+
+essentially fulfilled provided that
+
+people communicating with each other connect the same Thought,
+or at least a very similar one, with the same sentence’ ([18966], p. 236
+(33)).
+
+The question here is this: is anything being genuinely explained
+by this account of communication? We are told that we are able to
+understand each other because we are able to associate the same
+Thoughts with the same sentences. Yet this account really suffers
+from the difficulty which worries Frege about the account according to which we communicate our ideas to each other. Frege’s claim
+was that the ideas of one man cannot be compared with those of
+another. I cannot communicate my ideas to you because you cannot
+know what my ideas are. But now consider the communication of
+Thoughts. Suppose I grasp a Thought and associate it with a
+sentence which I utter. The hearer picks up the sentence I have
+uttered, but now he must associate it with a Thought which he too
+grasps. Which Thought is he to associate with it? According to
+Frege, in the case of successful communication it is the same
+Thought that is grasped by me. But how is he to know which
+Thought I have grasped? A Thought itself may be an objective
+entity, equally available to all, but my grasping of the Thought is
+not.
+
+It is
+
+an event which takes place in my own consciousness and,
+
+on Frege’s own account, it is not available to anyone but me. So if
+the hearer cannot have access to the contents of my consciousness,
+he also cannot have access to a knowledge of which Thought I
+associate with the sentences that
+utter. In order to explain
+I
+
+intersubjectivity Frege has invoked the causal efficacy of Thoughts,
+
+but now it turns out that they cannot serve their intended purpose
+
+because their interaction with our minds is, on Frege’s
+account, not available for intersubjective comparison.
+
+164
+
+own
+
+

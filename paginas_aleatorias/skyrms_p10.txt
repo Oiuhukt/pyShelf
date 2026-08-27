@@ -1,0 +1,44 @@
+PHYSICAL LAWS AND PHILOSOPHICAL
+
+REDUCTION
+
+lowing sense: The metalanguage defines, in intelligible terms,22 a sense
+of "interpretation of L" "true in an interpretation of L" for the language
+game L. (These definitions cover both intelligible and unintelligible
+sentences of L.) Two sentences are equivalent if they have the same
+truth-value under all interpretations. As an example, let us consider again
+Russell's Theory of Descriptions. The ideal language game which we
+are considering contains formulas of the first-order functional calculus
+with identity (intelligible) together with formulas containing '(t x)',
+'(£!)', etc., in specified ways (unintelligible). Here the sense of interpretation is the standard one for the intelligible part, and the task of
+finding a translation is trivial once the semantics of the prima facie unintelligible part is set up. Neither of these features holds in general for
+translational reductions. Another example of a successful translational
+reduction, for those who don't like Russell's Theory of Descriptions, is
+the reduction of numerical quantifiers (There are at least n; there are
+at most n; there are exactly n; where n is a positive integer) to first-order
+logic with identity.
+The type of translational reduction just discussed is a special case of
+a semantical reduction. In a semantical reduction the metalanguage establishes, in intelligible terms, a semantics for each sentence of the
+language game L. This sort of reduction has a special significance because of its connection with metaphysical questions. If we have an
+intelligible semantics for a sentence, then it makes sense to say that
+sentence is true or false. If we have an intelligible sense of denotation
+for a class of terms, then it makes sense to say that such things exist.
+If we have an intelligible sense of satisfaction for a property or relational
+predicate, then it makes sense to say that the corresponding property or
+relation is real.
+It is of some importance to notice that a semantical reduction may be
+possible where a translational one is not, since metaphysical discussions
+22
+This requirement may seem too strong for certain kinds of translational reduction. For instance the virtual theory of classes establishes translations of a certain
+(small) portion of set theoretical discourse into set-free discourse. If set talk were
+taken as prima facie unintelligible and first-order logic intelligible, this would appear
+to be an acceptable reduction. But the metalanguage would appear to require set
+theory (or something which might be considered just as bad) to accomplish its
+task. Perhaps the best way to look at it is this: Separate the criteria of philosophical
+intelligibility of the object level C0 and the meta-level Czm. Speak of a reduction
+having been achieved from the standpoint m. Speak of a thorough reduction having
+been achieved just when m — o.
+
+505
+
+

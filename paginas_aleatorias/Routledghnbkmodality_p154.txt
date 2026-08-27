@@ -1,0 +1,45 @@
+Modal conventionalism
+
+A.J. Ayer (1936: 31) gives a representative statement of this thought: “I allow [logical and
+mathematical truths] to be necessary and certain only because they are analytic . . . The reason
+why these propositions cannot be confuted in experience is that they do not make any assertion about the empirical world.” But here is a worry about Ayer’s thought. Grant that Ayer has
+given us a conventionalist explanation of the necessity of analytic truths. What is the explanation of the contingency of synthetic truths? Ayer says that analytic truths cannot be confuted in
+experience because they do not make assertions about the empirical world. The presumption
+seems to be that synthetic propositions can be confuted in experience, because they do say
+something about the empirical world. But why does S saying something about the empirical
+world suffice to ensure that S could be confuted in experience? That follows only if we assume
+that our experiences could have been otherwise, so as to confirm a different set of synthetic
+claims. On the face of it, then, this sounds like there is some worldly modality: namely, contingency.That while the necessity of analytic truths is explained by their not saying anything about
+the world, the contingency of synthetic truths is explained by the fact that they do say something about the world, and that our worldly experiences really could have been different. Now,
+it is a perfectly coherent view to say that contingency is a worldly phenomenon, but that necessity is not. The idea being that contingency is the default – the world itself could always have
+been otherwise – and that necessity arises only when truths are somehow exempt from the
+tribunal of worldly experience; as Ayer puts it, by not making an assertion about the empirical
+world. But while this is a consistent position, it is not obviously compatible with the original
+motivations for conventionalism. For just as it is puzzling how the way things are could render
+a truth necessary, so is it puzzling how the way things are could render some falsehood possible.
+Just as we only appear to experience things being the case and not their necessarily being the
+case, so it is that we do not appear to experience something’s merely possibly being the case.
+The motivations that push us in the direction of seeing necessity as a linguistic rather than a
+worldly phenomenon seemingly push us in the direction of seeing all modality as a nonworldly phenomenon.
+Of course, one could attempt to give a conventionalist account of this contingency: we could
+say that the only sense in which synthetic truths could have been confuted in experience – the
+only sense in which our experiences could have been other than they are – is that our linguistic
+conventions don’t rule out our having such alternative experiences. But is this satisfying?
+Contingency has consequences, for our intellectual and practical endeavors. It is not worth
+investigating whether there are any female bachelors, nor would it be rational to plan on there
+being such, because that is not a way things could be: female bachelors are impossible. By contrast, it is worth discovering whether I have female students, and planning on that eventuality,
+because this is a way things might be.2 But if all there is to contingency is not being ruled out
+by convention, why should contingency matter so? The text of Pride and Prejudice doesn’t rule
+out my having female students, but this doesn’t give me any reason at all to plan on that eventuality.Why would not being ruled out by linguistic convention give me such a reason? The text
+of Pride and Prejudice and our linguistic conventions don’t rule out my having female students for
+pretty much the same reason: they simply don’t speak to the issue. Pride and Prejudice is not at all
+about the gender of my students, and neither are our linguistic conventions. What relevance,
+then, could the fact that they don’t rule out this scenario – a scenario they are simply silent
+about – have as to whether it is a scenario worth investigating and planning for? Not being ruled
+out by convention only seems modally relevant if there is genuine worldly contingency that all
+synthetic claims are susceptible to, and that necessary truths are only not susceptible to because
+their being true by convention means that they are not saying anything about the world, and
+thus are not sensitive to the genuinely contingent ways the world is.
+137
+
+

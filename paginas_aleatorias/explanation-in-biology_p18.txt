@@ -1,0 +1,46 @@
+12
+
+Philosophy of Biology
+
+whether the guinea pig is alive or dead, but this is not the contrastive focus of
+interest. We are interested in what explains one coat color versus other colors in a living guinea pig. When background conditions are required for life,
+they are necessary conditions for phenotypes to manifest, which prevents them
+from explaining, causing and controlling the presence of one phenotype versus
+another. This is why many background conditions do not explain the outcome
+of interest (even if they seem relevant to it) – they are not explanatory if they
+do not “make a difference” to the contrastive focus in question.
+The interventionist account does not require that causes are actually manipulable with current technology or according to ethical standards. Interventionism
+just requires that we can consider hypothetical manipulations, which involve
+what would happen if the intervention were to occur (Woodward 2016). This
+is consistent with causal reasoning in scientiﬁc and everyday life contexts, in
+which we accept causal claims even when we cannot perform interventions
+on the relevant causal factor(s). Examples of legitimate causes that we cannot
+intervene on include: historical or past causes (“yesterday the medicine cured
+my headache”), causes that are not manipulable with current technology (“the
+location of the moon causes the tides to ebb and ﬂow”), and causes that we
+cannot manipulate for ethical reasons (“the patient’s genes have caused their
+disease”). The interventionist account includes these as genuine causes because
+they meet the hypothetical manipulation requirement – in all of these cases, we
+can consider hypothetical manipulations of the cause, and our evidence and
+theory supports the claim that this hypothetical manipulation would change
+the effect of interest.10 If a purported causal claim cannot be associated with
+a hypothetical manipulation – perhaps because the suggested changes to the
+candidate cause are inconsistent with scientiﬁc theory or because the purported
+causes and effects are not sufﬁciently deﬁned (as mentioned in subsection 1.2) –
+then this gives good reason to be skeptical that a causal claim has been provided
+(Woodward 2003, 2016).
+Signiﬁcant amounts of philosophical work has focused on the question of
+how to deﬁne causality. While interventionism provides one answer to this
+question, there remains the further topic of how many deﬁnitions of causation
+we need to capture causal relationships in the world. This relates to “causal pluralism,” which is associated with different views in the literature (Cartwright
+2004; Hitchcock 2007; Godfrey-Smith 2013). Three forms of causal pluralism
+10
+
+There are various ways to get information about causation even when intervention experiments cannot be performed. Evidence about interventionist difference-making relationships
+can be supported by quasi-experiments, instrumental variables, observational methods, natural experiments, and other methods and aspects of biological theory (Shadish et al. 2002;
+Angrist and Pischke 2009).
+
+Downloaded from https://www.cambridge.org/core. IP address: 38.156.15.196, on 19 Jan 2025 at 20:09:59, subject to the Cambridge Core terms of
+use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/9781009300940
+
+

@@ -1,115 +1,96 @@
-{% block javascript %}
-<script type="text/javascript" src="{{ url_for('static', path='script/pako.min.js') }}"></script>
-<script type="text/javascript">
-    const books = {{ books|books_tojson }};
-    let inflatedJSON = {};
-    const pako = require('pako');
-    inflatedJSON = JSON.parse(pako.inflate(books, { to: 'string'}));
-</script>
-{% endblock %}
-
 {% include 'header.html' %}
-{% include 'navigation.html' %}
 
-<style>
-  #book-shelf {
-    display: grid !important;
-    grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)) !important;
-    gap: 16px !important;
-    padding: 20px !important;
-    width: 100% !important;
-    box-sizing: border-box !important;
-  }
+<section id="master-container" class="container">
 
-  a.book {
-    display: flex !important;
-    flex-direction: column !important;
-    align-items: center !important;
-    justify-content: flex-start !important;
-    width: 100% !important;
-    max-width: 180px !important;
-    height: 270px !important;
-    padding: 8px !important;
-    box-sizing: border-box !important;
-    background-color: #1e293b !important;
-    border: 1px solid rgba(255, 255, 255, 0.1) !important;
-    border-radius: 8px !important;
-    text-decoration: none !important;
-    margin: 0 auto !important;
-    overflow: hidden !important;
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
-  }
-
-  a.book:hover {
-    transform: translateY(-4px);
-    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.5);
-  }
-
-  .book-thumbnail, .book-thumbnail figure {
-    width: 100% !important;
-    height: 200px !important;
-    margin: 0 !important;
-    overflow: hidden !important;
-  }
-
-  .book-thumbnail img {
-    width: 100% !important;
-    height: 200px !important;
-    object-fit: cover !important;
-    object-position: top !important;
-    border-radius: 4px !important;
-  }
-
-  .book-title-sub {
-    width: 100% !important;
-    margin-top: 8px !important;
-    font-size: 0.82rem !important;
-    color: #e2e8f0 !important;
-    text-align: center !important;
-    white-space: nowrap !important;
-    overflow: hidden !important;
-    text-overflow: ellipsis !important;
-    display: block !important;
-  }
-</style>
-
-<section id="master-container">
-    <div id="book-shelf">
-        {% for book in books %}
-        <a class="is-dark book" id="{{ book.id }}" target="_blank" href="/api/get_book/{{ book.id }}">
-            <div class="image book-thumbnail">
-                <figure class="image">
-                    <img src="/api/cover/{{ book.id }}" alt="{{ book.title }}" onerror="this.onerror=null; this.src='{{ url_for('static', path='images/no-cover.jpg') }}';" />
-                </figure>
+    <!-- 1. SECCIÓN DESTACADA (Random Featured Book) -->
+    {% if featured_book %}
+    {% set f_id = featured_book.id if featured_book.id is defined else (featured_book.book_id if featured_book.book_id is defined else featured_book[0]) %}
+    {% set f_title = featured_book.title if (featured_book.title is defined and featured_book.title) else (featured_book.file_name if featured_book.file_name is defined else 'Sin título') %}
+    
+    <div style="max-width: 600px; margin: 0 auto 3rem auto; text-align: center;">
+        <p style="text-transform: uppercase; font-size: 0.8rem; letter-spacing: 2px; color: var(--pico-muted-color); font-weight: bold; margin-bottom: 0.5rem;">
+            Documento Destacado
+        </p>
+        <article class="book-card" style="margin-bottom: 0; padding: 1.5rem; text-align: left;">
+            <div style="display: flex; gap: 1.5rem; align-items: center;">
+                <img src="/api/cover/{{ f_id }}" 
+                     alt="{{ f_title }}" 
+                     style="width: 130px; height: 180px; object-fit: cover; border-radius: 6px; flex-shrink: 0;"
+                     onerror="this.onerror=null; this.src='{{ url_for('static', path='images/no-cover.jpg') }}';" />
+                <div style="display: flex; flex-direction: column; justify-content: space-between; height: 100%;">
+                    <div>
+                        <h4 style="margin-bottom: 0.5rem; font-size: 1.2rem;">{{ f_title }}</h4>
+                        <p style="font-size: 0.85rem; color: var(--pico-muted-color); margin-bottom: 1rem;">
+                            {{ featured_book.author if featured_book.author else 'Autor desconocido' }}
+                        </p>
+                    </div>
+                    <a href="/api/get_book/{{ f_id }}" target="_blank" role="button" class="contrast" style="width: fit-content; padding: 0.4rem 1rem; font-size: 0.85rem;">
+                        Leer ahora
+                    </a>
+                </div>
             </div>
-            <div class="book-title-sub" title="{{ book.title if book.title else book.file_name }}">
-                {{ book.title if book.title else book.file_name }}
+        </article>
+    </div>
+    {% endif %}
+
+    <!-- 2. BARRA DE FILTROS (Todos | Libros | Artículos) -->
+    <div style="max-width: 400px; margin: 0 auto 2.5rem auto;">
+        <fieldset role="group">
+            <a href="/?filter=all" role="button" class="{{ 'secondary' if current_filter != 'all' else '' }}">Todos</a>
+            <a href="/?filter=books" role="button" class="{{ 'secondary' if current_filter != 'books' else '' }}">Libros</a>
+            <a href="/?filter=articles" role="button" class="{{ 'secondary' if current_filter != 'articles' else '' }}">Artículos</a>
+        </fieldset>
+    </div>
+
+    <!-- 3. RETÍCULA PRINCIPAL DE TARJETAS -->
+    <div id="book-shelf" class="grid" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 1.5rem;">
+        {% if books and books|length > 0 %}
+            {% for book in books %}
+                {% set b_id = book.id if book.id is defined else (book.book_id if book.book_id is defined else book[0]) %}
+                {% set b_title = book.title if (book.title is defined and book.title) else (book.file_name if book.file_name is defined else 'Sin título') %}
+
+                <article class="book-card" style="margin-bottom: 0;">
+                    <a href="/api/get_book/{{ b_id }}" target="_blank" style="text-decoration: none; color: inherit;">
+                        <div class="book-thumbnail">
+                            <figure style="margin: 0;">
+                                <img src="/api/cover/{{ b_id }}"
+                                     alt="{{ b_title }}"
+                                     style="width: 100%; height: 240px; object-fit: cover; border-radius: 4px;"
+                                     onerror="this.onerror=null; this.src='{{ url_for('static', path='images/no-cover.jpg') }}';" />
+                            </figure>
+                        </div>
+                        <div class="book-title-sub" title="{{ b_title }}" style="margin-top: 0.5rem; font-weight: bold; font-size: 0.9rem; text-align: center;">
+                            {{ b_title }}
+                        </div>
+                    </a>
+                </article>
+            {% endfor %}
+        {% else %}
+            <div style="grid-column: 1 / -1; text-align: center; padding: 3rem 0;">
+                <p style="color: var(--pico-muted-color);">No se encontraron documentos en esta categoría.</p>
             </div>
-        </a>
-        {% endfor %}
+        {% endif %}
     </div>
 </section>
 
-<!-- Paginación corregida -->
-{% if total_pages > 1 %}
-<nav class="pagination is-centered my-5" role="navigation" aria-label="pagination">
-    {% if page > 0 %}
-        <a href="/?skip={{ page - 1 }}&limit={{ limit }}" class="pagination-previous button is-dark">&laquo; Anterior</a>
-    {% else %}
-        <a class="pagination-previous button is-dark" disabled>&laquo; Anterior</a>
-    {% endif %}
+<!-- PAGINACIÓN (Preservando el filtro activo) -->
+{% if total_pages is defined and total_pages > 1 %}
+<nav class="pagination-container" aria-label="pagination" style="margin-top: 2.5rem;">
+    <div class="grid pagination-controls" style="align-items: center; text-align: center;">
+        {% if page > 0 %}
+            <a href="/?skip={{ page - 1 }}&limit={{ limit }}&filter={{ current_filter }}" class="outline contrast" role="button">&laquo; Anterior</a>
+        {% else %}
+            <button class="outline contrast" disabled>&laquo; Anterior</button>
+        {% endif %}
 
-    {% if page + 1 < total_pages %}
-        <a href="/?skip={{ page + 1 }}&limit={{ limit }}" class="pagination-next button is-dark">Siguiente &raquo;</a>
-    {% else %}
-        <a class="pagination-next button is-dark" disabled>Siguiente &raquo;</a>
-    {% endif %}
+        <span class="pagination-status">{{ page + 1 }} / {{ total_pages }}</span>
 
-    <ul class="pagination-list">
-        <li>
-            <span class="pagination-link is-current has-background-link">{{ page + 1 }} / {{ total_pages }}</span>
-        </li>
-    </ul>
+        {% if page + 1 < total_pages %}
+            <a href="/?skip={{ page + 1 }}&limit={{ limit }}&filter={{ current_filter }}" class="outline contrast" role="button">Siguiente &raquo;</a>
+        {% else %}
+            <button class="outline contrast" disabled>Siguiente &raquo;</button>
+        {% endif %}
+    </div>
 </nav>
 {% endif %}
 

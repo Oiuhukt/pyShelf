@@ -1,0 +1,59 @@
+Gila Sher
+
+The Aristotelian Society
+
+Virtual Issue No. 1
+
+How is this relevant to the theory of truth? It is relevant in two
+directions: (a) The question of truth is central to the cognitive problem
+since the difference between failing and succeeding in latching on to the
+world is the difference between obtaining false and true cognitions. (b)
+The question of cognition is central to truth, since one of the central
+roles of truth is to distinguish between failed and successful cognitions of
+the world (latching-ons to the world), or set a standard for successful
+cognitions. Accordingly, a theory of truth cannot neglect external
+constraint by the world. But this crucial aspect of McDowell’s
+conception is entirely missing from the identity theory of truth. External
+constraint plays no role in this theory.
+Another way to arrive at this issue is to observe that if a theory of
+truth puts McDowell’s cognitive problematics at its center, it faces a
+non-trivial challenge: How to account for the truth of human thoughts
+given the enormous complexity of the human cognitive situation. (How
+to account for the fact that true thoughts are products of the mind yet
+their truth is determined by the external world;3 how to deal with the
+polarities involved in the cognitive situation, which pull us in seemingly
+opposite directions.) The problem is further magnified since, as
+McDowell rightly demands, we must avoid the traps of idealism on the
+one hand and a Kantian thing-in-itself / empiricist ‘brute Given’ on the
+other. But the identity theory cannot meet this challenge. First, identity,
+as a gap-denying relation, can play at most a limited role in an account
+involving gaps and non-symmetric relations (like ‘latching on’ to the
+world). Second, given the complexity of the cognitive situation involved
+in truth, it is quite unlikely that a theory as simple as the identity theory
+has sufficient resources to account for it. Third, given the importance of
+the McDowellian problematics for understanding true cognition (truth),
+it requires a substantive treatment, something the identity theory is not
+equipped to provide.4
+Hornsby is quite aware of the fact that truth involves an independent
+reality (hence gap); indeed, she regards it as a virtue of her theory that it
+is compatible with commonsense realism. She is also aware that there is
+an important asymmetry in truth (which cannot be captured by identity),
+and that this asymmetry concerns an important aspect of truth, namely,
+that it is reality which determines the truth of our thoughts, rather than
+our thoughts which determine reality (Hornsby 2005, §4). But her
+theory does not account for any of these things, nor do any of these
+things play a substantial role in her theory. Why? I gather this is because
+she realizes that accounting for these characteristics of truth would
+require a substantive theory or truth and, moreover, a correspondence
+3
+
+To see that, and how, McDowell views the world as determining the truth/falsehood
+of a particular truth-bearer see his example in (2005, p. 85).
+4
+
+In referring to McDowell’s problematics, I focus primarily on the early lectures in his
+book. Whether any of my critical points applies to any of McDowell’s views elsewhere
+in his corpus I will not be able to discuss here.
+208
+
+

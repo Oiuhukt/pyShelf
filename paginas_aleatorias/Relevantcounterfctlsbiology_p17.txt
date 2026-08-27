@@ -1,0 +1,44 @@
+Thus equipped with this very specific and subtle causal concept we may now
+venture a new look at the process of gene expression.10 It is appropriate to look at
+the different stages of gene expression separately. In my table below, we assume
+that there is a more or less stable causal relationship between the entities on the
+left and those on the right-hand side of the '®', which thus signifies a causal
+graph. Furthermore, we assume that these entities (for instance, RNA or protein),
+vary in their primary structure (nucleotide or amino acid sequence, respectively),
+and that their sequence state can thus be expressed by two variables, say x and y.
+These variables take discrete values. The domain of the variables will depend on
+the length of the molecules considered, but it is always finite. Then, what the table
+claims is that there exists a range of background conditions under which an
+intervention on x would change the value of y, for example, an intervention on
+mRNA sequence would change protein sequence. The inverse does not hold; an
+intervention on protein sequence would not change mRNA sequence (under
+normal conditions). Furthermore, in accordance with Woodward's definition of
+INF, there exists a mapping, F, that maps different states of x onto different states
+of y. The following table states whether or not F is a function (which is necessary
+for the relation INF to hold) and whether F is bijective, injective or surjective:
+
+Stage of gene expression (x ® y)
+
+F-mapping y=F(x)
+
+(1) DNA ® DNA (=replication)
+
+bijective (INF)
+
+(2) DNA ® RNA (in prokaryotes)
+
+bijective (INF)
+
+(3) RNA ® DNA (=reverse transcription)
+
+bijective (INF)
+
+(4) DNA ® primary transcript (in eukaryotes)
+
+bijective (INF)
+
+(5) primary transcript ® mRNA (in eukaryotes)
+
+not a function, therefore not17
+
+

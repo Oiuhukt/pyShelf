@@ -1,0 +1,45 @@
+434
+
+MATTHEW C. HAUG
+
+or folk-theoretic) and what one takes ‘filling’ that role to consist in. Below,
+I discuss two such ways; one involves causal relations, while the other is
+purely formal.
+After discussing how the grounding question is related to the exclusion
+problem in Section 2, I sketch a causal account of realization in Section
+3. I argue that a causal account of realization can be used to provide an
+adequate answer to the grounding question. If the population-level properties involved in the process of selection are realized in this way, then
+they are grounded in individual-level causal properties so that the exclusion problem does not arise. In Section 4, I consider in detail the case of
+adaptive melanism in rock pocket mice and show how the causal account
+of realization applies to it. I use this example to argue that the formal
+account of realization sketched by Matthen and Ariew cannot completely
+capture the phenomenon of natural selection. I conclude in Sections 5
+and 6 by presenting and responding to an argument for the claim that
+natural selection cannot provide unified causal explanations.
+2. The Grounding Question and the Exclusion Problem. According to Millstein, the proponent of the population-level causal view does not “deny
+that populations are composed of individuals or that causes are acting
+on those individuals. Nor [does she] deny that individual-level causal
+events (living, dying, and reproducing) are in some sense responsible for
+selection. What [she denies] is that such individual-level causal events
+constitute the selection process itself” (2006, 650). In claiming that individual-level causal events are “in some sense responsible for selection,”
+Millstein rightly rejects a strong emergentist view according to which
+natural selection is a novel force that appears in populations of organisms.
+Yet this appears to sit uneasily with the claim that these individual-level
+causal events do not ‘constitute’ the selection process. The apparent tension in this passage suggests a crude version of the exclusion problem; if
+individual-level causal events are responsible for selection, what ‘causal
+work’ is left for the distinct population-level process of selection to do?
+In order to state the problem more precisely, note that individual-level
+causal events (as long as they are individuated partially in terms of the
+environment in which they take place) must constitute (determine or
+ground) the selection process. Otherwise, the population-level causal view
+would violate plausible completeness and exclusion principles.2 In this
+2. Thus I disagree with the following passage from Reisman and Forber: “First off,
+we want to be clear that we readily accept that there are individual-level causes that
+operate and that can explain the results of the Dobzhansky and Pavlovsky experiment.
+However, we think that in addition to these individual-level causes, there are also
+population-level causes and that is what drift and selection are” (2005, 1120, my
+emphasis).
+
+https://doi.org/10.1086/522900 Published online by Cambridge University Press
+
+

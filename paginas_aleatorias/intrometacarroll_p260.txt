@@ -1,0 +1,41 @@
+248
+
+An Introduction to Metaphysics
+
+among them.’ What is interesting is that these paraphrases seem not
+to commit one to the existence of properties, just to things that could
+amount to nothing more than Socrates, Plato, and some other ordinary
+particulars.
+Rayo and Yablo paraphrase sentence (3) differently from Boolos. They
+think of (3) as saying that Socrates and Plato are the same way. Even better,
+to avoid being sucked into thinking that there are such entities as ways,
+they can paraphrase (3) as:
+(3′) Socrates is somehow and Plato is likewise.
+
+We can also give a parallel paraphrase of (2): ‘Wise is somehow Socrates and
+Plato are.’ One thing that is nice about (3′) is that ‘somehow’ and ‘likewise’
+don’t even appear as if they are quantifying over any entity. They don’t
+replace a name or description; they replace the word ‘wise’ in ‘Socrates is
+wise’ and in ‘Plato is wise’, respectively. There is no temptation to think
+that there need be any property (not a trope or set of tropes, not a universal, not a set of possibilia) for an assertion made by (3′) to be true.
+We have yet to try an Austere Nominalist paraphrase of sentence (4).
+The usual place to begin is to suggest, ‘Everything humble is virtuous.’
+Two criticisms are often made of this idea. First, it is usually pointed out
+that, though humility is a virtue, not everything humble is virtuous. After
+all, some things have their humility outweighed by their more numerous
+or more serious vices with the consequence that, though they are humble,
+they are not virtuous. We are not sure this criticism is a good one; it may
+depend on a particular reading of ‘virtuous’ (virtuous in an all-thingsconsidered sense) rather than on another perfectly good reading (virtuous
+in an in-some-manner-or-to-some-extent sense). Nevertheless, even if our
+suspicion is right, there is the second criticism. Consider:
+(6) Red is a color.
+
+If one is tempted to paraphrase (4) as ‘Everything humble is virtuous,’ one
+should also be tempted to paraphrase (6) as ‘Everything red is colored.’ So
+far, so good. By parity of reasoning, one should then paraphrase
+(7) Red is a shape
+
+as ‘Everything red is shaped.’ That’s the problem. Though (4) and (6) are
+true, (7) is false. Its paraphrase, if it really is a good paraphrase, should be
+
+

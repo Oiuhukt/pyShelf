@@ -1,12 +1,16 @@
 """Pyshelf's Main Storage Class."""
+
 import re
 import os
+import glob
 import hashlib
+import datetime
+import subprocess
+from pathlib import Path
 from collections import defaultdict
 from rapidfuzz import process, fuzz
 from sqlalchemy import create_engine, select
 from sqlalchemy.orm import Session
-from pathlib import Path
 
 from .models import Book, Collection, BookCollection
 
@@ -19,7 +23,7 @@ class Storage:
         self.config = config
         self.sql = self.config.catalogue_db
         self.user = self.config.user
-        self.password = self.config.password
+        self.password = self.password = self.config.password
         self.db_host = self.config.db_host
         self.db_port = self.config.db_port
         self.engine = create_engine(self.get_connection_string(), pool_pre_ping=True)
@@ -39,6 +43,136 @@ class Storage:
         for table in tables:
             table.metadata.create_all(self.engine)
 
+    def get_sample_text_for_file(self, pdf_path: str) -> str | None:
+        """Busca en ./paginas_aleatorias un .txt que coincida con el nombre del archivo."""
+        destino = "./paginas_aleatorias"
+        if not os.path.exists(destino):
+            return None
+
+        filename_no_ext = os.path.splitext(os.path.basename(pdf_path))[0]
+        for txt_file in os.listdir(destino):
+            if txt_file.startswith(filename_no_ext) and txt_file.endswith(".txt"):
+                txt_path = os.path.join(destino, txt_file)
+                try:
+                    with open(txt_path, "r", encoding="utf-8", errors="ignore") as f:
+                        return f.read().strip()
+                except Exception:
+                    return None
+        return None
+
+    def generate_pdf_cover(self, pdf_path: str, book_id: int | str, force: bool = False) -> str | None:
+        """Genera la portada JPG llamando directamente a pdftoppm nativo de Poppler."""
+        covers_dir = Path(self.config.root) / "src" / "frontend" / "static" / "covers"
+        covers_dir.mkdir(parents=True, exist_ok=True)
+        
+        output_prefix = str(covers_dir / str(book_id))
+        final_jpg = covers_dir / f"{book_id}.jpg"
+        relative_cover_path = f"covers/{book_id}.jpg"
+
+        if final_jpg.exists() and not force and final_jpg.stat().st_size > 0:
+            return relative_cover_path
+
+        try:
+            # Comando de Poppler: extrae página 1 a JPG escalado
+            cmd = [
+                "pdftoppm",
+                "-jpeg",
+                "-f", "1",
+                "-l", "1",
+                "-singlefile",
+                "-scale-to", "600",
+                pdf_path,
+                output_prefix
+            ]
+            subprocess.run(cmd, check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+            return relative_cover_path
+        except Exception as e:
+            self.config.logger.error(f"[Storage] Error generando portada con pdftoppm para ID {book_id}: {e}")
+        return None
+
+    def auto_discover_books(self):
+        """Descubre nuevos PDFs/EPUBs e inserta o actualiza portadas en la BD."""
+        search_path = getattr(self.config, 'book_path', '/usr/local/biblioteca')
+        files = sorted(
+            glob.glob(f'{search_path}/**/*.pdf', recursive=True) +
+            glob.glob(f'{search_path}/**/*.epub', recursive=True)
+        )
+        now = datetime.datetime.now()
+        new_count = 0
+
+        with Session(self.engine) as session:
+            for path in files:
+                existing = session.execute(
+                    select(Book).where(Book.file_name == path)
+                ).scalar_one_or_none()
+
+                parent_dir = os.path.basename(os.path.dirname(path))
+                category = parent_dir if parent_dir.lower() != 'biblioteca' else 'General'
+                sample_txt = self.get_sample_text_for_file(path)
+
+                if existing:
+                    existing.categories = category
+                    if sample_txt:
+                        existing.sample_text = sample_txt
+                    
+                    # Generar portada si falta o no está en la BD
+                    if not existing.cover or not (Path(self.config.root) / "src" / "frontend" / "static" / existing.cover).exists():
+                        cover_rel_path = self.generate_pdf_cover(path, existing.id)
+                        if cover_rel_path:
+                            existing.cover = cover_rel_path
+                else:
+                    title = os.path.splitext(os.path.basename(path))[0]
+                    new_book = Book(
+                        title=title,
+                        author="Desconocido",
+                        file_name=path,
+                        cover="",
+                        date=now,
+                        categories=category,
+                        sample_text=sample_txt
+                    )
+                    session.add(new_book)
+                    session.flush()  # Genera new_book.id
+                    
+                    cover_rel_path = self.generate_pdf_cover(path, new_book.id)
+                    if cover_rel_path:
+                        new_book.cover = cover_rel_path
+                    
+                    new_count += 1
+            session.commit()
+        self.config.logger.info(f"[Storage] Libros sincronizados: {new_count} nuevos.")
+
+    def regenerate_all_covers(self, force: bool = True):
+        """Fuerza la regeneración masiva de portadas de todos los libros."""
+        with Session(self.engine) as session:
+            books = session.execute(select(Book)).scalars().all()
+            updated_count = 0
+            for book in books:
+                if book.file_name and os.path.exists(book.file_name):
+                    cover_rel_path = self.generate_pdf_cover(book.file_name, book.id, force=force)
+                    if cover_rel_path:
+                        book.cover = cover_rel_path
+                        updated_count += 1
+            session.commit()
+        self.config.logger.info(f"[Storage] Se regeneraron {updated_count} portadas con pdftoppm.")
+
+    def clean_orphaned_books(self):
+        """Elimina de la BD los registros de archivos borrados en disco y sus portadas."""
+        covers_dir = Path(self.config.root) / "src" / "frontend" / "static" / "covers"
+        deleted_count = 0
+
+        with Session(self.engine) as session:
+            books = session.execute(select(Book)).scalars().all()
+            for book in books:
+                if book.file_name and not os.path.exists(book.file_name):
+                    cover_path = covers_dir / f"{book.id}.jpg"
+                    if cover_path.exists():
+                        cover_path.unlink(missing_ok=True)
+                    session.delete(book)
+                    deleted_count += 1
+            session.commit()
+        self.config.logger.info(f"[Storage] Registros huérfanos eliminados: {deleted_count}")
+
     def insert_book(self, book):
         """Insert a new book into the database saving the cover to disk."""
         with Session(self.engine) as session:
@@ -53,21 +187,15 @@ class Storage:
                         cover_bytes = raw_cover
 
                     if cover_bytes and isinstance(cover_bytes, bytes):
-                        # Generar un hash MD5 único de 12 caracteres para el archivo
                         cover_filename = f"{hashlib.md5(cover_bytes).hexdigest()[:12]}.jpg"
-                        
-                        # Ruta donde se guardará la portada físicamente
                         covers_dir = Path(self.config.root) / "src" / "frontend" / "static" / "covers"
                         covers_dir.mkdir(parents=True, exist_ok=True)
-                        
                         full_cover_path = covers_dir / cover_filename
 
-                        # Escribir la imagen en disco si no existe aún
                         if not full_cover_path.exists():
                             with open(full_cover_path, "wb") as f:
                                 f.write(cover_bytes)
 
-                        # Guardar solo la ruta relativa en la base de datos
                         cover_path_relative = f"covers/{cover_filename}"
 
                 _book = Book(
@@ -151,12 +279,23 @@ class Storage:
         """Get books from database."""
         with Session(self.engine) as session:
             if collection is not None:
+                # Si 'collection' es un número (ID), filtra por ID. Si es texto, filtra por Nombre.
+                if isinstance(collection, int) or str(collection).isdigit():
+                    stmt = (
+                        select(Book)
+                        .join(BookCollection)
+                        .where(BookCollection.collection_id == int(collection))
+                    )
+                else:
+                    stmt = (
+                        select(Book)
+                        .join(BookCollection)
+                        .join(Collection, BookCollection.collection_id == Collection.id)
+                        .where(Collection.name == collection)
+                    )
+                
                 result = session.execute(
-                    select(Book)
-                    .join(BookCollection)
-                    .where(BookCollection.collection_id == collection)
-                    .offset(skip or 0)
-                    .limit(limit)
+                    stmt.offset(skip or 0).limit(limit)
                 ).scalars().all()
             else:
                 result = session.execute(
@@ -165,6 +304,7 @@ class Storage:
                     .limit(limit)
                 ).scalars().all()
         return result
+
 
     def get_book(self, id):
         """Get book from database."""

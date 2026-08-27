@@ -1,0 +1,99 @@
+TUGboat, Volume 32 (2011), No. 3
+\@ifpackageloaded allows you to detect when
+a package has been used or required, and possibly
+take counter-measures. However, this is only a curative way of doing things: it only lets you provide
+post-loading (a posteriori ) code. What if you need
+to take precautionary measures instead?
+\AtBeginDocument allows one to massively defer code execution until the beginning of a document,
+that is, after every package has been loaded. This
+is obviously a very gross granularity. For example,
+it doesn’t provide any information on the order in
+which the packages have been loaded, something that
+might be needed even for post-preamble code.
+Consider for example the following scenario:
+• Style S calls \AtBeginDocument{\things}
+• Class C loads style S
+And ask yourself the following question: how does
+class C intercede on \things? There is no simple
+way to sort this out with the standard LATEX tools.
+4.3.2
+
+filehook
+
+Like probably almost every package developer, we
+have fought against these problems for years with
+intricate and obfuscated logic to fix inter-package
+compatibility. We think however that the very recent
+appearance of Martin Scharrer’s filehook package
+is (should be) a crucial component in cleaning up
+the current intercession mess.
+The filehook package provides pre- and postloading hooks to files that you input in every possible way (\include’d files, packages, even class
+files). Thanks to that, one can now handle intercession in a context-free way, which is much better
+than what was possible before. For example, you
+can take both a priori and a posteriori countermeasures against any package, without even knowing
+for sure if the package is going to be loaded at all.
+This notably includes the possibility of saving and
+restoring functionality, much like what OpenGL does
+with its PushMatrix / PopMatrix or PushAttrib /
+PopAttrib functions (although OpenGL uses real
+stacks for this).
+Eventually, the existence of filehook allowed
+us to come up with a particular design pattern for
+intercession management that can be summarized as
+follows. So far, this pattern works (for us) surprisingly well.
+• First of all, start by writing your code as if
+there were no intercession problem. In other
+words, simply implement the default behavior
+as usual, assuming that no other package would
+be loaded.
+
+325
+• Next, handle compatibility problems with packages, one at a time, and only locally: use preand post-hooks exclusively to do so.
+• Remember that hook code is only potential :
+none of it will be executed if the corresponding package is not loaded.
+• Also, note that getting information on package loading order is now trivial if you use
+\@ifpackageloaded in a pre-hook.
+• Avoid using \AtBeginDocument for intercession,
+unless absolutely necessary; for instance, if you
+need to take a counter-measure against a package that already uses it. Again, in such a case,
+calling \AtBeginDocument in a post-hook will
+allow you to plug in the relevant code at exactly
+the right position in the \@begindocumenthook
+chain.
+4.3.3
+
+Bibliography management in CurVe
+
+To provide a concrete example of these ideas, let us
+demonstrate how recent versions of CurVe handle compatibility with various bibliography-related packages.
+A summarized version is given in figure 8 on the
+following page. Roughly speaking, what this code
+does is:
+• install the default, CurVe-specific behavior first,
+• step back if bibentry is loaded,
+• merge with multibib,
+• step back before splitbib and re-merge afterwards,
+• render hyperref inoperative.
+Knowing where we came from, that is, how this
+logic was done before filehook, it is amazing how
+readable, clear, concise, and in fact simple, this new
+implementation is. We cannot be sure how striking
+this will be for the unacquainted reader, but in case
+it is not, you are invited, as an exercise, to try an
+implement this only with the standard LATEX macros
+(hint: it is practically impossible).
+Earlier, we claimed that filehook would allow
+us to program in a context-free way. Let us explain
+now what we meant by that. First of all, note that
+because we use hooks exclusively to plug our intercession code, the five special cases could have been
+implemented in any order in the CurVe source file.
+We can move the five blocks around without modifying the semantics of the program. This is what we
+mean by being “context-free”: the current dynamic
+state of the program has no effect on the code we
+put in hooks. Another instance of context freedom
+is in the specific case of hyperref. The important
+thing to notice here is that we save (and restore)
+whatever state we had just before loading hyperref.
+Towards LATEX coding standards
+
+

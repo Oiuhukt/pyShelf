@@ -1,0 +1,87 @@
+holds for all arguments 𝑥0 , … , 𝑥𝑛−1 , 𝑧 for every
+𝑧 < 𝑦. (The Open Logic Text writes instead
+“( 𝑧 < 𝑦)𝑅(𝑥0 , … , 𝑥𝑛−1 , 𝑧)”, but I find this too close
+to the notation used in the object language, and
+potentially confusing.)
+
+Proof: Suppose 𝑅 is such a relation. By our earlier
+result, so is not-𝑅, and its characteristic function
+𝜒not-𝑅 will return 0 for some 𝑦 for every 𝑥0 , … , 𝑥𝑛−1 .
+Hence, we can define (𝜇𝑦)𝑅(𝑥0 , … , 𝑥𝑛−1 , 𝑦) using
+minimization as yielding the least 𝑦 such that
+𝜒not-𝑅 (𝑥0 , … , 𝑥𝑛−1 , 𝑦) = 0.
+e
+
+A
+
+Note that if we use the “unbounded” search
+operator “(𝜇𝑥)” when defining functions, the results
+are only guaranteed to be recursive, not primitive
+recursive, even if the relation used in the definition
+is primitive recursive.
+However, if we can define the function using a
+bounded search operator instead, the result will be
+Proof: The characteristic function for 𝑄 can be de- primitive recursive if the relation is.
+fined in terms of the characteristic function for 𝑅
+by substitution as follows:
+Result (bounded search operator): If 𝑅 is a
+𝜒𝑄 (𝑥0 , … , 𝑥𝑛−1 , 𝑦) = ∏ 𝜒𝑅 (𝑥0 , … , 𝑥𝑛−1 , 𝑧). e
+(primitive) recursive relation, then the function:
+Result (bounded quantification): If 𝑅 is a
+(primitive) recursive number theoretic relation,
+so is the universally quantified relation 𝑄 as annotated above.
+
+𝑧<𝑦
+
+(𝜇𝑦 < 𝑧)𝑅(𝑥0 , … , 𝑥𝑛−1 , 𝑦)
+Homework 22
+Prove that
+𝑧
+
+whose value for 𝑥0 , … , 𝑥𝑛−1 , 𝑧 as arguments, is
+the least 𝑦 less than 𝑧 such that 𝑅(𝑥0 , … , 𝑥𝑛 , 𝑦)
+holds, and whose value is 𝑦 if there is no such 𝑧,
+is a (primitive) recursive function
+
+∃ 𝑅(𝑥 , … , 𝑥 , 𝑧)
+
+𝑧<𝑦
+
+0
+
+𝑛−1
+
+(where this means what you expect) is (primitive)
+recursive if 𝑅 is.
+Similar results follow for bounded quantifiers using
+Proof: The function can be defined using the char≤, doubly bounded quantifiers, etc.
+acteristic function of not-𝑅 by composition as folThe notation:
+lows:
+(𝜇𝑦)𝑅(𝑥0 , … , 𝑥𝑛−1 , 𝑦)
+
+(𝜇𝑦 < 𝑧)𝑅(𝑥0 , … , 𝑥𝑛−1 , 𝑦) =
+
+represents the 𝑛-place function whose value for
+∑ ∏ 𝜒not-𝑅 (𝑥0 , … , 𝑥𝑛−1 , 𝑤) . e
+𝑥0 , … , 𝑥𝑛−1 as arguments returns the least 𝑦 such
+)
+𝑦<𝑧 ( 𝑤≤𝑦
+that the (𝑛 + 1)-place relation 𝑅 holds between
+𝑥0 , … , 𝑥𝑛−1 and 𝑦.
+As 𝑧 increases, the bounded product will keep
+adding 1 to the bounded sum so long as 𝑅 does
+not hold for any 𝑥0 , … , 𝑥𝑛−1 , 𝑤 where 𝑤 ≤ 𝑧. As
+Result (unbounded search operator): If 𝑅
+soon as a 𝑧 is reached for which 𝑅 does hold for
+is a recursive relation such that for every
+some 𝑥0 , … , 𝑥𝑛−1 , 𝑤 where 𝑤 ≤ 𝑧, the bounded prodset of numbers 𝑥0 , … , 𝑥𝑛−1 , there is 𝑦 such
+uct will stop adding to the bounded sum, and so
+that 𝑥0 , … , 𝑥𝑛−1 , 𝑦 holds for some 𝑦, then
+the result will identical to the least such 𝑧.
+(𝜇𝑦)𝑅(𝑥0 , … , 𝑥𝑛−1 , 𝑦) is a recursive function.
+Notice the above proof does not make use of
+minimization, and so something defined in this way
+will be primitive recursive assuming 𝑅 is.
+50
+
+

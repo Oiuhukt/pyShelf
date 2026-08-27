@@ -1,0 +1,42 @@
+Philosophy of Developmental Biology
+
+43
+
+interest of tractability or computability (such as frictionless motion or point
+particles in mechanics).
+The French Flag Model abstracts from:
+(1) processes that link the morphogen gradient to gene expression patterns in
+the recipient cells; it merely supposes that such processes exist.
+(2) the temporal dimension in looking only at the causal dependencies of cell fate
+on the morphogen concentration. (Perhaps it doesn’t abstract completely
+from temporality in supposing that the gradient is formed before the cells
+become committed, but it disregards any events that happen in between.)
+While (1) seems to be a clear case of an abstraction, (2) looks more like an
+idealization, because morphogen systems could be dynamic, in which case time
+cannot be omitted on pains of distorting reality (see Section 3.3). Abstracting from
+time works only if the formation and the interpretation of the gradient are separate
+processes that don’t interact (perhaps because the interpretation only begins once
+the gradient has formed). But this could be false, as we shall see (Section 3.3).
+In addition, there are the following assumptions, which also have the ring of
+idealizations:
+(3) Only three qualitatively distinct cell fates.
+(4) Determinism (i.e., all cells react to a given morphogen concentration in
+the same way).
+(5) Sharp morphogen thresholds (as opposed to downstream causal interactions) account for the precision of compartment boundaries.
+(6) No variation in the morphogen gradient between individual embryos;
+developmental noise is neglected.
+(7) No other factors that actually vary affect cell fates (i.e., the morphogen is
+the actual-difference making cause of cell fate in the sense of Waters
+(2007) and fully accounts for differences in these).
+(8) The generation and interpretation of positional information are independent processes.
+(9) The morphogen acts only via its concentration and not via additional
+properties (e.g., exposure time).
+(10) Different body axes are patterned independently.
+Most of these assumptions, while not impossible (unlike point particles), were
+never very likely, given what embryologists already knew when Wolpert proposed the model; so it is clear that the model was never intended to be a faithful
+representation of the world. It’s an idealized causal model. I will discuss in
+Section 3.3 what idealizations the model incorporates and how these idealizations guided research.
+Downloaded from https://www.cambridge.org/core. IP address: 201.141.17.62, on 16 Mar 2022 at 22:01:23, subject to the Cambridge Core terms
+of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/9781108954181
+
+

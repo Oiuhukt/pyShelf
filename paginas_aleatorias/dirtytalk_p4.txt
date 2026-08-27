@@ -1,0 +1,70 @@
+\dirtytalk@rq
+
+Inner closing (right) quotation mark glyph.
+7 \newcommand{\dirtytalk@rq}{’}
+
+2.3
+
+Options
+
+We allow the author to specify own quotation mark glyphs instead of those
+defined above by passing them as options.
+8 \DeclareStringOption{left}
+9 \DeclareStringOption{right}
+10 \DeclareStringOption{leftsub}
+11 \DeclareStringOption{rightsub}
+12 \ProcessKeyvalOptions*
+
+2.4
+
+More Declarations
+
+After processing the options (in case of the kvoptions’ string options that means
+a macro has been defined holding the key value) we check if they are empty and,
+if not so, redefine the default glyphs. For this task we need the ifthen package.
+13 \RequirePackage{ifthen}
+14 \ifthenelse%
+15
+16
+17
+
+{\equal{\dirtytalk@left}{}}%
+{}%
+{\renewcommand{\dirtytalk@lqq}{\dirtytalk@left}}
+
+18 \ifthenelse%
+19
+20
+21
+
+{\equal{\dirtytalk@right}{}}%
+{}%
+{\renewcommand{\dirtytalk@rqq}{\dirtytalk@right}}
+
+22 \ifthenelse%
+23
+24
+25
+
+{\equal{\dirtytalk@leftsub}{}}%
+{}%
+{\renewcommand{\dirtytalk@lq}{\dirtytalk@leftsub}}
+
+26 \ifthenelse%
+27
+28
+29
+
+{\equal{\dirtytalk@rightsub}{}}%
+{}%
+{\renewcommand{\dirtytalk@rq}{\dirtytalk@rightsub}}
+
+And we define a counter that represents the depth to which a quotation is
+nested. However, we will only distinguish between “not nested” and “nested”
+(dirtytalk@qdepth > 1). Since there is no convention for sub-sub-quotes. (At
+least, I don’t know any.)
+30 \newcounter{dirtytalk@qdepth}
+
+4
+
+

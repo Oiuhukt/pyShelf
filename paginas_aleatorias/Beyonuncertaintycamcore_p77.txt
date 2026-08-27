@@ -1,0 +1,42 @@
+Beyond Uncertainty
+
+71
+
+awareness growth. For instance, one might anticipate becoming aware of new
+artists or genres when one visits an arts festival – an example to which we shall
+later return.
+In this section we however foreground the more dramatic or extreme cases of
+‘conscious unawareness’ and associated anticipation or openness to awareness
+growth, such as the prospect of geoengineering that we introduce in Section 6.2.
+We go on to propose, in Section 6.3, how to model an agent who is open to the
+possibility of awareness growth, such that this may play a role in her decisionmaking. Finally, in Section 6.4, we reflect on how our model of openness to
+awareness growth reveals this phenomenon to be in some ways very ordinary, more or less akin to ordinary reasoning about less-than-fully-specified
+contingencies as described in any standard decision model.
+
+6.2 Example: Solar Radiation Management
+Solar radiation management (SRM), also known as solar geoengineering, has
+been discussed as a most likely very efficient and effective way of combating
+(and potentially even reversing) climate change. One such technique would
+consist in injecting reflective aerosol particles into the stratosphere. These particles would then reflect a small amount of inbound sunlight back out into space,
+thus making the planet cooler than it would otherwise be.
+Although the idea behind SRM is partly inspired by the eruption of large
+volcanoes that naturally blast reflective sulphate particles into the stratosphere,
+nothing like the scale of SRM that would be needed to combat climate change
+has ever been tried. Thus, as for instance the Solar Radiation Management Governance Initiative frankly admits, the potential ‘side effects’ of SRM are not
+well understood and are in fact mostly unknown.49
+SRM would thus seem to be an example where we do, and should, anticipate awareness growth, if (or when) it is seriously tried. There may be various
+possible ‘side effects’ which we cannot yet articulate, but we think one of these
+side effects is bound to occur if we do try SRM on the scale needed to combat climate change. So none of the possible outcomes of SRM can currently
+be described in perfect detail. That is to say, we may anticipate that trying out
+SRM on a global scale leads to awareness growth by refinement.
+In addition (or alternatively), we may suspect there is some unknown contingency that is inconsistent with any contingency of which we are aware and that
+could make solar radiation management either much more positive or much
+more negative than the possible outcomes of which we are currently aware.
+49
+
+See www.srmgi.org/what-is-srm/.
+
+Downloaded from https://www.cambridge.org/core. IP address: 37.218.244.251, on 23 Aug 2021 at 19:48:04, subject to the Cambridge Core
+terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/9781108582230
+
+

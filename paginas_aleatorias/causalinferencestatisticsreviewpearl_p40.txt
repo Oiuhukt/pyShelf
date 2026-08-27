@@ -1,0 +1,61 @@
+J. Pearl/Causal inference in statistics
+
+135
+
+of this condition (through Eq. (45).) It states that W should be admissible (i.e.,
+satisfy the back-door condition) relative the path(s) from Z to Y . This condition is readily comprehended by empirical researchers, and the task of selecting
+such measurements, W , can then be guided by available scientific knowledge. See
+details and graphical criteria in Pearl (2001, 2005) and in Petersen et al. (2006).
+In particular, expression (48) is both valid and identifiable in Markovian
+models, where each term on the right can be reduced to a “do-free” expression
+using Eq. (24).
+5.1.3. Indirect effects and the Mediation Formula
+Remarkably, the definition of the natural direct effect (47) can easily be turned
+around and provide an operational definition for the indirect effect – a concept
+shrouded in mystery and controversy, because it is impossible, using standard
+physical interventions, to disable the direct link from X to Y so as to let X
+influence Y solely via indirect paths.
+The natural indirect effect, IE, of the transition from x to x′ is defined as the
+expected change in Y affected by holding X constant, at X = x, and changing
+Z to whatever value it would have attained had X been set to X = x′ . Formally,
+this reads (Pearl, 2001):
+∆
+
+IEx,x′ (Y ) = E((Yx,Zx′ ) − E(Yx )),
+
+(49)
+
+which is almost identical to the direct effect (Eq. (47)) save for exchanging x
+and x′ .
+Indeed, it can be shown that, in general, the total effect T E of a transition
+is equal to the difference between the direct effect of that transition and the
+indirect effect of the reverse transition. Formally,
+∆
+
+T E x,x′ (Y ) = E(Yx′ − Yx ) = DEx,x′ (Y ) − IEx′ ,x (Y ).
+
+(50)
+
+In linear systems, where reversal of transitions amounts to negating the signs
+of their effects, we have the standard additive formula
+T Ex,x′ (Y ) = DEx,x′ (Y ) + IEx,x′ (Y ).
+
+(51)
+
+Since each term above is based on an independent operational definition, this
+equality constitutes a formal justification for the additive formula used routinely
+in linear systems.
+For completeness, we explicate (from (48) and (51)) the expression for indirect
+effects under conditions of nonconfoundedness:
+X
+IEx,x′ (Y ) =
+E(Y |x, z)[P (z|x′) − P (z|x)]
+(52)
+z
+
+This expression deserves the label Mediation Formula, due to its pivotal role
+in mediation analysis (Imai et al., 2008), which has been a thorny issue in several
+sciences (Shrout and Bolger, 2002; MacKinnon et al., 2007; Mortensen et al.,
+2009). When the outcome Y is binary (e.g., recovery, or hiring) the ratio (1 −
+
+

@@ -1,0 +1,50 @@
+9.6. EXERCISES
+
+9.6
+
+77
+
+Exercises
+
+9.1. Let A = {1, 2, 3, 4, 5} and B = {a, b, c, d}. For each of the following relations from A to B, answer
+these questions: Is it a function from A to B? If it is a function, is it one-to-one? If it is a function,
+is it onto? Justify your answer with a short proof or counterexample.
+(a) {(1, c), (2, c), (3, c), (4, c), (5, d)}
+(b) {(1, a), (2, d), (3, a), (4, c)}
+(c) {(1, d), (2, a), (2, d), (3, a), (4, b), (4, d), (4, c)}
+(d) {(1, c), (2, b), (3, a), (4, d), (5, a)}
+9.2. Suppose f : A → C and g : B → C. Prove that if A ∩ B = ∅, then f ∪ g : (A ∪ B) → C.
+9.3. Suppose R is a relation on a set A. Is it possible that R is both a function and an equivalence
+relation? Complete and prove the statement “R is a function and an equivalence relation iff ...”.
+9.4. Let S and T be sets and f : S → T . Define a relation R on S by
+(a, b) ∈ R ⇔ f (a) = f (b).
+Prove that R is an equivalence relation.
+9.5. Prove that the identity function is a bijection. That is, let A be a set and define f : A → A by
+f (x) = x. Prove that f is a bijection.
+9.6. Let Qpos = {q ∈ Q : q > 0} and Qneg = {q ∈ Q : q < 0}. Prove that the function h : Qpos → Qneg
+defined by h(x) = −x is a bijection.
+9.7. Let A and B be sets, and suppose f : A → B is a bijection. Prove that f −1 is a bijection from B to
+A.
+9.8. Let A, B and C be sets. Let f : A → B and g : B → C.
+(a) Prove that if f and g are onto, then g ◦ f is onto.
+(b) Prove that if g ◦ f is onto, then g is onto.
+(c) If g ◦ f is onto, is f necessarily onto? Prove your answer.
+(d) If g ◦ f is one-to-one, is f necessarily one-to-one? Prove your answer.
+9.9. Let A and B be sets, and f : A → B. Suppose f is one-to-one. Then f −1 is a relation from B to A
+Prove that there exists a subset C ⊆ B such that f −1 is a function from C to A.
+NOTE: The next few problems involve the set R of real numbers. The elementary properties of
+the integers that we have been working with since the beginning of the quarter all hold if every
+instance of the word integer is replaced with the words real number. In addition, every non-zero
+real number has a multiplicative identity: for all real r ̸= 0, there exists a real number r−1 such
+that r · r−1 = r−1 · r = 1. You may apply these elementary properties of the real numbers whenever
+you need them for the remainder of this course.
+9.10. Define a function f : R → R by
+
+f (x) =
+
+2x if x ∈ Q
+−3x if x ̸∈ Q
+
+Is f one-to-one? Is f onto? Is f −1 a function? State and prove a theorem.
+
+

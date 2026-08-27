@@ -1,0 +1,17 @@
+FIGURA III.2
+Hasta aquí no hemos modificado en nada la explicación newtoniana del espacio y el
+tiempo absolutos: simplemente hemos producido una mera representación espacial de la
+estructura espacial y temporal que Newton teoriza. Este tipo de representación del
+espacio y el tiempo juntos se denomina diagrama de espacio-tiempo. Es esencial
+observar con atención el rol que tanto el espacio absoluto como el tiempo absoluto han
+jugado en la producción del diagrama: únicamente porque los puntos del espacio absoluto
+persisten a través del tiempo pudimos especificar la manera de apilar las hojas del
+tiempo, y sólo porque el tiempo absoluto tiene una estructura métrica pudimos
+especificar las distancias espaciales entre las diversas hojas. En este diagrama los objetos
+en reposo absoluto se representan por líneas verticales, puesto que permanecen en el
+mismo punto del espacio absoluto. Pero lo que es mucho más importante, las
+trayectorias de los cuerpos en movimiento uniforme absoluto a lo largo de una línea
+recta se representan por líneas rectas en el diagrama de espacio-tiempo.
+70
+
+

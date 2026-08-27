@@ -1,0 +1,52 @@
+(i) is just a statement of the view applied to our running example. ‘suitably strong’ means here
+whatever it needs to rule out the epistemic adequacy (in this context at least) of arguments
+from ignorance. Suitable strength is compatible with the body of necessities being empty, so
+long as we know it to be empty. The literature takes it that plausible candidates to belong to
+the suitably strong body will include, at some level of generality, the principles of essentiality
+of origin and of essentiality of kind. But regardless of which and how many elements are in
+there, the requirement about suitable strength dictates that we should know them all and know
+them to be all. As Fischer puts it, absence of evidence (about the existence of a necessity) is
+not enough; we need evidence of absence. (See Fischer 2016: 78.)
+(ii)
+
+Given (i), on necessity-first accounts, our rational degree of confidence that my
+office desk can break cannot be higher than our degree of confidence about the basic
+(de re) necessities relevantly involved, and about the non-existence of further
+necessities.
+
+Thus, in the running example, our (alleged) basic knowledge that unbreakability is not
+essential to (and thus not necessary of) the desk, that the desk is essentially made of wood,
+and that the desk is essentially a desk, epistemically grounds our piece of knowledge that the
+table can break (on the basis of this possibility being determined not to be ruled out by any of
+the table’s essential properties). But not only this: given that that is the priority order, our
+rational degree of confidence in the latter is upper bound by our degree of confidence in the
+former pieces of knowledge. And yet, I contend:
+(iii)
+
+Our confidence that my office desk can break is higher than our confidence about
+my desk’s essential properties. And this difference in degrees of confidence is (at
+least as per our current epistemic situation) the rational one.
+
+Hale (2013) distinguishes different levels of probative force of arguments for modal claims.
+As we have seen in §3.1, he believes that the meaning-based arguments that can be given to
+establish essential truths about, for instance, (the property of) being square are more
+conclusive than the abductive cases that can be offered in favour of, precisely, “general
+principles of essence”. (See in particular Hale 2013: §11.3).
+I cannot agree more with Hale on this. And I want to add to it: the inductive arguments that
+can be given in favour of the desk’s breakability are stronger—in terms of probative force—
+than the abductive arguments supporting essentialist claims. This, I contend, supports the
+rationality of the different degrees of confidence exhibited. Looking at things with the lens of
+a social epistemologist, this difference in probative force is, likely, what explains the
+asymmetric distribution of peer-agreements and peer-disagreements: claims of ordinary
+possibility are significantly more widely peer-agreed than essentialist claims. It is
+incompatible with what is pictured by this radiography that our ordinary possibility
+knowledge is grounded in (basic) necessity/essentially knowledge of the sort required by a
+necessity-first account.
+5. Final remarks and further reading.
+It is important to note that the two distinctions in sections 3 and 4 cut across each other. As
+such, results centred on one of them will not per se inform research centred on the other.
+There’s nothing inherent to, for instance, a necessity-first approach that requires uniformity in
+
+11
+
+

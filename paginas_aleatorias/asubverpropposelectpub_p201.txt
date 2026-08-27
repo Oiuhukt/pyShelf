@@ -1,0 +1,46 @@
+Glossary
+
+called "Right Pages, the Medical School at the University of California, and several publishers of
+journals in radiology.
+SCI - Science Citation Index. Produced by the Institute for Scientific Information, SCI indices show the
+pattern of citations of scientific journal articles.
+SGML - Standard Generalized Markup Language. SGML is both a language and an ISO standard for
+describing information embedded within a document. HyperText Markup Language (HTML) is based
+on the SGML standard.
+SIAM - Society for Industrial and Applied Mathematics, Philadelphia, PA.
+SLAC - Stanford Linear Accelerator Center, Stanford University. SLAC is the site of an extensive
+archive of preprints for high energy physics.
+Software - A program or set of instructions that controls the operation of a computer. Distinguished
+from the actual hardware of the computer.
+src.doc.ic.ac.uk - Address for the Gopher server at the Department of Computing, Imperial College,
+London, UK.
+TeX - A powerful text formatting program initially written by Donald Knuth. Widely used by computer
+scientists, mathematicians, and physicists.
+TIFF - Tagged Image File Format. A file format commonly used for digital scanned images. Images
+saved in TIFF format can be used on most computers. Developed by Aldus and Microsoft.
+TULIP - The University LIcensing Program. TULIP is a cooperative research project testing system for
+networked delivery and use of journals. Objectives include determining technical feasibility, developing
+organizational and economic models, and studying user behavior. For testing purposes, 42 materials
+science and engineering journals published by Elsevier and Pergamon are being used.
+UNESCO - United Nations Educational, Scientific, and Cultural Organization, whose headquarters is in
+Paris, France.
+URL - Uniform Resource Locator. A URL is the "address" for something made available through the
+World Wide Web. A URL consists of the access method, server name, directory, and file name.
+Although the URL was developed for WWW, it has become widely used to describe the location of files
+which may be accessed by other techniques.
+USENET - An informal system of electronic bulletin boards or discussion groups commonly
+distributed over the Internet. USENET predates the Internet, although today most USENET material is
+distributed over the Internet.
+Veronica - Veronica is a program to search an index to all Gopher server titles in the world. The
+program was developed at the University of Nevada. The initials stand for Very Easy Rodent-Oriented
+Net-wide Index to Computerized Archives.
+VT100 - Originally, a video display terminal manufactured by the Digital Equipment Corporation. It is
+now the most commonly supported plain text terminal type used for network connections.
+WAIS - Wide Area Information Servers. A software program originally developed by Thinking
+Machines Co. which permits the very rapid search of extensive indexes to find text in large documents.
+World-Wide Web (WWW) - A hypertext system of cross-linked data sources, which permits easy
+5 of 6
+
+1/23/07 10:36 AM
+
+

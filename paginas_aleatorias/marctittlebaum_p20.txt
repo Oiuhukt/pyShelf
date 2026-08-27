@@ -1,0 +1,46 @@
+Epistemología bayesiana
+
+La credibilidad condicional de una agente en X dado que Y
+se expresa como c(X|Y), y habitualmente se asume que está gobernada por la Fórmula de Proporción.
+Fórmula de proporción
+Para cualesquiera X, Y ℒ con c(Y)
+
+0, c(X|Y) =
+
+.
+
+La Fórmula de Proporción puede leerse ya sea como una
+verdad descriptiva o como un requisito normativo. En la primera
+aproximación, la credibilidad condicional de una agente en X
+dado que Y toma un valor particular sólo en caso de que sus credibilidades incondicionales en X&Y y en Y se encuentren en esa proporción. Esta lectura es más natural si se quiere reducir un tipo de
+credibilidad al otro: se podría sostener que tener una credibilidad
+condicional es simplemente tener credibilidades incondicionales
+que se encuentran en una proporción específica; o se podría sostener que las credibilidades condicionales son básicas y las credibilidades incondicionales son un subconjunto propio de aquellas.10
+Alternativamente, se podría ver a la credibilidad condicional como
+sólo otro tipo de actitud doxástica que se encuentra a la par con las
+credibilidades incondicionales y luego leer la Fórmula de Proporción como un requerimiento racional sobre cómo deberían alinearse credibilidades condicionales e incondicionales.11
+Nota que la Fórmula de Proporción, tal como la he definido,
+no dice nada sobre el caso en el que la agente asigna a la condición
+(la proposición Y) una credibilidad de 0. Volveremos a las credibilidades condicionales sobre proposiciones con credibilidad 0 en las
+páginas 37 a 39.
+Al combinar la Fórmula de Proporción y los axiomas de
+Kolmogorov se obtiene la útil Ley de la Probabilidad Total.
+
+10
+
+11
+
+20
+
+suposiciones resultante sea consistente. La mayoría de las discusiones sobre
+credibilidades condicionales se ocupan de la forma indicativa. Para un
+tratamiento de credibilidades condicionales subjuntivas véase Joyce (1999).
+A partir de los axiomas de Kolmogorov y de la Fórmula de Proporción, se
+sigue que para cualquier X ℒ, c(X) = c(X|┬). Así que puede pensarse en
+las credibilidades incondicionales como credibilidades condicionales en las
+que la condición es una tautología. Véase Easwaran (2019) para más al
+respecto.
+Para una discusión sobre cómo las credibilidades condicionales interactúan
+con las credibilidades de una agente en condicionales, véase Briggs (2019).
+
+

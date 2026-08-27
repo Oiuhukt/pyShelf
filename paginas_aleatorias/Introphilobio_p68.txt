@@ -1,0 +1,44 @@
+Biological laws and theories 55
+
+only to females. Yet, depending on the current sex ratio, or other factors
+such as sibling mating, at the times of birth they would have quite different
+ﬁtnesses. Sometimes a better measure of ﬁtness is given by counting only
+male offspring or female offspring or grand-offspring, or granddaughters or
+grandsons. Sometimes the ﬁttest will be those who have fewer offspring in
+a harsh season and more offspring in a lush one. Which will be the “right”
+measure depends on the environment in which organisms ﬁnd themselves.
+This may suggest that ﬁtness should be deﬁned as a relationship between
+organisms and environments, not as a head count of offspring or descendants. In fact, one natural way of deﬁning ﬁtness invokes the notion of
+environmental “design problems” mentioned in the ﬁrst chapter. Suppose
+we view adaptation as the solution to metaphorical “design problems” set
+by the environment (metaphorical because there is no literal designer, just
+environmental changes and randomly produced variations that may or may
+not enable the organism to survive in the face of these changes). Then x is
+ﬁtter than y might be deﬁned as “x solves design problems posed by the environment better than y does.” This deﬁnition has some intuitive advantages
+but many practical difﬁculties. Most of them are difﬁculties of applying the
+deﬁnition, that is problems of converting the deﬁnition into measurements.
+First, for a given design problem—e.g. camouﬂage, or keeping warm, or
+ﬁghting parasites, or building nests—how do we tell which of two organisms
+under comparison is better at solving the problem? One answer immediately
+suggests itself: count offspring. But we already know that this answer is not
+generally adequate. Second, given two organisms, each solving a different
+design problem—say one solves the problem of staying warm while the other
+solves the problem of ﬁnding water—how do we tell which solves its respective problem better? And how do we take into account what Olympic judging
+rules call the “degree of difﬁculty” of each organism’s achievement? Suppose
+one zebra is better at out-running lions and swatting away disease-bearing
+ﬂies than another but the second is better at hiding from lions in the tall grass
+and stores water better than the ﬁrst. Which is ﬁtter? Again, the only way to
+solve this problem seems to be to count offspring. Third, how many “design
+problems” do organisms face? It is very hard to count them up, so we cannot
+even begin to deal with the problem of aggregating them into some overall
+directly measurable deﬁnition of ﬁtness.
+One conclusion to draw from this discussion is that deﬁnitions must be
+distinguished from measurements, but a deﬁnition that does not easily lend
+itself to measurement will not have much of a role in quantitative explanation and prediction. And one that cannot be measured at all cannot ﬁgure in
+statements that are falsiﬁable. It is perfectly acceptable to change one’s measurement methods depending on the circumstances. Physicists and chemists
+have a half-dozen or more different ways of measuring heat. But, in principle,
+alternative measurement devices and units should all be measurements of the
+same property, one that can be speciﬁed independently of them. That is our
+problem here: What exactly is the relationship of “x is ﬁtter than y?” Fitness
+
+

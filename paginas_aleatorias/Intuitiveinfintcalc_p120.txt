@@ -1,0 +1,306 @@
+This gives you the value for the next-to-last variable. And so
+on.
+
+Find the 2 × 2 matrix representing a reflection in the line
+y = −x.
+·
+¸
+0 −1
+−1
+0
+
+If you reach an equation of the form 0 = a where a 6= 0: the
+system has no solutions.
+If you reach an equation of the form 0 = 0: the system has infinitely many solutions. Instead of entering a specific value
+for the variable corresponding to this equation, set it equal to
+a parameter, such as t , and proceed as usual (this means that
+the other variables will become expressed in terms of t also).
+Your formulas for the values of the variables give a solution
+for the system of equation for any value of t you plug into it.
+
+Find the 3 × 3 matrix representing a reflection of threedimensional space in the plane y = z.
+
+
+1 0 0
+ 0 0 1 
+0
+
+1
+
+0
+
+• Characterise geometrically the effect of a given matrix A.
+£ ¤
+Calculate A’s effect on the unit basis vectors (A 10 and so
+on), and picture the resulting vectors along with the original unit basis vectors. Determine by visualisation what linear transformation sends the latter vectors onto the former.
+This is the answer.
+·
+What geometric transformation is
+
+p
+1/ 2
+p
+1/ 2
+
+• Determine whether a system of linear equations has 0, 1, or
+infinitely many solutions.
+Attempt to solve the system as above and see the rules for the
+number of solutions there.
+
+p ¸
+−1/ 2
+p
+?
+1/ 2
+
+"
+∼
+
+45◦ counterclockwise rotation.
+
+
+0
+What geometric transformation is  −1
+0
+
+1
+0
+0
+
+x
+
++
+
+y
+
+=
+
+2
+
+2x
+
++
+
+2y
+
+=
+
+4
+
+1
+
+1
+
+2
+
+2
+
+2
+
+4
+
+Hence
+
+
+0
+0 ?
+1
+
+#
+
+"
+∼
+
+1
+
+1
+
+2
+
+0
+
+0
+
+0
+
+#
+
+· ¸ ·
+¸
+x
+2−t
+=
+y
+t
+
+is a solution for any value of t .
+
+90◦ rotation about the z-axis, clockwise as seen from
+“above” (positive z position).
+§ B.10.3. Gaussian elimination
+Correspondence between matrices and systems of linear equations:
+·
+¸
+ax + b y = c
+a b c
+↔
+d e f
+dx +ey = f
+
+"
+∼
+
+x
+
++
+
+y
+
+=
+
+2
+
+2x
+
++
+
+2y
+
+=
+
+5
+
+1
+
+1
+
+2
+
+2
+
+2
+
+5
+
+#
+
+"
+∼
+
+1
+
+1
+
+2
+
+0
+
+0
+
+1
+
+#
+
+There are no values for x and y that make 0 = 1. Hence the
+system of equations has no solutions.
+
+Gaussian elimination rules:
+For what value(s) of a does the following system of equations have no solutions?
+
+– You may add or subtract any row from any other row.
+– You may multiply or divide any row by any number.
+
+x
+2x
+x
+
+– You may switch places of any two rows.
+The goal of Gaussian elimination is generally to turn the matrix into identity-matrix form, or at least upper-triangular form
+(i.e., having all 0’s in the bottom-left half below its principal diagonal).
+• Solve a system of linear equations.
+Translate the system into matrix form as above. Apply Gaussian elimination to turn the matrix (the part of it before the
+bar) into upper-triangular form. Translate the last row back
+into an ordinary equation. This gives you the value for the
+last variable. Translate the next-to-last row back into an ordinary equation, and plug in the value for the last variable.
+120
+
+
+
+1
+∼ 2
+1
+
+−2
+−1
+1
+
+−
+−
++
+
+2y
+y
+y
+
++
++
++
+
+3z
+2z
+az
+
+=
+=
+=
+
+−2
+3
+3
+
+3
+−4
+a −3
+
+2
+−1 
+
+ 
+1
+2
+3 ∼ 0
+a
+0
+
+3
+2
+a
+
+
+1
+
+∼ 0
+0
+
+−2
+3
+0
+
+3
+−4
+a +1
+
+2
+3
+a
+
+2
+−1 
+a −2
+
+a −1
+
+There are no solutions when a − 1 6= 0 and at the same time
+a + 1 = 0, thus when a = −1.
+
+

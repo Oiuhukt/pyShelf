@@ -1,0 +1,59 @@
+PROGRAMMED
+FOR DISASTER
+Software Errors That Imperil Lives
+by JONATHAN JACKY
+
+O
+
+N MARCH 21, 1986, oilfield worker Ray Cox
+visited a clinic in Tyler, Texas, to receive radiation on his back, from which a cancerous tumor had been
+removed. On the basis of previous visits, he knew the
+procedure should be painless, but that day he felt a jolt of
+searing heat. Outside the shielded treatment room, the
+technician was puzzled by his complaint: the computer
+terminal used to operate the radiation machine bore only
+the cryptic message "Malfunction 54," indicating either
+an overdose or an underdose. Clinic staff were unable to
+find anything wrong with the machine, so they sent Cox
+home and continued treating other patients. But Cox's
+condition worsened. Spitting blood, he checked in to a
+hospital emergency room, where doctors suspected he
+had received an electric shock; in fact, he had received a
+lethal overdose.
+Less than a month later, Malfunction 54 occurred again
+at the Tyler clinic, this time striking Verdon Kidd, a sixtysix-year-old bus driver. Kidd died in May of 1986, reportedly the first fatality ever caused by an overdose during
+radiation treatment. Meanwhile, Cox became paralyzed
+and lapsed into a coma, and four months later he, too,
+died of the injury.
+As news of the Tyler incidents spread, similar mishaps
+in other clinics came to light: one patient in Canada and
+another in Georgia had received mutilating injuries in
+1985; an overdose occurred in Washington State in January of 1987. In each case, the radiation had come from the
+Therac-25, a computer-controlled machine manufactured by Atomic Energy of Canada. After the fifth such
+accident was reported, the U.S. Food and Drug Administration advised-but did not order-clinics to discontinue routine use of the Therac-25 until safety features
+could be installed in the equipment.
+Ironically, by the time the accidents occurred, radiation
+therapy had become a routine, safe, and frequently effective procedure, used on nearly four hundred and fifty
+thousand new patients a year in more than eleven hundred U.S. clinics. Much of that success was due to linear
+accelerators, which began to replace cobalt treatment
+units in the 1960s. (Linear accelerators are electric
+machines, capable of producing radiation beams whose
+
+energy can be adjusted. The earlier equipment used a
+lump of cobalt-60 as the radiation source; the units could
+not be adjusted, and the intensity of the radioactivity
+diminished over time.)
+The million-dollar Therac-25, introduced in 1983, was
+among the first of a generation of computer-controlled
+linear accelerators. With the earlier accelerators, electricity and mechanical forces were used to transmit the operator's directions directly to the wheels, levers, and cables
+controlling the radiation beam. But with computers, it
+was necessary to transmit only information, not force, so
+the operator's commands could be processed by software
+-lists of coded instructions tliat tell the computer what to
+do. Thus, complex electromechanical control systems
+were replaced by minicomputers, and the traditional
+operator's control panels, festooned with switches, but-
+
+-22-
+
+

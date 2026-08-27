@@ -1,0 +1,38 @@
+References
+Barrio, E., Rosenblatt, L., & Tajer, D. (2014). The logics of strict-tolerant logic.
+Journal of Philosophical Logic, 44(5), 551–571.
+Barrio, E. A., Pailos, F., & Szmuc, D. (2019). (Meta)inferential levels of
+entailment beyond the Tarskian paradigm. Synthese. Online first.
+Beall, J. et al. (2012). On the ternary relation and conditionality. Journal of
+Philosophical Logic, 41(3), 595–612.
+Beall, J. & Restall, G. (2006). Logical Pluralism. Oxford: Oxford University
+Press.
+Beall, J. & van Fraassen, B. (2003). Possibilities and Paradox: An Introduction
+to Modal and Many-Valued Logic. Oxford: Oxford University Press.
+Belnap, N. D. (1962). Tonk, plonk and plink. Analysis, 22, 130–134.
+Belnap, N. D. (1977a). How a computer should think. In G. Ryle (ed.),
+Contemporary Aspects of Philosophy (pp. 30–55). Boston: Oriel Press.
+Belnap, N. D. (1977b). A useful four-valued logic. In J. Dunn & G. Epstein
+(eds.), Modern Uses of Multiple-Valued Logics (pp. 8–37). Dordrecht: Reidel.
+Berto, F. & Restall, G. (2019). Negation on the Australian plan. Journal of
+Philosophical Logic, 48(6), 1119–1144.
+Blackburn, P., de Rijke, M., & Venema, Y. (2001). Modal Logic. Cambridge
+University Press.
+Blamey, S. (1986). Partial logic. In D. Gabbay & F. Guenthner (eds.), Handbook
+of Philosophical Logic, volume III (pp. 261–353). Dordrecht: D. Reidel.
+Brady, R. T. (1971). The consistency of the axioms of abstraction and extensionality in a three-valued logic. Notre Dame Journal of Formal Logic, 12,
+447–453.
+Brandom, R. (1983). Asserting. Noûs, 17(4), 637–650.
+Brandom, R. B. (2000). Articulating Reasons: An Introduction to Inferentialism. Cambridge, MA: Harvard University Press.
+Brouwer, L. E. J. (1913). Intuitionism and formalism. Bulletin of the American
+Mathematical Society, 20, 91–96. Reprinted as Brouwer (1999).
+Brouwer, L. E. J. (1999). Intuitionism and formalism. Bulletin of the American
+Mathematical Society, 37(1), 55–64. Reprint of Brouwer (1913).
+Carroll, L. (1895). What the Tortoise said to Achilles. Mind, 4(14), 278–280.
+Chellas, B. F. (1980). Modal Logic: An Introduction. Cambridge: Cambridge
+University Press.
+
+Downloaded from https://www.cambridge.org/core, IP address: 201.141.17.208, on subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/9781009040457
+
+

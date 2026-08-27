@@ -1,0 +1,52 @@
+European Journal for Philosophy of Science
+
+2
+
+(2025) 15:23
+
+Page 13 of 19
+
+23
+
+A model passes a severe test when all alternatives but the model are discarded.8
+
+A severe test must allow us to discriminate between the model and all relevant alternatives, by allowing for an outcome that would discard all but the model.
+Mayo and Spanos are interested in p-value testing for hypotheses here, but this
+kind of narrative, thus paraphrased, can easily be generalised to the confirmation of
+models in general. The main idea is that accepting a model or hypothesis requires
+discarding all its alternatives, which means exploring the space of possibilities
+(see Schupbach (2018) for an account of robustness along these lines), eliminating
+potential sources of errors, etc. And this is roughly what ME says. Point (1) above
+is almost exactly what our point (2) at the end of Sect. 2 states, namely that a model
+is discarded (not accurate) if what it excludes is actually observed. We simply need
+to assimilate low probability attribution with exclusion of a possibility. As for (2), it
+corresponds closely to point (4) from Sect. 2, which says that we can infer adequacy
+from accuracy in a representative range of contexts. As explained previously, the
+assumption that our sample of situations is representative involves making tests in
+a large enough range of varying circumstances, which means, in effect, confronting
+the model to all relevant alternatives, at least assuming that these alternatives would
+make a difference in at least one possible context: in at least one context, they attribute very low probabilities to an outcome while our confirmed model does not.
+However, what is important to understand is that the models that are directly put
+to the test are not in general basic probabilistic models. They are, more typically,
+composite models representing sequences of independent events, and attributing
+probabilities close to 1 and 0 of getting frequencies inside or outside a range. As
+a matter of fact, the frequencies of outcomes that are attributed high probabilities
+will correspond closely to the probabilities of the basic model, thanks to the central
+limit theorem. Considering, for example, a model of 100 independent coin toss,
+where each toss has a half probability of yielding heads or tails, would give a very
+high probability of obtaining roughly as many heads as tails, between 45 and 55,
+say. But what is tested is not the basic coin toss model: it is a composite model,
+constructed from this basic model and other assumptions (the statistical independence of every toss), with the notable feature that it yields all-or-nothing probabilities for specific outcomes (having frequencies inside or outside a range). And this
+is precisely the fact that such models yield “dichotomous claims” that makes them
+suitable for an empirical test, because these claims can be directly compared to
+what is observed and yield a determinate conclusion, e.g. that such alternative
+model is discarded (Tunç et al., 2023).
+The lesson from these observations (which we do not take to be necessarily novel) is
+this: mild probabilities are never inferred directly from frequencies of outcomes. Only
+all-or-nothing probabilities (1 or 0), corresponding to necessities and impossibilities,
+are ever confirmed experimentally. However, such probabilities can act as proxies for
+8
+This is not exactly what Mayo says, because the disjunction of all these models should be discarded
+rather than each of them independently, but this is close enough for our purpose.
+
+

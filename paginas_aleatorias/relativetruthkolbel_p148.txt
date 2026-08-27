@@ -1,0 +1,48 @@
+Relativism, Vagueness and What is Said
+
+137
+
+two-dimensional distinction of character and content, dependence of content
+on context and of content’s truth-value on circumstance of evaluation; i.e., by
+somehow or other ascribing to sentence radicals semantic values describable
+by means of the two-dimensional matrices familiar from Stalnaker (1978).
+These two-dimensional matrices provide in my view a good elaboration for
+present purposes of Bach’s notion of locutionary saying. On this proposal, the
+semantic content of a sentence radical is its full matrix; this is what we should
+expect for STE systematically to deliver.¹² Notice for later use that, as Stalnaker
+insists, they provide alternative propositions for sr-radicals to convey; in addition
+to the ‘‘horizontal’’ propositions, there are now the ‘‘diagonal’’ propositions,
+which, at least in some cases, allow for a reconstruction of Kripke’s distinction
+between metaphysical and epistemic modalities—as in relatively uncontroversial
+examples such as ‘(actually, ﬂuorite structure is a lattice) iff ﬂuorite structure is
+a lattice’.¹³
+Now, in spite of the indexicality of ‘I’ and ‘now’ revealed by (1) and (2), David
+Lewis (1979) has notoriously proposed to deal with the phenomenon of what
+Perry (1979) calls the ‘‘essential indexical’’ by in effect ascribing to sr-contents
+a further relativity in the circumstances of evaluation than that required by
+contingency. On the present characterization, Lewis’s proposal is to relativize the
+truth of the sr-content for ‘I am hungry’ not just to worlds, but to individuals and
+times too (i.e., their sr-contents are (two-dimensional) functions from centered
+worlds to truth-values).¹⁴ These contents, unlike the traditional ones so far
+considered, are not just generalizations specifying distributions of truth-values
+over possible-worlds, but agents and times in addition; they are thus not just
+possible-world neutral, but also ‘‘world-centre’’ neutral: the values of those
+parameters are not supposed to be essential or constitutive of them. But still,
+according to Lewis when one asserts them, what one asserts is the application
+of those functions to oneself at the time of the assertion (in the world of one’s
+assertion). The truth of assertions remains absolute.
+This is as it should be: as in the contingency case, no unexpected case of
+‘‘faultless disagreement’’ is perceived if A asserts ‘I am hungry’ and B asserts
+‘I am not hungry’. If Lewis is right, B denies the very same sr-content that
+A asserts, while what A asserts can be true, and so can what B asserts; but
+there is no substantive faultless disagreement involved here. In the terms I am
+proposing, the relativization posited by Lewis is moderate, because, in the end, it
+¹² This is not strictly speaking correct, but it will do for present purposes. STE should also
+provide some information about the conventional meanings of moods, as well as about conventional
+implicatures or conventionally signaled presuppositions, and this cannot be accurately represented
+merely by means of the two-dimensional matrices.
+¹³ See García-Carpintero and Macià (2006).
+¹⁴ Lewis only considers relativization to an individual, but this is because of his fourdimensionalism about material objects; on a three-dimensional view, his proposal would require the
+further relativization, which is independently needed if ‘now’ creates similar problems.
+
+

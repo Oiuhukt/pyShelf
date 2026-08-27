@@ -1,0 +1,38 @@
+52
+
+Metaphysics
+
+Finally, most interpretations of quantum theory involve indeterminism of
+some kind. In collapse theories, the dynamics are indeterministic; in manyworlds approaches, there is effective indeterminism from the in-world perspective; and even in hidden-variables approaches like Bohmian mechanics, it
+might still be most natural to understand probabilities through an initial
+indeterministic chance event (Demarest 2016). Once again, this conﬂicts
+with what Kant (1781/1998) argued in the Analogies of Experience to be
+a necessary precondition of any possible experience; more generally, determinism was a conceptual pillar of classical physics and not seriously questioned as a framing assumption for modern physics until the rise of quantum
+theory. However, it turns out that some of our best interpretations of quantum
+theory make it possible for events to occur without their being determined
+to occur.
+All the aforementioned examples, if they succeed, were discovered to be
+possible in virtue of being discovered to be actual. But we can also gain indirect
+evidence for the possibility of certain non-actual scenarios. A model of some
+physical theory corresponding to the actual world is part of a larger set of
+models, and attending to those models can give us evidence for the possibilities
+to which they correspond.
+For a ﬁrst example of this, it has been argued that string theory gives us
+evidence for the possibility of different dimensionalities of effective spacetime, corresponding to different minima of the string theory ‘landscape’ (see
+Susskind 2006 for an accessible introduction to the string landscape). In the
+string landscape scenario, it is a quantum-mechanically contingent matter
+which dimensionality of effective spacetime emerges from the fundamental
+higher-dimensional background spacetime; thus insofar as we can get empirical evidence for the string landscape hypothesis, we can get empirical evidence for the possibility of effective spacetimes of dimensionality larger than
+our actual 3+1.
+A less conjectural example comes from potential super-heavy chemical
+elements. No elements with atomic number above 118 have ever been synthesised, and it is quite plausible that, for example, unsepttrium (with atomic
+number 173) will never exist in our visible universe. Nonetheless, theoretical
+chemists can model at least some of its properties such as energy eigenvalues
+to explore how unsepttrium would behave if it were to exist (Fricke and Soff
+1977): it is predicted to behave like a highly reactive alkali metal, for the few
+microseconds its isotopes could exist before decaying. In these examples, it
+seems that theoretical physics and theoretical chemistry can result in genuine
+modal discovery that is not simply a logical consequence of a discovery of the
+actual.
+
+

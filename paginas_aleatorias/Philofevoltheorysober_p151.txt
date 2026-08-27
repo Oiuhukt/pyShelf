@@ -1,0 +1,39 @@
+132
+
+The Philosophy of Evolutionary Theory
+
+Stephens 2004; Reisman and Forber 2005; Shapiro and Sober 2007;
+Dietrich and Millstein 2008). This is to be expected, as many other terms
+are in the same boat (Sober 1984, 1991a). “Marriage” can denote the process of getting married, but it also can refer to the product of that process, the state of being married; “erosion” can denote the oozing of mud
+down a hill, but it also can refer to the mud puddle at the bottom. The
+process/product distinction, and the fact that the drift process is probabilistic, make it clear that a drift process can occur without the population’s trait frequencies changing (contrary to Brandon 2005). True, the
+expected behavior of a pure drift process is that trait frequency does
+a random walk, but it is possible (though improbable) that there is no
+walk at all.
+Beatty (1984, 1992) and Millstein (2002a, 2021) define selection as
+discriminate sampling and drift as indiscriminate sampling. This is a
+dichotomy. In discussing Kimura’s FIX equation, I said that the value of N
+represents the strength of drift and the value of s represents the strength
+of selection. Here selection and drift are described quantitatively, not in
+terms of a dichotomy. The dichotomous view and the quantitative view
+conflict, since the discriminate/indiscriminate distinction makes no mention of population size.
+Millstein (2021, p. 26) contrasts mathematical and causal definitions of
+drift; she criticizes the definition of drift in terms of population size on
+the ground that it doesn’t treat drift as a causal process. Millstein (p. 21)
+says that “population size does not seem to be a process.” She is right that
+N is a number, not a process, but the point is that N represents a causal
+factor that affects evolutionary outcomes. This is clear in the Wright–
+Fisher model described earlier. In that model, N represents the number
+of diploid individuals in a generation, but 2N represents the process of
+random gamete sampling that results in the next generation of N diploid
+individuals.
+Table 5.1 describes a few consequences of the idea that the strengths
+of selection and drift can be understood by talking about what happens
+when you vary the value of either s or N while holding fixed the value of
+the other. If drift and selection are distinct causes, must it be possible for
+each to occur without the other? I think not. If infinite population size is
+physically impossible, selection cannot occur without drift. I accept that
+
+https://doi.org/10.1017/9781009376037.006 Published online by Cambridge University Press
+
+

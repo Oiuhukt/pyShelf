@@ -1,0 +1,50 @@
+Roman Frigg
+
+Let us begin with interpretative models. Overarching mathematical theories like classical
+mechanics appear to provide general descriptions of a wide range of objects that fall within
+their scope. However, on closer inspection, it turns out that these theories do not apply to
+the world directly. The reason for this is that they employ abstract terms, i.e. terms that
+apply to a target system only if a description couched in more concrete terms also applies
+to the target. Cartwright offers the following two conditions for a concept to be abstract
+relative to another concept:
+First, a concept that is abstract relative to another more concrete set of descriptions
+never applies unless one of the more concrete descriptions also applies. These are the
+descriptions that can be used to “fit out” the abstract description on any given occa‑
+sion. Second, satisfying the associated concrete description that applies on a particu‑
+lar occasion is what satisfying the abstract description consists in on that occasion.
+(1999b, 39)
+She offers the example of work. Having responded to an email, having revised a section of
+a paper, and having attended a meeting is what my having done work this morning consists
+in. If I tell a friend over lunch what I have done and he responds, “well, you’ve responded
+to an email, revised a section, and attended a meeting, but when did you work?”, he either
+does not understand the concept of work or, more likely, is joking with me.
+Cartwright submits that important concepts that appear in mathematised theories are
+abstract in the same way as work. The concept of force, for instance, is abstract in that it
+applies only if a more concrete concept also applies. There is no such thing as “nothing but
+a force” acting on a body. There being a force between two bodies on a particular occa‑
+sion consists in them gravitationally attracting each other, or electrostatically repelling each
+other, or … These more concrete claims fit out the abstract claim of there being a force.
+Force, therefore, is an abstract property and “Newton’s law tells that whatever has this
+property has another, namely having a mass and an acceleration which, when multiplied
+together, give the […] numerical value, F” (1999b, 43). Force, therefore, has no independ‑
+ent existence; it exists only in its more specific forms like gravity, electrostatics, and so on.
+Specifying what concrete claims fit out abstract claims amounts to specifying an interpreta‑
+tive model. An interpretative model then consists of the “actors” that fit out the abstract
+claims of the theory.
+Let us now turn to representative models. Cartwright regards representative models as
+ones that are built to “represent real arrangements and affairs that take place in the world”
+(1999b, 180). These models have two crucial features. The first is that they are highly ide‑
+alised. Constructing a representative model involves twisting and distorting the properties
+of the target in many ways and the result of this process is in no way a mirror image of the
+target. Indeed, Cartwright notes that “it is not essential that the models accurately describe
+everything that actually happens; and in general it will not be possible for them to do so”
+(1983, 140). Second, all these distortions notwithstanding, the model still is a representa‑
+tion of the target, albeit one that is inaccurate in certain respects. The principles of the
+theory therefore apply to “highly fictionalized objects” (1983, 136) in the representational
+model. So, one has to distort reality to force it into the corset of the theory: “our prepared
+descriptions lie” because “in general we will have to distort the true picture of what hap‑
+pens if we want to fit it into the highly constrained structures of our mathematical theories”
+(139). Without these distortions, the theory would be inapplicable.
+34
+
+

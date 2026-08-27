@@ -1,0 +1,35 @@
+2
+
+Main motivations
+
+Parece intuitivo que, si nos importan los fenómenos naturales, entonces queremos que nuestros modelos sean algo precisos. Sin embargo, este punto ha sido ampliamente debatido.
+Algunos filósofos han argumentado que esta relación no es necesaria para construir una buena
+teoría de los modelos en la ciencia.
+Los modelos deben omitir ciertas propiedades de sus objetivos si queremos que sean útiles.
+Por tanto, los modelos distorsionan intencionalmente su objetivo de estudio. Además, en
+ocasiones, los investigadores emplean idealizaciones: condiciones que los fenómenos naturales no cumplen, y que quizás nunca cumplirán. Aquí surge un problema: si los modelos
+distorsionan su objetivo, parece que no pueden formar parte de teorías verdaderas de la
+naturaleza, pues, en algún sentido por definir, decimos que las idealizaciones son "falsas" o
+que "falsean" su objetivo.
+Los filósofos han intentado dar cuenta de este problema: si aceptamos que la verdad
+es una parte importante de nuestras teorías científicas, entonces las idealizaciones deberían
+ser desterradas. Ha habido diversos enfoques sobre cómo cerrar la brecha entre los modelos
+"falsos" y la relevancia de la verdad en la investigación científica.
+Para cerrar esta brecha, algunos filósofos han argumentado que las idealizaciones funcionan como medios. El mundo es demasiado complejo para nuestras limitaciones cognitivas
+humanas, por lo que utilizamos idealizaciones para obtener una manera más manejable de
+abordar los fenómenos naturales: el uso de modelos e idealizaciones es un medio «para
+respaldar los fines cognitivos y prácticos humanos» (Potochnik, 2017, pp. ix).
+Dentro de esta postura, Potochnik afirma que podemos idealizar ciertos fenómenos resaltando la estructura causal del fenómeno en cuestión, a costa de perder precisión. Llamaré
+a esto el «enfoque de relevancia causal» sobre las idealizaciones: son principalmente herramientas para resaltar el patrón causal que nos interesa. Es crucial señalar que Potochnik
+sostiene que no es necesario desidealizar el modelo, ya que los modelos idealizados tienen
+numerosas ventajas epistémicas que una descripción completa del fenómeno no posee. La
+propuesta es mantener la idealización y prescindir de hacer el modelo más preciso.
+Otra postura afirma que el modelo idealizado es solo temporal. Este grupo de filósofos
+argumenta que las idealizaciones en el modelo funcionan como herramientas auxiliares: tienen
+una ventaja epistémica al distorsionar el fenómeno objetivo de manera momentánea, pero
+nuevas investigaciones mostrarán cómo debemos modificar la idealización para hacerla más
+precisa. Llamemos a esto la postura de «desidealización», o lo que (Weisberg, 2007) denomina
+«idealización galileana».
+2
+
+

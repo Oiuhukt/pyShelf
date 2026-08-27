@@ -1,0 +1,48 @@
+464
+
+konstantin genin
+
+indeed non-black, even if you are looking at a white one. For more on
+countable additivity, see Chapter 13 in Kelly (1996).
+Now that we have defined probabilism, it is natural to ask how to justify
+it: why should a rational agent’s degrees of belief obey the probability
+axioms? There are roughly two kinds of answers to this question current
+in the Bayesian canon.
+The traditional answer is that an agent that violates the axioms of
+probability opens herself up to systems of bets that, although fair from the
+agent’s perspective, guarantee a sure loss. Answers of this flavor are called
+Dutch book arguments and they require positing some connection between
+degrees of belief and fair betting quotients. Some epistemologists find
+Dutch book arguments to be unconvincing either because they disavow any
+tight connection between degrees of belief and betting quotients, or they
+deny that any facts about something so pragmatic as betting could have
+normative epistemic force. These epistemologists tend to prefer accuracy
+arguments, which purport to show that any agent violating the probability
+axioms will have beliefs which are less accurate, or “further from the truth,”
+than agents that satisfy the axioms. We will briefly review the traditional
+Dutch book-style arguments. For the original articulation of the accuracy
+perspective see Joyce (1998). For an article-length overview of accuracystyle arguments see Pettigrew (2016b). For a book-length treatment see
+Pettigrew (2016a).
+Dutch book arguments require specifying some connection between
+degrees of belief and fair betting quotients. For de Finetti (1937) the
+connection was definitional: an agent’s degree of belief in a proposition
+A simply is her fair odds ratio for a bet that pays $1 if A is true and
+nothing otherwise. If you are willing to pay at most $.50 for a bet that
+pays $1 if A is true and nothing otherwise, then it must be that your
+degree of confidence in A is 50%. It is easy to see what is wrong with this
+kind of definition: there may be factors other than the subject’s degree of
+belief which affect her fair betting quotient. She may be risk averse, or
+risk-loving; she may abhor gambling, or love showing off. Ramsey (1931)
+avoids some of these problems by pricing bets in utility, rather than money,
+and appealing to the existence of an “ethically neutral” proposition that is
+considered equally likely to be true and false. For more on the connection
+between degrees of belief and betting ratios see Eriksson and Hájek (2007).
+Supposing that a suitable connection between degrees of belief and fair
+betting quotients exists, it is possible to construct a “Dutch book” against
+an agent violating the axioms of probability. To get such an argument
+going we suppose that if the agent’s degree of belief in A is p( A), then
+she considers fair a bet that costs $p( A) · Y and pays $Y if A is true and
+$0 otherwise. Note that we allow Y to take positive and negative values.
+This means that the agent is willing to assume the role of the bookie and
+
+

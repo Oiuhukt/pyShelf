@@ -1,0 +1,44 @@
+theory can appropriately constrain counterfactual assessment. Three main candidates immediately
+suggest themselves: background science, background logic, and background metaphysics.
+First, let’s consider whether science can adequately constrain the assessment of
+interventionist counterfactuals. Here, we might take inspiration from certain causal interventionists.
+For instance, in their manipulationist account of causation, Menzies and Price appeal to artificial
+simulations to make sense of how we can justify causal claims about unmanipulable events. Take the
+claim that some earthquake was caused by friction between continental plates. Menzies and Price
+argue:
+We can make such causal claims because we believe that there is another situation that
+models the circumstances surrounding the earthquake in the essential respects and does
+support a means-end relation between an appropriate pair of events. The paradigm example
+of such a situation would be that created by seismologists in their artificial simulations of the
+movement of continental plates. (1993, 197)
+The simulation informs judgments about the relevant counterfactuals because it adequately models
+the mechanics of earthquakes. When artificial simulations are founded on a rich body of data and
+have a track record of predictive success, they can significantly aid counterfactual reasoning.
+That’s fine for the physical possibilities, but matters get trickier when it comes to
+counternomics. Woodward is cognizant of the epistemological worries that arise from his move
+toward conceptual or logical possibility. He admits:
+It is arguable that as we make the relevant notion of ‘possible intervention’ more and more
+permissive, so that it includes contra-nomic possibilities and so on, we reach a point at which
+this notion and the counterfactuals in which it figures become so unclear that we can no
+longer use them to illuminate… causal claims. (2009, 256)
+That’s because it is unclear what the proposed intervention would involve and how to determine
+what would result from it (2009, 257). If so, then perhaps counternomics might be thought to take
+us beyond the “natural range of application” of causal interventionism (2009, 256).
+However, Woodward suggests that, at least in some cases, elements of well-confirmed
+scientific theories constrain our judgment with regard to physical impossibilities. Recall the example
+of the moon’s gravitational attraction and its effect on the tides. Woodward suggests:
+Although it may be true that any actual physical process that changes the position of the
+moon will also directly influence the tides, Newtonian theory and familiar rules about the
+composition of forces tell us how to subtract out any direct influence from such a process
+so that we can calculate just what the effect of, say, doubling of the moon’s orbit (and no
+other changes) would be on the tides, even though it also may be true that there is no way of
+actually realizing this effect alone. (2003, 131)
+That is, the appropriate physical theory can help us to establish the right kind of modularity in our
+model of the intervention and its consequences. Woodward continues:
+Newtonian theory itself delivers a determinate answer to questions about what would
+happen to the tides under an intervention that doubles the moon’s orbit, and this is enough
+for counterfactual claims about what would happen under such interventions to be
+legitimate and to allow us to assess their truth. (2003, 131)
+19
+
+

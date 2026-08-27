@@ -1,0 +1,47 @@
+Best Explanations, Natural Concepts, and Optimal Design
+
+209
+
+long believed that modern science would be able to provide the requisite
+explanation, by discovering the micro-essence of each natural kind—
+appealing to shared DNA, or molecular structure, or atomic number, or
+what have you—and that this micro-essence would account for the kind’s
+phenomenal properties which made us consider it to be natural. But this
+project did not go quite as expected. The micro-essentialist answer that
+science appeared to give proved contentious under scrutiny. For instance,
+while we regard cows to constitute a natural kind, the bovine genome is
+not fixed once and for all but is subject to changes, due to evolutionary
+pressures (Ghiselin, 1987; Dupré, 1993; Sterelny & Griffiths 1999). And
+the claim that water is H2O is a gross simplification; in reality, water is
+a mixture of H2O, D2O, and a number of other isotope combinations of
+hydrogen and oxygen (van Brakel 1986, 2005; Needham 2000, 2011;
+Weisberg 2005). Such considerations led Churchland (1985, 12 f) to
+conclude that natural kind concepts are much sparser than had been
+generally believed and only concern fundamental physical entities and
+quantities, like neutrons, quarks, charge, mass, and momentum.
+But adopting such a minimalist stance vis-á-vis natural kind concepts
+robs realism of much of what had made it intuitively appealing. Indeed,
+biological and chemical kinds serve as the primary examples of natural
+kinds in Putnam (1975) and Kripke (1980), two publications pivotal in
+rekindling twentieth-century philosophers’ interest in the realism debate.
+And color concepts figure prominently as examples of (what she calls)
+natural categories in Rosch (1973), which has been highly influential in
+psychology.
+On the other hand, Leslie (2013) musters a vast amount of evidence
+from developmental psychology indicating that our essentialist intuitions
+may well be due to inchoate cognitive biases and may thus “reflect only
+facts about us, not facts about the deep nature of reality” (p. 158). Perhaps we simply have to get over the failure of the micro-essentialist program and learn to live with something like Churchland’s minimalism.
+However, contemplation on the role natural kind concepts play in
+science may stir more serious concerns about Churchland’s position. A
+metaphysical idea that guides science and that, according to many, is at
+the same time buttressed by the instrumental success of science, is that of
+a world hierarchically organized, where the different levels of organization are not only internally structured—into biological kinds, chemical
+kinds, physical kinds, and so on—but also interlock in systematic ways,
+via causal, functional, and part-whole relationships. Darden and Maull
+(1977) point out the vital importance of these interrelations for the practice and, ultimately, the success of science (see, in the same vein, Shapere
+in Callebaut, 1993, p. 159 ff). The role these interrelations play in science
+would be difficult to make sense of if we were realists about physical
+kinds, perhaps, but then were to side with the nominalists on biological
+and chemical kinds and hold that these are mere arbitrary groupings.
+
+

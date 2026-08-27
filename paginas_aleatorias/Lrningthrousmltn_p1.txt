@@ -1,0 +1,48 @@
+
+
+volume 20, no. 1
+january 2020
+
+
+
+Learning Through
+Simulation
+
+Sara Aronowitz & Tania Lombrozo
+Princeton University
+
+© 2020 Sara Aronowitz & Tania Lombrozo
+This work is licensed under a Creative Commons
+Attribution-NonCommercial-NoDerivatives 3.0 License.
+<www.philosophersimprint.org/020001/>
+
+Introduction
+Imagine that you have two cylindrical glasses of the same height,
+where one is wide and one is thin. Each glass is filled with water to the
+same height. If you slowly tip both glasses over at the same rate, which
+glass will spill water first? Or will they both spill water when tipped to
+the very same angle?
+This challenge — known as the “water-pouring problem” (Schwartz
+& Black, 1999) — is often answered incorrectly. But if people are invited to imagine holding out their hands (as if holding both glasses), to
+close their eyes, and to mentally rotate their hands until they think
+the water would spill, they often produce the correct response: that
+water from the wide glass will spill first. Call this activity of answering
+a query by imagining and then evaluating the output of one’s imagination mental simulation.
+The exercise of simulation just described looks like a way of learning
+something new. Construed in this way, it is a lot like learning through
+observation. But it’s also natural to say that this kind of learning doesn’t
+rely on acquiring any new information. Described like this, it is a lot like
+learning through inference.
+How does learning through simulation support learning? And
+what, if anything, is epistemically distinctive about learning through
+simulation? Can learning through simulation be reduced to learning
+through observation or through inference?
+This paper aims to make progress on these questions. We argue
+that mental simulation cannot be reduced to observation or inference, though it shares important similarities with both. On our account, mental simulation is distinctive in two ways. First, simulation is
+a method that can support learning some proposition q (the output of
+the simulation) even when the basis for that output is opaque to the
+learner. Second, through repeated simulation, the learner can reduce
+this opacity, supporting the acquisition of more accurate models of the
+world. This allows us to see why (and under what conditions) simulation is an essential part of learning from what we already know.
+
+

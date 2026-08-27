@@ -1,0 +1,52 @@
+140
+
+Function and Concept
+
+coincidence but only a partial agreement. If we adhere to this truth, we
+see that what the expressions;
+
+‘2.13 + 1’,
+
+‘2.23 + 2’,
+‘2.43 + 4’,
+
+6
+
+mean are numbers, viz. 3, 18, 132. So if a function were really the
+meaning of a mathematical expression, it would just be a number; and
+nothing new would have been gained for arithmetic by speaking of
+functions. Admittedly, people who use the word ‘function’ ordinarily
+have in mind expressions | in which a number is just indicated
+indefinitely by the letter x, e.g.
+‘2.x3 + x’;
+but that makes no difference; for this expression likewise just inde¬
+finitely indicates a number, and it makes no essential difference whether
+I write it down or just write down ‘x’.
+All the same, it is precisely by the notation that uses ‘x’ to indicate a
+number indefinitely that we are led to the right conception. People call
+X the argument, and recognize the same function again in
+‘2.13 + 1’.
+‘2.43 + 4’,
+‘2.5 + 5’,
+only with different arguments, viz. 1, 4, and 5. From this we may
+discern that it is the common element of these expressions that contains
+the essential peculiarity of a function; i.e. what is present in
+‘2.x3 + x’
+over and above the letter ‘x’. We could write this somewhat as follows:
+
+‘2.(
+
+)3 + (
+
+)’.
+
+I am concerned to show that the argument does not belong with a
+function, but goes together with the function to make up a complete
+whole; for a function by itself must be called incomplete, in need of
+supplementation, or ‘unsaturated.’ And in this respect functions differ
+fundamentally from numbers. Since such is the essence of functions, we
+can explain | why, on the one hand, we recognize the same function in
+‘2.13 +r
+‘2.23 + 2’, even though the numbers these expressions
+
+

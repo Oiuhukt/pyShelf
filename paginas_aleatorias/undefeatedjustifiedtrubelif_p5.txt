@@ -1,0 +1,46 @@
+228
+
+THE JOURNAL OF PHILOSOPHY
+
+does not completely justify S in believing that h.7 This definition is
+strong enough to rule out the example of the pyromaniac as a case
+of knowledge. The statement that the striking of a match will not
+cause it to ignite, which is true, is such that when it is conjoined to
+any statement that completely justifies the pyromaniac in believing
+that the match will ignite, the resultant conjunction will fail to so
+justify him in that belief. Given this definition of defeasibility, the
+analysis of nonbasic knowledge would require that a man who has
+nonbasic knowledge that h must have some justification for his belief that is not defeated by any true statement.
+However, this requirement is somewhat unrealistic. To see that
+the definition of defeasibility under consideration makes the analysis of nonbasic knowledge excessively restrictive, we need only notice that there can be true statements that are misleading. Suppose
+I see a man walk into the library and remove a book from the library by concealing it beneath his coat. Since I am sure the man is
+Tom Grabit, whom I have often seen before when he attended my
+classes, I report that I know that Tom Grabit has removed the
+book. However, suppose further that Mrs. Grabit, the mother of
+Tom, has averred that on the day in question Tom was not in the
+library, indeed, was thousands of miles away, and that Tom's identical twin brother, John Grabit, was in the library. Imagine, moreover, that I am entirely ignorant of the fact that Mrs. Grabit has
+said these things. The statement that she has said these things would
+defeat any justification I have for believing that Tom Grabit removed the book, according to our present definition of defeasibility.
+Thus, I could not be said to have nonbasic knowledge that Tom
+Grabit removed the book.
+The preceding might seem acceptable until we finish the story
+by adding that Mrs. Grabit is a compulsive and pathological liar,
+that John Grabit is a fiction of her demented mind, and that Tom
+Grabit took the book as I believed. Once this is added, it should be
+apparent that I did know that Tom Grabit removed the book, and,
+since the knowledge must be nonbasic, I must have nonbasic knowledge of that fact. Consequently, the definition of defeasibility must
+be amended. The fact that Mrs. Grabit said what she did should
+not be allowed to defeat any justification I have for believing that
+Tom Grabit removed the book, because I neither entertained any
+beliefs concerning Mrs. Grabit nor would I have been justified in
+"The Ethics of Requirement," American Philosophical Quarterly,
+definition of defeasibility would make our analysis of nonbasic knowledge very similar to one Harman derives from Lehrer's
+analysis and also one proposed by Marshall Swain in "The Analysis of NonBasic Knowledge" (unpublished).
+7 Chisholm,
+
+I, 2 (April 1964): 147-153. This
+
+This content downloaded on Fri, 14 Dec 2012 08:25:23 AM
+All use subject to JSTOR Terms and Conditions
+
+

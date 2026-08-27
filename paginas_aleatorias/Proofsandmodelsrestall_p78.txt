@@ -1,0 +1,17 @@
+72
+
+Philosophy and Logic
+
+current defence of necessitism (the view that everything that exists, exists necessarily) is motivated by the simplicity and power of the modal model theory
+(Williamson, 2013). There is no doubt that modal models are rich and powerful. However, further options seem open to consider the proof-first accounts of
+modal logic that connect smoothly with the speech acts in use in modal discourse, such as supposing, in the different senses of this word (Lance & White,
+2007; Restall, 2012), and similarly, accounts of singular terms and quantification in vocabularies where we may not simply take as given that each singular
+term has a referent (Feferman, 1995; Restall, 2019). The line sketched out here
+concerning the relationship between proofs and models will, I think, give us
+better tools to understand the power and significance of possible worlds models
+and their connection to our everyday practices.
+
+Downloaded from https://www.cambridge.org/core, IP address: 201.141.17.208, on subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/9781009040457
+
+

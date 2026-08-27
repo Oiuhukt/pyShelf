@@ -1,0 +1,61 @@
+SUMMARY [185]
+
+49
+
+Appendix 4.A
+
+Linear DiHerence EquatioDs
+
+Linear difference equations with constant coefficients are treated almost exactly the same way as are linear differential equations with constant coefficients (because of the common underlying linearity). Therefore we first review
+the theory of linear differential equations with constant coefficients.
+For the linear differential equation with constant (real) coefficients
+(where y(") means the nth derivative of y)
+
+(4.A-l)
+the knowledge of any particular integral of (4.A-l), call it Y(x), reduces the
+problem to the homogeneous equation
+
+(4.A-2)
+The eigenfunctions of this homogeneous equation are essentially the exponentials ("essentially" because of the possibility of multiple roots in the characteristic equation)
+y( x) em % exp( mx)
+
+=
+
+=
+
+When this function is substituted into (4.A-2) we get the characteristic equation, since the exponential cancels out (as it must since we used eigenfunctions),
+aom" + alm,,-l + ... + a" = 0
+(4.A-3)
+This equation has the n characteristic roots
+
+If all the characteristic roots are distinct then the general solution of the
+homogeneous equation is
+
+y(x) =
+
+"
+LCt
+e .%
+m
+
+(4.A-4)
+
+t=l
+
+For a double root you try both x exp( mx) and exp( mx), for triple roots
+x 2 exp( mx), x exp( mx) and exp( mx), etc. If a root is complex then since
+we are assuming that the coefficients of the original differential equation are
+real the conjugate root also occurs. Let the roots be
+
+a+ ib
+
+and
+
+a - ib
+
+In place of the two complex exponentials you can, if you wish, use instead
+eel% {C1 cos bx + C2 sin bx}
+
+(4.A-5)
+
+

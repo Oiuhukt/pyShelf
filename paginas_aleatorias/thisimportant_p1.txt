@@ -1,0 +1,82 @@
+LATEX
+The ultimate in portable
+typesetting: LATEX runs on
+any computer and produces
+timely, accurate output in
+publication quality on your
+desktop printer or business
+typesetter.
+LATEX is completely free, and has
+been the tried and tested
+solution for over 25 years.
+LATEX is in use by leading
+publishers, documentation
+specialists, and technical and
+academic users worldwide.
+What they say about LATEX
+I was getting increasingly exasperated with the limitations presented by wordprocessing programs when LATEX
+came into my life and allowed me to do all those things
+I previously could only dream of, from unusual symbols to complicated layout. I strongly recommend it to
+anybody interested in producing a professional-looking
+document!
+Petra Hellmuth, Language Specialist
+
+Sophisticated professional typesetting
+for business and academic publishing
+The ideal solution for your document formatting
+and database or XML publishing requirements
+
+I
+
+F you need to produce a document for publication you want
+
+robust, professional software which won’t let you down —
+whether it’s an annual report, a manual for your customers,
+a business plan or white paper for your investors, an article for
+a journal, a book for a publisher, a newsletter for your club or
+society, or a leaflet or brochure for a product, event, or venue.
+
+k LATEX is a document preparation system for producing high-
+
+quality output, based on Don Knuth’s revolutionary TEX
+typesetting program. It’s been used by millions since its
+launch in 1985, and has been continuously updated to bring
+you the state of the art in accuracy and flexibility.
+k More powerful than a wordprocessor or desktop publishing system, LATEX has a host of unique features which can
+dramatically cut time and cost for any publishing project,
+especially for long or complex documents.
+k Its secret is programmability: hundreds of prewritten templates (packages) to handle almost any formatting task — or
+you can define your own with the underlying style language.
+You only have to define a pattern once, and all further occurrences then follow that style, giving it unrivalled consistency:
+the key to professional-looking output.
+
+I use pdfLATEX and METAFONT not only because I need
+them to create my presentations, lecture notes and papers but also because it’s fun! Entering a math equation in Powerpoint is a pain in the neck: with pdfLATEX
+and METAPOST it is a lot easier because you can
+change the style of what is to be displayed. I have a
+lecture class from which I generate a lecture presentation and lecture notes all from the same source: I can
+add text which appears in one or both of the documents.
+Marc van Dongen, Computer Scientist
+
+LATEX is available in Ireland from
+Silmaril Consultants
+Bishopstown, Cork
+latex@silmaril.ie
+http://silmaril.ie
+
+UCC Computer Centre
+Electronic Publishing Unit
+3.19 Kane Building
+http://epu.ucc.ie/latex/
+
+The Irish TEX And LATEX Interest Community (ITALIC)
+has a mailing list which you can join at
+http://listserv.heanet.ie/italic-l.html
+
+If you’re convinced, or if you are not, get in touch with your
+nearest supplier, or contact your local User Group (see addresses
+in panel). They will be happy to discuss your requirements. You’re
+also very welcome to come to any of the User Group events and
+meet other users.
+
+

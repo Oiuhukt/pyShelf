@@ -1,0 +1,103 @@
+260
+
+refer to the population level. McLoone confuses the requirement of variation for establishing causation with the necessary condition of variation for natural selection to occur in
+a population. Insisting that variation on a property, rather
+than the property itself, is what causes a phenomenon is
+simply not in line with the notion of causation defined within
+the interventionist account and beyond, and consequently
+cannot be used as an argument against the individual-level
+cause view. And in fact, if one were to follow McLoone’s
+argument, they would have to conclude, for instance, that
+performing a linear regression analysis and establishing that
+a plant’s leaf area causally influences its growth, as part of
+a randomized experiment, is not locating causation at the
+level of the individual plant because one will need to refer
+to variation in leaf area—a population-level property—to
+establish causation. McLoone’s argument, a slippery slope,
+thus demonstrates that the presence of variation cannot be
+considered as a way to adjudicate the debate between the
+individual- and population-level cause views.
+It seems furthermore that McLoone did not see the relevance of an important distinction made within the interventionist account, namely between an actual and a potential
+difference maker after Waters (2007).16 This distinction is
+precisely designed to demarcate cases in which one could
+intervene on a property to show that it is causally involved
+in an outcome, yet the value the variable would take after
+the intervention is performed is never actually exhibited in
+the population of events considered, from cases in which
+this value is exhibited in this population and the cause is
+observed. In the former cases the cause is a potential difference maker, while in the latter cases, it is an actual difference
+maker.
+More precisely, for X to be an actual difference maker
+with respect to Y, at least two conditions should be verified,
+according to Waters. First, X should be a cause of Y, that is,
+following the interventionist account there should be at least
+one possible intervention on X that leads to a difference in Y.
+Second, X should be defined over an actual population which
+exhibits a range of variation, and there should be at least
+some interventions on X using values from this range that
+make a difference in Y. By contrast, for X to be a potential
+difference maker only the first of the two conditions needs
+to be satisfied.17 This implies that all actual difference makers are also potential difference makers, while the converse
+is not true.
+
+16
+I believe that the distinction made by Glennan (2009), to defend
+the individual-level cause view, between productive and relevant
+cause is on a similar track.
+17
+Recently, Griffiths et al. (2015) have implemented this distinction
+using a causal variant of mutual information.
+
+13
+
+P. Bourrat
+
+As a way of illustrating the distinction, Waters uses the
+example of two genes causing eye color in Drosophila. One
+gene exhibits no variation in the population, but a possible
+ideal intervention would produce a difference in eye color.
+This gene is a potential difference maker. The second gene
+exhibits some variation in the population, and this leads individuals to have different eye colors in this population. This
+gene is an actual difference maker in the population under
+investigation. We see here again that the presence of a varying population, whether potential or actual—which might
+be defined over a single object varying temporally or a collection of objects— is necessary for establishing causation.
+Following McLoone’s argument, any actual difference
+maker in a population of objects ought to be considered as
+a population-level cause, effectively rendering the notion
+of “individual-level cause” vacuous and going against the
+classical interpretation that actual difference makers have
+causal powers at the level they are defined.
+
+The Individual‑Level Causalist Position
+Interpreted Correctly
+In the previous sections, I showed that McLoone missed the
+mark in characterizing the individual-level cause view. I suspect that this mischaracterization might have originated from
+a misunderstanding of the role of a regression coefficient
+within the interventionist account which itself might have
+been fueled by one problematic move made by Otsuka in his
+defense of the individual-level cause view. To be completely
+fair, this problematic move is identified by McLoone in his
+footnote 4, but quickly dismissed.
+Before presenting Otsuka’s move and showing why it is
+problematic, I must briefly provide a simplified version of
+the model used by Otsuka. Following standard evolutionary theory (see, for instance, Lande and Arnold 1983), the
+reproductive output of a given individual i in a population18
+can be characterized as follows:
+(2)
+where wi and zi are the absolute reproductive output and
+the character of this individual respectively, 𝛽 is the linear
+regression coefficient of w on z, and 𝜖i is the residual (typically conceived of as an environmental deviation).
+Given this model, Eq. (2) can be inserted in the Price
+equation, presented informally above, which is a very
+abstract way to describe evolutionary change between two
+generations, or more generally between two times (Price
+
+wi = 𝛽zi + 𝜖i ,
+
+18
+
+Note that strictly speaking this is not the fitness of this individual
+since it is the outcomes of all factors influencing reproductive output,
+including those that have nothing to do with natural selection.
+
+

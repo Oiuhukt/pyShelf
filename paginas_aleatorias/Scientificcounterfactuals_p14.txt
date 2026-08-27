@@ -1,0 +1,53 @@
+473
+
+Page 14 of 27
+
+Synthese (2022) 200:473
+
+Weisberg calls ‘generalised’ models (models of general phenomena, such as parasitism) and ‘hypothetical’ models (models of nonexistent targets, such as xDNA). In
+Godfrey-Smith’s words, direct fiction views “have to massage the phenomena quite a
+lot” (2009, p. 159). Toon’s (2012) response to these cases is to treat them as exceptions:
+model descriptions prescribe imaginings of target systems unless the models have no
+target, in which case they prescribe imaginings about fictional systems. However, this
+latter option inherits the problem of transfictional statements for targetless models.
+Levy’s (2015) response to the objection is to dismiss these cases as either only apparently targetless or as bits of mathematics. This poses an immediate question: under the
+assumption that the target will eventually be clarified, what is the model about until
+then? Consider the following counterfactual: ‘If neutralinos existed, they would only
+interact with the intermediate vector bosons.’ We don’t know whether these hypothetical particles of supersymmetry models will eventually be found, but we nonetheless
+treat models of these as entities in their own right. The main difficulty of the direct
+fiction view is the fact that it makes modelling parasitic on what is already known
+to exist. By making the definition of ‘model’ independent from modelers’ epistemic
+states, the indirect fiction view comes out as a more inclusive alternative.20
+The aforementioned inclusivity results from the workings of the indirect fiction
+view: the indirect view cashes out modelling as a two-step process, where in the
+first step one investigates the model, and in the second one investigates whether the
+model bears on the world (and, if so, how this representational relation functions). This
+explains why the two notions of fiction—fiction as falsity and fiction as imagination—
+need not be mutually exclusive: fictions might still represent, beyond themselves, but
+crucially, it is in virtue of their imaginative nature and not this representational power
+that they are fictions. Translated to truth, this is the idea that when modelling one first
+pretends the truth of the claims implied by the model, and only afterwards considers
+whether these fictional truths map onto truths via one’s preferred theory of scientific
+representation, such as Frigg’s and Nguyen’s DEKI account of scientific representation
+(2016; 2020). Asking about the representational power of a model is then a question that
+is bracketed when investigating a model. I believe the characterisation of modelling as a
+two-step activity offers a good and unifying reconstruction of counterfactual reasoning
+in science.21 When reasoning with counterpossibles, one often first asks whether a
+consequent follows from the antecedent in question before examining how the content
+of the imaginary exercise in question relates to the world. Given that there don’t seem
+to be any relevant cognitive differences between regular counterfactual reasoning and
+counterpossible reasoning (see Sect. 3.2), it is only natural to characterise regular
+counterfactuals in the same way. This independence from knowledge of actual states of
+affairs afforded by the indirect fiction view of models thus enables a uniform treatment
+20 Another viable inclusive alternative is to reconceptualise the indirect view of models into the ‘new fiction
+view of models’ (Salis, 2020), a view which in order to account for the relationship between the properties
+attributed to imaginary objects by the model and real objects abandons the notion of a model system and
+appeals in favour of the notion of a ‘mental file’. Mental files are cognitive structures used by anti-realists
+about intentionality for the storage of information about an object, which may or may not exist.
+21 As Levy (2015) argues, while positing and analysing a model, on the one hand, and assessing its relation
+to the actual world, on the other, might not come apart in actual practice, they are logically distinct operations.
+The indirect fiction view recognises the logical distinctness of these two operations.
+
+123
+
+

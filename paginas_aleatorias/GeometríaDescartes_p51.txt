@@ -1,0 +1,42 @@
+326
+
+RENE DESCARTES
+
+modo que 46 sea menor que AS según una proporción
+
+dada, a saber, según la que mide las refracciones, si es
+que deseamos tenga alguna aplicación para la Dióptrica. En tercer lugar se toma a discreción el punto G en la
+línea FA y del mismo lado que se encuentra el punto $;
+
+es decir, haciendo que entre las líneas AF y GA se
+guarde la proporción deseada. A continuación, en la
+línea A6 establezco RA igual a GA y desde el punto G,
+describiendo un círculo cuyo radio sea igual a R6 corto
+el otro círculo de una a otra parte, punto que será uno
+
+de aquéllos por donde debe pasar uno de los óvalos
+deseados. Por último, desde F describo un círculo que
+
+corta a FA un poco más allá del punto 5, por ejemplo,
+hacia el punto 7 y, trazando la línea 78 paralela a 56,
+desde el punto G trazo otro círculo cuyo radio sea igualA-T. VI 426
+a la línea R8. Este círculo cortará al que pasa por el
+
+punto 7 en el punto 1 que es otro de los del mismo
+óvalo. De este modo pueden hallarse cuantos se deseen,
+trazando otras líneas paralelas a 78 y otros círculos
+desde los centros F' y G.
+La única diferencia existente en la construcción del
+segundo óvalo reside en que en vez de AR deberemos
+tomar ÁS en el otro lado de A, igual a AG, y, en
+
+segundo lugar, en que el radio del círculo descrito desde
+el punto G, cortando el círculo que se describe con
+centro en F y que pasa por el punto $, sea igual a la
+línea S6, o bien que sea igual a la línea S8-si ha de
+
+cortar el que pasa por el punto 7 y así sucesivamente.
+De este modo, tales circulos se cortan entre sí en los
+puntos 2, 2, que son los del segundo óvalo, A2X.”
+
+

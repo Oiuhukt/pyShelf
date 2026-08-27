@@ -1,0 +1,53 @@
+130
+
+Page 12 of 24
+
+Synthese (2023) 202:130
+
+he argues that it might still be derived from the normativity of our assertoric practices
+more generally, as seen as including all of these norms. He says that “Any discourse
+controlled by such a complex pattern of norms will, once “true” is introduced via
+the [equivalence schema], throw up the contrasts between “true” and “assertible”
+that drive the Inflationary Argument” (Wright, 2021, p. 447). There is a myriad of
+norms that guide our assertoric discourse, and the deflationist might still maintain
+that the normativity of truth is derived from these norms, instead of it being a further
+distinguishable assertoric norm.
+Wright goes on to also argue that truth isn’t normative in the case of taste. Instead of
+talking about the metaphysics and epistemology of the domain of taste, Wright talks
+about the phenomenon of faultless disagreement to support his claim.
+The puzzle of faultless disagreement is as follows. When we disagree, we take the
+other’s belief to be false. Hence, we take the other’s belief to be worse than ours; ours
+is true, whereas theirs is false. So how could any disagreement be faultless?
+The contextualist would say that our assertions of taste are implicitly indexicalized.
+What I mean by saying that pistachio ice cream is tasty is that it is tasty for me. What
+you mean when you say that it isn’t is that it isn’t tasty for you. That’s why both our
+assertions can be true at once and why the disagreement is faultless. However, as John
+MacFarlane argues, if this is the case then we aren’t really disagreeing at all, we are
+simply talking past each other (MacFarlane, 2014, p. 8).
+A relativist like Kölbel (2004) or MacFarlane (2014) would say that the truth of a
+claim like ‘Pistachio ice cream is tasty’ is relative to whomever assesses the claim.
+Hence, one and the same proposition could be true when assessed by you and false
+when assessed by me, which is how we could come to disagree without either of us
+being alethically at fault.
+Yet, Wright argues that instead of fracturing the truth norm in this way, so that
+everyone has their own standard, it would be simpler to do away with the normativity
+of truth entirely for matters of taste:
+[Faultless disagreement is] a hopeless idea if the discourse is thought of as
+answerable to a single norm of truth with which no statement and its negation
+can simultaneously comply. So if faultless disagreement is to be a possibility,
+there must be no such single alethic norm. That leaves two options. One is, in one
+way or another, to — as it were — fracture the norm, multiply the ways of being
+true, and spread the pieces around, so that conflicting opinions can each alight
+on a shard. [Relativism] attempts a particular implementation of that option. The
+other option is to suction out the substance of the alethic norm, leaving only the
+formal shell. (Wright, 2021, p. 445)
+If truth doesn’t pack its “normal normative punch” (Wright, 2021, p. 438), then we
+can disagree with someone, thereby taking their belief to be false, without automatically taking them to be at fault for having this belief.
+Both Ferrari and Moruzzi as well as Wright have hereby shown that it is conceivable,
+if not plausible, that truth isn’t normative for matters of taste. Hence, it is still possible
+that Price was right about his pragmatic vindication of the truth norm; maybe the
+practical advantages of aiming for truth do explain why truth is normative. However,
+
+123
+
+

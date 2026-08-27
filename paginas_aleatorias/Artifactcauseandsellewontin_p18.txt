@@ -1,0 +1,57 @@
+ARTIFACT, CAUSE AND GENIC SELECTION
+
+173
+
+Are there real cases of genic selection? A dominant lethal-a gene
+which causes the individual to die regardless of the context in which it
+occurs-would be selected against. And selection for or against a phenotypic trait controlled by a single locus having two alleles might also be
+describable in terms of genic selection, provided that the heterozygote is
+intermediate in fitness between the two homozygotes. In addition, meiotic
+drive, such as is found in the house mouse Mus musculus, similarly seems
+
+to involve genic selection (Lewontin and Dunn 1960). Among heterozygote males, the proportion of t-alleles in the sperm pool is greater than
+
+1/2. Chromosomes with the t-allele have enhanced chances of representation in the gamete pool, and this directional effect seems to hold true
+regardless of what other genes are present at other loci.?1 At this level,
+but not at the others at which the t-allele affects the population, it is
+appropriate to talk about genic selection.
+We so far have construed genic selection in terms of the way that hav-
+
+ing or lacking a gene can affect the reproductive chances of organisms.
+But there is another possibility-namely, that genes differentially prolif-
+
+erate even though they have no effect on the phenotypes of organisms.
+A considerable quantity of DNA has no known function; Orgel and Crick
+
+(1980) and Doolittle and Sapienza (1980) have suggest that this DNA
+may in fact be "junk". Such "selfish DNA", as they call it, could nonetheless undergo a selection process, provided that some segments are
+better replicators than others. Although these authors associate their ideas
+
+with Dawkins' selfish gene, their conception is far more restrictive. For
+Dawkins, all selection is genic selection, whereas for these authors, selfish DNA is possible only when the differential replication of genes is
+not exhaustively accounted for by the differential reproductive success
+of organisms.
+Standard ways of understanding natural selection rule out rather than
+
+substantiate the operation of genic selection. It is often supposed that
+much of natural selection is stabilizing selection, in which an intermediate
+
+phenotype is optimal (e.g., birth weight in human beings). Although the
+exact genetic bases of such phenotypes are frequently unknown, biologists often model this selection process as follows. It is hypothesized that
+the phenotypic value is a monotone increasing function of the number of
+"plus alleles" found at a number of loci. Whether selection favors the
+
+presence of plus genes at one locus depends on how many such genes
+exist at other loci. Although this model does not view heterozygote su-
+
+"?Genes at other loci which modify the intensity of segregator distortion are known to
+exist in Drosophila; the situation in the house mouse is not well understood. Note that the
+existence of such modifiers is consistent with genic selection, as long as they do not affect
+
+the direction of selection.
+
+This content downloaded from
+132.248.28.19 on Thu, 06 Oct 2022 17:43:47 UTC
+All use subject to https://about.jstor.org/terms
+
+

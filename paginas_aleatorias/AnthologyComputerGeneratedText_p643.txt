@@ -1,0 +1,35 @@
+Microworld
+A simulated “toy world” in which a few objects and spaces
+are modeled and certain aspects of the real world are
+ignored. Microworld-based systems have been developed
+(particularly in the 1970s and 1980s) to demonstrate that a
+certain approach is effective at a general, high level.
+Systems that are cognitive models or are focused on
+discourse are generally not considered, by virtue of this
+type of modeling, to have microworlds. The term is usually
+reserved for those that at least simulate where things are
+and what actions are taken, if not further details of physics.
+Examples: SHRDLU; Adventure; Zork; Novel Writer; TALESPIN; MINSTREL; GESTER; TAILOR; MEXICA; FABULIST;
+Dwarf Fortress Legends; Sheldon County.
+NaNoGenMo
+National Novel Generation Month was at first a glib
+comment by author/programmer Darius Kazemi. He
+suggested that instead of enduring the rigors of the
+NaNoWriMo (National Novel Writing Month), which
+happens in November, the computationally inclined should
+use that month to do computer-generated work. The idea of
+NaNoWriMo is that US writers should produce 50,000
+words of novelistic writing. The goal is not to find a
+publisher or even polish one's work by revising it, but to
+get it all out. Those taking up the challenge of NaNoGenMo
+should not write but generate a novel of that length. And to
+be more precise, any textual output this long will do—the
+concept of the novel is extremely flexible. In addition to the
+technical requirement that output be 50,000 words long,
+output and code must be freely shared online. And, finally,
+there is a process constraint: All the work is supposed to be
+done in November. Very many outputs in this book,
+including many that are not novels and not in the Novel
+section, were generated as part of NaNoGenMo. Examples:
+
+

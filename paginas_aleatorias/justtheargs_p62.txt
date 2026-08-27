@@ -1,0 +1,18 @@
+The Euthyphro Dilemma 51
+can’t be impossible if it’s rational to believe in God’s moral perfection; and
+our grasp of necessary moral facts is an epistemic issue that would underdetermine the metaphysical foundations of morality. And finally, the dependence of morality on God does not entail God’s volitional control over the
+contents of morality to make it just anything at all; divine impeccability
+would rule some things out. Armed with such distinctions, the theistic ethicist and divine command theorist has not been shown to be irrational in
+light of the Euthyphro Dilemma.
+Is what is holy holy because the gods approve it, or do they approve it
+because it is holy? (Plato, 10a)
+
+P1. What is moral is either moral because God commands it or it is not.
+P2. If what is moral is moral because God commands it, then morality is
+arbitrary and vacuous.
+P3. If what is moral is moral for reasons other than that God commands
+it, then God is superfluous from the standpoint of morality.
+C1. Either morality is arbitrary and vacuous or God is superfluous to
+morality (constructive dilemma, P1, P2, P3).
+
+

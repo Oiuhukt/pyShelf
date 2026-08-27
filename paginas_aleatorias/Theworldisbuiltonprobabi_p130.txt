@@ -1,0 +1,47 @@
+control and self-control
+
+116
+
+Maximum information (1 bit) is obtained when 𝑝 = 1/2, i.e. when a
+“yes” and a “no” are equally probable. Now we can refine our notion of “1
+bit of information”. This is the information contained in a digit that may
+take on only two values provided both values are equally probable.
+It follows that the best strategy in the Bar Kohba game is to ask “yes” or
+“no” questions, the answers to which are nearly or equally probable. Recall the
+question: “Is the surname listed from 17 to 32?” Here the answers “yes” and
+“no” are equally probable because there are 32 pupils and the numbers from
+17 to 32 cover half of the pupils. Therefore, the answer to this question gives 1
+bit of information. But for the question: “Is the surname listed from 1 to 8?”
+the range of numbers only covers a quarter of all the numbers and therefore
+the probability of a “yes” is 1/4, while that of a “no” is 3/4. The answer to this
+question would contain less than 1 bit of information. According to (3.3), in
+which we substitute 𝑃 = 1/4, each answer contains 0.8 bit of information.
+Once again I emphasize that control processes should be regarded in a
+dialectical unity with the random processes of disorganization. There is a
+deep relationship between information theory and probability theory. The
+Shannon formula (3.2) illustrates this point. The probabilistic approach provides a scientific, objective notion of information that is free from a subjective
+substitution of the quantity of information by its significance or importance.
+
+1
+
+0
+
+1/2
+
+1
+
+Figure 3.6: Graph of Shannon distribution.
+
+p
+
+Information in communication channels with noise. When information is transmitted, some loss is unavoidable. This happens because of the
+action of random factors, which are commonly lumped together as noise. A
+communication channel for transmitting information from input set 𝐴 to
+output set 𝐵 is represented in Figure 3.7. The information is affected by noise
+𝑃 as it is transmitted. Suppose that 𝜉 is an input discrete random variable
+which may assume values 𝑥1 , 𝑥2 , 𝑥3 , … , 𝑥𝛮 . with probabilities 𝑝1 , 𝑝2 , 𝑝3 , … , 𝑝𝛮 ,
+and 𝜂 is the output variable, which may assume values 𝑦1 , 𝑦2 , 𝑦3 , … , 𝑦𝛭 . with
+probabilities 𝑞1 , 𝑞2 , 𝑞3 , … , 𝑞𝛭 . Let 𝑃𝑖 (𝑗) denote the probability that 𝜉 = 𝑦𝑗
+is the output variable if 𝜉 = 𝑥𝑖 was transmitted. The probability 𝑃𝑖 (𝑗) is
+
+

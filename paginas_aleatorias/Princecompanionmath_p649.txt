@@ -1,0 +1,111 @@
+626
+that begin with those N digits, then we cannot avoid
+ϕ without undoing our previous work. Let us call a
+property avoidable if every ﬁnite binary sequence p can
+be extended to a ﬁnite binary sequence q such that no
+inﬁnite sequence that extends q has the property. For
+instance, the property “all terms in the sequence are
+zero” is avoidable, while the property “there are ten
+consecutive ones in the sequence” is not avoidable.
+A real number c is called generic, or Cohen, over M
+if it avoids all avoidable properties that can be deﬁned
+in M, that is, properties that can be deﬁned by means
+of formulas that may mention sets in M. It is easy to
+see that c cannot belong to M, since if it did then the
+property “is equal to c” would be deﬁnable in M, and it
+is certainly avoidable.
+Why should a generic real number exist? Once again,
+we use the fact that M is countable. From this it follows
+that there are only countably many avoidable properties. If we enumerate them as ϕ1 , ϕ2 , . . . , then we can
+pick a ﬁnite sequence q1 such that no inﬁnite extension
+of q1 satisﬁes ϕ1 . Then we can extend q1 to q2 such that
+no inﬁnite extension of q2 satisﬁes ϕ2 . Continuing in
+this way we create an inﬁnite binary sequence c that
+does not have any of the properties ϕi . In other words,
+it is generic.
+Now let M[c] be the set of all sets that can be constructed, using c and the elements of M as parameters,
+in as many steps as the ordinals of M. For instance, if
+M were of the form Lα , then M[c] would just be Lα (c).
+The model M[c] is called a Cohen-generic extension
+of M.
+It turns out that, miraculously, M[c] is a model of
+ZFC. Moreover, it has the same ordinals as M and, therefore, it is not of the form Lγ , for any ordinal γ. In particular, when we build L inside M[c], c does not belong to
+it. These statements are by no means easy to prove, but
+very roughly what Cohen showed was that a formula ϕ
+is true in M[c] if and only if there is an initial segment
+p of c that “forces” ϕ to be true. Moreover, the relation “p forces ϕ to be true,” which relates ﬁnite binary
+sequences to formulas and is written p  ϕ, can be
+deﬁned in M. Therefore, to know whether a statement
+ϕ is true in M[c] one just needs to check whether there
+is an initial segment p of c such that p  ϕ. In particular, using this result one can prove that M[c] satisﬁes
+the ZFC axioms.
+In order to build a model where CH fails, one adds
+not just one generic real number but ℵM
+2 of them, where
+is
+the
+ordinal
+that
+plays
+the
+role
+of ℵ2 in M. That
+ℵM
+2
+is, it is the second uncountable cardinal in M. This
+
+IV. Branches of Mathematics
+need not be the real ℵ2 , and indeed it will not be if,
+for instance, M is of the form Lα for some countable
+ordinal α in V . Adding ℵM
+2 generic real numbers can
+be done by ﬁnitely approximating any ﬁnite number of
+them while avoiding all avoidable properties they could
+have. Thus, instead of ﬁnite binary sequences we now
+work with ﬁnite sets of ﬁnite binary sequences indexed
+by ordinals less than ℵM
+2 . A generic object will be a
+sequence cα : α < ℵM
+2  of Cohen reals over M, all
+diﬀerent, and so CH is false in the generic extension
+M[cα : α < ℵM
+2 ].
+However, there is an important point that needs to be
+addressed. When we add the new real numbers to M,
+it is important that the ℵ2 of the new expanded model
+is the same as ℵM
+2 . Otherwise, CH might hold in the
+expanded model and our work would have been wasted.
+Fortunately, this is true, but again we must use the facts
+about forcing to prove it.
+The same kind of forcing argument allows one to construct models where the cardinality of R is ℵ3 , or ℵ27 ,
+or any other cardinal of uncountable coﬁnality, i.e., any
+uncountable cardinal that is not the least upper bound
+of countably many smaller cardinals. The cardinality
+of the continuum is, therefore, undetermined by ZFC.
+Furthermore, since CH holds in Gödel’s constructible
+universe L and fails in the model constructed by Cohen
+using forcing, it is undecidable in ZFC.
+Cohen also used forcing to prove that AC is independent of ZF. Since AC holds in L, this amounted to constructing a model of ZF in which AC was false. He did
+this by adding a countable collection cn : n ∈ N of
+generic real numbers to a countable model M of ZF. To
+see why this works, let N be the smallest submodel of
+M[cn : n ∈ N] that contains all the ordinals and the
+unordered set A = {cn : n ∈ N}. Thus, N is just L(A), as
+built inside M[cn : n ∈ N]. One can then show that N
+is a model of ZF, but that in N there is no well-ordering
+of A. The reason is that any well-ordering of A would be
+deﬁnable in L(A) with a ﬁnite number of ordinals and
+ﬁnitely many elements of A as parameters, and then
+each one of the cn would in its turn be deﬁnable by
+indicating its ordinal position in the well-ordering. But
+since the whole sequence of cn s is generic over L, no
+formula can distinguish one of the cn s from another
+unless they appear as parameters in the formula. Since
+we can choose two diﬀerent cn s that do not appear as
+parameters in the deﬁnition of the well-ordering of A,
+and that well-ordering distinguishes all the cn s from
+each other, we have a contradiction. Therefore, the set
+A cannot be well-ordered, so AC does not hold.
+
+

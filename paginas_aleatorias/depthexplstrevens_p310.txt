@@ -1,0 +1,40 @@
+7.6
+
+The Metaphysics of High and Low
+
+289
+
+thesis provides a metaphysics for a certain kind of law, it will not seem much
+like other well-known accounts of laws of nature, because these other accounts primarily concern fundamental laws. (Lewis’s (1973b) best-system
+account, for example, is a theory of fundamental laws alone.) Indeed, since
+the thesis takes the fundamental laws as its raw material without saying
+anything substantive about their nature, it is quite consistent with a range
+of views about the essence of fundamental lawhood.
+Let me spell out the consequences of the causal-mechanical thesis for an
+uncomplicated causal law of the form In conditions Z, all F s are G, understood (as above) as assuming or asserting a causal connection running
+from F to G. If the law’s explanatory model contains no basing generalizations, then the law’s sole constituent is the mechanism in virtue of which the
+properties specified by the law’s conditions of application Z and antecedent
+F causally produce the explanatory target, that is, the instantiation of G.
+Such a mechanism is, in effect, a high-level property of the fundamental
+laws—you might say that it is nothing over and above those aspects of the
+fundamental laws that are essential to establishing the connection from Z
+and F to G.
+If the high-level law’s explanatory model contains basing generalizations,
+then the law has two or more constituents: the basing patterns—the patterns of entanglement—whose existence is asserted by the basing generalizations, and the mechanism connecting the properties specified by the
+basing generalizations (and any causes specified explicitly by the law) to the
+explanatory target.
+Three remarks. First, the causal-mechanical thesis entails that every
+law has a distinct explanatory model, that is, that there is a one-to-one
+mapping—an injection—from laws to explanatory models. Is this a plausible commitment? In section 7.63, I investigate the consequences of transforming it from a commitment to a stipulation, so creating one part of a
+demarcation criterion for laws.
+Second, the thesis that laws are identical to their explainers, together with
+what I characterized in section 3.23 as the reductionist thesis that the causal
+ingredient in all explanation is derived from the fundamental laws, adds
+up to the reductionist metaphysics of causal laws that I have championed
+throughout this study, on which the laws are in their causal aspect (that
+is, aside from their basing patterns) not ontologically distinct from, but
+merely high-level properties of, the fundamental physical laws. The impact
+of basing generalizations on this explanatory physicalism will be discussed
+in section 12.4.
+
+

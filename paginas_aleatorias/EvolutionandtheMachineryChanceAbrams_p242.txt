@@ -1,0 +1,43 @@
+n o t e s t o pa g e s 2 9 – 4 4
+
+232
+
+size as a way of treating a population as having a size other than the one it actually has. Whether
+this is correct depends on one’s view of the model-­world relationship.
+26. “Almost”: all frequencies but one would have probability 0 in the limit, but the fact that
+something has zero probability does not imply that it’s impossible. (Because of this, biologists’ use
+of “deterministic” as a description of such cases shouldn’t be interpreted in quite the sense that this
+term is usually used in physics or philosophy.) For example, when tossing a coin, the probability of
+tossing only heads gets smaller and smaller as the number of tosses increases. This happens in such
+a way that the probability of only heads in an infinite sequence of tosses would be zero, but that
+doesn’t mean that such a sequence would be impossible. In mathematical probability theory, one
+says that something that happens with probability 1 (so that its opposite happens with probability 0)
+is something that happens “almost surely,” or “almost everywhere,” or in “almost all” cases.
+27. Biologists occasionally endorse the view that natural selection merely summarizes effects of individuals. Endler (1986) made this claim, quoting similar remarks by Ghiselin (1981).
+Note that “statisticalism” is called by that name not because it has to do with statistical inference. Rather, the term derives from the fact that statisticalists argue that natural selection and
+drift should be defined in terms of descriptive statistics that summarize facts about populations,
+and because they argue that population-­level explanations of evolution can be given using such
+statistics without interpreting terms causally.
+28. See, e.g., Matthen and Ariew (2002, 2009), Walsh (2007), Walsh, Ariew, and Matthen
+(2017), and Ariew, Rice, and Rohwer (2015); see also Ariew, Rohwer, and Rice (2017). Note that
+there is a burgeoning literature on noncausal explanation more generally and about relationships between mathematical explanation and science. I won’t discuss this more general literature, but see, e.g., Huneman (2010, 2018), Lange (2012, 2013, 2016), Andersen (2016), Craver and
+Povich (2017), and Glennan (2017).
+Chapter One
+1. There are other contexts in evolutionary biology where replicate populations have been
+invoked, such as in McKane and Waxman (2007).
+2. An important, related criticism (Nei and Kumar 2000, 239–­40, 242) is that Cockerham
+and Weir’s methods (Cockerham 1969, 1973; Weir and Cockerham 1984) assumed that current
+subpopulations were equally related to each other. Weir and colleagues have subsequently developed new FST estimation methods in order to overcome this drawback (Weir and Hill 2002;
+Browning and Weir 2010; Weir and Goudet 2017).
+3. In July 2020, the Scopus citation index showed about 12,800 citations of Weir and Cockerham (1984). Nei (1973) was cited about 5970 times. However, there are other papers and books
+by both authors that could be cited as sources of FST methods.
+4. Sober (1988) draws conclusions from the fact that biologists sometimes apply a statistical
+method, ANOVA, using properties of actual populations. The fact that Cockerham and Weir’s
+widely used approach to estimating FST is based on extensions of ANOVA that depend on replicate populations shows that biologists’ inferences need not depend only on summarizing actual
+facts about populations.
+5. Cockerham and Weir’s way of calculating FST depends on assuming that a given allele has
+a determinate frequency in a common ancestral population, but that frequency gets divided out
+and doesn’t need to appear in the estimation formula.
+6. Portions of this section were previously published in Abrams (2015).
+
+

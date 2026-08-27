@@ -1,0 +1,47 @@
+
+
+ . 
+
+framework and the classical one cannot be non-competing descriptions of semantics
+understood in this sense. That leaves two options open at the start of Section .:
+(a) classical truth and falsity are semantic notions, whereas Edgington’s degrees are
+not; (b) Edgington’s degrees are semantic notions, whereas classical truth and falsity
+are not. In recent work, Edgington endorses a primitivist view about vagueness
+that ﬁts well with option (a). She argues for this view by arguing that bivalence
+holds without restriction, even in borderline cases, which appears to tell against
+option (b). Section .. argues that Edgington’s arguments for bivalence presuppose a substantive thesis about truth. Section .. closes the chapter by arguing that
+this thesis is incompatible with option (a). I conclude by suggesting that the best
+version of Edgington’s proposal will be a version of option (b).
+A note on terminology before I begin. Clarity will be my theoretically neutral
+concept for distinguishing borderline cases from the rest. It’s clear that p iff p and it
+isn’t borderline whether p; it’s clear that not-p iff not-p and it isn’t borderline whether
+p; it’s borderline whether p iff it’s neither clear that p nor clear that not-p. I’ll say that
+x is clearly F when it’s clear that x is F. So, for example, scarlet is clearly a shade of red,
+pure orange clearly isn’t a shade of red, and somewhere between them in the
+spectrum lie shades that are only borderline shades of red (and borderline shades
+of orange too).
+
+. Edgington’s Proposal
+This section introduces Edgington’s view: Section .. outlines her account of the
+connectives; Section .. turns to validity; Section .. looks at the sorites. My
+primary source is ‘Vagueness by degrees’.¹
+
+.. The framework
+Edgington’s view has four key features. Firstly, her approach is degree-theoretic:
+sentences are assigned degrees, represented by real numbers in [,]. Edgington calls
+these degrees verities. Throughout, the number assigned to a sentence A will be v(A).²
+Secondly, verities are not degrees of truth, or new truth-values in competition with
+the classical two; verities are degrees of closeness to clear truth.³ Sections .–.
+examine the relation between verity and truth-value in more detail. Thirdly, greater
+numbers represent closer proximity to clear truth, with  as clear truth and  as clear
+falsity. Fourthly, the connectives and verities interact via the probabilistic rules:
+vð¬AÞ ¼ 1  vðAÞ:
+vðA ∨ BÞ ¼ vðAÞ þ vðBÞ  vðA ∧ BÞ:
+vðA ∧ BÞ ¼ vðAÞ  vðB j AÞ:
+Here, v(Bj A) is the conditional verity of B given A:
+¹ Edgington (), henceforth ‘VbD’.
+² I use ‘A’, ‘B’, ‘C’ as metalinguistic variables ranging over sentences, and ‘p’, ‘q’, ‘r’ as object-language
+propositional constants (though I’ll also sometimes use them as placeholders for sentences in the bodytext).
+³ VbD, p. ; Edgington, MS, §§, ; Edgington, , pp. –.
+
+

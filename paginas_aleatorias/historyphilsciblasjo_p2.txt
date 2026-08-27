@@ -1,0 +1,49 @@
+§ 1.
+
+Mechanics in antiquity and middle ages
+
+§ 1.1. Discussion questions
+1.1. Aristotle’s view of physics involves what we would consider “scientific” claims:
+• Elements have a natural place; this is a driver of motion.
+• Motion is fundamentally distinct from rest (contrary to modern inertia).
+• A void is impossible.
+• The universe is finite (bounded by the sphere of the stars).
+As well as “metaphysical” claims:
+• Motion is merely one instance of the more general concept of change.
+• Position is a quality of a body (comparable to colour, heat, wetness, etc.).
+• Qualities are superimposed on matter (not reducible to material explication in the manner of atomism).
+Argue that these sets of beliefs are extensively interdependent and mutually supportive.
+1.2. Buridan’s impetus theory is purely qualitative in character. Why is it interesting to study such things quantitatively? Why
+are modern physics textbooks obsessed with plugging numbers into formulas instead of reasoning verbally and philosophically like Buridan?
+Unification of terrestrial and celestial domains. Even Galileo didn’t have a good selling point.
+
+1.3. Buridan’s impetus theory anticipates the modern notions of inertia and momentum. Discuss.
+Yes, qualitatively. 102.
+
+1.4. Medieval physics was focussed on explaining why a rock, once thrown, keeps going after it no longer has contact with the
+thrower. Modern physics fundamentally change the question: the thing to be explained is not why the rock keeps going
+but why it eventually stops. Discuss.
+In support of this: 100.1, 103.7. Focus on mathematics helps this conceptual transition.
+
+1.5. Is there an unresolved ambiguity as to whether impetus is circular or rectilinear in Buridan’s account? Compare for example the circular motion of the planets with a rock in a sling (and what happens when it is released).
+Planets discussed at 103.6. Problem can be resolved by positing crystalline spheres (similar to Buridan’s mill stone example).
+
+§ 1.2. Reader
+A NDREW E DE & L ESLEY C ORMACK, A History of Science in Society: A Reader, Broadview Press, 2007.
+
+3.4. Buridan.
+T HOMAS K UHN, What Are Scientific Revolutions?, in Lorenz Kruger, Lorraine J. Daston, and Michael Heidelberger (eds.), The
+Probabilistic Revolution, volume I: Ideas in History, MIT Press, 1987, 7–22.
+
+[When] I first read some of Aristotle’s physical writings . . . , I rapidly discovered that Aristotle had known almost no mechanics
+at all. . . . As I was reading him, Aristotle appeared not only ignorant of mechanics, but a dreadfully bad physical scientist as
+well. About motion, in particular, his writings seemed to me full of egregious errors, both of logic and of observation. These
+conclusions were unlikely. Aristotle, after all, had been the much admired codifier of ancient logic. . . . In addition, Aristotle had
+often proved an extraordinarily acute naturalistic observer . . . in biology, especially. . . . How could his characteristic talents have
+deserted him so systematically when he turned to the study of motion and mechanics? Equally, if his talents had so deserted
+him, why had his writings in physics been taken so seriously for so many centuries after his death? Those questions troubled
+me. I could easily believe that Aristotle had stumbled, but not that, on entering physics, he had totally collapsed. Might not the
+fault be mine rather than Aristotle’s, I asked myself. . . .
+2
+
+

@@ -1,0 +1,46 @@
+3.5 De Finetti’s Consistency implies the Product Law
+
+41
+
+Theorem 3.6. (Carathéodory extension theorem, weak form. See [1, Theorem 1.41, p.18]).2 Let X 6= ∅ be a boolean space. Then every state of the
+boolean algebra clop(X) (uniquely) extends to a probability measure on the
+σ-algebra B(X) of Borel sets of X.
+In its full form, Theorem 3.6 states that the state space of the boolean
+algebra clop(X) is affinely homeomorphic (∼
+=) to the space m(X) of regular
+Borel probability measures on X equipped with the weak topology. For every
+boolean algebra A, letting S(A) be the state space of A endowed with the
+restriction of the product topology of [0, 1]A , Corollary 2.8 and Theorem 3.4
+then yield:
+the set of finitely consistent maps of A = S(A) ∼
+= m(µ(A)).
+
+(3.10)
+
+Theorem 3.7. (Weak form of the product measure theorem. See [1, Theorem
+14.14, p.277], or any other textbook on measure theory). For each i = 1, 2,
+let (Ωi , B(Ωi ), µi ) be σ-finite Borel measure spaces. Then there is a σ-finite
+measure χ on the σ-algebra B(Ω1 × Ω2 ) satisfying χ(X × Y ) = µ1 (X) · µ2 (Y )
+for all X ∈ B(Ω1 ) and Y ∈ B(Ω2 ).
+
+3.5 De Finetti’s Consistency implies the Product Law
+We are now ready to derive from de Finetti’s consistency theorem the “product
+law” of the standard definition of stochastically independent events. In fact,
+the following theorem shows that a continuous operation } : [0, 1]2 → [0, 1]
+preserves the consistency of arbitrary books on algebraically independent (possibly infinite) boolean algebras iff } coincides with product.
+Theorem 3.8. Product is the only continuous [0, 1]-valued operation } defined on [0, 1]2 having the following property:
+For any consistent books α : dom(α) → [0, 1] and β : dom(β) → [0, 1] on
+finite subsets dom(α) ⊆ A and dom(β) ⊆ B of (possibly infinite) independent
+subalgebras A and B of a boolean algebra C, letting the finite subset C∧ of C
+be defined by C∧ = {q ∈ C | q = a ∧ b for some a ∈ dom(α) and b ∈ dom(β)}
+it follows that:
+(i) Whenever a, a0 ∈ dom(α) and b, b0 ∈ dom(β) satisfy a ∧ b = a0 ∧ b0 , then
+α(a) } β(b) = α(a0 ) } β(b0 ); in other words, } satisfies condition (3.2),
+which ensures the existence of the product book γ on C∧ by the stipulation
+γ : a ∧ b ∈ C∧ 7→ α(a) · β(b) for all a ∈ dom(α) and b ∈ dom(β). (3.11)
+(ii) γ is a consistent book on C∧ .
+2
+
+Also see Corollary 1 in T.Tao, https://terrytao.wordpress.com/2009/01/03/.
+
+

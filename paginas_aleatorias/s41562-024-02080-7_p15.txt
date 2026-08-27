@@ -1,0 +1,29 @@
+Article
+
+Extended Data Fig. 3 | Polygenic overlap of income with EA and GWAS-bysubtraction. (a.) Venn diagram presenting MiXeR results on unique and shared
+polygenic components for Income Factor (orange) and EA (blue). The estimated
+numbers of unique and shared variants are represented in thousands and
+illustrated by the areas of the circles: 0.45 and 2,260 unique variants for income
+and EA, respectively, and 11,153 shared variants. rg is the global genetic
+correlation while rs is the correlation within the shared variants. The standard
+errors are reported in the parentheses. (b.) The GWAS-by-subtraction model of
+non-EA income describes the genetic effect of income for SNP j (βINC
+) as the
+j
+
+Nature Human Behaviour
+
+https://doi.org/10.1038/s41562-024-02080-7
+
+sum of two components: 1) αβEA
+: the indirect effect that reflects the genetic
+j
+association of EA and 2) δj: the direct effect of SNPs on income reflects the genetic
+effect of income after statistically removing its genetic covariance with EA. Note
+that the diagram only depicts a statistical meditation for interpretation and is not
+meant to imply any directionality or causal ordering of SNPs to phenotypes.
+(c.) Manhattan plot showing the NonEA genetic associations of the Income Factor
+(NonEA-Income, corresponding to δj from b.). Unadjusted two-sided Z-test.
+p-values are plotted on the −log10 scale.
+
+

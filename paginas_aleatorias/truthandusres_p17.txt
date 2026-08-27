@@ -1,0 +1,51 @@
+Synthese (2023) 202:130
+
+Page 17 of 24
+
+130
+
+two truth properties: a normative one and a nonnormative property. In this respect,
+my kind of pluralism would be very similar to the “ecumenical alethic pluralism” of
+Ferrari and Moruzzi (2019). Ferrari and Moruzzi use their proposal of a subjectivist
+and relativist metaphysics and epistemology for the domain of taste, as mentioned
+above, to argue that the normativity of truth is locally deflated, and that there must
+thus be a normatively deflated truth property in addition to one or more normative
+truth properties. Yet their concern isn’t with practical considerations about how truth
+is best used but with, for instance, metaphysical considerations about the status of
+discourse on taste. This marks a difference in their approach to pluralism as well.
+Their pluralism follows the classical model: the concept of truth is characterized by a
+network of platitudes and truth is plural only at the metaphysical level. My pluralism
+operates primarily at the level of use. The question is whether the plurality at this
+practical level carries over to the conceptual and metaphysical level.
+6.1 Function and use
+I shall first discuss the conceptual level. As mentioned earlier on, the network analysis
+of Wright (1992) and Lynch (2009) specifies the function of truth in terms of platitudes
+that relate the concept of truth to that of, for instance, justification, belief, and inquiry.
+I also mentioned that among these platitudes are those that express the normativity of
+truth, such as the platitude that truth is the goal of inquiry. Ferrari and Moruzzi cannot
+maintain that a truth property must satisfy all these platitudes, for their nonnormative
+truth property couldn’t satisfy these platitudes that express truth’s normativity. They
+suggest that the network analysis imposes a flexible instead of a strict requirement on
+truth properties, meaning that a property need not satisfy every single one of the core
+platitudes for it to count as truth (Ferrari & Morruzi 2019, p. 387). This is their way
+of maintaining the conceptual unity of truth.
+This might be more difficult for me to do given my meta-alethic pragmatism and
+the fact that truth has multiple uses. Does this not mean that truth has multiple functions—that there is no such thing as the function of truth—and that, thus, truth must
+be plural at the conceptual level as well? I do not think that it does. Let me explain
+why.
+As Amy Thomasson notes, there is a difference between an entity’s function and
+the way in which it is used (Thomasson, 2020, p. 53). This distinction is subtle. For
+instance, a hammer can serve many purposes, such as cracking nuts, but its function is
+to drive nails. I don’t think there is a principled distinction between functions and uses
+that holds for all kinds of entities. However, there is, I believe, an intuitive difference
+in the case of truth. The deflationist argues that truth is primarily a linguistic device,
+and that it has a linguistic function. Remember Strawson’s (1949) claim that truth is
+a linguistic device for the expression of agreement. As I have shown, Shapiro (2021)
+takes this conception on board but asks why we only use this device for assertions. He
+argues that a device for the expression of agreement can be used to transfer justificatory
+burdens. Thus, truth is a tool that functions as a means of expressing agreement, but
+this tool can be used to transfer justificatory burdens.
+
+123
+
+

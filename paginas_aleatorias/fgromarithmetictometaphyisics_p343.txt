@@ -1,0 +1,43 @@
+Edmund Runggaldier
+
+The Wittgensteinian and the ontological
+(3-dimensional) reaction to the naturalistic
+challenge
+Abstract: Starting with a trustworthy theory T, Galvan (1992) suggests to read
+off, from the usual hierarchy of theories determined by consistency strength, a
+ﬁner-grained hierarchy in which theories higher up are capable of ‘explaining’,
+though not fully justifying, our commitment to theories lower down. One way
+to ascend Galvan’s ‘hierarchy of explanation’ is to formalize soundness proofs:
+to this extent it often suffices to assume a full theory of truth for the theory T
+whose soundness is at stake. In this paper, we investigate the possibility of an
+extension of this method. Our ultimate goal will be to extend T not only with
+truth axioms, but with a combination of axioms for predicates for truth and
+necessity. We ﬁrst consider two alternative strategies for providing possible worlds
+semantics for necessity as a predicate, one based on classical logic, the other on a
+supervaluationist interpretation of necessity. We will then formulate a deductive
+system of truth and necessity in classical logic that is sound with respect to the
+given (nonclassical) semantics.
+
+1 Introduction
+In recent decades, the techniques available for studying the functioning of the
+human brain have expanded enormously. Powerful new techniques such as
+neuroimaging (e.g., fMRI, PET, SPECT) allow neuroscientists to discover how
+mental states, cognition and emotion, are mapped on to neural substrata in the
+brain.
+The more neuroscientists know about the functioning of the brain, the more
+they seem to abandon the assumption that there must be something like an Ego
+or a Self which is responsible for our actions. This leads to the suspicion that not
+we, but our brains, determine and control our doings; not we, but our brains do
+the thinking, planning, and acting. It is the brain’s ability to perform all these
+functions that makes us human.
+This is the message of the new naturalistic branch in philosophy called
+“neurophilosophy”. Allied to neurophilosophy are social neuroscience, neuroe-
+
+Edmund Runggaldier: Innsbruck University
+DOI: 10.1515/9783110529494-020
+
+Brought to you by | UCL - University College London
+Authenticated
+Download Date | 2/12/18 12:08 PM
+
+

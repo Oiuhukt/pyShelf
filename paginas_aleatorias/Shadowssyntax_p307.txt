@@ -1,0 +1,34 @@
+provide instances of ontological pluralism. Putnam’s discussions were
+often quite cavalier about this, but Hirsch has offered sophisticated
+arguments aiming to show that many actual ontological disputes are
+merely verbal. My own view is that philosophical ontology is built on
+fundamental and mistaken theoretical assumptions, so that rather
+than speaking a coherent language, ontologists often fall into massive
+and widespread foundational error. But here I’m not concerned to
+push this error-theoretic account of philosophical ontology.37 Instead I
+want to distinguish the kind of Quantifier Pluralism discussed thus
+far from some variants of pluralism that both Putnam and Hirsch tend
+to focus on.
+Putnam and Hirsch quickly go beyond the mere claim of Quantifier
+Pluralism and move to an egalitarian version of pluralism, according
+to which some of the distinct quantifier meanings are equally good
+from an objective point of view. In fact, they both build this condition
+into their basic terminology, and thus have no term solely for either
+the metasemantic view of quantifiers on an inegalitarian brand of
+pluralism. To illustrate, Putnam says of conceptual relativity:
+…conceptual relativity always involves descriptions which are
+cognitively equivalent ... but which are incompatible if taken at
+face value…38
+Putnam’s notion of cognitive equivalence is discussed in an earlier
+paper of his.39 There he says that two theories are cognitively
+equivalent just in case they are mutually relatively interpretable in a
+way that preserves goodness of scientific explanation.40 Though
+Putnam doesn’t discuss it, this inter-theory notion of equivalence can
+be used to define an inter-language notion of equivalence by saying
+that two languages are equivalent just in case for every theory
+formulable in one language there is a cognitively equivalent theory
+formulable in the other and vice versa (Putnam’s account of
+equivalence was briefly mentioned in 5.IV) Similarly, Hirsch says of
+quantifier variance:
+
+

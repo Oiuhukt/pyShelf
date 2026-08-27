@@ -1,0 +1,96 @@
+Figure 2.49: Video Game Data
+Hours Teenagers Spend on Video Games
+
+Number of Teenagers
+
+0–3.5
+
+3
+
+3.5–7.5
+
+7
+
+7.5–11.5
+
+12
+
+11.5–15.5
+
+7
+
+15.5–19.5
+
+9
+
+What is the best estimate for the mean number of hours spent playing video games?
+
+Image References
+Figure 2.42: Kindred Grey (2020). “Figure 2.42.” CC BY-SA 4.0. Retrieved from https://commons.wikimedia.org/
+wiki/File:Figure_2.42.png
+Figure
+
+2.43:
+
+Kindred
+
+Grey
+
+(2020).
+
+“Figure
+
+2.43.”
+
+CC
+
+BY-SA
+
+4.0.
+
+Retrieved
+
+from
+
+2.44.”
+
+CC
+
+BY-SA
+
+4.0.
+
+Retrieved
+
+from
+
+https://commons.wikimedia.org/wiki/File:Figure_2.43.png
+Figure
+
+2.44:
+
+Kindred
+
+Grey
+
+(2020).
+
+“Figure
+
+https://commons.wikimedia.org/wiki/File:Figure_2.44.png
+Figure 2.45: Kindred Grey via Virginia Tech (2020). “Figure 2.45” CC BY-SA 4.0. Retrieved from
+https://commons.wikimedia.org/wiki/File:Figure_2.45.png . Adaptation of Figure 2.21 from OpenStax
+Introductory Statistics (2013) (CC BY 4.0). Retrieved from https://openstax.org/books/statistics/pages/
+2-6-skewness-and-the-mean-median-and-mode
+Figure 2.46: Kindred Grey via Virginia Tech (2020). “Figure 2.46” CC BY-SA 4.0. Retrieved from
+https://commons.wikimedia.org/wiki/File:Figure_2.46.png . Adaptation of Figure 2.22 from OpenStax
+Introductory Statistics (2013) (CC BY 4.0). Retrieved from https://openstax.org/books/statistics/pages/
+2-6-skewness-and-the-mean-median-and-mode
+Figure 2.47: Kindred Grey via Virginia Tech (2020). “Figure 2.47” CC BY-SA 4.0. Retrieved from
+https://commons.wikimedia.org/wiki/File:Figure_2.47.png . Adaptation of Figure 2.23 from OpenStax
+Introductory Statistics (2013) (CC BY 4.0). Retrieved from https://openstax.org/books/statistics/pages/
+2-6-skewness-and-the-mean-median-and-mode
+
+2.6 Measures of Center | 137
+
+

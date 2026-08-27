@@ -1,0 +1,90 @@
+The paradigm of first-order logic
+
+and in particular his own
+Lowenheim-Skolem
+
+substitutional
+
+theorem.
+
+Quine
+
+231
+
+definition of logical truth, and the
+
+(1970)
+
+remarks
+
+that
+
+there
+
+is another
+
+definition of logical truth than the substitutional definition, namely the modeltheoretic definition: a given statement (or more precisely, a statement-schema) is
+valid if it is satisfied by all models. But models are sets, or sequences of sets. Now,
+
+not every statement determines a set. There are some statements, such as the
+statement expressing Russell’s paradox (the set of all sets that are not members of
+themselves is a member of itself):
+x EX =—(x € x) (where ‘x’ is the mentioned set)
+
+which determine no set. And there are some sets, such as the one that gives rise to
+Grelling’s paradox — the set of all the object-language statements which do not
+satisfy themselves — which are determined by no statement.*? From the
+Lowenheim-—Skolem
+
+theorem,
+
+however,
+
+two
+
+other
+
+theorems
+
+can
+
+be drawn,
+
+which show the equivalence of the substitutional definition of logical truth and of
+the model-theoretic definition, provided that the object-language is rich enough
+to express the arithmetic of natural whole numbers:
+(1) if aschemais true for all the substitutions of statements of elementary
+arithmetic, then it is satisfied by every model;
+(II) if a schema is satisfied by every model, then it is true for every
+
+substitution of a statement.”
+In other terms, as Quine shows, a schema is provable if and only if it is valid
+(true under all its interpretations) if and only if every substitutional instance of
+this schema in a language that is rich enough is true. The equivalence of validity
+and provability is warranted by the completeness theorem. This result holds only
+for first-order logic. Therefore this logic is characterised by a close link between,
+on the one hand, the Lowenheim-Skolem theorem and the completeness
+theorem, and on the other hand, by the correspondence between the substitutional and the model-theoretic definitions of logical truth. Thus there is a
+‘remarkable’ coincidence between the definition of logical truth and the restriction
+of this definition to first-order logic.
+It follows that the conjunction of completeness and of the Lowenheim-Skolem
+property allows us to limit the arbitrariness of the substitutional definition of
+
+logic. As we have seen above, this definition is not sufficient to demarcate the
+class of logical constants, since we can apply the substitutional definition to any
+kind of constant. But the constants of first-order logic alone reveal such a strong
+correspondence between the substitutional and the model-theoretic definitions.
+
+Therefore, Quine concludes, we have a strong argument to restrict the application
+of the substitutional definition. Correlatively, this justifies a maxim about logical
+more
+form, which Quine calls ‘the maxim of minimum mutilation’: do not exhibit
+
+logical form than is needed to justify the validity of inferences: ‘Where it doesn’t
+
+.24As we have seen above, several different logical forms may
+itch, don’t scratch’
+form that
+represent one single inference as valid, but we should always choose the
+
+

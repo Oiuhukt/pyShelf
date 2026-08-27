@@ -1,0 +1,39 @@
+30
+
+Philosophy of Science
+
+of probability when articulating the notion of consistency for confidences?
+Is there any compelling, positive case for believing that the logical coherence of confidences is appropriately described and legislated by the probability
+calculus?
+We have already seen one reason for thinking this: probability theory is a
+conservative, straightforward generalization of classical, deductive logic for
+dealing with cases of uncertainty. To the extent that classical logic offers a satisfactory logic of certainty, we want it to be preserved in the limiting cases of
+a more general logic of confidence. Probability theory offers such a generalization by simply adapting deductive logic’s bivalent semantics of certainty to
+gradational cases of uncertainty.
+This argument, though informal, bears a strong resemblance to a more
+formally rigorous case appealing to Cox’s well-known representation theorem (Cox 1946, 1961; cf., Jaynes 2003, ch. 2). Cox’s controversial theorem
+(Halpern, 1999a,b; Colyvan, 2004, 2008) attempts to show that any real-valued
+measure of confidence built upon the foundation of classical, propositional
+logic (“the logical rules of Boolean algebra”) will be isomorphic to a probability function so long as the following two requirements are met: (i) an agent’s
+confidence in any negation : is a monotonically decreasing function of that
+agent’s confidence in ; and (ii) an agent’s confidence in any conjunction  ^
+is a function of that agent’s confidences in either conjunct (say ) and in the
+other conjunct “with the additional assumption that” the first conjunct is true
+( j).
+Requirement (i) is a weakening of Negation, making the very plausible
+demand that greater confidence in any proposition corresponds with lesser
+confidence in that proposition’s negation. Requirement (ii) also looks highly
+plausible, especially when comparing it to alternatives. For example, one’s confidence in  ^ does not follow from corresponding, individual confidences in
+ and . To adapt an example from Jaynes’s (2003, §2.1) extended argument
+for (ii), I may be about equally confident in the three claims:
+A: The next person I encounter will have blonde hair.
+B: The next person I encounter will have a blue left eye.
+C : The next person I encounter will have a brown right eye.
+Nonetheless, my confidence in A ^ B is much greater than my confidence
+in B ^ C , a difference that I take to be entirely consistent with my individual confidences in A, B, and C . This difference makes sense if confidences
+in conjunctions are rather determined as in requirement (ii) – since, for example, my confidence in A given B is much greater than my confidence in B
+given C .
+Downloaded from https://www.cambridge.org/core. IP address: 201.141.17.62, on 08 Feb 2022 at 21:39:56, subject to the Cambridge Core terms
+of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/9781108657563
+
+

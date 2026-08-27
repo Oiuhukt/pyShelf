@@ -1,0 +1,74 @@
+110
+
+Selection bias
+
+A competing event is an event that
+prevents the outcome of interest
+from happening. A typical example of competing event is death because, once an individual dies, no
+other outcomes can occur.
+
+A
+
+Y
+
+been censored, and thus there is no point in constructing a pseudo-population
+in which everybody is censored. For example, the tree in Figure 8.10 shows
+that Pr[ = 1| = 0  = 0] = 0, but this zero does not aﬀect our ability to
+construct a pseudo-population in which nobody is censored.
+The third condition is consistency, including well-defined interventions. IP
+weighting is used to create a pseudo-population in which censoring  has been
+abolished, and in which the eﬀect of the treatment  is the same as in the
+original population. Thus, the pseudo-population eﬀect measure is equal to
+the eﬀect measure had nobody been censored. This eﬀect measure may be
+relatively well defined when censoring is the result of loss to follow up or nonresponse, but not when censoring is defined as the occurrence of a competing
+event. For example, in a study aimed at estimating the eﬀect of certain treatment on the risk of Alzheimer’s disease, death from other causes (cancer, heart
+disease, and so on) is a competing event. Defining death as a form of censoring
+is problematic: we might not wish to base our eﬀect estimates on a pseudopopulation in which all other causes of death have been removed, because it
+is unclear even conceptually what sort of intervention would produce such a
+population. Also, no feasible intervention could possibly remove just one cause
+of death without aﬀecting the others as well.
+Finally, one could argue that IP weighting is not necessary to adjust for
+selection bias in a setting like that described in Figure 8.3. Rather, one might
+attempt to remove selection bias by stratification (i.e., by estimating the effect measure conditional on the  variables) rather than by IP weighting.
+Stratification could yield unbiased conditional eﬀect measures within levels of
+ because conditioning on  is suﬃcient to block the backdoor path from 
+to  . That is, the conditional risk ratio
+Pr [ = 1| = 1  = 0  = ]  Pr [ = 1| = 0  = 0  = ]
+
+E
+Figure 8.12
+
+YO
+A
+
+YA
+
+E
+
+YE
+
+Y
+
+Figure 8.13
+
+can be interpreted as the eﬀect of treatment among the uncensored with  = .
+For the same reason, under the null, stratification would work (i.e., it would
+provide an unbiased conditional eﬀect measure) if the data can be represented
+by the causal structure in Figure 8.5. Stratification, however, would not work
+under the structure depicted in Figures 8.4 and 8.6. Take Figure 8.4. Conditioning on  blocks the backdoor path from  to  but also opens the path
+ →  ←  →  from  to  because  is a collider on that path. Thus,
+even if the causal eﬀect of  on  is null, the conditional (on ) risk ratio
+would be generally diﬀerent from 1. And similarly for Figure 8.6. In contrast,
+IP weighting appropriately adjusts for selection bias under Figures 8.3-8.6 because this approach is not based on estimating eﬀect measures conditional on
+the covariates , but rather on estimating unconditional eﬀect measures after
+reweighting the individuals according to their treatment and their values of .
+This is the first time we discuss a situation in which stratification cannot
+be used to validly compute the causal eﬀect of treatment, even if the three
+conditions of exchangeability, positivity, and consistency hold. We will discuss
+other situations with a similar structure in Part III when considering the eﬀect
+of time-varying treatments.
+
+8.6 Selection without bias
+The causal diagram in Figure 8.12 represents a hypothetical study with dichotomous variables surgery , certain genetic haplotype , and death  .
+
+

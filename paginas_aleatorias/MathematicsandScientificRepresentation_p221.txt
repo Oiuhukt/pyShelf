@@ -1,0 +1,49 @@
+204
+
+PA RT II : O T H E R C O N T R I B U T I O N S
+
+claim is that our best explanations involve an appeal to mathematical entities in a
+way that is relevantly similar. So the scientific realist who accepts IBE should also
+accept the existence of mathematical entities. If this style of argument could be
+vindicated, then Colyvan would be able to achieve something that was missing from
+his book. This was to move from the acceptance of a claim like “There are numbers”
+in our best theories to the conclusion that mathematical entities exist. As I have presented things, he would be able to move from a realism in truth-value to a platonist
+conclusion.
+Critics of the explanatory indispensability argument (such as Melia) have argued
+that there really are no mathematical explanations of physical phenomena. 2 After
+reviewing this debate, I conclude that both sides have severe limitations. First, after
+clarifying what the existence of such mathematical explanations requires, I argue
+that these explanations do in fact exist. Second, I object that Colyvan and Baker have
+not presented an adequate account of the ways mathematics contributes explanatory
+power. But third, against Melia, I claim that this does not mean that mathematics
+plays a merely “indexing” or “representational” role. This is based on the now-familiar point that we often lack any knowledge of what the mathematics is representing.
+Finally, I endorse a complaint made by Melia that IBE fails to justify mathematical
+truths when they appear in a scientific explanation. But I argue that this difference
+between unobservables and mathematical entities is related to the special character
+of mathematical truths in a way that is different than Melia.
+The first step is to establish the existence of mathematical explanations of physical
+phenomena. The issue can be clarified in at least two ways. First, we may wonder if
+any explanations make use of a mathematical claim. A mathematical claim here is
+just any statement about a mathematical domain. I propose a simple replacement
+test to answer this sort of question. Starting with an explanation that involves a
+mathematical concept or theorem, the test involves considering what happens if this
+concept or theorem is removed. If the resulting argument is no longer an explanation
+or else has less explanatory power, then I conclude that the mathematical concept
+or theorem is making an explanatory contribution to the original explanation. But
+this is not the only sense in which mathematical explanations of physical phenomena
+may exist. A second way to proceed is to ask if a mathematical claim allows a scientific
+explanation that has greater explanatory power than would be available otherwise.
+The replacement test is not sufficient to answer this sort of question. What is needed
+is what I call a comparison test. This test considers all available explanations of the
+phenomena at issue. If the explanation that uses the mathematical claim has the
+greatest explanatory power, then we have a mathematical explanation in this second
+sense. The comparison test is clearly the test that is relevant to an application of
+IBE. It is only the best explanation that is a candidate for the use of this inferential
+principle.
+In many explanations offered in contemporary science we find mathematical
+claims. As we often lose the explanation if the mathematical claim is removed, the
+
+2. See Melia (2000), Melia (2002) and Daly and Langford (2009). I have also benefited from Saatsi
+(2011).
+
+

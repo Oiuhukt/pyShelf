@@ -1,0 +1,49 @@
+376
+
+RICHARD MONTAGUE
+
+If (A, F,) ,€ r and ( B , Gy),.€
+A are algebras, then h is a homomorphism from (A, F,),.€ r into ( B , G Y ) Y €ifAand only if (1)
+(A, F,),E r and ( B , G Y ) , € are similar (in the sense thatI'=d and,
+for each Y E T , F, and G, are operations of the same number of
+places), (2) h is a function with domain A and range included in B,
+and (3) whenever y E r and ( a c )c< 0 is a sequence in the domain
+of F,, h(F,((ac) <<0 ) ) = G , ( ( h ( a C )C)< B). We say that h is a homomorphism from ( A , F,) ,E r to ( B , G,) ,€ A if, in addition, B coincides
+with the range of h.
+
+(A, F y ) , e r is an algebra, h is a homomorphism from
+(A, F,) y c r to some algebra, and, for each y E A, G, is a polynomial
+operation over (A, F , ) , t r , then there is exactly one algebra
+(B, H,),Q such that h is a homomorphism from (A, G y ) , c At o
+
+REMARK. If
+
+( B , H Y Y)€ A 2. Syntax
+
+Adisambiguated language is a system (A, F,, X6,S, 6 0 ) y ~ r , 6 ~
+such
+A
+that (1) (A, F Y ) , c r is an algebra, (2) for all 6 E A , Xsis a subset of
+A, (3) A is the smallest set including as subsets all the sets Xs(for
+6 E d) and closed under all the operations F, (for y E r),(4) Xs
+and the range of F, are disjoint whenever 6 E A and y E I',(5) for
+all y, y' E r,all sequences a in the domain of F,, and all sequences
+a' in the domain of F,,, if F,(a) = F,,(a'), then y = y' and a = a',
+(6)S is a set of sequences of the form (F,,(d<) <<B, E ) , where y E I',
+,
+!
+l
+is the number of places of the operation F,, dc E d for all [ < p,
+and E E A, and (7) 6, E A. (Here the sets Xsare regarded as the
+categories of basic expressions of the disambiguated language, the
+operations F, as its structural operations, the set A as the set of
+all its proper expressions (that is, expressions obtainable from
+basic expressions by repeated application of structural operations),
+6, as the index of its category of declarative sentences, and S as
+any of the usual axiomatic formulations of set theory one can prove that there
+but in those formulations that recognize proper
+is no set K satisfying (1)-(4),
+classes in addition to sets one can prove that there is a proper class satisfying
+those conditions.
+
+

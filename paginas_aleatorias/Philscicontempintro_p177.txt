@@ -1,0 +1,47 @@
+162
+
+Theory Construction vs. Model Building
+
+blind variation and natural selection, along with its twentieth-​century extensions
+(which explain heredity and variation in purely physical and chemical terms),
+represents a vindication of the scientific program of mechanism that began with
+Newton. It shows that the purely mechanical vision of nature associated with
+Newton’s theory can be extended all the way through the life sciences, leaving no
+room for a teleological or purposive view of any part of nature.
+Notice that, like other sets of laws, the theory of natural selection makes a
+number of hypothetical claims: If there is variation in heritable traits and if these
+variants differ in fitness, then there will be adaptational change. Like the kinetic
+theory of gases that tells us how gases behave, if they exist, without telling us
+that there are gases, Darwin’s general theory does not assert that adaptational
+evolution obtains. For that conclusion we need initial conditions: the assertion
+that some things reproduce, that their offspring’s traits are inherited from their
+parents, and that these traits are not always exact copies, but do in fact vary from
+parent to offspring and among offspring. On the Origin of Species of course
+made such assertions about lineages of the many plants and animals Darwin
+had been studying for 30 years by the time it was published in 1859. Like most
+other works of biology it describes a great deal about evolution on this particular planet, along with a general theory about evolution that could be realized
+by things elsewhere in the universe that look nothing like what we recognize as
+animals and plants, just so long as they show heritable variations in fitness to
+their environments.
+Another thing to notice about Darwin’s theory is that while evolution by
+natural selection requires reproduction with heritable variation, it is silent on
+how reproduction takes place, and tells us nothing about the mechanism of
+heredity. It presupposes that there is a mechanism of heredity, but it is silent
+on genetics, which is the mechanism of hereditary transmission on Earth.
+And of course, it must also be silent on the source of the variations that
+are continually being manifested from generation to generation, and among
+which the environment “selects” by filtering the less fit. Much twentieth-​
+century biology has been devoted to providing the theory of how hereditary
+variation occurs on Earth that is required to apply Darwin’s theory of natural
+selection in detail to explain the direction and rate of evolution on this planet
+over the last 3.5 billion years. This theory is of course molecular and population genetics.
+
+Models and Theories in Evolutionary Biology
+Unlike Newton, Darwin did not identify the central features of his theory
+as laws, nor did he express the process of blind variation and environmental
+filtration he discovered in a set of universal generalizations. He employed the
+word “laws” often enough in On the Origin of Species but not to refer to the
+mode of operation of the forces of evolutionary adaptation he discovered.
+Moreover, there are a number of other ways of stating or expressing his
+
+

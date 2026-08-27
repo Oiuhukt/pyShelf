@@ -1,0 +1,77 @@
+676
+
+Sequences and the Binomial Theorem
+write (z)k = z k . Hence, (z)k+1 = (z)k z = z k z. We now use the product rule for conjugates4
+to write z k z = z k z = z k+1 . This establishes (z)k+1 = z k+1 , so that P (k + 1) is true. Hence,
+by the Principle of Mathematical Induction, (z)n = z n for all n ≥ 1.
+
+3. The first wrinkle we encounter in this problem is that we are asked to prove this formula for
+n > 5 instead of n ≥ 1. Since n is a natural number, this means our base step occurs at
+n = 6. We can still use the PMI in this case, but our conclusion will be that the formula is
+valid for all n ≥ 6. We let P (n) be the inequality 3n > 100n, and check that P (6) is true.
+Comparing 36 = 729 and 100(6) = 600, we see 36 > 100(6) as required. Next, we assume
+that P (k) is true, that is we assume 3k > 100k. We need to show that P (k + 1) is true, that
+is, we need to show 3k+1 > 100(k + 1). Since 3k+1 = 3 · 3k , the induction hypothesis gives
+3k+1 = 3 · 3k > 3(100k) = 300k. We are done if we can show 300k > 100(k + 1) for k ≥ 6.
+Solving 300k > 100(k + 1) we get k > 12 . Since k ≥ 6, we know this is true. Putting all of
+this together, we have 3k+1 = 3 · 3k > 3(100k) = 300k > 100(k + 1), and hence P (k + 1) is
+true. By induction, 3n > 100n for all n ≥ 6.
+4. To prove this determinant property, we use induction on n, where we take P (n) to be that
+the property we wish to prove is true for all n × n matrices. For the base case, we note that if
+A is a 1 × 1 matrix, then A = [a] so A0 = [ca]. By definition, det(A) = a and det(A0 ) = ca so
+we have det(A0 ) = c det(A) as required. Now suppose that the property we wish to prove is
+true for all k × k matrices. Let A be a (k + 1) × (k + 1) matrix. We have two cases, depending
+on whether or not the row R being replaced is the first row of A.
+Case 1: The row R being replaced is the first row of A. By definition,
+0
+
+det(A ) =
+
+n
+X
+
+a01p C10 p
+
+p=1
+
+
+where the 1p cofactor of A0 is C10 p = (−1)(1+p) det A01p and A01p is the k × k matrix obtained
+by deleting the 1st row and pth column of A0 .5 Since the first row of A0 is c times the first
+row of A, we have a01p = c a1p . In addition, since the remaining rows of A0 are identical to
+those of A, A01p = A1p . (To obtain these matrices, the first row of A0 is removed.) Hence
+det A01p = det (A1p ), so that C10 p = C1p . As a result, we get
+0
+
+det(A ) =
+
+n
+X
+
+0
+
+0
+
+a1p C1p =
+
+p=1
+
+n
+X
+p=1
+
+n
+X
+c a1p C1p = c
+a1p C1p = c det(A),
+p=1
+
+as required. Hence, P (k + 1) is true in this case, which means the result is true in this case
+for all natural numbers n ≥ 1. (You’ll note that we did not use the induction hypothesis at
+all in this case. It is possible to restructure the proof so that induction is only used where
+4
+5
+
+See Exercise 54 in Section 3.4.
+See Section 8.5 for a review of this notation.
+
+

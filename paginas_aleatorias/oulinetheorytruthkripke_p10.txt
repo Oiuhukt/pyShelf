@@ -1,0 +1,69 @@
+698
+
+THE JOURNAL OF PHILOSOPHY
+
+tences,or even quite how to state theproblemhere; some substantial
+technicalquestionsin this area are yet to be solved.
+Almost all the extensiverecentliteratureseekingalternativesto
+the orthodoxapproach-I would mentionespecially the writingsof
+Bas van Fraassen and Robert L. Martin"-agrees on a singlebasic
+idea: thereis to be onlyone truthpredicate,applicable to sentences
+containingthe predicate itself; but paradox is to be avoided by
+allowing truth-valuegaps and by declaring that paradoxical sentences in particularsufferfromsuch a gap. These writingsseem to
+me to suffersometimesfroma minordefectand almost always from
+a major defect. The minor defect is that some of these writings
+criticizea strawmannishversionof the orthodoxapproach, not the
+genuinearticle.'3The major defectis that these writingsalmost invariably are mere suggestions,not genuine theories.Almost never
+is thereany precise semantical formulationof a language, at least
+rich enough to speak of its own elementarysyntax (eitherdirectly
+or via arithmetization)and containingits own truthpredicate.Only
+ifsuch a language were set up withformalprecisioncould it be said
+that a theoryof the semanticparadoxes has been presented.Ideally,
+a theoryshouldshowthat the techniquecan be applied to arbitrarily
+rich languages, no matter what their "ordinary" predicates other
+than truth.And thereis yet anothersense in whichthe orthodoxapproach providesa theorywhile the alternativeliteraturedoes not.
+language whose quantiTarski shows how, fora classical first-order
+definition
+of truth,
+fiersrangeover a set, he can give a mathematical
+using the predicatesof the object language plus set theory(higherorder logic). The alternativeliteratureabandons the attempt at a
+mathematicaldefinitionof truth,and is content to take it as an
+12See Martin,ed., The Paradoxof theLiar (New Haven: Yale, 1970) and the
+giventhere.
+references
+13See fn9 above. Martin,forexample,in his papers"Towarda Solutionto the
+Liar Paradox,"PhilosophicalReview,LXXVI, 3 (July1967): 279-311,and "On
+Grelling'sParadox,"ibid.,LXXVII, 3 (July1968): 325-331, attributesto "the
+whichmustbe
+on self-reference
+theoryoflanguagelevels"all kindsofrestrictions
+evenforclassicallanguages,by Godel'swork.Perhaps
+as simplyrefuted,
+regarded
+thereare or have been some theoristswho believedthat all talk of an object
+This hardlymatters;the
+languagemusttake place in a distinctmetalanguage.
+can be carriedout withina classicallanguage,
+mainissueis: whatconstructions
+Martin
+gaps? Almostall the cases of self-reference
+and whatrequiretruth-value
+can be carriedout by orthodoxGodelianmethodswithoutany needto
+mentions
+gaps. In fn 5 of his second
+invokepartiallydefinedpredicatesor truth-value
+rich
+that sufficiently
+paper Martintakes some noticeof Godel's demonstration
+languagescontaintheirown syntax,but he seemsnot to realizethat thiswork
+makesmostof his polemicsagainst"languagelevels"irrelevant.
+stillseemto thinkthatsomekindofgeneral
+somewriters
+At theotherextreme,
+is helpfulin treatingthesemanticparadoxes.In thecase of
+ban on self-reference
+sucha positionseemsto me to be hopeless.
+sentences,
+self-referential
+
+

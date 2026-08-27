@@ -1,0 +1,40 @@
+525-85030_ch01_6P — 2020/5/22 — 12:52 — page 204 — #29
+
+Chapter Nine
+
+204
+
+equivalent to some other well-known mathematical facts. First, if you take
+a course in abstract algebra, you’ll learn that each Boolean ideal can be
+extended to a prime ideal (the Boolean prime ideal theorem). That fact is
+very similar to our “grow” axiom, and it is indeed provably equivalent to
+compactness. Similarly, if you take a course in graph theory, you might learn
+that in a tree T with infinitely many nodes, if each node has only finitely
+many children, then T has a branch of infinite length (König’s lemma).
+That fact is also provably equivalent to compactness.
+The compactness property can seem a bit paradoxical. Consider, for
+example, the following apparently valid argument with infinitely many
+premises.
+There is more than one angel.
+There are more than two angels.
+..
+.
+There are infinitely many angels.
+If this argument is valid, then compactness entails that the conclusion is
+a logical consequence of only finitely many of the premises. In particular,
+there is a largest natural number n such that the premise “there are more
+than n angels” implies the conclusion “there are infinitely many angels,”
+which seems obviously wrong. The solution to this little puzzle is simply that propositional logic renders a false verdict about the structure of
+this argument. But that shouldn’t be surprising; we already know that
+propositional logic provides only a partial picture of what makes arguments
+valid.
+Exercise 9.14.
+∗ 1.
+
+Let T stand for the system of propositional logic with connectives
+¬, ∧ , and with rules ∧ I, ∧ E, RAA, and DN. We write  φ to
+indicate that φ is provable in system T. Either prove or refute the
+following statement: for a sentence φ that contains only ¬ and ∧ ,
+if  φ, then  φ.
+
+

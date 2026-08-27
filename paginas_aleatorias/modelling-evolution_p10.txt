@@ -1,0 +1,47 @@
+4
+
+Philosophy of Biology
+
+and statistical models. Informal models can be written, verbal, pictorial,
+and even mental. As cognitive scientists have demonstrated over the last
+decades, much of how we operate in the world is based on mental models.
+Thus, for any reader of this Element, there will be a mental model of how
+they understand evolution to work, which may be more or less accurate,
+given how widespread misunderstandings about evolution are among not
+only students but also instructors (Abenes & Caballes, 2020; De Santis,
+2021; Gregory, 2009; Nehm & Reilly, 2007; Nelson, 2008).
+But before we discuss the diversity of models that evolutionary
+­biologists use to advance our understanding of evolutionary processes in
+Section 3, we need to answer the question of what ‘models’ are and what
+it means to ‘model’. Clearly, we cannot just refer to mathematical entities
+and ­activities if models can also be informal. But ostensive ­definitions
+(i.e. ­definition by pointing out examples) that merely list a variety of
+models or model types are also not sufficient, since they ­provide us with
+no deeper conceptual understanding of the general category. However,
+is there anything that unifies entities that can range so widely? Can we
+offer a definition of these terms by identifying necessary and sufficient
+­conditions that capture the essences of ‘models’ and ‘modelling’? Some
+philosophers, such as Nelson Goodman, have expressed scepticism about
+this question:
+Few terms are used in popular and scientific discourse more promiscuously than ‘model’. A model is something to be admired or emulated, a
+pattern, a case in point, a type, a prototype, a specimen, a mock-up,
+a mathematical description – almost anything from a naked blonde
+to a quadratic equation – and may bear to what it models almost any
+­relation of symbolization. (Nelson Goodman, 1976, p. 171)
+
+Given this, there appears to be nothing inherent to the properties of those
+entities called ‘models’ that makes them models. Philosophers might call
+this the ontology of models (i.e. their metaphysical structure of reality
+similar to how H2O = water). Instead, philosophers have largely tried to
+define ‘models’ in terms of their function or purpose in science. But what
+could this function be?
+While the philosophy of models literature is full of disagreements and
+the recognition of a wide range of potential functions for models, there is
+one answer to this question that has come closest to achieving something
+resembling consensus, and that is: the function is to represent (Downes,
+2020; Odenbaugh, 2018; Teller, 2001). An early expression of this idea came
+from Hughes who argued that the ‘characteristic – perhaps the only characteristic – that all theoretical models have in common is that they provide
+Downloaded from https://www.cambridge.org/core. IP address: 189.242.188.26, on 25 Sep 2025 at 00:23:53, subject to the Cambridge Core terms of
+use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/9781009459983
+
+

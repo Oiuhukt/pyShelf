@@ -1,0 +1,47 @@
+Meanings as programs:
+Programming Really Is Simple Mathematics
+Bertrand Meyer, Reto Weber
+Constructor Institute of Technology
+Dedicated to Yuri Gurevich on the occasion of his 85th birthday, in homage
+to his seminal contributions to the theory and practice of software.
+
+Abstract
+A re-construction of the fundamentals of programming as a small mathematical theory
+(“PRISM”) based on elementary set theory. Highlights:
+• Zero axioms. No properties are assumed, all are proved (from standard set theory).
+• A single concept covers specifications and programs.
+• Its definition only involves one relation and one set.
+• Everything proceeds from three operations: choice, composition and restriction.
+• These techniques suffice to derive the axioms of classic papers on the “laws of programming” as consequences and prove them mechanically.
+• The ordinary subset operator suffices to define both the notion of program correctness
+and the concepts of specialization and refinement.
+• From this basis, the theory deduces dozens of theorems characterizing important
+properties of programs and programming.
+• All these theorems have been mechanically verified (using Isabelle/HOL); the proofs
+are available in a public repository.
+This paper is a considerable extension and rewrite of an earlier contribution [24].
+
+1 Overview
+The present article is a development of a long-term project to establish computer programming as a mathematical
+theory. The core ideas were outlined in reference [24], of which it is a revision and extension, with all properties
+now formally verified.
+Caveat: The construction of the theory, starting with section 3, assumes no prior knowledge of programming.
+While readers may have such knowledge (having possibly, for example, encountered the term “bug” before
+discovering its definition in section 3.4), the best way to approach this exposition is most of the time to pretend
+to be reading about a new subject — occasionally breaking this rule by relating the formal view (with the help
+of “Explanation” and “Justification” paragraphs) to one’s existing understanding of programming concepts.
+
+1.1
+
+Programming and mathematics: two worlds, or one?
+
+Anyone who has both written programs and studied elementary mathematics will have noticed how close the
+business of writing programs is to the business of proving theorems.
+Instead of taking advantage of this closeness, however, most of the work relating programs to mathematics
+proceeds as if the two worlds were separate. It typically considers a program as if it were some pre-existing
+object of study, like a bird for an ornithologist or a wave for a physicist, and sets out to explain it in terms
+of mathematical concepts. Such an approach follows the time-honored process of using mathematics in the
+
+1
+
+

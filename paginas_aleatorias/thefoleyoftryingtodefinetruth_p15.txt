@@ -1,0 +1,42 @@
+276
+
+THEJOURNAL OF PHILOSOPHY
+
+cannot be done; not Horwich, who disclaims the attempt. Who,
+then, admits to wanting to define the concept of truth? Well, that is
+right. But. But the same ugly urge to define shows up in the guise
+of trying to provide a brief criterion, schema, partial but leading
+hint, in place of a strict definition. Since Tarski, we are leery of the
+word 'definition' when we are thinking of a concept of truth not relativized to a language, but we have not given up the definitional
+urge. Thus, I see Horwich's schema on a par in this regardwith Dummett's notion of justified assertability, Putnam's ideally justified assertability, and the various formulations of correspondence and
+coherence theories. I see all of them as, if not attempts at definitions in the strict sense, attempts at substitutesfor definitions. In the
+case of truth, there is no short substitute.
+Now I want to describe what I take to be a fairly radical alternative
+to the theories I have been discussing and (with unseemly haste) dismissing. What I stress here is the methodologyI think is required
+rather than the more detailed account I have given elsewhere. The
+methodology can be characterized on the negative side by saying it
+offers no definition of the concept of truth, nor any quasi-definitional clause, axiom schema, or other brief substitute for a definition. The positive proposal is to attempt to trace the connections
+between the concept of truth and the human attitudes and acts that
+give it body.
+My methodological inspiration comes from finitely axiomatized
+theories of measurement, or of various sciences, theories that put
+clear constraints on one or more undefined concepts, and then
+prove that any model of such a theory has intuitively desired properties-that it is adequate to its designed purpose. Since among
+the models will be all sorts of configurations of abstract entities,
+and endless unwanted patterns of empirical events and objects,
+the theory can be applied to, or tested against, such specific phenomena as mass or temperature only by indicating how the theory
+is to be applied to the appropriate objects or events. We cannot
+demand a precise indication of how to do this; finding a useful
+method for applying the theory is an enterprise that goes along
+with tampering with the formal theory, and testing its correctness
+as interpreted.
+We are interested in the concept of truth only because there are
+actual objects and states of the world to which to apply it: utterances,
+states of belief, inscriptions. If we did not understand what it was for
+such entities to be true, we would not be able to characterize the
+contents of these states, objects, and events. So in addition to the
+
+This content downloaded from 91.152.182.135 on Sun, 31 Aug 2014 22:44:09 PM
+All use subject to JSTOR Terms and Conditions
+
+

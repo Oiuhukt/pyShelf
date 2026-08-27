@@ -1,0 +1,44 @@
+78
+
+THE JOURNAL OF PHILOSOPHY
+
+might ascend to a more inclusive type that includes, for instance, all
+forms of inheritance (possible and actual). In this more inclusive
+selection type, the growth rates are averaged out over all forms of
+inheritance. There is no selection in this or any other type in the
+absence of some sort of continuity that could be considered a fill-in
+for inheritance.
+In this way of looking at things, the distinction between evolution
+(the total change of gene frequencies due to all causes), and natural
+selection (the portion of evolution due to differences in competitive
+advantage) is unmotivated. Natural selection is, as Li's theorem tells
+us, the aggregative result over time of differential growth rates in a
+population. These growth rates are explained by considering all of
+the factors posited by the most specific relevant natural-selection
+formula, competitive advantage acting in concert with all the others.
+In histories that conform to this formula, certain trends get established at the e-level as accumulations of multiple concrete eventsbirths, deaths, mate choices, as well as events at the cellular and
+molecular level. These trends constitute natural selection. There is
+no difference between these trends and evolution. Further, since
+these trends constitute total change from generation to generation,
+predictive fitness is their measure, not the supposed partial value that
+some posit as vernacular fitness. Like the distinction between natural
+selection and evolution, the distinction between vernacular fitness
+(an organism-type's overall competitive advantage traceable to heritable traits), and predictive fitness (its expected growth rate, or the
+propensity underlying it), is unmotivated.
+Some might resist this conclusion on the grounds that actuarial
+practice regularly apportions causal responsibility to various factors.
+(After all, this is what multivariate analysis is all about.) In responding
+to this concern, we want clearly to acknowledge that it is legitimate to
+ask, in a statistical sense, how much of the causation of B is due to
+competitive advantage, though as we noted in sections IIIand iv, one
+needs to be prepared for a degree of indeterminacy in the answer,
+since the composition and decomposition of probabilities is mathematically undefined in many cases. This question is similar to the
+questions asked when determining insurance premiums. For example: How much does being a male youth contribute to road accidents
+in which male youths are involved? There is some sort of answer to
+this question in statistical correlations. But this does not imply that
+being a male youth operates in an ontologically separate way in these
+accidents. This is clearest when we think about the individual events.
+An eighteen-year-old male is involved in a collision at night, in the
+rain, after drinking three pints of beer. Are these factors, specified in
+
+

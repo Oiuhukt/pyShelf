@@ -1,0 +1,48 @@
+11
+
+Page 8 of 12
+
+B. McLoone
+
+statisticalists then claim that natural selection cannot cause evolution since the two
+relata are instead in a non-causal dependency relationship. Commenting on this
+argumentative move, Otsuka writes (2016b, p. 475),
+…concluding the causal inertness of selection on this ground is just moving
+the goalposts. In fact, their ‘definition’ of natural selection is a far cry from
+its common usage and contradicted by the very opening sentence of Fisher
+(1930): ‘Natural selection is not evolution’.
+Otsuka takes lack of fit with the relevant literature to legitimately ground a rejection of a description of natural selection, particularly within the context of a debate
+about whether natural selection can cause evolution. This is the same methodology
+I employ.
+Third, Otsuka provides no compelling reason as to why we should adopt his
+description of natural selection. It is certainly justifiable to modify the intension of
+a theoretical term, or its presumed extension, if one can adduce a good reason such
+modification is called for. In fact our accounts of natural selection have changed
+since Darwin (Gayon 1998). For instance, Darwin often (e.g., 1859, pp. 126–127,
+489–490) though not always (e.g., Ibid., pp. 62–63) took natural selection to involve
+competition for limited resources. But there is a case to be made that the underlying logic of the theory does not require this (Lewontin 1970), and contemporary
+accounts of natural selection therefore typically leave out reference to resource competition (see Godfrey-Smith 2007, 2009, chapter 2). As another example, Darwin
+at times appears to combine what many would now distinguish as natural selection
+and evolution by natural selection (1859, p. 61, pp. 126–127). That natural selection
+can occur without evolution is plausible given the relative ease with which one can
+imagine apparent cases of natural selection (variation in fitness or even heritable
+variation in fitness) in the absence of evolution (Sober 1984a, pp. 40–41; GodfreySmith 2009, chapter 2). (It is for this reason, incidentally, that Matthen and Ariew’s
+(2009) account of natural selection, in which natural selection is claimed to entail
+evolution, strikes both me and Otsuka as indefensible.)
+In contrast, Otsuka provides little or no reason as to why his novel account of
+natural selection should be adopted. The closest Otsuka comes to offering a defense
+of his account occurs when he claims causal models are the most rigorous framework to understand why and how a population will evolve and that “the meaning and
+nature of the concepts like fitness, selection, and drift are determined unequivocally
+within these causal models” (2016b, p. 480). But one can consistently maintain that
+causal models should be used to predict and explain evolution and also maintain
+that trait or fitness variation is a necessary condition for natural selection—see, for
+instance, Glymour (2006). This is because the meaning of a concept like natural
+selection is not determined unequivocally by the causal models Otsuka references.
+The models Otsuka references relate certain trait, environmental, and fitness variables via edges and causal parameters. It is a decision to interpret one or a few of the
+variables, edges, and parameters in the model as a representation of natural selection; the model itself says precisely nothing about the matter. Even if we grant that
+one must first have an underlying causal model to develop a legitimate account of
+natural selection, it does not follow from this that natural selection must be identified
+
+13
+
+

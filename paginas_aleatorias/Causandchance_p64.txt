@@ -1,0 +1,48 @@
+Chance-changing causal processes 55
+
+questions: the question of whether the causal process between relation is intrinsic,
+and the question of whether the causal relation is intrinsic.
+Before doing that, however, let’s look at the broader picture for a moment.
+There is a general tension between, on the one hand, thinking of causation as an
+intrinsic relation and, on the other, holding (as most contemporary theorists do)
+that an adequate analysis of causation must take account of the chances that causes
+give their effects. (This is meant to include not just theories that appeal directly
+to chance in their analysis of causation, but also to theories that simply seek to
+do justice to the thought that causation and chance are somehow conceptually
+connected. For example, a commitment to (CCT) displays a commitment to a
+connection between causation and chance, whether or not (CCT) actually plays
+a part in one’s analysis of causation.)
+This tension arises because whether or not c raises the chance of e depends not
+just on the intrinsic features of c – and not even just on the intrinsic features of c,
+plus the intrinsic features of the causal process running from c to e, plus the laws of
+nature – but on facts that are entirely extrinsic to c and to the causal process that
+thereby leads to e. In the bus–brick case, for example – as Dowe notes – c lowers
+rather than raises the chance of e because of the speed at which the bus happens to
+be going. In the defoliant case, c lowers rather than raises the chance of e because
+in fact external factors are not such as to jeopardize seriously the plant’s chances of
+survival were all its leaves to remain intact. Whether or not c raises the chance of e
+depends in part on what the chance of e would have been in the absence of c; and
+that generally depends on features of the world that are nothing to do with the
+intrinsic features of the actual causal process between c and e.
+Moreover, whether c raises or lowers the chance of e also depends on what the
+actual chance of e is; and this also often depends on facts that are extrinsic to the
+causal process linking c and e. Suppose, for example, that the defoliant only has a
+50% chance of affecting the plant’s leaves at all. Then the plant’s actual chance of
+survival just after it is sprayed depends not only on how likely it is that the plant will
+die if it loses its leaves, but also on how likely it is that it will die if its leaves remain
+intact. Suppose that circumstances are such that if the plant keeps its leaves (whether
+or not it is sprayed) it will have a 90% chance of survival, but that if it loses its leaves
+(which it can only do if sprayed) its chance of survival will be just 20%. Then just
+after spraying, the plant’s actual chance of survival is 55%. Now suppose that
+circumstances are such that if it keeps its leaves it will have only a 10% chance of
+survival (because of the presence in its immediate environment of a nasty leaf
+disease, say). Then just after spraying, the plant’s actual chance of survival is 15%.
+Thus extrinsic facts – facts about the surrounding environment – help determine the
+actual chance of e, and thus whether or not c raises the chance of e, even though those
+extrinsic facts play no part in the actual causal process leading from the spraying to
+the survival. It is therefore very difficult to hold on to the idea that causation is an
+intrinsic matter while at the same time holding that causation and chance are related.
+On the view of causation as a chance-increasing causal process, causation is (at
+least partially) extrinsic in a very obvious way, since, as we saw above, whether or
+
+

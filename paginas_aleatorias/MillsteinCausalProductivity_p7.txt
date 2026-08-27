@@ -1,0 +1,49 @@
+8 Natural Selection and Causal Productivity
+
+153
+
+a level: the death of the French literary critic, Roland Barthes, who was struck by a
+laundry truck while crossing a Paris street on the way home from meeting with
+then-President François Mitterrand (Glennan 2010a). Other defenses of the new
+mechanistic philosophy, such as Bechtel and Abrahamsen (2005), Craver (2007),
+and Craver and Bechtel (2007), emphasize both the multilevel nature of mechanistic explanation and the importance of situating of a mechanism in its context (see
+especially Craver 2001 on this latter point). So, how can I claim that accounts under
+the new mechanistic philosophy are decompositional?
+A distinction made by Salmon between etiological explanations and constitutive
+explanations is useful in answering this question. Salmon states that both types
+of explanation are “thoroughly causal.” However, according to Salmon, etiological
+explanations “explain a given fact by showing how it came to be as a result of
+antecedent events, processes, and conditions” (1984, p. 269). Constitutive explanations, on the other hand, show “that the fact-to-be-explained is constituted by underlying causal mechanisms”; they exhibit “the internal causal structure of the
+explanandum” (1984, p. 270). I would suggest that etiological explanations are “at” a
+level, whereas constitutive explanations cite lower levels by citing the parts that make
+up the whole (i.e., they are decompositional). According to Salmon, we can expect that
+most explanations will have both etiological aspects and constitutive aspects, but we
+should also recognize that there are some cases of pure etiological explanation and
+some cases of pure constitutive explanation. Salmon gives the explanation of “the
+presence of a worked bone that is thirty thousand years old in an Alaskan archaeological
+site” as an example of a pure case of etiological explanation, noting that “to explain this
+fact, it is not essential to look for the causal constituents of the bone” (1984, p. 270).5
+In general, the new mechanists seem to agree with Salmon that most explanations
+include both etiological and constitutive aspects; however, whereas Salmon’s
+account emphasizes etiological explanations, the new mechanist philosophy
+emphasizes constitutive ones. Indeed, Craver explicitly distinguishes his project
+from Salmon’s in exactly this way, stating, “The variety of explanation that I am
+interested in is constitutive (or componential) causal-mechanical explanation: the
+explanation of a phenomenon, such as the opening of a Ca2+ channel, by the
+organization of component entities and activities” (2007, p. 8). Similarly, Bechtel
+acknowledges that “mechanistic explanations are inherently reductionistic insofar
+as they require specifying the parts of a mechanism and the operations the parts
+perform” (2011, p. 538). Thus, Darden’s example of the mechanism for the segregation of genes seems to be the exception rather than the rule, and Glennan distinguishes
+ephemeral mechanisms from his primary account of systems mechanisms, which
+do involve the decomposition of a system into parts (Glennan 2010a, p. 258).6
+5
+
+He also states, “Microphysics is invoked to ascertain the age of the bone, but not explain its
+presence in the site where it was discovered” (1984, p. 268).
+6
+Illari and Williamson (2010) also seem to understand MDC mechanisms as being decompositional.
+Kuorikoski (2009) usefully distinguishes between mechanisms that involve decomposition and those
+that do not; he agrees with Skipper and Millstein (2005) that natural selection falls into the latter
+category. (Thanks to Till Gruene-Yanoff for the pointer to the paper by Kuorikoski).
+
+

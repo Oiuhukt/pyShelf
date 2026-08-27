@@ -1,0 +1,43 @@
+Counterfactual theories, preemption and persistence 71
+
+which is distinct from D1, D2, … , Dn and E (C may or may not be distinct from
+C'), (iii) ch(E-line)-at-tC = p, and (iv) ¬C → ch(E-line)-at-t¬C<p.
+(Schaffer 2001a: 85)
+Schaffer argues that each preempting cause is an essential part of a process that
+includes the effect (Schaffer 2001a: 87).27 To illustrate, Schaffer considers an
+example in which Pam throws a rock at a window, while Bob, a more reliable
+thrower, holds off throwing. Had Pam not thrown her rock, Bob would have
+thrown his rock. Pam’s throw is a preempting cause of the window shattering,
+although it lowers the probability of that event given Bob’s greater reliability.
+Given that Pam’s throw preempts Bob’s throw in shattering the window, there is
+the sequence of events, which are pairwise lawfully related, of her throwing the
+brick, her brick flying through the air, hitting the window, and shattering it.
+‘Pam’s throw is part of this process and an essential part, since without it if the
+window gets shattered at all it will be by a different process entirely: Bob’s
+process’ (Schaffer 2001a: 87).
+Again consider Case A. Assume that the processes involved are governed by
+fundamental probabilistic laws such that the events on the main line and on the
+alternate line are pairwise subsumable under fundamental probabilistic laws. By
+law, d’s firing increases the probability of e’s firing and, by law, g’s firing increases
+the chances of e’s firing. Schaffer’s lawful-sequence account of processes gives,
+then, the wrong result for the preempted cause. d’s firing is an essential part of a
+Schaffer-process culminating in e’s firing. This becomes even clearer when we
+consider Schaffer’s solution to a case in which a major’s order to a corporal trumps
+a sergeant’s equivalent order. ‘Applying the lawful sequence analysis of processes:
+there are trumping laws linking ranking orders to decisions. Since the major’s order
+is the ranking order, only the major’s order, not the sergeant’s, instantiates the antecedent. The corporal’s decision instantiates the consequent’ (Schaffer 2001a: 87).
+The sergeant’s order is not, but the major’s order is, on process to the effect because
+the former does not instantiate an antecedent of such a (fundamental) law but the
+latter does.28 The same approach does not work for the preempted cause, d’s firing
+(Figure 5.1), since it meets the conditions of ‘Analysis 1 Interpreted’:
+(i) there is an extended event ‘E-line’ containing actual distinct events <d’s
+firing, e’s firing> in pairwise (probabilistic) nomic subsumption relations,
+(ii) there is an actual event d’s firing at td’s firing which is distinct from e’s
+firing, (iii) ch(E-line)-at-tc = p, and (iv) ¬d’s firing → ch (E-line)-at-t¬c<p.29
+d’s firing is an essential part of a process that includes e’s firing under the nomic
+conception of processes.
+The lesson is that the lawful-sequence conception of a ‘process’ is not the way to
+go to handle persistence preemption. I will now consider a simple form of transference theory with that lesson in mind. As we shall see, for transference theory to
+handle Case A, the transference relation must not be just a matter of lawful sequence.
+
+

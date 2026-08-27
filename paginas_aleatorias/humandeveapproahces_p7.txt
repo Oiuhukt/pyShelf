@@ -1,0 +1,154 @@
+BOX 1.6
+
+IN SEARCH OF AN ADEQUATE MEASURE OF HUMAN DEVELOPMENT,
+AN ALTERNATIVE HUMAN DEVELOPMENT INDEX, AHDI
+Nader Fergany
+Introduction
+It is widely recognised that the standard measure of human
+development (HD), the human development index (HDI)
+does not capture the rich content of the HD concept. In
+fact the popularity of the HDI has sometimes meant that
+HD is reduced to nothing more than human resources development (HRD), an unfortunate misunderstanding. This
+is indicated in the present chapter and emphasised in
+chapter 2 in the context of analysing significant human development deficits in the Arab region. The latter analysis
+confirms the region suffers from significant human development deficits that nonetheless do not register on a country’s standing on the HDI.
+The need to construct an adequate measure of HD is
+now well established. Indeed, the search for a better measure of HD is thus a pressing task for the human development movement.
+This exploratory analysis aims at initiating a process
+of innovation that could culminate in constructing an adequate measure of human development. The territory to explore is rugged and therefore calls for ingenuity as well as
+perseverance.
+The approach of this analysis is rather simple. It uses
+a flexible yet robust method to compose a number of
+human development indicators into a human development
+index deemed sufficient to approximate the rich content
+of HD. The method used is the Borda rule, a rank sum
+function that calls for the minimum technical requirements
+of the constituent indicators. The requirement is that the
+indicator can be used to arrive at an unambiguous ranking
+of alternatives (units of analysis, countries in our case) on
+the dimension of human development measured by the indicator. Given the ranking of alternatives, the Borda rule
+assembles the rankings of alternatives on the indicators
+considered into a single value, the rank sum, which produces a complete ordering of alternatives on the indicators
+used and hence is a valid social welfare function.
+(Dasgupta, 1993). We call the resulting rank-sum an alternative human development index (AHDI).
+This procedure produces only ranking of countries.
+As the objective here is to put the need for a better measure of human development on the human development
+research agenda, it is sufficient to produce country rankings. However, it would be a simple matter to compute
+AHDI values on the basis of the set of indicators proposed
+here .
+The indicators proposed here were, in part, motivated by the human development deficits in the Arab region given in chapter 2, defined to express human
+functionings, hence human capabilities, or freedoms and
+deemed, as such, to have universal validity. In addition,
+availability of data for a large number of countries was also
+a criterion for the inclusion of an indicator .
+The indicators used in this analysis are, in order:
+• Life expectancy at birth, LE, as a general measure of
+longevity and overall health.
+• Educational attainment, EA as a means of knowledge
+acquisition.
+• Freedom score, FS, as used in Chapter 1 and 2, defined to express enjoyment of civil and political liberties, a
+universally sought objective as well as to reflect the freedom deficit in the Arab region.
+• GEM, as computed by UNDP, to express women’s
+access to power in society in general, as well as reflect the
+women empowerment deficit in the Arab region.
+
+• Internet hosts per-capita, IH, to reflect ICT connectivity (access to ICT), to express a universally recognised
+requirement for benefiting from globalisation in this age,
+as well as to reflect the knowledge acquisition deficit in the
+Arab region.
+• CDE, Carbon dioxide emissions per-capita (metric
+tons), defined as a penalty, to reflect damage to the environment .
+As such the proposed indicators are universally valued functionings. In that sense, these are also developmental outcomes. Hence, the indicators proposed here have
+global relevance that extends beyond the Arab countries.
+As a result, the set of six variables seems to provide a good
+starting point for constructing indices of human development. The proposition is surely worth pursuing, and refining.
+It can be anticipated that the utilisation of this set of
+indicators will, compared to the HDI, penalise Arab countries, an anticipation that would be borne out by the construction of such an AHDI. But we think that this is not a
+serious shortcoming. Penalised also will be any country in
+the world that does not perform well on the six indicators
+proposed, including some of the highest ranking countries
+on both income and HDI, which are to be, rightly, penalised for their extensive contribution to global warming
+through CDE thus spoiling the world’s atmosphere for all.
+More important in our judgement than any country’s
+position on the AHDI is the conviction, articulated above,
+that the proposed indicators are genuinely valid yardsticks
+for measuring human development in this age of globalisation. In other words, countries, Arab or otherwise, that
+want to perform on human development, need to perform
+on freedom for all incorporating women’s empowerment,
+knowledge acquisition, including ICT connectivity, improving health and safeguarding the environment.
+As expected, the five variables: LE, EA, FS, IH and
+GEM are positively correlated with HDI and themselves.
+CDE, defined negatively to reflect damage to the environment, however, comes out negatively correlated with all
+other indicators
+Structurally, the AHDI consists of the two fundamental human capabilities: living a long and healthy life
+and knowledge acquisition through education. This it can
+be claimed is the irreducible core of human development.
+The exclusion of income from the AHDI was meant
+to de-emphasise the importance of average income as a
+measure of human development in general as well as to reflect the deficit of human capabilities relative to income in
+Arab countries. Properly understood, human development
+philosophy proposes human capabilities, especially freedom, rather than command over goods and services
+though income, as the ultimate means of human empowerment. It is freedom, not income that empowers human beings to achieve valued functionings. Thus, beyond the two
+fundamental human capabilities of health and knowledge
+acquisition, a human being needs to be empowered by
+freedom for all. It is time that average income be dethroned as the primary means of empowerment in human
+societies.
+This is indeed a major departure from the HDI and,
+from the vantagepoint of the concept of human development, a definite improvement. Freedom for all does not
+admit the disempowerment of any group, be it women, the
+poor or a religious or ethnic minority. In other words, freedom for all incorporates women’s empowerment, indeed
+
+HUMAN DEVELOPMENT: DEFINITION, CONCEPT AND LARGER CONTEXT
+
+empowerment for all.
+Nevertheless, disempowerment of women remains a
+major impediment to human development in many parts
+of the world, especially in the Arab region as noted in
+chapter2. As a result, we believe there is a strong case for
+explicitly incorporating a measure of women empowerment in the AHDI to stress this aspect of freedom for all.
+This indirectly adds to the weight of the freedom score in
+the AHDI by placing an emphasis on gender equity as well
+as to reflect the women empowerment deficit in the Arab
+region.
+The inclusion of two indicators of knowledge acquisition, EA and IH , is meant to reflect the emphasis on
+knowledge acquisition stressed throughout the report and
+to express the critical importance of ICT in this age of
+global connectivity. The two variables together give knowledge acquisition a higher weight than LE for example, reflecting the deficit of knowledge (education) relative to
+health (LE) in the Arab region.
+The human capability of being able to enjoy a safe
+environment translates, on the societal level, into a measure of environmental responsibility towards the global environment.
+AHDI Values
+To gain an appreciation of the implication of the proposed approach to the measurement of HD we examine in
+some detail the results of applying AHDI.
+AHDI turns out to be strongly and positively correlated with the HDI (rank correlation coefficient = +0.904).
+This strong correlation between the two indices perhaps
+indicates that they belong to the same family of measures.
+However, the position of individual countries on the
+range of the AHDI is reshuffled thoroughly. It is important to note that the rank of an individual country on HDI
+reported here, does not have to tally with the rank reported in the HDR. The ranks given here are based on the
+Borda ranking rule and not on the values of HDI, in addition to the fact that the rankings given here are limited to
+the 111 countries covered by the present analysis (compared to 174 in the HDR).
+This reshuffling of positions is reflected, at the level
+of world regions, utilising the average rank of countries of
+the region, in Figure 1. A higher rank represents a worse
+human development position.
+The same mapping is presented, on the level of the
+111 countries, in Figure 2. Sweden comes on top of the
+AHDI, while Canada is demoted to No. 3 (out of 111, it
+was No. 1 of 174 on HDI, 1998). The USA, UK, France
+and Germany do not make the top ten on the AHDI.
+Scandinavian countries, on the other hand, make a strong
+showing in the top ten on the AHDI.
+Of the 14 Arab countries included in the analysis,
+four place in the ten lowest AHDI values: Syria, Sudan,
+Mauritania, and Iraq.
+Jordan, Kuwait, Lebanon and UAE, in order, top the
+list of Arab countries on AHDI, followed by Morocco and
+the Comoros, Egypt and Tunisia. This order perhaps reflects differences in human welfare better than the HDI
+ranking.
+As expected, the position of all Arab countries deteriorates, to varying extent, on moving from HDI to AHDI
+but, especially Kuwait and the UAE, lose place considerably. Only Jordan and Comoros essentially retain their relative placing on both indices.
+
+21
+
+

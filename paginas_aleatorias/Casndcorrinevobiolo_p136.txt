@@ -1,0 +1,28 @@
+4 . 2 D E C O M P O S I N G E F F E C T S I N PAT H D I A G R A M S
+
+Figure 4.5. The fully parameterised path model of Figure 4.1. The
+numerical values are the maximum likelihood values of the free
+parameters based on centred and standardised variables. Units are
+therefore standard deviations from the mean.
+
+iance. In fact, most SEM programs print these standardised estimates out.
+Figure 4.5 shows the path diagram for the correct model based on standardised variables.
+4.2
+
+Decomposing effects in path diagrams
+
+One important use of path diagrams is to ‘decompose’ an association
+between variables into diﬀerent types of causal relationship. In fact, this was
+the main goal of Wright’s original method of path coeﬃcients. Remembering the notions of causal graphs that were introduced in Chapter 2, we can
+diﬀerentiate between types of eﬀect: direct causal eﬀects, indirect causal
+eﬀects, eﬀects due to shared causal ancestors and unknown causal relationships13. One way of visualising this classiﬁcation of associations is shown in
+Figure 4.6.
+This decomposition of a statistical association into diﬀerent types of
+causal relationship is based on the fundamental association linking causality
+with probability distributions, as described in Chapters 1 and 2. The overall
+13
+
+Of course, there can always be associations due to random sampling ﬂuctuations.
+123
+
+

@@ -1,0 +1,32 @@
+• C2 ∶= ◻¬p ∨ ◻p ∨ ◇¬p.
+Take C1 . We form two disjunctions, (1) ¬p ∨ p and (2) p ∨ p. Because (1) is a tautology, C1
+passes the test.
+Take C2 . We form two disjunctions, (1) ¬p∨¬p and (2) p∨¬p. Because (2) is a tautology,
+C2 passes the test.
+Because both conjuncts pass the test, (◻¬p ∨ ◻p ∨ ◇p) ∧ (◻¬p ∨ ◻p ∨ ◇¬p) passes the
+test.
+Example 11.5.14. (◻¬p ∨ ◇¬p) ∧ (◻¬p ∨ ◻¬q) ∧ (◻¬q ∨ ◇¬p) ∧ (◻¬q ∨ ◻¬q) does not pass
+the test. The wff has four conjuncts:
+• C1 ∶= ◻¬p ∨ ◇¬p.
+• C2 ∶= ◻¬p ∨ ◻¬q.
+• C3 ∶= ◻¬q ∨ ◇¬p.
+• C4 ∶= ◻¬q ∨ ◻¬q.
+Take C1 . We form one disjunction, (1) ¬p ∨ ¬p. We do not need to go any further, for (1)
+is not a tautology, so C1 doesn’t pass the test, so the entire wff does not pass the test.
+We are now in a position to prove Theorem 11.5.1. We do so via the following two
+lemmas:
+Lemma 11.5.15. Let C be the class of reflexive, transitive, and symmetric frames. If C ⊧ φ,
+then φ in OMCNF passes the test.
+Lemma 11.5.16. If φ in OMCNF passes the test, then ⊢S5 φ.
+Proof of Lemma 11.5.15. We prove this lemma contrapositively. That is, suppose φ does
+not pass the test. Then we construct a reflexive, transitive, and symmetric model with a
+world where φ is false.
+If φ does not pass the test, then there is some conjunct Ci of φ that does not pass the
+test (if there is more than one, this does not matter, we only need one). Ci is of the form
+β ∨ ◻γ1 ∨ ⋅ ⋅ ⋅ ∨ ◻γn ∨ ◇δ
+and none of β ∨ δ, γ1 ∨ δ, . . . γn ∨ δ is a tautology, and each is a purely propositional formula.
+Let F be a reflexive, transitive, and symmetric frame with at least n+1 worlds, w0 , . . . , wn .
+We define a model M on F that is such that V (β, w0 ) = F and V (δ, w0 ) = F . (Since β ∨ δ is
+316
+
+

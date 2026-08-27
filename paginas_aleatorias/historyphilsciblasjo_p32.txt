@@ -1,0 +1,48 @@
+proposition: If we take as a fixed reference point the planet accompanied by a satellite, this satellite is subject to a force directed
+toward the planet varying inversely with the square of the distance. If, as happens with Jupiter, the same planet possesses several
+satellites, these satellites, were they at the same distance from the planet, would be acted on by the latter with forces proportional
+to their respective masses. The planet is itself not acted on by the satellite.
+Such, in very precise form, are the propositions which Kepler’s laws of planetary motion and the extension of these laws to
+the motions of satellites authorize us to formulate. For these propositions Newton substituted another which may be stated as
+follows: Any two celestial bodies whatsoever exert on each other a force of attraction in the direction of the straight line joining
+them, a force proportional to the product of their masses and to the inverse square of the distance between them. This statement
+presupposes all motions and forces to be related to the same reference point; the latter is an ideal standard of reference which
+may well be conceived by the geometer but which does not characterize in an exact and concrete manner the position in the sky
+of any body.
+Is this principle of universal gravitation merely a generalization of the two statements provided by Kepler’s laws and their extension to the motion of satellites? Can induction derive it from these two statements? Not at all. In fact, not only is it more general
+than these two statements and unlike them, but it contradicts them. . . . The principle of universal gravity, very far from being
+derivable by generalization and induction from the observational laws of Kepler, formally contradicts these laws. If Newton’s
+theory is correct, Kepler’s laws are necessarily false.
+§ 7.9. Reception and influence
+L ARRY L AUDAN, Science and Hypothesis: Historical Essays on Scientific Methodology, Reidel, 1981.
+
+The half-century following the publication of the Principia was marked by a growing antipathy to hypotheses and speculation.
+(112) Virtually every preface to major scientific works in this period included a condemnation of hypotheses and a panegyric
+for induction. . . . As a contemporary noted, “The [natural] philosophers of the present age hold hypotheses in vile esteem.”
+Philosophers of science and epistemologists were, if anything, even more enthusiastic in their condemnation of hypothetical
+inference. (10)
+C OLIN M AC L AURIN, An Account of Sir Isaac Newton’s Philosophical Discoveries, London, 1748.
+
+[Before Newton,] One ill-grounded maxim was imagined, to support another, and fiction was grafted upon fiction. Hypotheses
+were invented, nor for reducing facts or observations of a complicated nature to rules and order, (for which purpose they may be
+of service) but as principles of science. These were of so great authority as not to be overturned by contradictory observations, or
+by the extravagant consequences that arose from them; but the author, charm’d with his rhapsody, proceeded, without minding
+these, to the conclusion of his fable. Thus one age or sect could not but destroy, for the most part, the labour of another. (94)
+They who have indulged themselves in inventing systems and compleating them, tho’ they have sometimes set out in a manner
+that has appeared plausible, yet, in pursuing those schemes, such consequences have arisen as could not fail to disgust all but
+such as were intoxicated with the deceit. (95) We may also learn . . . from the bad success of so many fruitless attempts, to be
+less fond of perfect and finished schemes of natural philosophy; to be willing to stop when we find we are not in a condition to
+proceed farther; and to leave to posterity to make greater advances, as time and observation shall enable them. (91)
+But it has appeared sufficiently, from the discoveries of . . . Sir Isaac Newton, that the fault has lain in the philosophers themselves, and not in philosophy. A compleat system indeed was not to be expected from one man, or one age, or perhaps from the
+greatest number of ages; could we have expected it from the abilities of any one man, we surely would have had it from Sir Isaac
+Newton: but he saw too far into nature to attempt it. (96)
+P ETER J IMACK, The French Enlightenment I: science, materialism and determinism, in Stuart Brown (ed.), Routledge History
+of Philosophy, Volume V: British Philosophy and the Age of Enlightenment, Routledge, 1996, Chapter 9.
+
+The French Enlightenment is not just a convenient label devised by historians of philosophy, and the thinkers to be discussed in
+this chapter and the next were for the most part conscious of belonging to a movement. . . . On many topics . . . , they held broadly
+similar views and differed only in matters of detail. The very term ‘philosophes’ came to be used to designate the thinkers who
+
+32
+
+

@@ -1,0 +1,44 @@
+300
+
+An Introduction to Non-Classical Logic
+
+13.7 *Proofs of Theorems
+13.7.1 In this section, we prove a number of metatheorems for free logic,
+in particular, the appropriate soundness and completeness results. Since
+these are variations on the classical arguments, this is mainly just a matter
+of noting differences. Let us start with positive free logic with only inner
+quantiﬁers, and no identity.
+13.7.2 Lemma (Locality): Let I1 = D, E, ν1 , I2 = D, E, ν2  be two interpretations. Since they have the same domain, the language of the two is the
+same. Call this L. If A is any closed formula of L such that ν1 and ν2 agree on
+the denotations of all the predicates and constants in it then:
+ν1 (A) = ν2 (A)
+
+Proof:
+The proof is as in 12.8.2. The only things that have changed are the truth
+conditions of the quantiﬁers. In the induction cases for these, ‘d ∈ D’ is
+simply replaced by ‘d ∈ E’.
+
+
+
+13.7.3 Lemma (Denotation): Let I = D, E, ν be any interpretation. Let A be
+any formula of L(I) with at most one free variable, x, and a and b be any two
+constants such that ν(a) = ν(b) then:
+ν(Ax (a)) = ν(Ax (b))
+
+Proof:
+The proof is as in 12.8.3. Again, the only things that have changed are the
+truth conditions of the quantiﬁers. In the induction cases for these, ‘d ∈ D’
+is simply replaced by ‘d ∈ E’.
+
+
+
+13.7.4 Corollary: Let I be any interpretation. Let C be any set of constants
+such that every object in D has a name in C. Then:
+ν(∀xA) = 1 iff for all c ∈ C such that ν(Ec) = 1, ν(Ax (c)) = 1 (otherwise it is 0)
+ν(∃xA) = 1 iff for some c ∈ C such that ν(Ec) = 1, ν(Ax (c)) = 1 (otherwise
+it is 0)
+
+Proof:
+Here is the proof for ∀. The proof for ∃ is similar.
+
+

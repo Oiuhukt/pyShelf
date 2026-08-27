@@ -1,0 +1,43 @@
+186 | Alessandro Giordani
+If M = ⟨W, R, K, D, ℑ, E, V⟩, then Mdx = ⟨W, R, K, D, ℑdx , E, V⟩, where ℑdx is the
+re-interpretaion of x on d based on ℑ.
+Deﬁnition 9. truth at a world in a model for QLJS5 .
+M, w 󳀀󳨐 p ⇔ V(w, p) = 1
+M, w 󳀀󳨐 ¬φ ⇔ M 󳀀󳨐̸ φ
+M, w 󳀀󳨐 (φ1 ∧ φ2 ) ⇔ M 󳀀󳨐 φ1 and M 󳀀󳨐 φ2
+M, w 󳀀󳨐 ∀xφ ⇔ ∀d ∈ D(Mdx , w 󳀀󳨐 φ)
+M, w 󳀀󳨐 ◻φ ⇔ ∀v(R(w, v) ⇒ M, v 󳀀󳨐 φ)
+M, w 󳀀󳨐 t : φ ⇔ ∀v(K(w, v) ⇒ M, v 󳀀󳨐 φ) and φ ∈ E(w, ℑ[t], ℑ)
+Corollary 1. (Monotonicity). M, w 󳀀󳨐 t : φ ⇒ ∀v(K(w, v) ⇒ M, v 󳀀󳨐 t : φ).
+Proof. Suppose M, w 󳀀󳨐 t : φ. Then ∀v(K(w, x) ⇒ M, x 󳀀󳨐 φ) and φ ∈ E(w, ℑ[t], ℑ).
+Suppose K(w, v). Then ∀x(K(v, x) ⇒ K(w, x)), since K is transitive, and so
+∀x(K(v, x) ⇒ M, x 󳀀󳨐 φ), since K(w, x) ⇒ M, x 󳀀󳨐 φ. Thus, K(w, v) ⇒ ∀x(K(v, x) ⇒
+M, x 󳀀󳨐 φ) and K(w, v) ⇒ φ ∈ E(v, d, ℑ), by EM, and so ∀v(K(w, v) ⇒ M,
+v 󳀀󳨐 t : φ).
+◻
+The deﬁnition of the relation of logical consequence is the usual one: X ⊩QLJS5 φ
+iff M, w 󳀀󳨐 X ⇒ M, w 󳀀󳨐 φ, for every M, w, where M, w 󳀀󳨐 X precisely when M, w 󳀀󳨐 φ
+for every φ ∈ X. In what follows, we will also write
+R(w)
+K(w)
+M, R(w) 󳀀󳨐 φ
+M, K(w) 󳀀󳨐 φ
+
+for {v | R(w, v)}
+for {v | K(w, v)}
+for ∀v(R(w, v) ⇒ M, v 󳀀󳨐 φ)
+for ∀v(K(w, v) ⇒ M, v 󳀀󳨐 φ)
+
+In the next two sections we will prove our main result, which is that system QLJS5
+is sound and strongly complete with respect to the class of modal model for QLJS5 .
+
+3.3 Soundness
+QLJS5 is sound with respect to the class of modal model for QLJS5 .
+Theorem 2. (Soundness).
+X ⊩QLJS5 φ ⇒ X ⊢QLJS5 φ, for all X and φ.
+
+Brought to you by | UCL - University College London
+Authenticated
+Download Date | 2/12/18 12:03 PM
+
+

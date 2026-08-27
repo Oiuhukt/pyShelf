@@ -1,0 +1,40 @@
+Explanation in Biology
+
+39
+
+these accounts are focused on explanations of natural phenomena – they are
+focused on the use of mathematics (or non-causal information) in natural
+science explanations or explanations of the physical world. Expressed in a
+different way, these accounts are not interested in mathematical explanations
+in the ﬁeld of mathematics or in non-scientiﬁc domains (Baker 2005). Additionally, many of these philosophical accounts of non-causal, mathematical
+explanation aim to capture explanatory reasoning found in scientiﬁc work. As
+Lange notes, this is a view of scientiﬁc explanation that aims to “do justice to
+scientiﬁc practice” (Lange 2018, 24). This requires identifying explanatory targets of scientiﬁc interest, such that these targets can be couched in explanatory
+why-questions and then answered, as opposed to providing obscure mathematical answers to previously unknown and scientiﬁcally uninteresting questions
+(Baker 2005).
+A second important standard that these accounts of non-causal, mathematical explanation are held to is that they need to justify the explanatory role
+of mathematics. It is well appreciated that mathematics is used to represent
+phenomena in the world. However, while this representational capacity can
+support the scientiﬁc aims of description, prediction, and classiﬁcation, these
+are all distinct from explanation. This is why these cases are often referred to
+as “distinctively mathematical” – they are not just explanations that “employ”
+mathematics, but cases in which the mathematics has the special feature of
+being explanatory (Lange 2018, 4). A convincing argument for the explanatory nature of mathematics must address this question of explanatory power and
+demonstrate how the math is doing more than merely representing phenomena
+in the world. Finally, most accounts of non-causal, mathematical explanation
+do not claim to be entirely free of causal information. While these explanations
+often have some causal information, it is argued that they require non-causal,
+mathematical information to be explanatory. In these accounts, there is some
+mathematical (or non-causal) kernel required for the complete explanation that
+marks it as distinct from standard causal explanations.
+The topic of non-causal, mathematical explanation has received growing
+attention for different reasons. One reason stems from concerns that philosophical accounts of scientiﬁc explanation have overlooked non-causal, mathematical explanation and focused mainly (or exclusively) on causal explanation
+(Lange 2018). Work in this area aims to correct this deﬁciency by clarifying
+how non-causal, mathematical explanations should be understood and how
+they work. A second reason for attention to this topic concerns debates about
+the existence of mathematical objects and so-called “indispensability arguments” that argue in favor of this existence (Baker 2005; Lyon and Colyvan
+2008; Lyon 2012). In these debates, Platonists argue that mathematical objects
+Downloaded from https://www.cambridge.org/core. IP address: 38.156.15.196, on 19 Jan 2025 at 20:09:59, subject to the Cambridge Core terms of
+use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/9781009300940
+
+

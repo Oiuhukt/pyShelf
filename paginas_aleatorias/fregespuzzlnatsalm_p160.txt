@@ -1,0 +1,74 @@
+148
+
+A p p e n d ix
+
+C
+
+time f, E tern , (p ) = p ' iff, for every formula <f> of ! £ and context c,
+Valb£4>) = p iff V alc ,(<f>) = p'.
+
+Definition: A p - s tr u c tu r e is any 10-tuple, 31 = (U , W,
+o), t , S ) , where
+
+R, T, D,
+
+(0 U is a nonempty set of individuals [the set of possible individuals
+of 21];
+W is a nonempty set of worlds;
+€ W [the actual world of 21];
+(iv ) R is a reflexive and symmetric relation on IV [accessibil­
+ity in 21];
+(ii)
+
+(in')
+
+-.(fl)
+
+T is a nonempty set of times;
+
+(v i)
+
+D € L/W x T [the assignment of domains to world-time pairs
+
+of 21];
+(Vii)
+
+^ € |i{all individuals};
+
+(v iii)
+(ix)
+
+t
+
+co € VV(al1 worlds};
+€
+times};
+
+and
+(x) S is a function whose domain is {the property of being bald,
+the property of being human, the relation of loving, the relation of
+believing} and such that
+(a)
+
+if P is a property, S(P) € (U W)T and, for all t e T and w e W,
+
+S (P )(t)(w )C D (w ,ty ,
+
+(b) S (loving) € ((U x U )W) T and for all f e T , w € W,
+S(loving)(f)(id) C D (w ft) x D(w,f);
+(c) S (believing) € ((li x {information contents of formulas of
+& } ) W) T and for all t € T , w e W, S(believing)(f)(w) ^
+D(w,f) x {information contents of formulas of £ £ } .
+Definition of property and relation e x e m p lific a tio n w ith r e s p e c t to a time
+t a n d a world w in a p-structure 21, ex e m p \ w and e x e m p t, and of truth
+w ith r e s p e c t to a time t a n d a world w in a p-structure 21, tru e\ „ and
+true\ , for information values and information value bases of
+For
+every p -s tr u c tu r e 21 — ( li, W,
+R, T, D, J , <*>, r, S), individuals f , /
+€ U, time t e T, and world w € W,1
+1.
+If P is either the property of being bald or the property of being
+human, then
+
+

@@ -1,0 +1,66 @@
+650 NO US
+
+MA in 1 Leaps from
+Closet Closet
+
+BA
+
+in
+
+-itch
+Kitchen
+
+.2
+
+.8
+
+Soup - King Dies
+
+Figure 7. Preemption.
+
+here boils down to that of saying what makes special
+
+izations good (or good enough) despite the fact tha
+under restricted boundary conditions, describe ide
+accurate only to some degrees of approximation. T
+
+here is an account of "approximate truth" or "approx
+laws. I will not offer such an account, and as far as I k
+good accounts out there. It seems to me that such an
+by a broadly realistic view of the special sciences, wh
+
+counterfactuals; it should be no surprise that it is
+theory of counterfactuals.
+
+6. Contrastive causal influences.
+
+Here I turn very briefly to the more complex matter, postponed from
+
+(fn. 8), of providing an account of "positive parents" that is sensitive to th
+details of contrastive influences. The account I provide plugs into the theor
+
+TC already developed, and readers not interested in the details may wis
+skip this section.
+Suppose we have a simple model P --+ D. P is dosage of poison, and
+takes values 0 (no poison), 1 (low dosage), and 2 (high dosage). D is dea
+Suppose for the sake of illustration that the effect of the poison is (at leas
+
+quasi-)indeterministic. p(DIP = 0)= .01, p(DIP = 1) - .5, p(DIP =
+
+- .99. Fluffy the rat is given the low dosage, and survives. I take it t
+'If Fluffy had not been given any poison, then she would have survived
+
+MA in
+
+Closet +
+
+King Dies
+BA in
+Kitchen
+
+Figure 8. Preemption.
+
+This content downloaded from 131.156.224.67 on Sat, 03 Sep 2016 11:41:24 UTC
+All use subject to http://about.jstor.org/terms
+
+

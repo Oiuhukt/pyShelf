@@ -1,0 +1,43 @@
+Evidence-Based Policy 205
+
+that the causal effect of interest differs between populations. Providing bed
+nets free of charge may be the best policy in Uganda but selling them at a
+nominal fee more effective in India.
+In general, every study is subject to external validity issues, observational
+and experimental, and among the experimental studies randomized or not
+randomized. If one measures the causal effect of growth in money supply
+on inflation or changes in nominal income using US data between 1960
+and 1990, the result might not hold for the USA of the 2000s or for the
+Netherlands in the same period. External validity is a problem for everyone,
+and it would be a mistake to criticize RCTs for that reason.
+But there are some peculiarities that make the external validity problem
+more pressing for RCTs than for other methods. As explained above,
+RCTs, when implemented successfully, give us knowledge “cheaply” in
+the sense that they require no specific background knowledge in order to
+identify a causal effect from the data. But this does come at an eventual
+cost: if the understanding of the causal structure that is being experimented on in the RCT is very limited, there are no good grounds for
+believing that a result will also hold in this or that population that differs
+from the test population.
+In a sense an RCT is a “black-box” method of causal inference. A treatment is administered, an outcome observed, with no need for any understanding of what is going on in between and why a treatment produces its
+outcome. But if there is no knowledge of why a treatment produces a given
+outcome, the basis for drawing inferences beyond the immediate test population is very narrow.
+This is different, for example, with respect to alternative methods such as
+structural or other theory-driven forms of econometrics. Consider the example
+discussed in Chapter 9 regarding Maimonides’ rule as an instrument for class
+size. The paper by Miguel Urquiola and Eric Verhoogen criticized the choice
+of Maimonides’ rule as an instrument on the basis of a detailed model about
+how parents choose schools for their kids and schools make decisions about
+the quality of education they offer (Urquiola and Verhoogen 2009). Such a
+model, if correct, gives us a lot of information about why a causal relation
+holds when it does. Having this information then allows us to make reasonable guesses about where else outside the experimental study it might hold.
+Another problem related to that of external validity is the possible existence of so-called “general equilibrium effects” (Morgan and Winship 2007).
+General equilibrium effects obtain when an intervention changes the causal
+structure of a population not because of the intervention as such but rather
+because the intervention is extended from a small sample to the population at
+large. For instance, a new schooling program that aims to improve test scores
+by reducing class size might work for a small sample of schools that receive
+the experimental treatment. When extended to all schools, however, it ceases
+to work because there aren’t enough well-qualified teachers to take charge of
+all the new classes. The program works “holding fixed” other determinants
+
+

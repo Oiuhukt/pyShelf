@@ -1,0 +1,52 @@
+Episteme
+
+11
+
+A defender of these laws may be tempted by a response here: but there are no
+FOL-models with empty domains! We defined our models so as to exclude them.
+This I think is the counterpart in logic of Cartwright’s observation that the theoretical
+equations are true only ‘in the models’. When we find situations not represented by the
+official models where the equations fail, we retreat to saying that the laws only ever
+made claims about the models, and so are not challenged by such examples. But in
+physics this retreat made the laws no longer qualify as laws of physics; laws which
+do not attempt to describe the physical world do not qualify.
+The situation is similar in logic. The retreat to speaking only of relative-validity, i.e.
+valid-in-FOL, backs off the challenge of theorizing the target phenomenon, validity.
+The relative properties (valid-in-FOL, valid-in-intuitionistic logic, valid-in-LP etc.)
+are of interest, but they are not the target: they are each attempts to theorize the target.
+If an argument does not preserve truth in some circumstances, i.e. if there is a way to
+make the premises true without making the conclusion true – e.g. circumstances where
+nothing exists – then it isn’t really valid.20
+So the non-empty domains assumption is an idealisation, and it is one that leads to
+laws of logic that lie, namely, 1, 2, 3, and 4 above.
+3.2. Idealisation 2: all terms have a denotation
+The representation of names in FOL is also idealised, in that each name is assumed to
+have a unique denotation. Natural languages have empty names, e.g. names which fail
+to denote an object, like Vulcan, or Homer. But in FOL names are simulated by the
+non-logical individual constants, a, b, c, … etc. and each is assigned a unique element
+of the model’s domain by the I-function. This is a helpful simplification. It saves the
+need to consider what truth-value a sentence ought to receive if a term it contains
+fails to denote. Some might think such a sentence should be false, or that it should
+lack a truth value. FOL sidesteps these issues, but one of the consequences is that certain
+laws hold that might not otherwise have held. For example:
+
+5. ∀xFx oFa
+6. Fa∨¬Fa
+3.3. Idealisation 3: predicates are complete
+A different idealisation concerns the relationship between the extensions of predicates
+and the extensions of their negations. In FOL the extension of a primitive non-logical,
+unary predicate, Π, is a subset of the domain,
+
+I(P)
+and the extension of the negation of that predicate (the predicate’s anti-extension) is
+D − I(P).
+20
+Again I think the comparison with effectiveness can be helpful: if we proposed the class of primitive
+recursive functions as the extension of effective, we might be challenged by examples of intuitively effective
+functions which are not primitive recursive, e.g. partial recursive functions. An imaginary interlocutor
+might maintain that they had intended to talk only of ‘effective according to my theory on which the effective functions are the primitive recursive ones’ but with this move they back of the challenge of theorising
+the target.
+
+https://doi.org/10.1017/epi.2024.4 Published online by Cambridge University Press
+
+

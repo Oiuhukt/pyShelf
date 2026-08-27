@@ -1,0 +1,47 @@
+270
+
+Postface
+
+We can thus make the following generalisation. Take a set of stimuli
+that meet the following conditions: any of them would be likely to
+communicate what the communicator wants to communicate; she
+is capable of producing any of them; and she has no preferences
+among them, apart from wanting to choose the one that will be most
+effective in achieving her communicative goal. These stimuli may differ
+in terms of the effort demanded of the addressee, the effects achieved,
+or both effect and effort. The communicator should choose the stimulus
+that appears most relevant to the addressee, since this will make
+her communication most likely to succeed? For the same reason, she
+should appear to be choosing the stimulus that is most relevant to the
+addressee. In normal conditions, appearance and reality are likely to
+coincide.
+The communicator’s choice of ostensive stimuli is limited not only by
+her preferences but by her abilities. On the effort side, there may be
+stimuli that would be easier for the hearer to process, but that the
+communicator is unable to think of at the time, as when the best
+formulation of some thought just fails to come to mind. On the effect
+side, the limits on the communicator’s abilities are even more significant.
+There may always be information that the hearer would find more
+relevant than anything the communicator has to offer. She cannot be
+more relevant than her own knowledge permits. If she decides to
+communicate in bad faith, and tries to make manifest assumptions that
+she does not believe, she would still want the addressee to think that
+what she is trying to communicate is warranted by what she knows.
+Again, there is no principled asymmetry between effect and effort.
+The presumption is that, of all the stimuli that are available to her and
+acceptable as a means of achieving her particular communicative goal,
+the communicator will choose one that is as relevant as possible to the
+addressee. The second clause of the presumption of relevance can be
+made both simpler and more general, as follows:
+(11) The ostensive stimulus is the most relevant one compatible with
+the communicator’s abilities and preferences.
+We now have a fully revised presumption of optimal relevance:
+(12) Presumption of optimal relevance (revised)
+(a) The ostensive stimulus is relevant enough for it to be worth the
+addressee’s effort to process it.
+(b) The ostensive stimulus is the most relevant one compatible
+with the communicator’s abilities and preferences.
+This says that the addressee is entitled to expect a level of relevance high
+enough to warrant his attending to the stimulus, and which is, moreover.
+
+

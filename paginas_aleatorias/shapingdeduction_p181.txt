@@ -1,0 +1,45 @@
+
+
+Formulae
+
+the propositions become apparent: the enunciation is a pair construction formula/predicate formula; the same sequence is repeated in the
+pairs setting-out/deﬁnition of goal; construction/proof. Finally, the
+conclusion reverts to the original sequence. A limited group of object
+formulae is governed by those construction and predicate formulae:
+the construction and predicate formulae operate on the small group of
+object formulae, rearrange them and yield the necessary results.
+The global relation between construction and predicate formulae –
+the sequence of four repetitions of these sorts of formulae – is the key
+for generality. I will discuss this in detail in chapter  below.
+The more local relation between object formulae, governed by
+construction and predicate formulae (and, elsewhere, argumentation
+formulae) is one of the keys for necessity. I shall return to this in the
+next chapter.
+
+
+:     
+.
+
+Contexts of formulae
+
+First, an obvious point: the use of a system of formulae (especially noncompositional formulae) implies a professionalised, inward-looking and
+surprisingly homogeneous group. This enhances the results of chapter
+, and I shall return to this issue in chapter  below.
+I shall move straight to the main issue, that of orality and literacy –
+returning to Homer. In the Homeric case, formulae are seen by most
+of the scholars as signs of orality. As explained above, this can not
+be imported directly into the mathematical case. But the problem
+remains: what sort of language use is implied by the use of formulae?
+The word ‘oral’ is sometimes used to mean ‘illiterate’: in this sense
+certainly it is inapplicable to the mathematical case. But this use of
+‘oral’ is misleading (as is now well known, e.g. following Finnegan
+). This is because there is no sharp dichotomy, ‘oral’ and ‘written’.
+The cognitive reality is much more complex. The presence of writing
+may be inﬂuential to varying degrees, in varying ways. So consider,
+for instance, the ﬂexibility of formulae. The text is repetitive – but not
+verbatim repetitive. This is comparable to the result in chapter  above,
+concerning the behaviour of many-lettered names. And we shall return to the same result in the next chapter, with the quotation of
+earlier results. Whether the Greek looked up his text or not, at any
+rate he did not operate under the expectation that one should look up
+
+

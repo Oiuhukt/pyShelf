@@ -1,0 +1,50 @@
+Game Theory 75
+
+both deny their involvement, each is sentenced to one year. If just one
+confesses, he is released but the other prisoner is sentenced to ten years.
+(Rasmusen 2006: 20; footnote suppressed)
+The corresponding matrix could be written as shown in Figure 4.17.
+
+Prisoner 1
+
+Prisoner 2
+Confess
+
+Deny
+
+Confess
+
+(8 years, 8 years)
+
+(0, 10 years)
+
+Deny
+
+(10 years, 0)
+
+(1 year, 1 year)
+
+Figure 4.17 The Prisoner’s Dilemma in Game Form
+
+The advantage of presenting games in this way—that application to empirical situations is easier—is frustrated by the fact that game theory could not
+make any predictions without knowledge of players’ preferences. In some
+cases, what people prefer may be relatively straightforward, such as here. It
+is very reasonable to assume that almost everybody has the following preference ranking: acquittal > 1 year > 8 years > 10 years. In other words, it is
+reasonable to assume that utility is strictly decreasing by number of years in
+prison and therefore that the Eurobonds Game of Figure 4.2 is an adequate
+transformation of the game form of Figure 4.17 (for the notion of a game
+form, see Weibull 2004).
+What is reasonable to assume in one case should not be blindly accepted as
+a rule more generally. In other words, one should allow the utility function:
+U = U(M),
+where M designates the material outcomes of a game, to vary between people
+and across situations. Although in early experimental applications of game
+theory, subjects were assumed to care only about their own material gains
+and losses, this is clearly not a substantive hypothesis of game theory as such.
+As game theorist and experimenter Ken Binmore remarks:
+Actually, it isn’t axiomatic in economics that people are relentlessly
+selfish. … Everybody agrees that money isn’t everything. Even Milton
+Friedman used to be kind to animals and give money to charity.
+(Binmore 2007: 48)
+
+

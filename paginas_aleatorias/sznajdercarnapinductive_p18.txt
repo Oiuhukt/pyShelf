@@ -1,0 +1,45 @@
+434
+
+
+
+Inductive Logic as Explication: The Evolution of Carnap’s Notion of Logical Probability
+
+Downloaded from https://academic.oup.com/monist/article-abstract/101/4/417/5122836 by University of Birmingham user on 19 November 2019
+
+the explicit reference is to a value of a parameter, not to the person whose characteristics might nicely correspond to that parameter. And when it comes to subjectivity
+understood as a freedom of choice afforded to the user of any linguistic framework,
+Carnap was the leading champion of this view since formulating his principle of tolerance in the Logical Syntax (Carnap 1934, §17).
+What about references to rational agents and rational beliefs, though? After all,
+the main characterization of the explicandum in the late period is of logical probability functions as rational credibility functions—does that formulation presuppose an
+implicit reference to an agent, even if it is an idealized one? Carnap himself continued to insist—both in the early and the later periods—that such references are only
+a manner of speaking that facilitates understanding of the underlying objective concept, in the same way as considering the application of deductive consequence to rational reasoning does not render deductive logic subjectivistic. There probably are
+people who do not agree with him on that. What matters for my main question is
+that even if this reference to rational belief sneaks in an implicit reference to an agent
+that would threaten Carnap’s understanding of objectivity, this is already the case in
+the early period of inductive logic’s development. This means that if we want to
+count this interpretation as an instance of subjectivism about probability, we would
+have to classify both the early and the late inductive Carnap as a subjectivist—not
+just the late one.
+We can conclude, then, that if “logical” and “objective” probability are understood
+in the above sense of not containing an implicit reference to an agent in the sentences involving that concept, then Carnap’s explicandum was either logical and objective throughout the two periods (if you agree with him on whether references to
+rational belief do not spoil this picture), or he was a subjectivist from the start (if
+you think that a plurality of admissible probability functions necessarily implies a
+subjective component). Whichever of these two interpretation we prefer, there is no
+change in either respect between the early and the late period.
+Another argument for Carnap’s move towards subjectivism about probability
+points to his acceptance of the fair betting odds interpretation and the connection of
+probability to decision making via expected utility calculation. As we have seen, however, both of these features are present already in Foundations—the change in the
+later period was rather an increase in the relative weight of such applications, rather
+than a drastic change in substance. Hence, under this interpretation of what subjectivism amounts to, we would also be forced to classify Carnap as a subjectivist from
+the start.
+There is also an interpretation according to which Carnap should be classified as
+belonging to what has become known as objective Bayesianism. Objective Bayesians
+subscribe to the interpretation of probability as rational degree of belief, while also
+postulating rationality constraints that go beyond the basic axioms of probability. If
+we were to grant this interpretation, then Carnap’s early inductive logic would have
+to be classified as Bayesian in spirit as well. But this raises the prior question of the
+difference between objective Bayesian and the logical conception of probability; was
+Carnap both of these in the beginning? Or should we retire the logical label entirely,
+to a large extent against his own identification? Additionally, such a picture is a little
+
+

@@ -1,0 +1,45 @@
+Samuel C. Fletcher
+
+This insight, which also applies to the second challenge (Butterfield 2004b), seems to be a more
+satisfactory resolution of the challenge because it does not hinge on perhaps controversial
+assumptions about the semantics of counterfactual and counterlegal conditionals and better
+reflects the practice of mathematical physics, in which it is quite common to solve a problem by
+the output of an evinced algorithm that takes as input the solution to an entirely different problem. But, one might instead embrace the different levels of modal commitment in these principles
+as providing an impetus for new metaphysics (Terekhovich 2018).
+
+23.5 General issues: symmetries
+A bijective transformation on a space may preserve certain properties of its elements, and when
+it does, it is said to be a symmetry on that space of those properties. For example, consider the
+property of being a model of a particular theory. A bijective transformation that preserves this
+property is said to be a symmetry of the theory. Similarly, such a transformation that acts as an
+isomorphism on a model is said to be a symmetry of that model. Symmetries can be discrete,
+such as time-reversal, or continuous, such as spatial and temporal translation.
+There is a voluminous literature on the role of symmetry in physics (Brading et al. 2017);
+here I confine the discussion to two related remarks. The first is that having a symmetry is a
+modal property of a model of a theory: it is defined essentially in terms of its relations with other
+models. For instance, whether a particular mode of a thermodynamic process is time-reversal
+invariant depends not just on the process itself, but what other processes are considered possible
+(Uffink 2001: §3)—cf. Section 23.7. So, debates about the symmetries of models of physical
+theories, such as that over time-reversal invariance, are debates about the ineliminably modal
+content of the theories.
+The second remark is that the modal content of a physical theory can play a role in its interpretation, including its ontology, by way of its symmetries. In a word, what is the metaphysical
+nature of the modal features of symmetries? Should they be understood dispositionally, or in
+other terms (French 2017; Livanios 2018)? Some have argued as well that the modal structure
+of symmetries makes them more fundamental than, hence explanatorily prior to, any conservation laws that hold just in case such a symmetry does (Lange 2007).
+
+23.6 Thermodynamics: introduction
+Thermodynamics is the branch of physics concerned with heat, the relation of heat’s interchange with mechanical work and other forms of energy, and auxiliary concepts pertaining to
+these relations, such as temperature and entropy. From its inception, its concerns were as much
+with practical engineering problems about the efficiency of engines, the generation of electricity, and the construction, design, and maintenance of machines as with scientific laws governing
+the phenomena in its domain of application (Uffink 2007). Far from an historical curiosity, this
+mixed genealogy is both apparent and important in the interpretation of the theory today,
+including certain of its modal features.
+
+23.7 Thermodynamics: (ir)reversibility
+Thermodynamics puts a set of constraints on the possible processes, or sequences of state change,
+of a thermodynamic system. Perhaps most famous of these is its Second Law. Although, as Uffink
+(2001) remarks, there is surprising difficulty stating exactly what the law demands and prohibits,
+what is relevant here is that most accounts of the law understand part of its content as a
+254
+
+

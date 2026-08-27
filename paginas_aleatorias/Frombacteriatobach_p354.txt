@@ -1,0 +1,39 @@
+analysis; the graphs are ready to print and publish, yet you couldn’t explain in
+detail how it works, repair it if it broke, and it is not clear that anybody else
+could either. This possibility was always staring us in the face, of course;
+things we “make by hand” (boats, bridges, engines, symphonies) we can
+(more or less) control as we construct, understanding each step along the
+way. Things we “make the old-fashioned way” (children, grandchildren, …)
+defy our comprehension because of our obliviousness to the details of the
+processes that create them. Today, we are generating brain-children, and
+brain-grandchildren, and brain-great-grandchildren that depend on processes
+we cannot follow in detail, even when we can prove that the results are
+trustworthy.
+The use of computers in research has generated several quite distinct kinds
+of challenges to Feynman’s maxim. Some mathematical proofs executed (in
+part or entirely) by computer are simply too long for a single human
+mathematician to check each step, which has been, for good reason, the
+standard of acceptance for several thousand years. What should give? A
+famous case is the computer-assisted proof in 1976 of the four-color theorem
+first discussed by Möbius in the 1840s: Any map of contiguous areas
+separated by shared boundaries can be colored in with just four colors such
+that the same color never appears on both sides of a boundary. After many
+failed proofs by some of the world’s cleverest mathematicians, Kenneth
+Appel and Wolfgang Haken harnessed a computer to deal with and dismiss
+the nearly 2,000 different possibilities that had to be ruled out, as they
+themselves had proven. For some years, their proof was not generally
+accepted because it seemed to involve a humanly uncheckable series of steps
+by the computer, but the wide consensus among mathematicians today is that
+this is a proven theorem. (And alternative proofs have since been constructed,
+also using computers.) This was an “intuitive” result: nobody had managed to
+produce a clear counterexample in spite of person-centuries of trying, so most
+mathematicians figured it was true long before it was proven. But there are
+also counterintuitive theorems that have been proven with the help of
+computers. In chess, for instance, the fifty-move rule, which declared any
+game a draw that proceeded for fifty moves without a capture or pawn move,
+was long viewed by experts as more than generous, but it was upset by the
+discovery—thanks to computer analysis—of some mating nets (winning
+series of moves by one side that cannot be escaped once entered), that
+involve no captures or pawn moves and exceed fifty moves by hundreds of
+
+

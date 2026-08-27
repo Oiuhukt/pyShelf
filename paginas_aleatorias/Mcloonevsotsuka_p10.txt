@@ -1,0 +1,41 @@
+11
+
+Page 10 of 12
+
+B. McLoone
+
+causally efficacious (2016b, pp. 477–478). Otsuka does not wish to show that natural selection can be causally efficacious despite that natural selection is a population-level property. Rather, Otsuka hopes to sidestep the debate by attempting to
+show that “the causes of evolutionary changes,” of which he takes natural selection
+to be an example, “all belong to the level of individuals, in the sense that these variables, including environmental factors, denote properties of individuals” (2016b, p.
+477, emphasis in original).
+As we saw, however, because Otsuka attempts to formulate an argument for causalism using exclusively individual-level properties, Otsuka is forced to adopt an
+account of natural selection in which reference to trait or fitness variation is necessarily absent, since trait and fitness variation are population-level properties. The
+result of this strategy is that we no longer seem to be talking about the causal power
+of natural selection, at least as the phenomenon is generally understood. We are
+instead simply recognizing that individual-level properties, such as an individual’s
+phenotype, can have a causal influence on an individual’s fitness. If fitness is treated
+as a realized value, as Otsuka insists it should be (2016b), then that claim is not
+remotely controversial. In any case, the claim is only obliquely related to the dispute
+over causalism.
+This raises another important point, with which I will close. Otsuka derives
+standard equations from evolutionary biology through an application of the trek rule
+to an underlying causal model (2016a, pp. 258–259). Briefly, the trek rule allows
+one to calculate the covariance of two variables, X and Y, in a causal model by looking at the variance of other variables in the causal model and the values of the path
+coefficients between variables (see Ibid., pp. 252–253 for lucid exegesis). The trek
+rule has nothing to say about a causal model when the variables in the model, X and
+Y included, do not vary. Thus, for Otsuka to go from his causal models to an equation that has (co)variance terms, such as the Price equation, Otsuka employs the following procedure: If we assume the variables in the causal model have nonzero variance, then the trek rules tells us how the variables would covary, and from this we
+can derive standard equations from evolutionary biology, such as the Price equation.
+But here is the rub: In this context, variance is a property of a population of individuals. While a trait Z and its fitness W denote properties of an individual, the variance of Z or W is a property of a population of individuals—e.g., the variance of Z
+describes the extent to which the values of Z in a population deviate from the mean
+of these values; the same is true, mutatis mutandis, for the variance of W. Thus,
+while it is true that Otsuka’s underlying causal models relate exclusively individuallevel properties, it is not true that he uses only individual-level properties to derive
+standard equations from evolutionary biology.
+
+Conclusion
+Otsuka has put forward a different sort of argument for the claim that natural selection can cause evolution, an argument that, Otsuka claims, avoids a commitment
+to the view that population-level properties can be causally efficacious. But it is
+precisely because Otsuka eschews reference to population-level properties that the
+
+13
+
+

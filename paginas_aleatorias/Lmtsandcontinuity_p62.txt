@@ -1,0 +1,45 @@
+Limits
+
+49
+
+10. Limits at Infinity
+N ext we allow the argument o ff(x ), as well as f(x ) itself, to
+approach infinity (oo):
+D efinition 1. Given any N > 0, a set o f the form |xj > N is
+called a neighborhood o f oo.5
+D efinition 2. The point oo is said to be a limit point o f a set E
+i f every neighborhood o f oo contains infinitely many points o f E.
+D efinition 3. Let f(x ) be a function with domain X, and let E
+be a subset o f X with oo as a limit point. Then f(x ) is said to
+approach the limit c as x approaches oo relative to E (or to have
+the limit c at oo relative to E) if, given any e > 0, there exists a
+number N = N(e) > 0 such that
+I f ix ) - c\ < e
+if \x\ > N , x e E. This fa c t is expressed by writing f(x )
+x -> oo, x e E or
+..
+...
+lim f(x ) = c .
+*-►00
+
+c as
+
+x e E
+
+Rem ark 1. If £ is a neighborhood o f oo, the qualifying con­
+ditions “relative to E ” and “x e E ” are superfluous and can be
+dropped.
+Remark 2. To allow the case c = oo, we change the phrase
+“given any e > 0 ” and the inequality |fix ) — c| < e to “given
+any M > 0” and the inequality |/(jc)| > M , just as in going
+from Definition 1, p. 24 to the definition on p. 43.
+Remark 3. Obviously, if |x| > N implies |fix ) — c\ < e, then
+so does |x| > N ' for every N ' ^ N. In particular, the limit o ff(x )
+at oo remains the same if we change the values o f f(x ) at any
+(finite) point x 0 . To see this, we need only choose
+N ' = max {TV, |x 0|}.
+5. The “point” oo is not regarded as a real number, and hence there is no
+need to talk about deleted neighborhoods. It is important not to confuse
+the symbols oo and + oo (see below).
+
+

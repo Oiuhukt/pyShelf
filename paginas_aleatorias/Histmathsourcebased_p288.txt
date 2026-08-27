@@ -1,0 +1,28 @@
+9.2. The rise of the universities
+
+273
+
+Figure 9.6. From Oresme’s Latitude of Forms, 1505 edition
+
+orbits, seem to meet? If so, will they do this once, or several times, or infinitely often?
+Oresme idealised the problem so that at issue are only exact coincidence of point-sized
+bodies along the line of sight from the centre of their orbits. He proved that if two bodies
+start from coincidence and move with commensurable velocities (where one velocity is a
+rational multiple of the other), then they will return to coincidence infinitely often, and he
+showed how to find the first time that they do so. Then he considered bodies starting from
+different positions, and then three bodies, showing that triple conjunctions (in which all
+three bodies lie in a line with the centre) may never occur.
+Oresme then considered two bodies whose velocities are not commensurable, and
+showed that if they start from a given position then they will never conjunct at that position
+again, nor have they ever done so before. Moreover, if they ever conjunct again at some
+other point, then the angular separation between these two points of conjunction is incommensurable with the whole circle, and the times between any two successive conjunctions
+are also incommensurable. From this he deduced that if enough successive conjunctions
+are considered, then the distance between neighbouring points of conjunction can be made
+arbitrarily small. Oresme then went on to speak of the infinitely many points of conjunction that occurred in the past (all distinct and none to be repeated) and the infinitely many
+points of conjunction that will occur in the future (likewise all distinct and none to be repeated, and none of which have ever occurred before). This is a remarkable display of
+mathematics, directed to a novel purpose.
+
+A dialogue between Arithmetic and Geometry. At the end of his Treatise,
+Oresme asked which of the conflicting hypotheses (commensurable or incommensurable
+
+

@@ -1,0 +1,31 @@
+Knowing,”28 or Kripke’s causal theory of reference.29 This is part of a tradition
+of using causation in the explanation of other phenomena, which has become
+quite respectable in philosophy. Those opposed to causal decision theory either
+belong to a now rather unfashionable camp of thinking that causation is so
+problematic it is not to be used in explaining anything else (Jeffrey might have
+belonged to that camp; so does Arif Ahmed30; or they have a theory of
+causation which is based on a theory of decision and action (Huw Price31 comes
+to mind). I take causation to be a very basic concept, not reducible to anything
+else (see Edgington32). So it is quite proper to appeal to it in a theory of decision.
+Lewis33 is open to the possibility that decision theory needs to be up-front
+about causation. But Lewis has only two kinds of conditional available to him:
+the truth–functional conditional and his counterfactual conditional. The probability of the truth–functional conditional is a nonstarter for feeding into a
+theory of decision. I have argued that the probability of a Lewisian counterfactual doesn’t work either. What we need instead are conditional probabilities,
+of a causal sort.
+
+28. A. Goldman, “A Causal Theory of Knowing,” Journal of Philosophy, 64 (1967), pp. 355–72.
+29. S. Kripke, Naming and Necessity (Basil Blackwell, 1980).
+30. A. Ahmed, “Causation and Decision,” Proceedings of the Aristotelian Society, 110 (2010),
+pp. 111–31.
+31. H. Price, “Agency and Probabilistic Causality,” British Journal for the Philosophy of Science, 42
+(1991), pp. 157–76.
+32. D. Edgington, “Causation First: Why Causation is prior to Counterfactuals,” in C. Hoerl,
+T. McCormack, and S. Beck (eds.), Understanding Counterfactuals/Understanding Causation (Oxford
+University Press, 2011).
+33. Lewis (1981).
+R. Jeffrey, The Logic of Decision, 2nd ed. (McGraw-Hill, 1985).
+
+87
+© 2011 The Author. Journal compilation © 2011 Wiley Periodicals, Inc.
+
+

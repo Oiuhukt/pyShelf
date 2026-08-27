@@ -1,0 +1,37 @@
+192
+
+UNA INTRODUCCION A LA LOGICA MODAL
+
+neral MG(Ad es isomO/fo al marco general canónico (ML,RL,PL)
+deL.
+Prueba: La función f: St(Ad -7 M L definida para cada V E
+St(Ad por
+f(V) = U V
+es el isomorfismo buscado. Ello es así puesto que:
+a) Para cada V E St(AL), f(V) es un conjunto maximal L-consistente. Ello se sigue de las propiedades de los ultrafiltros.
+b) fes inyectiva: Si V, V' son ultrafiltros en AL, existe fórmula
+modal B tal que [B] E V Y [-,B] E V'.
+e) f es sobre M L: Para cada conjunto maximal y L-consistente
+2:, el conjunto {[B]: B E 2:} es un ultrafiltro en AL'
+d) VR,; V' si y sólo si f(V)Rd(V'): Supongamos que VRtV'. Si
+B es una fórmula modal tal que OB E f(V), entonces [OB] E V. Por
+tanto'C [B] E V. Puesto queVRtV', [B] E V' Y BE f(V'). Por otra
+parte, si f(V)Rd(V') y B es una fórmula modal tal que 'C [B] E V,
+[OB] E V Y OB E f(V). Por consiguiente BE f(V'). Por tanto [B] E
+V'.
+.
+f) P L = {f[X]: X E .W}: Los elementos de P L son de la forma
+eL(B), donde, recordemos, eL(B) = {2: E M L: B E 2:}.Demostremos que P L e {f[X]: X E W}. Dado edB), consideremos el conjunto O[B] = fU E St(AL): [B] E U}. Entonces para cada U E O[B],
+B E. f(U), y por tanto f(U) E eL(B). Así f[O[B]] e eL(B). Por otro
+lado, si 2: E eL(B) tenemos que [B] pertenece al ultrafiltro determinado por 2:, UI: = {[C]: C E 2:}, y por tanto dicho ultrafiltro pertenece a O[B]' Pero f(UI:) =2:. Popanto f[O[B]] es eL(B). Por otro lado,
+es fácil ver que el conjunto {f[X]: X E W} está incluido en Pi., pues
+f[O[B]] = {f(U): [B] E U} Y este último conjunto es eL(B).1
+COROLARIO 12.14: Para toda lógica modal L, su marco general canónico (ML,RL,PL) es isomorfo al marco general MG(A
+«ML , R L , P L ») correspondiente al álgebra modal asociada.
+Prueba: Por la proposición anterior tenemos que MG(A L) es
+isomorfo al marco general canónico de L, (ML,PL). Además, AL es
+isomorfa a A(MG(A L)). Por tanto, AL es isomorfa a A«ML,PL»).1
+T~l como dice Van Benthem, la proposición anterior nos
+muestra que el teorema de completitud para marcos generales, cuya
+
+

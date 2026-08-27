@@ -1,0 +1,56 @@
+156
+
+:
+
+Wesley C. Salmon
+
+statements of empirical science are distinguished from metaphysical
+statements and from tautologies. The choice of falsifiability over verifiability as the criterion of demarcation is motivated by a long familiar fact—
+namely, it is possible to falsify a universal generalization by means of one
+negative instance, while it is impossible to verify a universal generalization by any limited number of positive instances. This, incidentally, is
+the meaning of the old saw which is so often made into complete
+nonsense: “The exception proves the rule.” In this context, a rule is a
+universal generalization, and the term “to prove” means archaically “to
+test.” The exception (i.e., the negative instance) proves (ie., tests) the
+rule (i.e., the universal generalization), not by showing it to be true, but
+by showing it to be false. There is no kind of positive instance to prove
+(i.e., test) the rule, for positive instances are completely indecisive.
+Scientific hypotheses, as already noted, are general in form, so they are
+amenable to falsification but not verification.
+Popper thus holds that falsifiability is the hallmark of empirical
+science. The aim of empirical science is to set forth theories to stand the
+test of every possible serious attempt at falsification. Scientific theories
+are hypotheses or conjectures; they are general statements designed to
+explain the world and make it intelligible, but they are never to be
+regarded as final truths. Their status is always that of tentative conjecture, and they must continually face the severest possible criticism. The
+function of the theoretician is to propose scientific conjectures; the
+function of the experimentalist is to devise every possible way of
+
+falsifying these theoretical hypotheses. The attempt to confirm hypotheses is no part of the aim of science.**
+General hypotheses by themselves do not entail any predictions of
+particular events, but they do in conjunction with statements of initial
+conditions. The laws of planetary motion in conjunction with statements
+about the relative positions and velocities of the earth, sun, moon, and
+
+planets enable us to predict a solar eclipse. The mode of inference is
+deduction. We have a high degree of intersubjective agreement concerning the initial conditions,
+
+and we
+
+likewise
+
+can
+
+obtain
+
+intersubjective
+
+agreement as to whether the sun’s disc was obscured at the predicted
+time and place. If the predicted fact fails to occur, the theory has suffered
+falsification. Again, the mode of inference is deduction. If the theory
+were true, then, given the truth of the statements of initial conditions, the
+prediction would have to be true. The prediction, as it happens, is false;
+therefore, the theory is false. This is the familiar principle of modus
+tollens; it is, according to Popper, the only kind of inference available for
+
+

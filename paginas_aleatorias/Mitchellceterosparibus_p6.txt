@@ -1,0 +1,43 @@
+334
+
+SANDRA D. MITCHELL
+
+generalizations less than universal in scope, but which can, nevertheless,
+support counterfactuals.
+My strategy is somewhat different: I recommend that we look more
+closely at the character of the contingencies of the causal dependencies in
+biological systems that are often lumped into a single abstract concept of
+‘contingency’ and singled out as the culprit preventing biological science
+to be lawful (Beatty 1997). I have argued elsewhere (1997, 2000) that general truths we discover about the world vary with respect to their degree
+of contingency on the conditions upon which the relationships described
+depend. Indeed, it is true that most of the laws of fundamental physics are
+more generally applicable, i.e., are more stable over changes in context, in
+space and time, than are the causal relations we discover hold in the biological world. They are closer to the ideal causal connections that we chose
+to call ‘laws’. Yet, few of even these can escape the need for the ceterus
+paribus clause to render them logically true. Indeed, Cartwright has argued
+that we can’t find a single instantiation of these laws and Earman et al. in
+this volume admit that we have yet to identify (or at least have evidence
+that we have identified) a law of physics. What’s going on here?
+The difference between fundamental physics and the special sciences is
+not between a domain of laws and a domain of no laws. Yet, I would agree,
+there are differences and those differences can inform our understanding of
+not only the special sciences but of the very notion of a ‘law’ and its function. By broadening the conceptual space in which we can locate the truths
+discovered in various scientific pursuits we can better represent the nature
+of the actual differences. The interesting issue for biological knowledge
+is not so much whether it is or isn’t just like knowledge of fundamental
+physics, but how to characterize the types of contingent, complex causal
+dependencies found in that domain.
+Recent developments in understanding scientific causal claims take as
+their starting point less than ideal knowledge. They explore how to draw
+causal inferences from statistical data, as well as how to determine the
+extent of our knowledge and range of application from the practices of
+experimentation. (Spirtes et al., 1993; Glymour 2001; Woodward 2000,
+2001, 2002). When we see that some relationship holds here and now
+for this population in this environment, what can we say about the next
+population in the next environment? These new approaches recognize the
+less-than-universal character of many causal structures. If explanatory generalizations were universal, then when we detect a system in which A is
+correlated with B, and we determine that this is a causal relationship, we
+could infer that A would cause B in every system. But we often cannot. The
+difficulty goes beyond the correlation-causation relationship. Even when
+
+

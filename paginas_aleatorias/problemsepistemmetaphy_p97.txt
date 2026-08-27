@@ -1,0 +1,42 @@
+82	﻿PROBLEMS IN EPISTEMOLOGY AND METAPHYSICS
+
+6. If accepting the truth of the content of the experience is arbitrary, then
+the experience does not provide an end to the regress of reasons.
+7. Therefore, experiences do not provide an end to the regress of
+reasons.
+The heart of the problem of experience is that foundationalists claim that the
+regress of reasons ends with experiences. Foundational beliefs are justified
+directly by experiences. However, the problem of experience makes a strong
+case for thinking that the experiences themselves either require reasons in
+order to provide justification for beliefs or relying on them to stop the regress
+is picking an arbitrary stopping point. Either way foundationalism seems to be
+in serious trouble.
+This is not a problem shared by coherentism. According to coherentism,
+experiences can support beliefs and there is a good reason to trust experience.
+Our perspective with respect to beliefs based on experience includes a vast
+store of beliefs about the correctness of experiential beliefs. Nevertheless,
+coherentism doesn’t commit to the idea that an experience can justify beliefs
+on its own. As a result, coherentism doesn’t allow that experience can stop
+the regress of reasons, but as we’ve already noted, it doesn’t need to stop the
+regress. The holistic perspective of coherentism doesn’t allow the regress to
+get started in the first place.
+The second argument exposing an advantage of coherentism over
+foundationalism, we might call the problem of arbitrariness as it rests on what
+Peter Klein (1940–) calls the Principle of Avoiding Arbitrariness (PAA).18 Here’s
+the argument:
+1. A belief that p is justified only if there is some good reason available
+to the subject for p (PAA).
+2. A foundational belief implies that there is no available reason for the
+subject for that belief.
+3. Therefore, foundational beliefs are not justified.
+The problem for the foundationalist is that whichever beliefs form the
+foundation, which is supposed to be the stopping point for the regress of
+reasons, appear to be arbitrary from the perspective of the subject with those
+beliefs. It is hard to see how foundationalism can both stop the regress of
+reasons and respect the PAA. Presumably, foundationalists must deny the
+PAA, but this is an intuitively plausible principle. As a result, the problem of
+arbitrariness is a significant problem for foundationalism.
+Again, coherentism doesn’t share this problem. Coherentists can
+accept the PAA while avoiding the regress of reasons. As we noted earlier,
+
+

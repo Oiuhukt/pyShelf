@@ -1,0 +1,215 @@
+ARTICLE
+
+NATURE COMMUNICATIONS | https://doi.org/10.1038/s41467-019-13585-5
+
+conditioned on the income GWAS) before the genetic correlations between income
+(and intelligence) and 27 variables mentioned above were reran.
+
+8.
+
+Genetic prediction. The summary statistics from our GWAS of household income
+PGRSs were derived using PRSice-287 and the Generation Scotland:Scottish Family
+Health Study (GS:SFHS) cohort. The recruitment protocol and sample characteristics of GS:SFHS are described in full elsewhere88,89. In brief, 23,690 participants
+were recruited through their GP from across Scotland. Participants were all aged 18
+years and over and were not ascertained based on the presence of any speciﬁc
+disease. Following the removal of individuals who preferred not to answer, income
+was assessed in GS:SFHS by 5-point scale (1 less than £10,000, 2 between £10,000
+and £30,000, 3 between £30,000 and £50,000, 4 between £50,000 and £70,000 and 5
+more than £70,000). Individuals who preferred not to answer were excluded from
+the analysis. Individuals who had taken part in UK Biobank were also removed
+from the GS:SFHS data set (n = 174). SNPs were included in the data if they had an
+MAF of ≥0.01 and Hardy–Weinberg P value >0.000001. Finally, one from every
+pair of related individuals were removed from the data set by creating a genetic
+relationship matrix using GCTA90 and removing individuals who are related at
+≥0.025. This yielded a ﬁnal sample size of 6680 participants who had genotype data
+and income data.
+The participant’s level of income was then used as a predictor in a regression
+analysis with age, sex and 20 principal components included to control for
+population stratiﬁcation. The standardized residuals from this model were then
+used as each participant’s income phenotype. PGRSs were created using the income
+phenotype derived using UK Biobank.
+In each instance PRSice-2 was used to create ﬁve PGRSs corresponding to one
+of ﬁve P value cutoffs (P ≤ 0.01, P ≤ 0.05, P ≤ 0.1, P ≤ 0.5 and P ≤ 1) applied to the
+association statistics from the summary data. The polygenic risk scores for each
+threshold were then standardized and used in a regression model to predict the
+income phenotype in GS:SFHS.
+
+9.
+
+Multi-trait analysis of GWAS. MTAG25 can be used to meta-analyze genetically
+correlated traits in order to increase power to detect loci in any one of the traits.
+Only summary data are required in order to carry out MTAG and bivariate LD
+score regression is carried out as part of an MTAG analysis to account for (possibly
+unknown) sample overlap between the GWAS data sets25. The goal of this analysis
+was to increase the power to detect loci associated with income, and so our income
+GWAS was meta-analyzed with the GWAS on years of education by Okbay et al.91
+using MTAG. Both the Okbay data set and the income data set from UK Biobank
+had a similar level of power (Okbay mean χ2 = 1.65, UK Biobank income mean
+χ2 = 1.45) and they showed a genetic correlation of rg = 0.77 (SE = 0.02), conﬁrming that both income and education, as measured using these data sets, have a
+highly similar genetic aetiology. Functional annotation and loci discovery, gene
+mapping, gene-based GWAS, gene set and gene-property analysis, were also performed using the MTAG-derived data set on income. In addition, following the
+removal of UK-based cohorts from the educational attainment summary statistics,
+genetic prediction was performed using the MTAG-derived income phenotype and
+the GS:SFHS as described above.
+
+10.
+11.
+
+12.
+
+13.
+
+14.
+15.
+
+16.
+
+17.
+18.
+
+19.
+
+20.
+
+21.
+
+22.
+
+23.
+24.
+
+25.
+26.
+
+Data availability
+The household income association results, and the multivariate analysis conducted using
+MTAG can be downloaded from The Lothian Birth Cohorts of 1921 and 1936 datasharing resource: https://www.lothianbirthcohort.ed.ac.uk/content/gwas-summary-data
+and at http://www.phenoscanner.medschl.cam.ac.uk/.
+
+27.
+28.
+29.
+
+Received: 12 March 2019; Accepted: 11 November 2019;
+
+30.
+31.
+32.
+
+References
+1.
+
+2.
+3.
+4.
+5.
+6.
+7.
+
+14
+
+Batty, G. D., Der, G., Macintyre, S. & Deary, I. J. Does IQ explain
+socioeconomic inequalities in health? Evidence from a population based
+cohort study in the west of Scotland. Bmj 332, 580–584 (2006).
+Calixto, O.-J. & Anaya, J.-M. Socioeconomic status. The relationship with
+health and autoimmune diseases. Autoimmun. Rev. 13, 641–654 (2014).
+Marmot, M. G. et al. Health inequalities among British civil servants: the
+Whitehall II study. Lancet 337, 1387–1393 (1991).
+Acheson, D. Independent Inquiry into Inequalities in Health: Report
+(Stationery, London, 1998).
+Wilkinson, R. G. & Marmot, M. G. Social Determinants of Health: The Solid
+Facts (World Health Organisation, 2003).
+Marmot, M. G., Shipley, M. J. & Rose, G. Inequalities in death-speciﬁc
+explanations of a general pattern? Lancet 323, 1003–1006 (1984).
+Hill, W. D. et al. Molecular genetic contributions to social deprivation and
+household income in UK Biobank. Curr. Biol. 26, 3083–3089 (2016).
+
+33.
+
+34.
+35.
+
+36.
+
+37.
+
+Hill, W. D. et al. A combined analysis of genetically correlated traits identiﬁes
+187 loci and a role for neurogenesis and myelination in intelligence. Mol.
+Psychiatry 24, 169–181 (2018).
+Rietveld, C. A. et al. GWAS of 126,559 individuals identiﬁes genetic variants
+associated with educational attainment. Science 340, 1467–1471 (2013).
+Okbay, A. et al. Genome-wide association study identiﬁes 74 loci associated
+with educational attainment. Nature 533, 539–542 (2016).
+Lee, J. J. et al. Gene discovery and polygenic prediction from a genome-wide
+association study of educational attainment in 1.1 million individuals. Nat.
+Genet. 50, 1112–1121 (2018).
+Sudlow, C. et al. UK Biobank: an Open Access resource for identifying the
+causes of a wide range of complex diseases of middle and old age. PLoS Med.
+12, e1001779 (2015).
+de Leeuw, C. A., Mooij, J. M., Heskes, T. & Posthuma D. MAGMA:
+generalized gene-set analysis of GWAS data. PLoS Comp. Biol. 11, e10042199
+(2015).
+Kang, H. J. et al. Spatio-temporal transcriptome of the human brain. Nature
+478, 483–488 (2011).
+Hill, W. D. et al. Molecular genetic aetiology of general cognitive function is
+enriched in evolutionarily conserved regions. Transl. Psychiatry 6, e980
+(2016).
+Di Angelantonio, E. et al. Efﬁciency and safety of varying the frequency of
+whole blood donation (INTERVAL): a randomised trial of 45 000 donors.
+Lancet 390, 2360–2371 (2017).
+Astle, W. J. et al. The allelic landscape of human blood cell trait variation and
+links to common complex disease. Cell 167, 1415–1429.e1419 (2016).
+Hill, W. D., Harris, S. E. & Deary, I. J. What genome-wide association studies
+reveal about the association between intelligence and mental health. Curr.
+Opin. Psychol. 27, 25–30 (2019).
+Hill, W. D. Comment on ‘large-scale cognitive GWAS meta-analysis reveals
+tissue-speciﬁc neural expression and potential nootropic drug targets’ by Lam
+et al. Twin Res. Hum. Genet. 21, 84–88 (2018).
+Hill, W. D. A further comment on ‘large-scale cognitive GWAS meta-analysis
+reveals tissue-speciﬁc neural expression and potential nootropic drug targets’
+by Lam et al. Twin Res. Hum. Genet. 21, 538–545 (2018).
+Hill, W. D., Davies, G., Liewald, D. C., McIntosh, A. M. & Deary, I. J. Agedependent pleiotropy between general cognitive function and major
+psychiatric disorders. Biol. Psychiatry 80, 266–273 (2016).
+Lam, M. et al. Pleiotropic meta-analysis of cognition, education, and
+schizophrenia differentiates roles of early neurodevelopmental and adult
+synaptic pathways. Am. J. Hum. Genet. 105, 334–350 (2019).
+Bulik-Sullivan, B. et al. An atlas of genetic correlations across human diseases
+and traits. Nat. Genet. 47, 1236–1241 (2015).
+Weiner, D. J. et al. Polygenic transmission disequilibrium conﬁrms that
+common and rare variation act additively to create risk for autism spectrum
+disorders. Nat. Genet. 49, 978 (2017).
+Turley, P. et al. Multi-trait analysis of genome-wide association summary
+statistics using MTAG. Nat. Genet. 50, 229–237 (2018).
+Ramasamy, A. et al. Genetic variability in the regulation of gene expression in
+ten regions of the human brain. Nat. Neurosci. 17, 1418–1428 (2014).
+GTEx Consortium et al. Genetic effects on gene expression across human
+tissues. Nature 550, 204–213 (2017).
+Schmitt Anthony, D. et al. A compendium of chromatin contact maps reveals
+spatially active regions in the human genome. Cell Rep. 17, 2042–2059 (2016).
+Roadmap Epigenomics, C. et al. Integrative analysis of 111 reference human
+epigenomes. Nature 518, 317–330 (2015).
+Solovieff, N., Cotsapas, C., Lee, P. H., Purcell, S. M. & Smoller, J. W. Pleiotropy
+in complex traits: challenges and strategies. Nat. Rev. Genet. 14, 483 (2013).
+Skene, N. G. et al. Genetic identiﬁcation of brain cell types underlying
+schizophrenia. Nat. Genet. 50, 825–833 (2018).
+Hill, W. D. et al. Human cognitive ability is inﬂuenced by genetic variation in
+components of postsynaptic signalling complexes assembled by NMDA
+receptors and MAGUK proteins. Transl. Psychiatry 4, e341 (2014).
+Hill, W. D. et al. Genetic contributions to two special factors of neuroticism
+are associated with afﬂuence, higher intelligence, better health, and longer life.
+Mol. Psychiatry https://doi.org/10.1038/s41380-019-0387-3 (2019).
+Luciano, M. et al. Association analysis in over 329,000 individuals identiﬁes
+116 independent variants inﬂuencing neuroticism. Nat. Genet. 50, 6–11 (2018).
+Anderson, E. L. et al. Education, intelligence and Alzheimer’s disease: evidence
+from a multivariable two-sample Mendelian randomization study. bioRxiv
+https://doi.org/10.1101/401042 (2018).
+Sanderson, E., Macdonald-Wallis, C. & Davey Smith, G. Negative control
+exposure studies in the presence of measurement error: implications for
+attempted effect estimate calibration. Int. J. Epidemiol. 47, 587–596 (2018).
+Hemani, G., Tilling, K. & Davey Smith, G. Orienting the causal relationship
+between imprecisely measured traits using GWAS summary data. PLoS Genet.
+13, e1007081 (2017).
+
+NATURE COMMUNICATIONS | (2019)10:5741 | https://doi.org/10.1038/s41467-019-13585-5 | www.nature.com/naturecommunications
+
+

@@ -1,0 +1,33 @@
+30. Relatives play the Prisoner’s Dilemma. Hamilton’s rule has been
+used to convert individual ﬁtnesses in the Prisoner’s Dilemma of
+Figure 29 into inclusive ﬁtnesses. Identical twins will now cooperate,
+but we must expect mixed behaviour from siblings
+
+opponent choosing exactly the same strategy as themselves. The
+situation then reduces to a one-player game.
+
+Kinship is especially important in primitive human societies. In
+societies that tolerate promiscuity, for example, some of the
+functions undertaken by a father in our own society are taken on
+by a child’s maternal uncle – the underlying reason being that
+everybody knows his degree of relationship to the child is
+one-fourth, whereas nobody can be sure who the child’s real father
+may be. Hamilton’s rule provides an evolutionary explanation of
+such phenomena by quantifying the extent to which we should
+expect blood to be thicker than water.
+131
+
+Evolutionary biology
+
+The two-player games of Figure 30 are more suitable for
+modelling human behaviour in cases when the players’ behaviour
+is learned rather than genetically programmed. When Alice and
+Bob are identical twins, we are led to a game that I call the
+Prisoner’s Delight because dove is now a dominant strategy. When
+they are brother and sister, we are led to a form of Chicken, in
+which we should expect both dovelike and hawkish behaviour to
+survive together. (It would take us too far aﬁeld to examine the
+more interesting case of siblings whose behaviour is genetically
+determined.)
+
+

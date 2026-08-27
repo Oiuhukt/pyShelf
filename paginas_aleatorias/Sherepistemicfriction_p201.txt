@@ -1,0 +1,52 @@
+OUP CORRECTED PROOF – FINAL, 10/5/2016, SPi
+
+
+
+THE STRUCTURE OF TRUTH
+
+IV. The diallelon
+The diallelon is one of the oldest and most inﬂuential arguments against the
+possibility of a standard of truth, usually directed against the correspondence theory
+of truth. According to the Merriam-Webster Dictionary, “diallelon”, or “diallēlon”, is
+a Greek word, “διαλλἡλη”, the neuter form of “diallēlos”. Other related terms are
+“diallelus” and “dialexis”. “Diallelon” means “deﬁnition in a circle”; “diallelus” means
+“reasoning in a circle”. The notion has also been used for deﬁnitions and reasoning
+involving inﬁnite regress. Since our theory is holistic, it is immune to arguments
+based on circularity or inﬁnite regress per se. But one of the diallelon arguments, the
+so-called “comparison” argument, goes beyond circularity (inﬁnite regress) per se,
+and is particularly important in connection with truth.
+The comparison argument essentially says that our thoughts cannot be compared
+to reality but only to other thoughts, and therefore, a satisﬁable standard of “measuring up to reality” for thoughts is impossible. We can measure one thought against
+another, but not against reality, or, more generally, against anything other than a
+thought. The comparison argument has been advanced, or at least taken seriously, by
+many philosophers, past and present. According to McDermid (1998), these include
+Spinoza, Berkeley, Hume, Kant, Hegel, Bradley, Brentano, Santayana, Heidegger,
+James, Dewey, Neurath, Hempel, Blanshard, Goodman, Quine, Rorty, Putnam,
+Kuhn, Davidson, and Habermas, among others. Some names in this list might be
+questioned, but clearly the comparison argument has had a broad appeal.
+A classical formulation of the comparison argument appears in the Jaesche version
+of Kant’s logic lectures:
+Truth, it is said, consists in the agreement of cognition with its object[:] . . . my cognition, to
+count as true, is supposed to agree with its object. Now I can compare the object with my
+cognition, however, only by cognizing it. Hence my cognition is supposed to conﬁrm itself,
+which is far short of being sufﬁcient for truth. For since the object is outside me, the cognition
+in me, all I can ever pass judgment on is whether my cognition of the object agrees with my
+cognition of the object. The ancients called such a circle in explanation a diallelon (Kant 1770s–
+1800: 557–8).25
+
+This formulation emphasizes both the alleged circularity and the alleged impossibility of comparing thought and reality. More recent versions of the comparison
+argument say:
+(a)
+
+It is impossible to compare things of different kinds.
+[T]he notion of comparing our system of beliefs with unconceptualized reality to see if
+they match makes no sense (Putnam 1981: 130).26
+
+25
+
+See also Kant (1770s–1800: 61 (Blomberg Logic) and 280 (Vienna Logic)).
+This is the antecedent of a conditional, but it is an antecedent that sums up Putnam’s view of the
+matter.
+26
+
+

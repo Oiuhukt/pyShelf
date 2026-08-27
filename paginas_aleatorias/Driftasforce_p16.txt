@@ -1,0 +1,44 @@
+16
+
+founding of new populations, splitting of populations, bottlenecks – are indeed often related to
+a reduction of the size of the population. In all such cases, there is a difference between the
+potential and actual reproducers that is captured by the distinction between census and effective
+population size.9 For instance, gamete sampling is the process by which only a percentage of
+the gametes produced is represented in the next generation because some individuals overreproduce and others do not at all. So, for example, given a census population size N, the idea
+of gamete sampling is that only the genetic contribution of the effective population size Ne is
+represented in the next generation. Thus, the passage from N to Ne clearly involves a reduction
+in the size of the population. However, significantly, other potential cases might not involve
+reduction of the size of the census population. Suppose for instance that in a small population
+of 10 organisms with equal fitness (e.g., clones) reproducing by parthenogenesis, 9 have one
+offspring but one has mono-ovum twins: in this case, all potential reproducers do as a matter
+of fact reproduce, so all members of the census population do, but one of them reproduces
+more. In this case, there is no reduction of the census population to the effective population as
+the two coincide: in fact, there are 10 potential and 10 actual reproducers. In spite of this,
+because all organisms have equal fitness, we are inclined to consider the evolutionary outcome
+as an instance of drift. Still other cases might involve the expansion of the effective population
+size. For instance, in vitro fertilization allows infertile organisms (i.e., members of the census
+population who are not potential reproducers) to have offspring.
+As a consequence of these considerations, even though population size reduction is
+undoubtedly a good proxy to test drift hypotheses in many cases, it cannot, in our opinion, be
+considered as the cause of drift outcomes. As a matter of fact, we think that population size
+reduction is an effect, rather than a cause, of drift.10 In order to clarify this prima facie
+unintuitive statement, let us introduce what we think are the causes of drift. They are, as a first
+approximation, chance events (in our examples, for instance, the spontaneous division of the
+ovum in two embryos and the availability of a certain technology). With this expression we do
+not refer to indeterministic events (even though they might sometimes be), but rather to the
+
+9
+
+Effective population size can be conceptualized in a variety of ways. When it is estimated that human effective
+population size is around 10.000 individuals (Yu et al. 2004) even though current census size is over 7 billions,
+reference is to the genetic variability in sampled genes. The reason for this discrepancy – already highlighted by
+Wright (Ohta 2012, p. 2) – is that a bottleneck in the history of the lineage drastically reduces effective population
+size. Another, more general and less refined, conceptualisation of effective population size merely draws on the
+difference between potential and actual reproducers. While both ways of conceptualising effective population size
+are legitimate (indeed there are many more, see note 11), the vernacular conceptualisation is sufficient to ground
+our argument.
+10
+This is not to say that the size of a population cannot play a causal role in evolutionary dynamics, but just that
+it is not because of the causal role that population size plays that drift can be considered as a force.
+
+

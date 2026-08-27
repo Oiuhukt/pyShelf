@@ -1,0 +1,35 @@
+2.5. DERIVABLE RULES
+
+13
+
+E XAMPLE 2.9. For
+
+apply
+
+E XAMPLE 2.10. Here is a derivation of
+
+2.5.
+
+Derivable Rules
+
+It is often convenient to treat a series of inference rules as one rule.
+
+DEFINITION 2.1. A deduction of a sequent S from sequents
+is a
+tree beginning with axioms or sequents
+and proceeding by inference
+rules.
+
+A rule
+
+is derivable if there is a deduction of S from
+
+E XAMPLE 2.11.
+
+The cut rule:
+
+is derived as follows:
+
+Weakening and contraction are derivable as follows:
+
+

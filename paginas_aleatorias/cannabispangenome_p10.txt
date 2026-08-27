@@ -1,0 +1,194 @@
+Article
+variation. We assembled fully phased cannabis X and Y chromosomes,
+identifying a variable SDR–PAR boundary and unique male-specific
+homologues on the large Y chromosome that may influence flowering
+time and development, offering new targets for breeding.
+Finally, the discovery of extensive variation in fatty acid biosynthesis genes (for example, ALT and BKR) suggested that cannabis has
+untapped potential for lipid metabolism. Given the overlap between
+cannabinoid biosynthesis and seed oil pathways, hybridizing diverse
+parental lines beyond the conventional Northern European hemp seed
+oil gene pool could yield novel lipid profiles and traits. The conservation and utilization of Asian hemp and wild cannabis will be critical for
+advancing cannabis breeding and the development of agronomic and
+pharmaceutical potential.
+
+Online content
+Any methods, additional references, Nature Portfolio reporting summaries, source data, extended data, supplementary information, acknowledgements, peer review information; details of author contributions
+and competing interests; and statements of data and code availability
+are available at https://doi.org/10.1038/s41586-025-09065-0.
+1.
+
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+
+20.
+21.
+22.
+23.
+24.
+25.
+
+26.
+27.
+28.
+
+Long, T., Wagner, M., Demske, D., Leipe, C. & Tarasov, P. E. Cannabis in Eurasia: origin of
+human use and Bronze Age trans-continental connections. Veg. Hist. Archaeobot. 26,
+245–258 (2017).
+Ren, G. et al. Large-scale whole-genome resequencing unravels the domestication
+history of Cannabis sativa. Sci. Adv. 7, eabg2286 (2021).
+Bai, Y. et al. Archaeobotanical evidence of the use of medicinal cannabis in a secular
+context unearthed from south China. J. Ethnopharmacol. 275, 114114 (2021).
+Kovalchuk, I. et al. The genomics of cannabis and its close relatives. Annu. Rev. Plant Biol.
+71, 713–739 (2020).
+Clarke, R. & Merlin, M. Cannabis: Evolution and Ethnobotany (Univ. of California Press, 2016).
+Stoa, R. Craft Weed: Family Farming and the Future of the Marijuana Industry (MIT Press,
+2018).
+Patton, D. V. A history of United States cannabis law. J. Law Health 34, 1–29 (2020).
+Bewley-Taylor, D. & Jelsma, M. Regime change: re-visiting the 1961 Single Convention on
+Narcotic Drugs. Int. J. Drug Policy 23, 72–81 (2012).
+Hanuš, L. O., Meyer, S. M., Muñoz, E., Taglialatela-Scafati, O. & Appendino, G.
+Phytocannabinoids: a unified critical inventory. Nat. Prod. Rep. 33, 1357–1392 (2016).
+Devinsky, O. et al. Trial of cannabidiol for drug-resistant seizures in the Dravet syndrome.
+N. Engl. J. Med. 376, 2011–2020 (2017).
+Grassa, C. J. et al. A new Cannabis genome assembly associates elevated cannabidiol
+(CBD) with hemp introgressed into marijuana. New Phytol. 230, 1665–1679 (2021).
+McKernan, K. J. et al. Sequence and annotation of 42 cannabis genomes reveals extensive
+copy number variation in cannabinoid synthesis and pathogen resistance genes. Preprint
+at bioRxiv https://doi.org/10.1101/2020.01.03.894428 (2020).
+Gao, S. et al. A high-quality reference genome of wild Cannabis sativa. Hortic. Res. 7, 73
+(2020).
+Braich, S., Baillie, R. C., Spangenberg, G. C. & Cogan, N. O. I. A new and improved genome
+sequence of Cannabis sativa. GigaByte https://doi.org/10.46471/gigabyte.10 (2020).
+van Bakel, H. et al. The draft genome and transcriptome of Cannabis sativa. Genome Biol.
+12, R102 (2011).
+Laverty, K. U. et al. A physical and genetic map of Cannabis sativa identifies extensive
+rearrangements at the THC/CBD acid synthase loci. Genome Res. 29, 146–156 (2019).
+Barcaccia, G. et al. Potentials and challenges of genomics for breeding cannabis
+cultivars. Front. Plant Sci. 11, 573299 (2020).
+McPartland, J. M. & Small, E. A classification of endangered high-THC cannabis (Cannabis
+sativa subsp. indica) domesticates and their wild relatives. PhytoKeys 144, 81–112 (2020).
+Simão, F. A., Waterhouse, R. M., Ioannidis, P., Kriventseva, E. V. & Zdobnov, E. M. BUSCO:
+assessing genome assembly and annotation completeness with single-copy orthologs.
+Bioinformatics 31, 3210–3212 (2015).
+Hickey, G. et al. Pangenome graph construction from genome alignments with MinigraphCactus. Nat. Biotechnol. 42, 663–673 (2024).
+Aylward, A. J., Petrus, S., Mamerto, A., Hartwick, N. T. & Michael, T. P. PanKmer: k-merbased and reference-free pangenome analysis. Bioinformatics 39, btad621 (2023).
+Garrison, E. et al. Building pangenome graphs. Nat. Methods 21, 2008–2012 (2024).
+McPartland, J. M. & Guy, G. W. Models of cannabis taxonomy, cultural bias, and conflicts
+between scientific and vernacular names. Bot. Rev. 83, 327–381 (2017).
+Qiao, Q. et al. Evolutionary history and pan-genome dynamics of strawberry (Fragaria
+spp.). Proc. Natl Acad. Sci. USA 118, e2105431118 (2021).
+Li, C., Lin, H., Debernardi, J. M., Zhang, C. & Dubcovsky, J. GIGANTEA accelerates wheat
+heading time through gene interactions converging on FLOWERING LOCUS T1. Plant J.
+118, 519–533 (2024).
+Steed, G., Ramirez, D. C., Hannah, M. A. & Webb, A. A. R. Chronoculture, harnessing the
+circadian clock to improve crop yield and sustainability. Science 372, eabc9141 (2021).
+de Meijer, E. Fibre hemp cultivars: a survey oforigin, ancestry,availability and brief
+agronomic characteristics. J. Int. Hemp Assoc. 2, 66–73 (1995).
+Westergaard. M. in Advances in Genetics, Vol. 9 (ed. Demerec, M.) 217–281 (Academic
+Press, 1958).
+
+10 | Nature | www.nature.com
+
+29. Carey, S. B. et al. The evolution of heteromorphic sex chromosomes in plants. Preprint at
+bioRxiv https://doi.org/10.1101/2024.12.09.627636 (2024).
+30. McPartland, J. M. Cannabis systematics at the levels of family, genus, and species.
+Cannabis Cannabinoid Res. 3, 203–212 (2018).
+31. Prentout, D. et al. Plant genera Cannabis and Humulus share the same pair of welldifferentiated sex chromosomes. New Phytol. 231, 1599–1611 (2021).
+32. Petit, J., Salentijn, E. M. J., Paulo, M.-J., Denneboom, C. & Trindade, L. M. Genetic architecture
+of flowering time and sex determination in hemp (Cannabis sativa L.): a genome-wide
+association study. Front. Plant Sci. 11, 569958 (2020).
+33. Charlesworth, D., Charlesworth, B. & Marais, G. Steps in the evolution of heteromorphic
+sex chromosomes. Heredity 95, 118–128 (2005).
+34. Stack, G. M. et al. Comparison of recombination rate, reference bias, and unique
+pangenomic haplotypes in Cannabis sativa using seven de novo genome assemblies.
+Int. J. Mol. Sci. 26, 1165 (2025).
+35. Lu, C. et al. Phosphorylation of SPT5 by CDKD;2 is required for VIP5 recruitment and
+normal flowering in Arabidopsis thaliana. Plant Cell 29, 277–291 (2017).
+36. Lappin, F. M. et al. A polymorphic pseudoautosomal boundary in the Carica papaya sex
+chromosomes. Mol. Genet. Genomics 290, 1511–1522 (2015).
+37. Grabowska-Joachimiak, A., Śliwińska, E., Piguła, M., Skomra, U. & Joachimiak, A. J.
+Genome size in Humulus lupulus L. and H. japonicus Siebold and Zucc. (Cannabaceae).
+Acta Soc. Bot. Pol. 75, 207–214 (2006).
+38. Ma, J., Devos, K. M. & Bennetzen, J. L. Analyses of LTR-retrotransposon structures reveal
+recent and rapid genomic DNA loss in rice. Genome Res. 14, 860–869 (2004).
+39. Choi, J., Lyons, D. B., Kim, M. Y., Moore, J. D. & Zilberman, D. DNA methylation and histone
+H1 jointly repress transposable elements and aberrant intragenic transcripts. Mol. Cell 77,
+310–323.e7 (2020).
+40. Harringmeyer, O. S. & Hoekstra, H. E. Chromosomal inversion polymorphisms shape the
+genomic landscape of deer mice. Nat. Ecol. Evol. 6, 1965–1979 (2022).
+41. Hirabayashi, K. & Owens, G. L. The rate of chromosomal inversion fixation in plant
+genomes is highly variable. Evolution 77, 1117–1130 (2023).
+42. Gabur, I., Chawla, H. S., Snowdon, R. J. & Parkin, I. A. P. Connecting genome structural
+variation with complex traits in crop plants. Züchter Genet. Breed. Res. 132, 733–750 (2019).
+43. Jay, P. et al. Supergene evolution triggered by the introgression of a chromosomal
+inversion. Curr. Biol. 28, 1839–1845.e3 (2018).
+44. Toth, J. A., Stack, G. M., Carlson, C. H. & Smart, L. B. Identification and mapping of
+major-effect flowering time loci Autoflower1 and Early1 in Cannabis sativa L. Front. Plant
+Sci. 13, 991680 (2022).
+45. Murphy, R. L. et al. Coincident light and clock regulation of pseudoresponse regulator
+protein 37 (PRR37) controls photoperiodic flowering in sorghum. Proc. Natl Acad. Sci. USA
+108, 16469–16474 (2011).
+46. Li, M.-W., Liu, W., Lam, H.-M. & Gendron, J. M. Characterization of two growth period QTLs
+reveals modification of PRR3 genes during soybean domestication. Plant Cell Physiol. 60,
+407–420 (2019).
+47. Whiting, J. R. et al. The genetic architecture of repeated local adaptation to climate in
+distantly related plants. Nat. Ecol. Evol. 8, 1933–1947 (2024).
+48. Todesco, M. et al. Massive haplotypes underlie ecotypic differentiation in sunflowers.
+Nature 584, 602–607 (2020).
+49. Andre, C. M. et al. Unique bibenzyl cannabinoids in the liverwort Radula marginata:
+parallels with Cannabis chemistry. New Phytol. https://doi.org/10.1111/nph.20349 (2024).
+50. van Velzen, R. & Schranz, M. E. Origin and evolution of the cannabinoid oxidocyclase
+gene family. Genome Biol. Evol. 13, evab130 (2021).
+51. Smith, C. J., Vergara, D., Keegan, B. & Jikomes, N. The phytochemical diversity of commercial
+Cannabis in the United States. PLoS ONE 17, e0267498 (2022).
+52. de Meijer, E. P. M. & Hammond, K. M. The inheritance of chemical phenotype in Cannabis
+sativa L. (V): regulation of the propyl-/pentyl cannabinoid ratio, completion of a genetic
+model. Euphytica 210, 291–307 (2016).
+53. Vigli, D. et al. Chronic treatment with the phytocannabinoid Cannabidivarin (CBDV)
+rescues behavioural alterations and brain atrophy in a mouse model of Rett syndrome.
+Neuropharmacology 140, 121–129 (2018).
+54. Welling, M. T. et al. An extreme-phenotype genome‐wide association study identifies
+candidate cannabinoid pathway genes in Cannabis. Sci. Rep. 10, 18643 (2020).
+55. Pulsifer, I. P. et al. Acyl-lipid thioesterase1-4 from Arabidopsis thaliana form a novel family
+of fatty acyl-acyl carrier protein thioesterases with divergent expression patterns and
+substrate specificities. Plant Mol. Biol. 84, 549–563 (2014).
+56. Kalinger, R. S., Pulsifer, I. P., Hepworth, S. R. & Rowland, O. Fatty acyl synthetases and
+thioesterases in plant lipid metabolism: diverse functions and biotechnological
+applications. Lipids 55, 435–455 (2020).
+57. Turner, C. E. et al. Constituents of Cannabis sativa L. IV. Stability of cannabinoids in stored
+plant material. J. Pharm. Sci. 62, 1601–1605 (1973).
+58. Welling, M. T., Liu, L., Shapter, T., Raymond, C. A. & King, G. J. Characterisation of
+cannabinoid composition in a diverse Cannabis sativa L. germplasm collection. Euphytica
+208, 463–475 (2016).
+Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.
+Open Access This article is licensed under a Creative Commons Attribution
+4.0 International License, which permits use, sharing, adaptation, distribution
+and reproduction in any medium or format, as long as you give appropriate
+credit to the original author(s) and the source, provide a link to the Creative Commons licence,
+and indicate if changes were made. The images or other third party material in this article are
+included in the article’s Creative Commons licence, unless indicated otherwise in a credit line
+to the material. If material is not included in the article’s Creative Commons licence and your
+intended use is not permitted by statutory regulation or exceeds the permitted use, you will
+need to obtain permission directly from the copyright holder. To view a copy of this licence,
+visit http://creativecommons.org/licenses/by/4.0/.
+© The Author(s) 2025
+
+

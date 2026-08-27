@@ -1,0 +1,48 @@
+30
+
+1 Naturalism and the Vienna Circle
+
+And crucially, Carnap agrees with Neurath about the three epistemological
+claims on which Neurath’s naturalism rests. Carnap is a confirmational holist;
+‘the test applies, at bottom, not to a single hypothesis but to the whole system
+of physics as a system of hypotheses’ (Carnap 1934d/2001, 318). He accepts
+the reality of underdetermination, and that the adoption of any scientific theory
+is therefore conventional and decision guided; ‘That hypotheses. . . nevertheless
+contain a conventional element is due to the fact that the system of hypotheses is
+never univocally determined by the empirical material, however rich it may be’
+(Carnap 1934d/2001, 320). And Carnap is a fallibilist; ‘all rules are laid down with
+the reservation that they may be altered as soon as it seems expedient’ (Carnap
+1934d/2001, 320). And as a result, we can see that Carnap too accepts the primacy
+of scientific practice as a consequence:
+whoever desires to investigate [the language of science] must accordingly take into
+consideration the language which is used in practice in the special sciences. . . [Logic of
+science] can only be useful and productive in practice if it has regard to the available
+empirical findings of scientific investigation (Carnap 1935, 332)
+
+One may will still wonder about Carnap’s logic of science. Is it not a priori? And
+how does it fit with Neurath’s empirical metatheory of science? These questions will
+be discussed further in subsequent chapters. For now, I must simply indicate briefly
+that Carnap agrees with Neurath’s rejection of the apriority of epistemology because
+he agrees with Neurath’s reasons for and means of naturalising epistemology.
+
+1.3.2 Carnap’s Approval of Neurath’s Naturalism
+Carnap is a Humean empiricist like the rest of the Circle. He explicitly invokes
+Hume’s fork in his delineation of the domain of meaningful scientific statements
+(Carnap 1932c/1995, 61). ‘Synthetic sentences are the genuine statements about
+reality’ (Carnap 1934d/2001, 179). So for him, formal studies don’t have content,
+and don’t provide substantive knowledge. But these contentless analytic statements
+are still legitimately scientific. The logic of science is ‘the formal structure theory of
+the language of science. . . The logical syntax of the language of science’ (Carnap
+1934c, 9). This is concerned only with the ‘rules of that language’ (Carnap 1934c,
+9). And as he later says, ‘syntactical investigation. . . is indeed a purely mathematical
+task’ (Carnap 1935, 332). Consequently, the sentences of the logic of science ‘lie
+inside the boundary drawn by Hume’ (Carnap 1934a/1987, 48). So despite logic
+of science being an a priori undertaking, its analyticity allows it to be consistent
+with empiricism, and therefore included within unified science. The apriorism
+Carnap opposes claims there to be substantive, synthetic a priori knowledge (Carnap
+
+general economic situation, etc. . . For very many decisions, both in individual and in social life,
+we need such a prediction based upon a combined knowledge of concrete facts and general laws
+belonging to different branches of science’ (Carnap 1938/1991, 404).
+
+

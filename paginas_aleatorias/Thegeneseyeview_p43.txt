@@ -1,0 +1,41 @@
+OUP CORRECTED AUTOPAGE PROOFS – FINAL, 28/05/21, SPi
+
+28
+
+T h e Ge n e’s-Ey e V i ew of Evolut ion
+
+traits between relatives in light of Mendelian inheritance (a topic previously addressed by Pearson who reached different conclusions,
+hence his negative reaction).
+The contributions of the paper were many (Moran and Smith 1966).
+In particular, Fisher calculated the expected values of the correlation
+between relatives under a variety of scenarios, including linkage,
+­partial recessivity, epistasis, and assortative mating. To do this, Fisher
+developed the statistical method of regressing genotypic value on the
+number of alleles at a given locus (0, 1, or 2 in a diploid), which also
+led to the introduction of the term variance.
+The concept of variance is key to understanding why the 1918
+paper can be thought to be the birth of the gene’s-­eye view. Edwards
+(2014) explains it as follows. Consider a locus with genotypes AA, Aa,
+and aa. Their genotypic values are i, j, and k and are present in the
+population with frequencies P, 2Q, and R respectively. Now, using a
+least-­square regression approach we can calculate the regression coefficient, α, of the genotypic value given the number of A alleles, such
+that:
+
+a=
+
+P (Q + R )(i - j ) + R(P + Q )( j - k )
+P (Q + R ) + R(P + Q )
+
+The regression coefficient, α, is the expected change in the genotypic
+value for a given substitution, i.e. going from aa to Aa, or Aa to AA.
+With this in place, Fisher’s genetic variance, the part that he calls the
+‘additive part which reflects the genetic nature without distortion’,
+can be written as:
+(P + R )a 2 - (Pa - Ra )2
+Fisher contrasts this additive genetic part with a residue part ‘which
+acts in much the same way as an arbitrary error introduced into the
+measurements’. This, then, is the crux: any variation not included in
+the variance captured by the linear regression should not be considered
+genetic but instead be thought of as random environmental noise.
+
+

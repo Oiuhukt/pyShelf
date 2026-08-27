@@ -1,0 +1,38 @@
+Intensional metametaphysics
+
+241
+
+the reference of ‘D’, not to give its meaning (Kripke 1980). Thus ‘D’
+is not to be understood as abbreviating a definite description like
+‘the number n such that either there is a god and n =​1 or there is no
+god and n =​0’. Rather, ‘D’ is simply a name of a natural number; the
+stipulation specifies which number. Consequently, the Russellian
+proposition semantically expressed by the equation ‘D =​1’ has
+none of the complex structure of the definite description, but is
+simply something like <identity, <D, 1>>. Obviously, the sentences
+‘There is a god’ and ‘There is no god’ have the same truth-​values as
+the equations ‘D =​1’ and ‘D =​0’, respectively. If we want to argue
+about whether there is a god, we can argue about whether D =​1; it
+makes no dialectical difference.
+Of course, whichever side is wrong about the metaphysics also
+has a false belief about the reference of ‘D’, given that they have been
+introduced to the name by the stipulation above. If there is a god,
+atheists falsely believe that ‘D’ names 0; if there is no god, theists
+falsely believe that ‘D’ names 1. But that does not mean that one side
+or the other misunderstands the name ‘D’. It is like the name ‘Jack
+the Ripper’, introduced by the description ‘whoever committed the
+grisly Whitechapel murders’. Some people may still falsely believe
+the wild theory that Edward VII committed the grisly Whitechapel
+murders, so that Jack the Ripper was Edward VII; familiar with the
+name ‘Jack the Ripper’ in the usual way, they falsely believe that
+it names Edward VII, but they do not thereby misunderstand the
+name ‘Jack the Ripper’.4
+On the Russellian view, if there is a god, the sentence ‘D =​1’
+expresses the same proposition as the trivially true sentence ‘1 =​1’;
+if there is no god, the sentence ‘D =​0’ expresses the same proposition as the trivially true sentence ‘0 =​0’. On intensionalism, the corresponding necessary propositions are identical too.
+4 For relevant discussion of what counts as understanding, see Williamson 2007: 97–​8
+and the exchange between Stalnaker 2011 and Williamson 2011b. More generally, the
+discussion of analyticity in Williamson 2007 and 2021a support the arguments of this
+section.
+
+

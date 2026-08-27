@@ -1,0 +1,41 @@
+A TEX intro (Canadian spelling)
+
+Section 8: To err is human
+
+the same as if no opening brace were there; that is, the rest of the paper will be boldface if
+no other font changes are made. You will get the following message at the end of the file:
+(\end occurred inside a group at level 1)
+If you had made the same mistake twice, then there would be two more opening braces
+than closing braces, and you would get the message:
+(\end occurred inside a group at level 2)
+TEX doesn’t know that the closing brace is missing until it reaches the end of the
+input file. Hence the message doesn’t tell you where you went wrong. If the location of
+the missing brace isn’t obvious, it’s always possible to insert \bye halfway through your
+document. Running TEX again will cause only the first half to be processed, and if the
+error message persists, you will know that the error is in the first half of the document. By
+moving the \bye to different places, the error can be localized. Also, looking at the output
+often reveals what has gone wrong.
+Missing opening braces are much easier to spot. Here is a two line input file and the
+resulting error and help messages:
+\bf Here is the start}, but there is the finish.
+\bye
+! Too many }’s.
+l.1 \bf Here is the start}
+, but there is the finish.
+? h <CR>
+You’ve closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+It’s quite possible, of course, that the line that is supposed to have the missing left
+brace will not be on the line where TEX catches the error.
+A mismatched brace in the definition of a new control sequence can cause a major error.
+Since such a definition may include several paragraphs, it may not be caught by the end
+of a paragraph, but, rather will just keep piling more and more text into the unfinished
+definition. It’s even possible for TEX to run out of memory as it keeps eating up more
+text! This is called a “runaway definition”. Here is a two line input file with a runaway
+definition:
+
+66
+
+TEXbook: 206
+
+

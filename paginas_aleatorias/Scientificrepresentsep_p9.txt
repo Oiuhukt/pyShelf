@@ -1,0 +1,75 @@
+Scientific Representation
+
+Roman Frigg and James Nguyen
+
+Similarity 2: A scientific model M represents a target T iff M and T
+are similar in relevant respects and to the relevant degrees.
+
+between misrepresentation and non-representation (Suárez 2003: 233–
+235).
+
+On this definition one is free to choose one’s respects and degrees so that
+unwanted similarities drop out of the picture. While this solves the last
+problem, it leaves the problem of logical properties untouched: similarity
+in relevant respects and to the relevant degrees is reflexive (and
+symmetrical, depending on one’s notion of similarity). Moreover,
+Similarity 2 faces three further problems.
+
+Thirdly, there may simply be nothing to be similar to because some
+representations represent no actual object. Some paintings represent elves
+and dragons, and some models represent phlogiston and the ether. None of
+these exist. This is a problem for the similarity view because models
+without targets cannot represent what they seem to represent because in
+order for two things to be similar to each other both have to exist. If there
+is no ether, then an ether model cannot be similar to the ether.
+
+Firstly, similarity, even restricted to relevant similarities, is too inclusive a
+concept to account for representation. In many cases neither one of a pair
+of similar objects represents the other. This point has been brought home
+in now-classical thought experiment due to Putnam (1981: 1–3). An ant is
+crawling on a patch of sand and leaves a trace that happens to resemble
+Winston Churchill. Has the ant produced a picture, a representation, of
+Churchill? Putnam’s answer is that it didn’t because the ant has never seen
+Churchill, had no intention to produce an image of him, was not causally
+connected to Churchill, and so on. Although someone else might see the
+trace as a depiction of Churchill, the trace itself does not represent
+Churchill. The fact that the trace is similar to Churchill does not suffice to
+establish that the trace represents him. And what is true of the trace and
+Churchill is true of every other pair of similar items: even relevant
+similarity on its own does not establish representation.
+Secondly, as noted in Section 1, allowing for the possibility of
+misrepresentation is a key desiderata required of any account of scientific
+representation. In the context of a similarity conception it would seem that
+a misrepresentation is one that portrays its target as having properties that
+are not similar in the relevant respects and to the relevant degree to the
+true properties of the target. But then, on Similarity 2, M is not a
+representation at all. The account thus has difficulty distinguishing
+
+16
+
+Stanford Encyclopedia of Philosophy
+
+At least some of these problems can be resolved by taking the very act of
+asserting a specific similarity between a model and a target as constitutive
+of the scientific representation. Giere (1988: 81) suggests that models
+come equipped with what he calls “theoretical hypotheses”, statements
+asserting that model and target are similar in relevant respects and to
+certain degrees. He emphasises that “scientists are intentional agents with
+goals and purposes” (2004: 743) and proposes to build this insight
+explicitly into an account of representation. This involves adopting an
+agent-based notion of representation that focuses on “the activity of
+representing” (2004). Analysing representation in these terms amounts to
+analysing schemes like
+Agents (1) intend; (2) to use model, M; (3) to represent a part of
+the world W ; (4) for purposes, P. So agents specify which
+similarities are intended and for what purpose. (2010: 274)
+(see also Mäki 2009, 2011; although see Rusanen and Lappi 2012: 317 for
+arguments to the contrary). This leads to the following definition:
+Similarity 3: A scientific model M represents a target system T iff
+there is an agent A who uses M to represent a target system T by
+
+Spring 2020 Edition
+
+17
+
+

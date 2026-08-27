@@ -1,0 +1,48 @@
+OUP CORRECTED PROOF – FINAL, 25/5/2022, SPi
+
+ ’     ’   
+
+231
+
+coherent; and this remains in grave doubt, And yet, it is hard to see how it can be
+abandoned, so strong is the motivation for it. The alternative is an apprehension
+of objects, including abstract objects, underlying, but anterior to, an understanding of reference to them, or, indeed, a grasp of thoughts about them: and this is a
+form of external realism too coarse to be entertained. I am therefore forced to
+conclude without either endorsing the central feature of Frege’s philosophy or
+rejecting it; I can do no more than to say lamely that the issue is one of whose
+resolution is of prime importance to philosophy. (Dummett (1995), p. 19)
+
+One is left with the impression that even if a practicable reformulation of the
+context principle were to become available, together with a non-circular way of
+circumscribing the domain of the quantiﬁers, Frege’s claim to have secured the
+existence of numbers by purely logical means would not be vindicated. What
+stands in the way of such vindication is that only a robust notion of the reference
+could secure this result:
+To justify a realist interpretation of a given theory, even if it be an internal version
+of realism, it is not enough that we should be entitled to ascribe a reference to the
+terms of that theory; the notion of reference, as so ascribed, must be sufﬁciently
+robust to bear the weight of a realist interpretation. This surely requires that the
+notion of reference should play a genuine role within the semantic theory; that is,
+that determining the reference of a term should be a step in determining the
+truth-value of a sentence containing it. But, if the referentiality of the term was
+justiﬁed by appeal to the context principle, its reference is semantically idle, since
+it was secured by specifying the truth-value of sentences of which the term is part,
+or the reference of more complex terms of which the term is part, by some means
+not involving the identiﬁcation of the referent. (Dummett (1995), p. 18)
+
+Here, I have touched on a host of difﬁcult issues. What I would like to explore in
+what follows is the contrast between a thin and a robust notion of reference, on the
+one hand, and between an idle and an operative conception of that notion, on the
+other. Is the contrast between idle and operative only a different formulation of the
+contrast between thin and robust? I seem to detect a difference. And even if it is
+not there, I suggest that we make it up.
+My positive suggestion is that only a notion of reference governed by the
+principle of compositionality counts as robust, and can satisfy GGA’s demands.
+The principle of compositionality can be construed in many different ways (cf. e.g.
+Linnebo 2009). Linnebo’s construal, for all I can judge, is appropriate to GGA,
+where the guidelines of a compositional semantics are laid down. As far as GLA is
+concerned, however, things are not so clear-cut. My proposal is that we adopt the
+compositional reading of the context principle suggested by Dummett in
+chapter 16 of Frege: Philosophy of Mathematics (= FPM), and discussed more
+
+

@@ -1,0 +1,28 @@
+THE REASONER 19(2) 2005
+
+http://doi.org/10.54103/1757-0522/2025/2
+
+might say “If Jones eats all this ice cream, she will get sick.” This
+conditional presupposes some sort of causal connection between
+eating the ice cream and getting sick. Eating the ice cream will
+make Jones sick. By contrast, the material conditional does not
+have this implication. The material conditional is a mere truth
+function. “If I eat this ice cream, then the sun is 93 million miles
+from the earth,” while a false statement of causal connection, can
+be a perfectly good truth-functional material conditional.
+Returning to Semmelweis’s comments, there is reason to think
+that he is thinking in terms of causal relations among things in
+the world. He mentions the epidemic influences causing the horrible ravages of childbed fever and atmospheric-cosmic-terrestrial
+changes generating childbed fever. In other words, Semmelweis
+is reasoning about what one might loosely call the physical consequences of atmospheric-cosmic-terrestrial changes, namely, that
+those changes would affect both hospital wards equally. But, upon
+observation, one finds that those physical consequences do not obtain. The material conditional of symbolic logic is not meant to
+capture the putative causal connections between the atmosphericcosmic-terrestrial changes and childbed fever.
+A further hint regarding Semmelweis’s thinking comes a few sentences later, when he claims that “epidemic influences cannot explain the differences in mortality” (Semmelweis, 1983, p. 66).
+This comment suggests the familiar thought that explanatory considerations have confirmation theoretic import. The thought is that
+the physical consequences of things in the world being as hypothesis H depicts them lead to things in the world being as E depicts them, but independent determinations reveal that things in
+the world are not as E depicts them. In other words, when scientists “deduce a testable proposition o”—as Bird would put it—
+what they are doing is determining the physical consequences of
+29
+
+

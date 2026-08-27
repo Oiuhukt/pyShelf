@@ -1,0 +1,57 @@
+Synthese
+
+(2023) 202:192
+
+Page 11 of 20
+
+192
+
+If some epistemologist adopts an externalist approach to the normative stage of the
+project, they needn’t know what grounds modal truth. So, HMF isn’t true given an
+externalist interpretation of the normative stage.
+4.2 Normative internalism
+Does HMF look more plausible given an internalist interpretation of the normative
+stage? We show that there is no quick argument to HMF from internalist assumptions.
+Access internalists have it that S’s belief in p is justified only if (a) there is a reason
+R that stands in a epistemic support relation to p and (b) S has access to R and (c) S
+has access to the fact that R is a reason (cf., BonJour, 1980). So, in order to show that
+S has internalist justification for some modal belief, the epistemologist of modality
+just needs to show that the subject has adequate reasons in the sense that conditions
+(a), (b), and (c) are met. We will argue that the epistemologist does not need to know
+what grounds modal truths in order to show that a subject has adequate reasons.
+HMF suggests that epistemologists of modality have to know what grounds modal
+truths in a metaphysical sense of ‘grounds’. But internalism just suggests that modal
+epistemologists have to know what grounds modal truths in an epistemological sense
+of ‘grounds’. These two requirements often come apart.
+Of course, these requirements sometimes do coincide. There are some reasons
+that are also metaphysical grounds of the contents of the relevant beliefs (hereafter,
+‘metaphysical grounds’ abbreviates this longer phrase). The fact that Socrates exists is
+an epistemic reason that supports that {Socrates} exists. Regardless of this, to motivate
+a general move from internalist assumptions to HMF, metaphysics-firsters require the
+stronger claim that reasons are always metaphysical grounds. If there are some reasons
+that aren’t metaphysical grounds, then epistemologists of modality can highlight those
+reasons without knowledge of what grounds what.13
+There are lots of reasons that aren’t metaphysical grounds. For example, that you
+have seen that x is F is reason to believe that x is F. This is because (a) that you have
+seen that x is F makes that x is F probable, (b) you have access to the fact that you
+have seen that x is F, and (c) you have access to the fact that: that you have seen that
+x is F is a reason to believe that x is F.14 However, the fact that you’ve seen that x is
+F is not a metaphysical ground of the fact that x is F, given most values of ‘x’ and ‘F’.
+For instance, that you’ve seen that Dave is awake doesn’t ground the fact that Dave
+is awake. It is more often the opposite. That is, the content of your belief (i.e., that x is
+F) is a partial ground of the content of your reason (i.e., that you’ve seen that x is F)
+13 Metaphysics-firsters might complain that epistemologists of modality ought to be able to elucidate
+every reason that can support some modal belief. Since some of those reasons are metaphysical grounds,
+epistemologists need to know what grounds what. However, it isn’t plausible to require that epistemologists
+elucidate every reason that can support some modal belief. That is an insurmountable task. It is more
+plausible that epistemologists of modality ought to elucidate those reasons that in fact support the relevant
+subjects’ modal beliefs. But this just brings us to the question of whether the relevant subjects in fact
+support their modal beliefs with metaphysical grounds. If there is a plausible route from propositional to
+doxastic justification in an internalist framework, then it is just an empirical question which (doxastic)
+reasons are justifiers. We have significant doubts that the empirical wheel of fortune spins in favour of
+metaphysics-firsters. But we leave it open for metaphysics-firsters to show otherwise.
+14 We assume these standard internalist claims for purposes of argument.
+
+123
+
+

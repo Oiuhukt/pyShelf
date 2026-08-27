@@ -1,0 +1,43 @@
+The Ontology of Phonology
+
+217
+
+A speaker’s knowledge of morphemes can thus be represented as
+a list of items containing information about each morpheme stored
+in memory.
+What information?
+Obviously information about its meaning, its functional structure, and the thematic roles it assigns. Also about its lexical category, i.e., whether it is a noun, verb, preposition, adjective, conjunction. And certainly information pertaining to how the morpheme
+is pronounced, that is, phonological information. All this can be
+thought of as encoded in a “complex symbol”, made up of elements
+that stand for meaning, lexical category, etc. The markers pertaining to how the morpheme is pronounced are of particular interest
+to us here. We will refer to them as the “identifying index.” The
+vocabulary as a whole can be thus represented as a long list of such
+complex symbols, each of which contains, among other things, an
+identifying index.9
+We now turn to the information in identifying indices.
+Most morphemes take on the same phonetic form regardless of
+syntactic and/or morphological contexts. Thus the verb hint shows
+up in the phonetic form representable as [hInt] whenever uttered. So
+that string of phonetic symbols is used as its identifying index.
+Other morphemes assume different phonetic forms depending on
+syntactic and/or morphological contexts. For instance, the stems sell
+and shelf were pronounced differently in (1) than in the following
+utterance:
+(5)
+
+The merchant sells a shelf.
+
+The identifying index of such stems is also a string of phonetic
+symbols, namely [s  l] and [ lf] in the two cases at hand. We will
+come back to why those particular strings.
+Some morphemes, notably the English plural and past tense affixes, not only assume different phonetic forms in different contexts,
+but these forms can be utterly dissimilar, and sometimes they don’t
+appear phonetically at all!
+So note what happens to the plural affix in the following cases:
+9
+In talk about identifying indices, we must take care to distinguish between
+what we presume to be “in the mind” of the knower and its representation in
+the notation of our theory. We use the term “identifying index” to refer to the
+representation in the notation of the theory, not what is “in the mind.”
+
+

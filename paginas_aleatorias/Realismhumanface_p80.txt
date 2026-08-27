@@ -1,0 +1,75 @@
+Metaphysics
+
+The Causal Structure of the Physical
+
+relation as "non-Humean causation" in a materialist ontology by
+arguing that science itself needs to postulate such a relation.
+As far as fundamental physics is concerned, I have already indicated why I think that such views are wrong. Quantum mechanics has
+no realist interpretation at all, which is why it is an embarrassment
+to materialists (generally they write as if quantum mechanics did not
+exist). But if we make quantum mechanics look classical by leaving
+out the observer and the observer's side of the cut between system
+and observer, or if we confine attention to pre-quantum mechanical
+physics, then the world looks like this: there is a closed system (in
+classical physics this could be the whole physical universe) that has a
+maximal state at each time (along each time-like hyperplane). There
+is a well-defined mathematical function that determines the state at
+all earlier and later times (depending on the characteristics of the system). The equations of motion (for example, the Dirac equation)
+enable one to determine this function. If one says, "The states do not
+merely succeed one another in the way the theory says; each state
+necessitates the succeeding states," then one is not reporting the content of classical physics, but reading in a metaphysical interpretation
+that physicists have long rejected as unnecessary. Even the timedirectedness of causal processes disappears in fundamental physics.
+When we come to sciences less fundamental than fundamental particle physics, say sociology or history, or even to evolutionary biology,
+or even to chemistry or solid-state physics, then, of course, we find
+that causation-as-bringing-about is invoked constantly, in the guise of
+disposition talk ("the gazelle's speed enables it to outrun the lion most
+of the time"), in the guise of counterfactuals ("the salt would have
+dissolved if the solution had not been saturated"), and in the guise of
+"causes"-statements ("the extreme cold caused the material to
+become brittle"). Even in fundamental particle physics such talk
+becomes indispensable when we apply the physics to actual systems
+that are (of course) not the whole universe-regarded-as-a-closedsystem. But the ontology-the Weltbild--of materialist metaphysics
+is, remember, the ontology of the universe-as-a-closed-system-froma-God's-eye-view; and it is precisely this ontology and this Weltbild
+that has no room for "non-Humean causation."
+One way of reconciling the indispensability of causation-asbringing-about in daily life and in applied science with the fact that
+no mysterious relation of "non-Humean causation" figures in the
+world picture of fundamental physics at all was suggested by Mill
+
+(and revived by John Mackie)." Fundamental physics implicitly
+defines a notion Mill called "the total cause" (at a given time). In postEinsteinian physics, we might define the total cause at time to of an .
+event A (at a time subsequent to to) to be the entire three-dimensional
+space-time region that constitutes the bottom of A's light cone at the
+time to. Any aspect of this region that is sufficient to produce A (at
+the appropriate time t l ) by virtue of the Dirac equation (or the appropriate equation of motion) may also be called a "total cause" of A.
+When we say that the extreme cold (at to) caused the material to be
+brittle (at tl)' then we do not mean that this was the total cause of
+the material's becoming brittle (even given the cold at to, the material
+would not have become brittle if a heater had been present and preset
+to turn on immediately after to, for example). What we do, according
+to Mill and Mackie, is pick out a part of the total cause that we regard
+as important because of its predictive and explanatory utility. If we
+discover that the cold was correlated with something that by itself
+provides an explanation of the material's becoming brittle, and the
+material will become brittle even in the absence of the cold if this
+correlated factor is still present, then we will change our inferencelicensing practice and we will also select a different part of the total
+cause to call "the cause." Which is "the cause" and which a "background condition" depends on a picking out, an act of selection,
+which depends on what we know and can use in prediction; and this
+is not written into the physical system itself.
+If we postulate a "non-Humean causation" in the physical world,
+then we are treating causation-as-bringing-about as something built
+into the physical universe itself: we are saying that the physical universe distinguishes between "bringers-about" and "background conditions." This seems incredible; after all, if heaters were normally set
+to turn on when a place got cold, then we might very well choose to
+say that the cause of the material's becoming brittle was that the heater malfunctioned and allowed the place to get cold (which is quite
+different from saying that the extreme cold at to-prior to when the
+heater would have turned on-is the cause). Like counterfactuals,
+causal statements depend on what we regard as a "normal" state of
+affairs, what we regard as a state of affairs "similar" to the actual,
+and so on. For example, when a heater is present, then we regard it
+as "normal" that it should turn on at the preset time, and this is a
+reason for singling out the "exceptional" part of the total situationthe heater's failing to turn on-as a "cause" and not as a "background
+
+86
+
+87
+
+

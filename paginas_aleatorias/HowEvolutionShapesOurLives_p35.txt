@@ -1,0 +1,30 @@
+20
+
+• Chapter 2
+
+an adult organism. Although under genetic control, development is an
+intricate process that cannot be understood by examination of DNA sequences alone. Rather, understanding how phenotypes evolve, and the
+extent to which developmental systems constrain and direct evolutionary change, requires detailed molecular and embryological knowledge.
+Second, history is integral to understanding evolution. The study of
+fossils—paleontology— provides the primary, almost exclusive, direct
+evidence of life in the past. Somewhat moribund in the middle of the
+last century, paleontology has experienced a resurgence in recent decades owing both to dramatic new discoveries stemming from an upsurge in paleontological exploration and to new ideas about evolution
+inspired by and primarily testable with fossil data, such as theories concerning punctuated equilibrium and stasis, species selection, and mass
+extinction. Initially critical in the development and acceptance of evolutionary theory, paleontology has once again become an important and
+vibrant part of evolutionary biology.
+Concurrently, a more fundamental revolution emphasizing the historical perspective has taken place over the last 30 years with the realization that information on phylogenetic relationships—that is, the tree of
+life, the pattern of descent and relationship among species—is critical in
+interpreting all aspects of evolution above the population level. Beginning with a transformation in the field of systematics concerning how
+phylogenetic relationships are inferred, this “tree-thinking” approach
+now guides study not only of all aspects of macroevolution but also of
+many population-level phenomena.
+Finally, life is hierarchically organized. Genes are located within individuals, individuals within populations, populations within species, and
+species within clades (a clade consists of an ancestral species and all its
+descendants). Population genetics concerns what happens among individuals within a population, but evolutionary change can occur at all
+levels. For example, why are there more than 2000 species of rodents but
+only 5 species of monotremes (the platypus and echidnas), a much older
+clade of mammals? One cannot look at questions concerning natural
+selection within a population to answer this question. Rather, one must
+inquire about properties of entire species. Is there some attribute of rodents that makes them particularly prone to speciate or to avoid extinction? Similarly, why is there so much seemingly useless noncoding DNA
+
+

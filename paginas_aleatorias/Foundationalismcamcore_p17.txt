@@ -1,0 +1,49 @@
+Foundationalism
+
+11
+
+Probably the most common sort of coherence theory of justiﬁcation views the
+justiﬁcation of a given person’s belief as a function of the way that belief
+coheres with the rest of what that person believes. But one might also try to
+understand justiﬁcation in terms of the way a person’s belief coheres with the
+rest of the beliefs of that person’s community, or even the way in which
+a person’s belief coheres with the beliefs an ideal believer would have. But if
+one starts talking about ideal believers one better not identify the ideal believer
+with a person who forms rational beliefs. At least one better not do that if one
+wants to avoid the appearance of problematic circularity in one’s account of
+epistemically rational beliefs.
+A coherence theory of justiﬁcation is distinct from a coherence theory of
+truth. The latter tries to understand truth itself in terms of the coherence of
+beliefs. A coherence theorist of truth would presumably need to relativize truth
+to a belief system and reject as ill formed the idea of something’s being true or
+false simpliciter. It is an understatement to suggest that a coherence theory of
+truth is a pill too bitter for most philosophers to swallow.
+Foundationalists will object to the coherence theory of justiﬁcation in
+a number of ways. One sort of objection employs relatively straightforward
+thought experiments. Earlier, we appealed to the idea that one doesn’t get
+justiﬁed beliefs by inferring conclusions from premises that one would be
+wildly irrational to accept. We should also worry about this sort of scenario
+when evaluating a coherence theory of justiﬁcation. Paranoid schizophrenics
+often have fascinatingly intricate webs of interlocking beliefs. But most of us
+are convinced that they don’t get themselves justiﬁed beliefs by weaving
+tapestries of thoughts pulled out of thin air.
+We have noted already that the coherence theorist needs some sort of
+account of what makes one belief cohere with others. Almost all coherence
+theorists assume that coherence would minimally involve consistency. One
+doesn’t have a coherent system of beliefs when all of one’s beliefs cannot
+possibly be true together. Taking that for granted, coherence theorists worry
+that mere consistency isn’t enough and that other sorts of mutual support
+would be required for justiﬁed belief.10 But Foley (1979) pointed out that
+internal consistency among one’s beliefs might not even be necessary for
+a belief in one’s set of beliefs to be justiﬁed. Consider the well-known preface
+paradox. Most of us who write books try to carefully check the ﬁnal proofs for
+typographical errors before we OK the proofs for publication. But some of us
+also take care to write in our prefaces that we are quite sure that the book
+contains errors somewhere. Those who write this in their preface also might
+10
+
+See, for example, BonJour (1985).
+
+https://doi.org/10.1017/9781009028868 Published online by Cambridge University Press
+
+

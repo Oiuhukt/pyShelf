@@ -1,0 +1,22 @@
+Solve in radians the equation sin 3θ = sin θ.
+Using Equation 1,
+
+Taking n even, and writing n = 2m gives
+
+Taking n odd, and writing n = 2m + 1 gives
+
+Thus the complete solution is
+
+Example 13.7
+Solve the equation cos 2θ° = sin θ° giving all solutions in degrees.
+Use the fact that sin θ° = cos(90 − θ)° to rewrite the equation as
+
+Using Equation 3,
+
+Taking the positive sign gives
+
+and the negative sign
+
+Thus the complete solution is
+
+

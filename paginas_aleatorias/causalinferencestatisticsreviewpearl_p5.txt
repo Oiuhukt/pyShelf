@@ -1,0 +1,42 @@
+J. Pearl/Causal inference in statistics
+
+100
+
+conditionalization, “controlling for,” and so on. Examples of causal concepts are:
+randomization, influence, effect, confounding, “holding constant,” disturbance,
+spurious correlation, faithfulness/stability, instrumental variables, intervention,
+explanation, attribution, and so on. The former can, while the latter cannot be
+defined in term of distribution functions.
+This demarcation line is extremely useful in causal analysis for it helps investigators to trace the assumptions that are needed for substantiating various
+types of scientific claims. Every claim invoking causal concepts must rely on
+some premises that invoke such concepts; it cannot be inferred from, or even
+defined in terms statistical associations alone.
+2.3. Ramifications of the basic distinction
+This principle has far reaching consequences that are not generally recognized
+in the standard statistical literature. Many researchers, for example, are still
+convinced that confounding is solidly founded in standard, frequentist statistics, and that it can be given an associational definition saying (roughly): “U is
+a potential confounder for examining the effect of treatment X on outcome Y
+when both U and X and U and Y are not independent.” That this definition
+and all its many variants must fail (Pearl, 2000a, Section 6.2)2 is obvious from
+the demarcation line above; if confounding were definable in terms of statistical
+associations, we would have been able to identify confounders from features of
+nonexperimental data, adjust for those confounders and obtain unbiased estimates of causal effects. This would have violated our golden rule: behind any
+causal conclusion there must be some causal assumption, untested in observational studies. Hence the definition must be false. Therefore, to the bitter
+disappointment of generations of epidemiologist and social science researchers,
+confounding bias cannot be detected or corrected by statistical methods alone;
+one must make some judgmental assumptions regarding causal relationships in
+the problem before an adjustment (e.g., by stratification) can safely correct for
+confounding bias.
+Another ramification of the sharp distinction between associational and causal
+concepts is that any mathematical approach to causal analysis must acquire new
+notation for expressing causal relations – probability calculus is insufficient. To
+illustrate, the syntax of probability calculus does not permit us to express the
+simple fact that “symptoms do not cause diseases,” let alone draw mathematical
+conclusions from such facts. All we can say is that two events are dependent—
+meaning that if we find one, we can expect to encounter the other, but we cannot distinguish statistical dependence, quantified by the conditional probability
+P (disease|symptom) from causal dependence, for which we have no expression
+in standard probability calculus. Scientists seeking to express causal relationships must therefore supplement the language of probability with a vocabulary
+2 For example, any intermediate variable U on a causal path from X to Y satisfies this
+definition, without confounding the effect of X on Y .
+
+

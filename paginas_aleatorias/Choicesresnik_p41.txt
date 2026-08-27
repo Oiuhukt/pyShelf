@@ -1,0 +1,94 @@
+DECISIONS UNDER IGNORANCE
+
+1.
+2.
+
+3.
+
+4.
+
+PROBLEMS
+Convert the 1 to 5 scale used to rank a-j into a 20 to 25 scale, into a - 5
+to 0 scale, and into a scale whose numbers are all between 0 and 1.
+What happens to an ordinal scale when it is transformed by multiplying each
+number by — 1 ? By 0? Are these acceptable transformations of the original
+scale? Why or why not?
+Show that the transformation t of an ordinal utility scale u into a scale, t(u),
+produces a scale that also satisfies conditions (a) and (b), provided / satisfies
+condition (c).
+Show that the following are ordinal transformations:
+
+5. Is the transformation t(x) =x2 an ordinal transformation when applied to a
+scale whose numbers are greater than or equal to 0? What if some of the
+numbers are negative?
+6. Suppose an agent has preferences for paired items (x; y ) where item x is the
+amount of time she has to live and y is the amount of time she will go through
+her death throes. Let us suppose that x varies continuously between 0 moments and 20 years and y between 0 moments and 2 weeks. The agent always
+prefers to live longer and suffer less but puts an absolute priority on living
+longer. This means, for instance, that she prefers the pair (18 years; 2 weeks)
+to (17 years; 11 months and 28 days; 25 minutes). Explain why it is impossible to use an ordinary finite number scale to represent the agent's preferences,
+although she does satisfy the ordering condition. Explain why it is possible
+to represent this preference using the real numbers if we concern ourselves
+with only preferences for moments of life or for moments of death throes.
+2-2. The Maximin Rule
+Using ordinal utility functions we can formulate a very simple rule for making
+decisions under ignorance. The rule is known as the maximin rule, because it
+tells the agent to compare the minimum utilities provided by each act and choose
+an act whose minimum is the maximum value for all the minimums. In brief,
+the rule says maximize the minimum.
+Example. In table 2-2 the minimums for each act are starred and the act
+whose minimum is maximal is double starred.
+
+26
+
+2-2
+
+Si
+
+S2
+
+A!
+
+5
+
+0*
+
+0*
+
+2
+
+A2
+
+-1*
+
+4
+
+3
+
+7
+
+A}
+
+6
+
+4
+
+4
+
+1*
+
+**A4
+
+5
+
+6
+
+4
+
+3*
+
+S3
+
+S4
+
+

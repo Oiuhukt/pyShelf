@@ -1,0 +1,42 @@
+38
+
+F r e g e ’s C o n c e p t i o n o f L o g i c
+
+expression of that kind of thing that forms the content of a judgment or assertion. Frege’s “morning star”/“evening star” example is the paradigm of such a
+pair of terms.26 Though as we’ll see soon Frege is not entirely clear on this point,
+he often writes as if two co-referring terms will have different senses whenever it
+takes a nontrivial amount of investigation (which can be entirely a priori) to
+determine that they do co-refer. In keeping with this way of thinking of the issue,
+Frege sometimes writes of the sense of a singular term as containing a “mode of
+presentation” of its reference: the senses of “the morning star” and of “the
+evening star” contain two distinct modes of presentation of the planet Venus.27
+The reference of a simple piece of language is determined by its sense, at
+least in the minimal sense that if two simple pieces of language have the same
+sense, then they have the same reference. This, together with the fact that the
+sense of a complex linguistic item is determined as above by the senses of its
+parts and that the reference of a whole is determined as noted earlier by the
+references of its parts, implies the general Fregean thesis that the reference of
+any piece of language is determined by its sense: if two linguistic items have the
+same sense, they have the same reference. Consider again the sentence “7 is
+prime.” Its sense is the thought obtained by putting together the sense of “7”
+and the sense of “. . . is prime”; this thought is true, which means that the sentence itself refers to the truth-value true. Equivalently, the reference of “. . . is
+prime,” a function determined by the sense of that predicate, when applied to
+the reference of “7,” an object determined by the sense of “7,” delivers as value
+the truth-value true, which has again the result that the sentence as a whole
+refers to that truth-value.
+Inspired in part by Frege’s occasional talk of senses as containing “modes of
+presentation” of references, it is sometimes thought that on the Fregean view a
+linguistic item can have sense only if it has reference.28 But this is a mistake. It is
+essential to Frege’s view, and a point about which he is clear, that some pieces of
+language have sense despite lacking reference. As Frege says:
+It may perhaps be granted that every grammatically well-formed expression figuring as a proper name always has a sense. But this is not to
+say that to the sense there also corresponds a reference. The words “the
+celestial body most distant from the Earth” have a sense, but it is very
+doubtful if there is also a thing they refer to. The expression “the least
+rapidly convergent series” has a sense but demonstrably there is
+nothing it refers to, since for every given convergent series, another
+convergent, but less rapidly convergent, series can be found. In grasping
+a sense, one is not certainly assured of referring to anything.29
+Fiction too provides as Frege sees it cases of terms that have sense without reference. The term “Odysseus,” for example, assuming that the Odyssey is a work
+
+

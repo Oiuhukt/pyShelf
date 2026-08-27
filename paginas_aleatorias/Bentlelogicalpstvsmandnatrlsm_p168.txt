@@ -1,0 +1,50 @@
+6.2 Ballungen and Explication
+
+153
+
+Mormann refers to Neurath’s picture of language as a non-Cartesian one
+(Mormann 1996). By this, he means that Neurath rejects two crucial assumptions
+about language made by Descartes. Specifically, Descartes believed it possible to
+arrive at a final, completed language, built upon clear and distinct ideas. Neurath
+rejects this as a pseudo-rationalist fantasy. Instead, he argues that the very notion of
+a final language is delusional, that all language should be recognised as provisional,
+and that all languages will inevitably be permeated with a degree of uncertainty.
+This uncertainty comes partly from Ballungen. It ‘is the job of Ballungen to preclude
+Carnap’s recourse to such clean elements. . . note that Ballungen preclude definite,
+once-and-for-all fixed meanings’ (Cartwright et al. 1996, 157). But along with
+this pragmatic reason for assuming the impurity of language, there is also an
+epistemological reason. For Neurath, as we saw, Ballungen are also a consequence
+of our inability to survey all our knowledge at once:
+our experience in this is like that of a miner who at some spot of the mine raises his lamp
+and spreads light, while all the rest lies in total darkness. If an adjacent part is illuminated
+those parts vanish in the dark that were lit only just now. (Neurath 1921/1973, 198)
+
+Even if we engage in a process of linguistic refinement, we cannot view our
+language in its totality. Even if we deliberately intervene in language, language
+still has a life of its own. Does this not render Carnapian explication a waste
+of time? Why would Neurath support the pursuit of a goal that can never be
+reached? Mormann contends that Carnap never fully understood or responded to
+Neurath’s Ballungen; ‘For him vagueness, opacity were defects of the actually
+existing language of science that “in principle” could be neglected’ (Mormann 1999,
+174).
+This suggestion of a fundamental rift is however a significant exaggeration. For
+one, the characterisation of Carnap it relies on is wrong. Carnap doesn’t neglect
+vagueness in natural language, he developed an entire methodology to alleviate
+it: explication. Neurath is concerned with natural languages, those he repeatedly
+reminds us we are born into and have little control over. We must ‘consider the
+current plenitude of science as our base of operations’ (Neurath 1937d/1987, 138).
+Ballungen are not features of constructed formal languages, but organic outgrowths
+of language at work in the world. But Carnap agrees with Neurath about the
+indeterminacy of natural language. That’s his entire motivation for explicating
+things to begin with.
+Let us step back and ask, what are Ballungen? The German term “Ballung”
+means ‘congestion or concentration’ (Cartwright and Cat 1996, 82). Neurath
+proposes ‘clot’ as a translation (Neurath 1944/1971, 18). Now look at Neurath’s
+descriptions of them:
+unprecise terms (“clusters”) occur that I best characterise by the nature of their application
+(Neurath 1934/1983, 105)
+complex (messy) statements of little cleanliness (Neurath 1935b/1983, 128)
+
+Ballungen are non-deliberate assemblages, unhelpful organic linguistic conglomerations. These are not simply concepts held together by Wittgensteinean familyresemblances. Rather, these clusters seem to contain various ill-defined concepts,
+
+

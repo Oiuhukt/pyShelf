@@ -1,0 +1,37 @@
+Bayesianism and Scientific Reasoning
+
+23
+
+Figure 7 A dartboard representation of the total probability of E, calculated
+as the sum of the shaded proportional areas.
+There is one remaining rule of probability that we need to introduce: Bayes’s
+Theorem. This rule takes center stage in many formal epistemological studies
+of scientific reasoning (as we’ll see in Section 3), but we’ll stick to darts for
+now. Referring once more to Figure 7, we’ve already seen examples instructing us on how we would calculate the conditional probabilities of E given each
+Hi . These probabilities are easy to read off the dartboard representation, corresponding simply to the height of each E&Hi -region. Things are visually less
+straightforward if instead we ask for the probability that a dart lands on one of
+the Hi -spaces given that it lands on the E-space.
+How, for example, do we calculate Pr.H2 jE/? The most detailed and helpful answer combines Conditional Probability with Conjunction and Total
+Probability. Conditional Probability gives us the following:
+Pr.H2 jE/ D
+
+Pr.H2 ^ E/
+:
+Pr.E/
+
+If we expand the numerator using Conjunction, we already have an instance
+of the simplest form of Bayes’s Theorem:
+Pr.H2 jE/ D
+
+Pr.H2 /Pr.EjH2 /
+:
+Pr.E/
+
+A slightly more complicated (and typically more useful) version results if
+we then expand the denominator using Total Probability, relative to a partition
+that has H2 as a member. The partitions fH2 ; :H2 g and fH1 ; H2 ; H3 ; H4 ; H5 g
+
+Downloaded from https://www.cambridge.org/core. IP address: 201.141.17.62, on 08 Feb 2022 at 21:39:56, subject to the Cambridge Core terms
+of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/9781108657563
+
+

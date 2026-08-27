@@ -1,0 +1,40 @@
+Normative Formal Epistemology as Modelling
+
+425
+
+involves. Here are two examples. Earman’s A1 states that there is a probability value
+for every sentence in the set A. Thus, the agent has an attitude to every proposition and,
+as these are represented by numbers, they are commensurable. We can compare the
+agent’s attitudes to any two propositions precisely and quantitatively: we can say how
+much more conﬁdent they are in one than the other. This quantitative comparability
+is critical for many decision theoretic applications of this framework. But, to some,
+the completeness and ﬁne-grainedness of this comparability are neither normative
+nor true. How should we regard the fact that the mathematics seems to ‘say’ that
+agents have complete and continuous credences, when in fact they don’t?
+Earman’s A2, P2, and P4 are part of the infamous ‘logical omniscience’ of Bayesian agents. They say that agents (ought to) assign the maximum degree of belief to
+any sentence expressing a logical truth, that the same degrees of belief are assigned
+to logically equivalent sentences, and that degree of belief is monotonic over entailment.
+Agents who were really like this would have quite unusual beliefs! They would believe
+fully every truth of mathematics, and equally in even opaque and complex but equivalent sentences, and their degrees of belief would track logical entailments—all of which
+is, clearly, far beyond us. Again, what should we make of this? Some argue that logical omniscience is a norm or ideal, of a sort (for example, Lemmon and Henderson
+[1959]; for further discussion of how omniscience is regarded in epistemic logic, see
+Yap [2014]). But again, others disagree. For this latter camp, there is an important
+question of whether and when it matters that the framework has this false implication.
+Below, I will argue that regarding NFE as modelling allows us to understand the nature of these claims, tells us why we do not need to worry about them, and gives us
+a way to do so in a justiﬁed and systematic manner.
+
+3. Normative Formal Epistemology as Modelling
+In this section and the next I will show that the shoe ﬁts. I will relate some lessons from
+the last ﬁve or six decades of philosophical study of scientiﬁc modelling, and then
+show that NFE has the characteristics philosophers have identiﬁed for models. This
+establishes the possibility and hopefully plausibility of interpreting NFE as modelling.
+I will then turn to arguing that we ought to do so.
+A preliminary note: ‘Model’ is used to mean many different things. I do not intend
+to use the meaning logicians give to the term, which is roughly an assignment of semantic values to a basic vocabulary, such that a speciﬁc set of sentences is rendered
+true. The way I use the term ‘model’ is broadly consistent with a philosophy of science tradition that includes Cartwright ([1983], [1989]), Morgan and Morrison ([1999]),
+and the many others cited below. If you typically think of models as set-theoretic structures you will need to take this section as stipulating a new meaning for that term.4
+4 As Williamson ([2017]) points out, some models (in roughly my sense) in formal epistemology are also
+
+logic models, so my sense of model is wider than the logical sense. I am thus not denying that logic models play a role, they simply aren’t my focus.
+
+

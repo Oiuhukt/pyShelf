@@ -1,0 +1,21 @@
+Personalist Probability
+
+131
+
+there is no v1c10us circularity of uncertainty of evidence and theory, but
+mutual readjustment of probability values in the light of all observation
+reports.
+The model therefore seems to represent adequately the effects on a belief
+distribution of uncertain evidence, provided that the idea of locally acceptable
+'observation reports' is adopted, and provided that definite rules of transfor­
+mation such as (5. 3) and ( 5 .4) are specified. It does not, of course, follow that
+the model would in practice be the most fertile or efficient way of constructing
+an artificial intelligence device to represent scientific discovery ; in fact recent
+studies indicate that conditional probability is far from being the best basis for
+such a device. 1 But the model is sufficient to show that the probability repre­
+sentation cannot be excluded as an explication of scientific inference on the
+grounds that it fails to take account of the problem of uncertain evidence.
+1 For discussion and references, see J. S. Williamsen, ' Induction and artificial intelligence ,
+(unpublished PhD thesis, University of Cambridge, 1 970) .
+
+

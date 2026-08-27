@@ -1,0 +1,31 @@
+408
+
+Modal Logic for Philosophers
+
+anything real. The solution to the problem is simply to deny that a term
+of a sentence must refer to an existent object in order for the sentence
+to have a meaning, and hence to take on a truth value. We can challenge
+our opponent’s basic premise by asking him to explain how sentences like
+‘Pegasus is a winged horse’ and ‘Pegasus is not a hippopotamus’ (which
+are clearly both true) can be treated on a theory that denies truth values to
+all sentences whose terms refer to things that do not exist. In the semantics
+for !S, terms may refer to possible objects, and sentences that contain such
+terms have truth values.
+Problem 2. Did King George really want to know whether
+Scott was Scott?
+Solution: The argument has the form of a substitution of identical terms.
+s≈!xAx
+Ks≈!xAx
+Ks≈s
+But we deny the correctness of substituting identities in the scope of
+the intensional operator K (which reads ‘King George wanted to know
+whether . .’).
+Problem 3. Is the round square both round and square?
+Solution: The round square is not round, and it is not square. In fact, it is
+not. It does not exist. We can prove neither R!x(Rx&Sx) nor S!x(Rx&Sx)
+in free logic unless we also have E!x(Rx&Sx). (The round square exists.)
+But we showed in Exercise 18.12 that given the premise that being round
+and being square are incompatible, it follows that ~E!x(Rx&Sx). (The
+round square does not exist.)
+
+

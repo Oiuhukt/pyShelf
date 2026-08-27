@@ -1,0 +1,54 @@
+2^ 6
+
+|
+
+C h. 2
+
+R a t i o n a l i t y , O b j e c t i v i t y , and V a l u e s in S c i e n c e
+
+of opinion about which rules to adopt? In that case, scientists must have
+recourse to the axiological level. For disputes about methodological rules
+can be rationally resolved only by specifying the goals that the rules are
+supposed to serve. If scientists all shared the same views about the aims
+of science, then, in principle, the dispute could be settled by seeing which
+rules would best promote those aims. But if scientists disagree about aims,
+then no rational resolution is possible. If, for exam ple, one group of sci­
+entists insists that em pirical adequacy is the most important goal of sci­
+entific theorizing, w hile another group maintains, with equal vigor, that
+science should aim at providing intelligible explanations, then the two
+groups have no objective, rational way of settling their dispute. According
+to the hierarchical m odel, the rational resolution of axiological disagree­
+ments is impossible because it would require going to a higher level, and
+there is no such level.
+Admittedly, this is a highly idealized and sim plified sketch of the
+hierarchical m odel, but it suffices to illustrate two of its central features.
+First, the direction of justification is strictly top-down and linear: always
+from a higher level to a lower one, never the reverse. Second, at the
+highest level, the axiological, rational justification ceases. On the hierar­
+chical model, views about the goals and aims of science are necessarily
+arbitrary and subjective. Although they are viewed as the ultim ate source
+of justification for the decisions m ade at the lower levels, they themselves
+cannot be justified.
+T he R e t ic u la t io n a l M odel o f S c ie n t if ic Rationality
+
+According to Laudan, a m isleading picture of scientific rationality pushes
+Kuhn to conclude that reason and argum ent play only a lim ited role in
+scientific revolutions. For, once one accepts the hierarchical model, dis­
+agreements about the criteria for assessing theories will be incapable of
+rational resolution if, as Kuhn supposes, rival paradigms have competing
+notions of the aims and goals of science. Another error contributing to
+Kuhn’s em brace of relativism is his holism , his insistence that paradigms
+are seamless wholes. Kuhn assumes that paradigms are package deals that
+can be accepted or rejected only in their entirety. Specifically, he denies
+that scientists can evaluate or choose among the individual components
+of a paradigm, especially at the methodological and axiological levels.
+Laudan advocates the reticulational model of scientific rationality. Its
+two m ain features—its antiholism and its nonlinear conception of
+justification—directly contradict the hierarchical model. According to the
+reticulational model, the components of a paradigm can be discussed,
+rejected, or accepted piecem eal. Like M cM ullin, Laudan criticizes Kuhn’s
+assumption that paradigms have a kind of holistic unity that would make
+such a dissection impossible. He supports his case with historical examples
+in which scientists clearly did pick and choose elem ents from the para-
+
+

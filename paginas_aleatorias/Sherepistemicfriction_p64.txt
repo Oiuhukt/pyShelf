@@ -1,0 +1,58 @@
+OUP CORRECTED PROOF – FINAL, 6/5/2016, SPi
+
+QUINE ’ S MODEL OF KNOWLEDGE
+
+
+
+Objection 2. The center-periphery methodology differs from the analyticsynthetic methodology with respect to what is arguably the most important principle
+of Quine’s theory: the principle of universal revisability. The analytic-synthetic
+methodology views analytic statements as immune to revision, synthetic (empirical)
+statements as linked to a range of experiences whose occurrence would (under
+appropriate conditions) compel their revision. In contrast, the center-periphery
+methodology (like the NAS methodology) views no statement as immune to revision
+and the revision of no statement as compelled by any (speciﬁc) experiences. Given
+this major gap between the two methodologies, any similarity between them is of
+minor signiﬁcance.
+Response. The claim that the analytic-synthetic distinction is tied to the traditional
+revision principle is simply incorrect.8 This claim is refuted if not by the classical
+Kantian model, then by Carnap’s model. In Carnap’s model, analytic statements are
+based on linguistic conventions, and conventions in general are all too easy to revise.9
+Furthermore, in Carnap’s model even the revision of synthetic statements allows a
+signiﬁcant degree of freedom. Given an inﬁrming experience (or a series of inﬁrming
+experiences) of a particular synthetic statement, Carnap allows a wide array of
+reactions. Thus, discussing a case in which a protocol sentence deduced from a
+physical theory is disconﬁrmed by experiment, Carnap says:
+There are no established rules for the kind of change which must be made. For instance, the
+P[hysical]-rules can be altered in such a way that those particular primitive sentences are
+no longer valid; or the protocol-sentence can be taken as being non-valid; or again the
+L[ogical-linguistic]-rules which have been used in the deduction can also be changed
+(Carnap 1934: 317).10
+
+Elsewhere, Carnap describes a hypothetical situation in which an empirical discovery
+might naturally lead to a conventional revision:11
+Quine, no element is uniquely divisible in this way. (c) According to Carnap, the application and
+satisfaction conditions of some elements are purely conventional while those of others purely factual
+(experiential); according to Quine, the application and satisfaction conditions of all elements are both
+partly factual and partly conventional.
+8
+
+Although Quine himself appears to endorse this claim (Quine 1951a: 43), it is wrong. (See also next fn.)
+One might try to defend Quine’s claim that for Carnap analytic statements are closed to revision by
+saying that Quine relates to one part of Carnap’s dualistic model, namely Science. Quine would concede
+that linguistic conventions in Carnap’s model are open to revision from the external perspective of MetaScience, but his point is that they are not open to revision from the internal perspective of Science. (Since
+linguistic conventions are part of the framework of Science, they cannot be revised from within Science.)
+But to compare Quine’s and Carnap’s models we have to take into account their entire models, and in
+Carnap’s case, his model includes both Science and Meta-Science.
+10
+The two sentences are transposed. In the original we have:
+9
+
+For instance, the P-rules can be altered in such a way that those particular primitive
+sentences are no longer valid; or the protocol-sentence can be taken as being non-valid;
+or again the L-rules which have been used in the deduction can also be changed. There are
+no established rules for the kind of change which must be made.
+11
+
+For use of boldface within citations, see fn. 3 in Chapter 1.
+
+

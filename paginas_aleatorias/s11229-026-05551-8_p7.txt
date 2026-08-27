@@ -1,0 +1,54 @@
+Synthese
+
+(2026) 207:167
+
+Page 7 of 24
+
+167
+
+their applications for chatbots, it is important to develop a better understanding of the
+kind of mistakes that ChatGPT typically makes, why it makes them, and how they
+can be detected. Therefore, dealing with chatbot mistakes should also be (partly) the
+responsibility of its users. But in order to do that, users need some kind of awareness
+of what is happening in the processing of the software.8 Here we contend that in order
+to educate users to that effect, it is important to characterise the functioning – including the mistakes – of ChatGPT without using misleading or confusing terminology.
+Unfortunately, much of the reporting and philosophical theorising on the issue of
+ChatGPT mistakes does exactly that, calling what the chatbot is doing “hallucinating” (e.g., Ariso & Bannister, 2025; Heersmink et al., 2024; OpenAI et al., 2024;
+Sahebi & Formosa, 2025; Weise & Metz, 2023) or “bullshitting” (e.g., Bergstrom &
+Ogbundu, 2023; Fisher, 2024; Gunkel & Coghlan, 2025; Hicks et al., 2024; Licon,
+2025; Routledge, 2025; Rudko & Bashirpour Bonab, 2025; Slater & Humphries,
+2025; Tigard, 2025).
+Granted, few of the authors using such terminology are likely to think that what
+ChatGPT is doing is literally similar to what humans are doing when they are hallucinating or bullshitting. Given the charitable interpretation of this terminology we
+adopt in this article, are there reasons to believe that the mental metaphors under consideration are successful? To answer this question, we will first consider conceptual
+metaphor theory (Sect. 4) and then discuss in detail the widely used hallucination and
+bullshitting metaphors (Sect. 5).
+
+4 Conceptual metaphor theory
+To be in a position to describe and evaluate the different uses of metaphorical language to discuss chatbot mistakes, we first need to better understand what metaphors
+are, how they work, and how they shape our thinking across scholarly and public
+discourses. To this end, we use conceptual metaphor theory introduced by Lakoff and
+Johnson (2003) as a framework.9
+How do conceptual metaphors work? The basic setting of a metaphor includes a
+source domain and a target domain, as well as a mapping between the two (Lakoff &
+Johnson, 2003). The mapping takes items from the source domain and maps them to
+8
+
+Here, we simply mean a general understanding of the functionality of chatbots, not any specific understanding of how information in the training data is processed in generating the outputs (Bender et al.,
+2021), which is impossible due to the black box problem. This problem consists in a systematic lack
+of knowledge about the internal workings of chatbots and other complex computational systems (e.g.,
+Zednik, 2021).
+
+9
+
+This account, first published in 1980, has since been further developed by others, most notably Kövecses (2005, 2010) and Fauconnier and Turner (2002), who developed it into the account of conceptual
+blending. While we do not want to undermine the significance of these later developments, for present
+purposes the original account of Lakoff and Johnson (2003) is sufficient. We do acknowledge the relevance of critical discussions of the original account developed by Lakoff and Johnson (2003) such as
+(McGlone, 2011; Pinker, 2008; Reid & Katz, 2018), as well as the later refinements of the theory (Gibbs,
+2009). However, we want to emphasise that the present analysis is not committed to the correctness of
+conceptual metaphor theory. Rather, we use it has an epistemically fruitful lens through which to view
+current scholarly and public engagements with chatbot mistakes.
+
+13
+
+

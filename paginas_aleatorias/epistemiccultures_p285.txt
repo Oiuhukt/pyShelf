@@ -1,0 +1,45 @@
+273
+. Note to Page 56
+
+the study of limi.nal phenomena which you do not deny. When one talks
+about cultures one usually has in mind a whole system of procedures which
+somehow hang together and sustain each other. Given the framework of the
+system, every single strategy appears necessary. But the whole is a specific
+development and articulation of strategies.
+THEORETICAL PHYSICIST: I would like to jump in on this and support my
+fell0w physicist, albeit from the point of view of a theorist. The calibration
+example does strike me as illuminating. What came to my mind when I heard
+you talk about the need of these experiments to understand their detector are
+scales. Suppose I want to know my weight. To know my weight I need an
+instrument-some way to measure what I am after, plus the exact knowledge
+how this instrument reacts. What, if I put five pounds on it, it will indicate,
+its errors and efficiency, and the systematic e~ror I make by using this
+instrument rather than another. What more is an experiment in HEP? Is it
+not just the testing of scales for measuring something that comes from
+theory? The weight, the thing we are really interested in, are the theoretical
+predictions. Experiments are, in the last analysis, preparing and calibrating
+the equipment.
+KK (to TP): Frankly, I am not surprised by your comment. It corresponds
+to an understanding I have come across over and over again by theorists-the understanding that the intellectually important ingredient is physics theory, while the experiment is just what we imagine happens on the
+scales (or thermometer) level, writ larger. What interests me about this
+understanding is how it .renders HEP experiments invisible despite their size
+and complexity, and despite authors, such as Galison, Traweek, and Sutton
+(and perhaps even Pickering from the the<?ry ~ide), who bring them to our
+attention.
+READER: You forget, if you allow me to come back just briefly from the
+notes in Chapter 2, you forget the role our disciplines, philosophy and
+history (but also sociology), have played in promoting this understanding,
+by paying attention almost exclusively to physics theory. You also forget
+that physics is a segmented universe in which fundamental theorists and
+experimentalists live, work and think detached from each other, without
+knowing much about each other. Theoretical physicists often simply do not
+know what goes on in experiments. You also forget that studies such as the
+above are only appearing in the last ten years.
+PWA (second theoretical physicist): The question by the theorist should be
+answered, nonetheless. Perhaps I may point out what I, as another theorist
+(however, a theorist working at Bell Labs!), wrote more than twenty years
+ago in an article in Science (Anderson 1972: 393), namely that the main
+fallacy in the above kind of thinking is that the reductionist hypothesis on
+which it is based does not by any means imply a "constructionist" one.
+
+

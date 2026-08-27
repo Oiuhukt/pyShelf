@@ -1,0 +1,40 @@
+“The Earth has one moon” depends not upon the English language, but upon
+something exterior to the language. Since the self-standing elements of our
+propositional logic are sentences, and the most important property of these is
+their truth value, the only semantic feature of sentences that will concern us in
+our propositional logic is their truth value.
+Whenever we introduce a new element into the propositional logic, we will specify its syntax and its semantics. In the propositional logic, the syntax is generally
+trivial, but the semantics is less so. We have so far introduced atomic sentences.
+The syntax for an atomic sentence is trivial. If P is an atomic sentence, then it is
+syntactically correct to write down
+P
+By saying that this is syntactically correct, we are not saying that P is true. Rather,
+we are saying that P is a sentence.
+If semantics in the propositional logic concerns only truth value, then we know
+that there are only two possible semantic values for P; it can be either true or
+false. We have a way of writing this that will later prove helpful. It is called a
+“truth table”. For an atomic sentence, the truth table is trivial, but when we look
+at other kinds of sentences their truth tables will be more complex.
+The idea of a truth table is to describe the conditions in which a sentence is true
+or false. We do this by identifying all the atomic sentences that compose that sentence. Then, on the left side, we stipulate all the possible truth values of these
+atomic sentences and write these out. On the right side, we then identify under
+what conditions the sentence (that is composed of the other atomic sentences) is
+true or false.
+The idea is that the sentence on the right is dependent on the sentence(s) on the
+left. So the truth table is filled in like this:
+Atomic sentence(s) that
+compose the dependent
+sentence on the right
+All possible combinations of
+truth values of the composing
+atomic sentences
+
+Dependent sentence composed of the
+atomic sentences on the left
+Resulting truth values for each possible
+combination of truth values of the
+composing atomic sentences
+
+1. Developing a Precise Language | 15
+
+

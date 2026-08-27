@@ -1,0 +1,38 @@
+direction is what is measured in many foundational thought experiments
+in quantum mechanics.
+The major disanalogy between spinning tops and electrons with spin
+is that there is nothing rotating or spinning inside the electron. An electron carries angular momentum in the same way that it carries electric
+charge, as a fundamental, irreducible property. There is no deeper story
+about some hidden, spinning machinery that explains how the angular
+momentum comes about. It is just there.
+
+16.4. Two Inductive Inference Problems for Electrons
+The background facts fix the inductive logic appropriate to some domain.
+We can find situations involving electrons in which a familiar probabilistic induction is the appropriate one; and we can find situations in which
+it is not.
+
+16.4.1. Uncertainty over Randomly Selected Positions
+Here is an example of the first type that can be handled with ordinary
+probabilistic inferences. Assume that we have six widely spaced boxes,
+numbered one to six, and that an electron has been placed in just one of
+them. We do not know which contains the electron. We will choose one
+box at random and consider the outcome that this is the box containing
+the electron. How much inductive support is accrued to this outcome? To
+ensure that we have background facts that authorize probabilistic reasoning, assume that we choose the box whose number matches the outcome
+of a roll of an ordinary die. The die’s behavior, we assume, is governed by
+the probability calculus in the usual way.
+A probabilistic inductive logic is warranted by the set up. The evidence just presented affords inductive support at the level of a probability
+of 1/6 that the box selected contains the electron. All possible outcomes
+fall under a single probability measure. While this is obvious, this simple
+feature is worth noting, since it will fail in the quantum problems to be
+considered below. However, so far, no quantum peculiarity has entered.6
+
+6
+(For experts) No quantum entanglement over different boxes is assumed. The spatial
+support of the electron’s wave function is presumed to be fully contained within just one box.
+
+620
+
+The Material Theory of Induction
+
+

@@ -1,0 +1,46 @@
+23
+
+Page 14 of 19
+
+European Journal for Philosophy of Science
+
+(2025) 15:23
+
+confirming models with mild probabilities, with the mediation of composite models,
+such as models of sequences of independent events.
+4.3 Probabilistic empirical adequacy
+This analysis points to a solution to our problem. Firstly, we can keep ME’s conception of empirical adequacy for the models that are directly confronted with experiments, by simply replacing the “excluding” in the original version by “giving a
+low enough probability weight”. Secondly, this picture can be completed with an
+account of how to infer, from the adequacy of a composite model constructed from
+more basic models, that the basic models are also empirically adequate.
+“Giving a low enough probability weight” is not very precise, but this is not necessarily problematic. What counts as empirical success can vary from one context
+to the other, in particular regarding the risk of error that one is willing to take. So,
+we can introduce a threshold γ, specified by the context, and assume that a model is
+accurate in context if the possibilities that are attributed a weight lower than γ do not
+actually occur (taking γ < 1/N for N possibilities, to avoid cases where accuracy is
+impossible to achieve). The model will be discarded if these possibilities occur, and
+we would typically want γ to be small if the test is severe, because we don’t want to
+discard alternative models too easily. However, this would ultimately depend on the
+context of application.9
+But there is another issue that should be addressed. In the non-probabilistic case,
+empirical adequacy just is accuracy in all possible contexts. This won’t do for the
+probabilistic case: we cannot infer, from empirical success, that a model would be
+accurate in all possible contexts. For example, a model of 100 coin tosses would
+be accurate in all possible contexts if necessarily, such sequences of tosses could
+only yield between 45 and 55 heads (assuming a particular threshold), but this is not
+correct: what the model actually says is that there is a small probability of getting a
+result outside of this range. The solution to this problem is to claim that an adequate
+model is accurate in most, not all possible contexts, and the natural way of interpreting this is to say that its probability of accuracy is high enough, or that for all situations, the objective probability to display a possible outcome that is given a very low
+probability by the model is equally low (lower than a threshold which could be made
+to contextually depend on γ above).
+We would not necessarily want to identify adequacy with probable accuracy in
+all possible contexts, however. A slightly stronger claim is that the probabilities
+attributed by the model to various measurable possibilities correspond to objective
+chances. The weaker claim is a consequence of this stronger claim: if the model
+9
+The risk of error that one is willing to take in a context presumably depends on a value judgment,
+where the values involved could be either epistemic, pragmatic or socio-cultural (as per the inductive
+risk argument). We do not wish to take a stance here regarding which of these kinds of values have a
+legitimate role to play in scientific practice: our approach is compatible with any stance on this question.
+
+

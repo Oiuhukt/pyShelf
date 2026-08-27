@@ -1,0 +1,105 @@
+368
+
+Chapter 7
+
+Properties of Expectation
+
+it follows that Y, Xi − X, i = 1, . . . , n and X, Xi − X, i = 1, . . . , n have the same
+joint distribution, thus showing that X is independent of the sequence of deviations
+Xi − X, i = 1, . . . , n.
+Since X is independent of the sequence of deviations Xi − X, i = 1, . . . , n, it is also
+independent of the sample variance S2 K
+
+n
+
+(Xi − X)2 /(n − 1).
+
+i=1
+
+Since we already know that X is normal with mean μ and variance σ 2 /n, it remains
+only to determine the distribution of S2 . To accomplish this, recall, from Example 4a,
+the algebraic identity
+n
+
+
+(n − 1)S2 =
+
+(Xi − X)2
+
+i=1
+n
+
+
+=
+
+(Xi − μ)2 − n(X − μ)2
+
+i=1
+
+Upon dividing the preceding equation by σ 2 , we obtain
+(n − 1)S2
++
+σ2
+
+
+
+Now,
+
+X − μ
+√
+σ/ n
+
+2
+=
+
+n
+
+i=1
+
+Xi − μ
+σ
+
+2
+(8.2)
+
+
+n 
+
+Xi − μ 2
+σ
+
+i=1
+
+is the sum of the squares of n independent standard normal random variables and so
+is a chi-squared random variable with n degrees of freedom. Hence, from Example 7i,
+its moment generating function is (1 − 2t)−n/2 . Also, because
+
+
+X − μ
+√
+σ/ n
+
+2
+
+is the square of a standard normal variable, it is a chi-squared random variable with
+1 degree of freedom, and so has moment generating function (1 − 2t)−1/2 . Now, we
+have seen previously that the two random variables on the left side of Equation (8.2)
+are independent. Hence, as the moment generating function of the sum of independent random variables is equal to the product of their individual moment generating
+functions, we have
+E[et(n−1)S /σ ](1 − 2t)−1/2 = (1 − 2t)−n/2
+2
+
+2
+
+or
+E[et(n−1)S /σ ] = (1 − 2t)−(n−1)/2
+2
+
+2
+
+But as (1 − 2t)−(n−1)/2 is the moment generating function of a chi-squared random
+variable with n − 1 degrees of freedom, we can conclude, since the moment generating function uniquely determines the distribution of the random variable, it follows
+that that is the distribution of (n − 1)S2 /σ 2 .
+Summing up, we have shown the following.
+
+

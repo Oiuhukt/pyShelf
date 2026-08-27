@@ -1,0 +1,42 @@
+James Woodward
+
+7. Some applications of CSI
+I turn now to more explicit application of these ideas connecting independence to causal
+asymmetries beginning with the flagpole problem and CSI. Here I will make use of the following principle (which I take to be motivated by CSI):
+(P)38 Suppose there are 3 variables, X, Y and Z such that either (i) X and Y cause Z or (ii) X
+and Z cause Y. (In other words there are no omitted common causes etc.) Suppose the patterns of
+dependence among these three variables are as follows: X_|_Y, X_/|_Z, Y_/|_Z, where _|_ means
+statistical independence and _/|_ means statistical dependence. Then (i) is the correct causal order.
+
+To apply this principle to the flagpole example, I will follow standard presentations of
+the problem in assuming that the only two alternatives are that H and A cause (or causally explain) S or that S and A cause H, so that principle (P) applies. (This conforms to
+the standard formulation of the problem which asks why we should distinguish (and
+prefer qua explanation) a derivation in which H is in the explanans from a derivation
+in which S is in the explanans.) Suppose that we observe several flagpoles of different
+fixed heights h1...hn, at different times of day for each pole, so that A varies. In this case
+for any given A, there will be a correlation between the heights of the poles and the corresponding shadows of lengths s1...sn but no correlation between H and A. As A varies
+over the course of the day, we also find, for each pole, a correlation between A and the
+length of the shadow cast by that pole. Thus we have the following pattern of independence and dependence relations: H_|_A, H_/|_S, A_/|_S. Applying P, we infer that H
+and A cause S.
+38
+
+26
+
+This principle and the applications that follow are heavily influenced by Hausman (1998), which remains one of the best discussions of causal asymmetry that I know. Hausman describes the “central intuition” of his account as the claim that “causal priority consists in the causal connection among the
+effects of a common cause and the causal independence of the causes of a given effect” (p. 55). Two
+events are “causally connected” if one causes the other or they share a common cause; causal independence is the absence of causal connection. The similarity between this idea and P should be obvious.
+Nonetheless, there are differences. Hausman holds that causally connected events are “typically” statistically dependent and that causally independent events are not but that this is not always the case—on
+his account, the connection between causal independence and statistical independence involves a separate “operationalizing assumption”. P does not have this feature. (The most obvious way in which statistical (in)dependence and causal (in)dependence can come apart involves failures of Faithfulness—
+see Spirtes et al., 2000.) Second, and perhaps more importantly Hausman’s account is a proposal about
+what causal priority “consists in”. I understand this to mean that if, for example, an event E does not
+have two independent causes, there is no fact of the matter about causal direction involving E. Principle P does not have this implication since it does not describe a necessary condition for there to be a
+fact of the matter about causal direction. In fact, as explained later, my view is that the causal direction
+can sometimes be identified when C is the only cause of E. Within an interventionist framework as
+long as there are possible interventions on C that will change E, C causes E; it does not matter if there
+are no other causes of E. Even when interventions are not performed and E has no other causes besides
+C causal direction can still be well-defined. On the other hand, as suggested above, this is not to say
+this notion is well-defined in all possible circumstances.
+
+Theoria, 2022, 37/1, 7-52
+
+

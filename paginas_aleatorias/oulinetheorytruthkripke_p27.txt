@@ -1,0 +1,54 @@
+TRUTH
+
+715
+
+false,respectivelyiffA is true,or false. This captures the intuition
+that T(k) is to have the same truthconditionsas A itself;it follows
+that T(k) suffers
+a truth-valuegap ifA does. An alternateintuition35
+would assert that,ifA is eitherfalseor undefined,thenA is nottrue
+and T(k) should be false, and its negationtrue.On this view, T(x)
+will be a totallydefinedpredicateand thereare no truth-valuegaps.
+PresumablyTarski's ConventionT must be restrictedin some way.
+It is not difficulto modifythe presentapproach so as to accommodate such an alternateintuition.Take any fixedpointL'(S1,S2).
+Modify the interpretationof T(x) so as to make it false of any
+sentence outside S. [We call this "closing off" T(x).] A modified
+version of Tarski's ConventionT holds in the sense of the conditional T(k) v T(neg(k). =. A
+T(k). In particular,if A is a paradoxical sentence,we can now assert -T(k). Equivalently,ifA had a
+truthvalue beforeT(x) was closed off,thenA
+T(k) is true.
+Since the object language obtained by closingoffT(x) is a classical language with every predicate totally defined,it is possible to
+definea truth predicate for that language in the usual Tarskian
+manner.This predicatewill notcoincidein extensionwiththe predicate T(x) of the object language, and it is certainlyreasonable to
+suppose that it is really the metalanguagepredicatethat expresses
+the "genuine" concept of truthforthe closed-offobject language;
+the T(x) of the closed-offlanguage definestruthforthe fixedpoint
+beforeit was closed off.So we still cannot avoid the need for a
+metalanguage.
+On the basis of thefactthat thegoal ofa universallanguageseems
+elusive,some have concludedthat truth-gapapproaches,or any approachesthat attemptto come closerto naturallanguage than does
+the orthodoxapproach, are fruitless.I hope that the fertility
+of the
+presentapproach, and its agreementwith intuitionsabout natural
+language in a largenumberofinstances,cast doubt upon such negative attitudes.
+There are mathematicalapplications and purelytechnicalproblems which I have not mentionedin this sketch; they would be
+beyond the scope of a paper fora philosophicaljournal. Thus there
+is the question,whichcan be answeredin considerablegenerality,of
+characterizingtheordinala-at whichtheconstructionof the minimal
+fixedpointcloses off.If L is the language of first-order
+arithmetic,it
+turnsout that o-is cw,the firstnonrecursiveordinal.A set is the extensionof a formulawithone freevariable in ?, iffit is fl'I, and it is
+5
+
+35 I thinktheprimacy
+ofthefirstintuition
+can be defendedphilosophically,
+and
+forthis reasonI have emphasizedthe approachbased on this intuition.The
+on the processembodying
+alternateintuition
+arisesonlyafterwe have reflected
+the firstintuition.
+See above.
+
+

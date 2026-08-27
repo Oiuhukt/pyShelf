@@ -1,0 +1,44 @@
+248 Joakim Sandberg
+In B there are twice as many people living as in A, and these people are
+all worse off than everyone in A. But the lives of those in B, compared with
+those in A, are more than half as much worth living. [. . .] Which would be
+the better outcome? [. . .] I can now state the [. . .] Impersonal Total Principle:
+If other things are equal, the best outcome is the one in which there would
+be the greatest quantity of whatever makes life worth living. [. . .] Z is some
+enormous population whose members have lives that are not much above the
+level where life ceases to be worth living. [. . .] In each of these lives there is
+very little happiness. But, if the numbers are large enough, this is the outcome
+with the greatest total sum of happiness. [. . .] The Impersonal Total Principle
+then implies The Repugnant Conclusion: For any possible population of at
+least ten billion people, all with a very high quality of life, there must be some
+much larger imaginable population whose existence, if other things are equal,
+would be better, even though its members have lives that are barely worth
+living. As my choice of name suggests, I find this conclusion very hard to
+accept. [. . .] If we are convinced that Z is worse than A, we have strong
+grounds for resisting principles which imply that Z is better. We have strong
+grounds for resisting the Impersonal Total Principle. (Parfit, 385–90)
+
+P1. The “quantity of whatever makes life worth living” in a given population is a function of the quantity of its members and their quality of life.
+P2. One can increase the quantity of whatever makes life worth living in a
+given population by simply adding people whose lives are worth living.
+P3. If in one of two outcomes the quality of lives in a population is lower,
+the quantity of whatever makes life worth living can still be higher if
+sufficiently many people are added whose lives are worth living.
+C1. If A is a population of at least ten billion people with a very high
+quality of life, there must be some much larger imaginable population,
+Z, where the quantity of whatever makes life worth living would be
+greater even though its members have lives that are barely worth living
+(instantiation, P3).
+P4. If, other things being equal, the best outcome would be the one in which
+there is the greatest quantity of whatever makes life worth living, one
+outcome is better than another if the quantity of whatever makes life
+worth living is greater.
+C2. If, other things being equal, the best outcome would be the one in
+which there is the greatest quantity of whatever makes life worth
+living, Z would be better than A (modus ponens, C1, P4).
+P5. Z is worse than A.
+C3. It is not the case that, other things being equal, the best outcome
+would be the one in which there is the greatest quantity of whatever
+makes life worth living (modus tollens, C2, P5).
+
+

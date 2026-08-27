@@ -1,0 +1,54 @@
+walsh, ariew, matthen: four pillars
+
+2
+
+common denominator is that in all of them ﬁtness explains and predicts change in population
+structure. A population that varies in ﬁtness is said to be undergoing selection. When the actual amount of change in such a population diﬀers from the expected change, the population
+is said to manifest drift. Over the past ﬁfteen years there has been a considerable amount of
+debate about what theoretical population dynamics models tell us about the biological reality of
+selection and drift. Two major positions have emerged, the causal and the statistical.
+The orthodox, causal approach recommends that these models should be interpreted as descriptions of the causes of population change. On this view, natural selection and drift are forces,
+or causal processes, that propel a population through changes in trait frequencies (Sober 1993).
+Variation in trait ﬁtness is a measure of the strength of selection. The degree of divergence from
+the expected change in trait frequencies measures the eﬃcacy of drift.
+Selection and drift, on this view are independent and proprietary population-level causes of
+population change (Sober 1993; Stephens 2004). By ‘independent’ we mean that the minimal
+conditions suﬃcient for selection to occur can obtain without those that are suﬃcient for drift
+(and vice versa). They are proprietary in the sense that each process—selection and drift—has
+its own distinct kind of eﬀect, each called after its supposed cause. There is thus a distinction
+to be made between selection the process (which is the cause) and selection the product (which
+is the eﬀect), and similarly between drift the process and drift the product (Millstein 2002;
+Stephens 2004). The important point is that on this orthodox causal approach, the population
+models that quantify the degree of selection and drift in a population do so by articulating and
+diﬀerentiating the population-level causes of evolutionary change. 2
+The statistical interpretation cautions against reading population models in this way. According to statisticalists, the models of population dynamics provide us with a set of statistical
+parameters that explain, predict, and quantify changes in population structure, but they do not
+do so by representing selection and drift as discrete, separable causal processes. Selection is a
+measure of how much change is to be expected in the frequency of a gene or a trait; drift is a
+measure of the divergence of the actual change from the expectation.
+While the debate between the orthodox and statistical factions has been vigorous, it has not
+always been particularly productive or germane. This is due, in some measure, to widespread
+misapprehensions of the statisticalist position. These, in turn, may arise from the fact that the
+core commitments of the statisticalist position have never been fully assembled and articulated.
+Rather, the precepts of the statisticalist view are spread throughout an array of papers by various
+(combinations of ) authors. And, as with its causalist counterpart, the various presentations
+of statisticalism may encompass a range of minor variations. Our objective here is to state as
+clearly and simply as possible what we take to be the shared core commitments of the statistical
+interpretation. First, some context is needed. We oﬀer some background to statisticalism in
+Sections 2 and 3, before proceeding to an articulation of its central tenets in Section 4.
+
+2
+
+Darwinian and Modern Synthesis Selection
+
+Organisms live, die, reproduce, and pass on their heritable traits to their oﬀspring (sometimes in
+mutated form); they immigrate and emigrate. Darwin’s great insight was that in the aggregate
+these events are suﬃcient to account for the ﬁt and diversity of organic form. Darwin reasoned
+that as a consequence of all this living, reproducing, and (imperfect) inheriting of traits, pop2 There are variants on this. In one version of the orthodox approach natural selection and drift are
+
+said to be two vector forces of evolutionary change (Sober 1993; Millstein 2006; Hitchcock and Velasco
+2014). A further variant contends that natural selection is a force, but drift is not (Brandon 2006).
+
+ open access - ptpbio.org
+
+

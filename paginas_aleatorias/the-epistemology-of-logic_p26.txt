@@ -1,0 +1,43 @@
+20
+
+Epistemology
+
+the domain should look like. These may include avoiding a particular sceptical
+challenge, respecting the author’s own expectations regarding the metaphysics
+of the area, complying with speciﬁc established epistemological assumptions
+about rationality, or conforming to historical precedents concerning the domain.
+From these background motivations and commitments, one then attempts to
+infer an epistemology of the domain that respects these restrictions. Thus,
+respecting the restrictions becomes one of, if not the primary, success conditions
+for an account of the epistemology of the domain. Giving these philosophical
+criteria methodological and evidential primacy is what makes the approach topdown.
+A top-down approach is not our only option, however. Rather than beginning
+with standing assumptions about the speciﬁc area of knowledge, we can begin
+with putative instances of good epistemic practice within the relevant domain.
+From these instances, we can then slowly construct an account of the epistemology of the domain, testing these proposals against more and more novel cases
+until we ﬁnd a proposal that coheres with the available cases. In other words, a
+bottom-up approach. Given that this approach studies the epistemology of a
+domain by looking at the activities of its practitioners, it is also commonly
+known as a practice-based approach (Dutilh Novaes 2012; Martin 2022).
+While the practice-based approach is well-established within the philosophies of science and mathematics, the same is not true of the philosophy of
+logic. As we shall see, it is still common within the epistemology of logic to ﬁnd
+arguments for proposals based upon their ability to avoid sceptical consequences while respecting the authors’ own favoured philosophical presumptions. What results from this focus on meeting predetermined philosophical
+criteria, however, are accounts of logic’s epistemology that tend to oversimplify
+the processes involved in the justiﬁcation of logics while problematising the
+actual practices of logicians. The result being that use of a top-down approach is
+another common cause of our lack of progress in understanding logic’s
+epistemology.
+The goal of this section is to highlight the beneﬁts of a practice-based
+approach to the epistemology of logic. If we desire a detailed account of logic’s
+epistemology, we are best off looking at what logicians actually do. Our
+justiﬁcation for this claim takes two forms. First, we show the advantages that
+the approach has provided for our understanding of the epistemology of the
+sciences and mathematics. By analogy, given that logica artiﬁcialis is a research
+area just as the sciences are, it would be a surprise if the approach didn’t offer
+our understanding of logic’s epistemology similar beneﬁts. We then argue more
+directly for the approach when it comes to logic’s epistemology, by showing
+that top-down approaches have had negative consequences in the philosophy of
+Downloaded from https://www.cambridge.org/core. IP address: 189.132.150.226, on 10 Oct 2025 at 03:01:36, subject to the Cambridge Core terms
+of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/9781009319881
+
+

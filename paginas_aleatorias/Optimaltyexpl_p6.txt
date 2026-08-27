@@ -1,0 +1,63 @@
+690
+
+C. Rice
+
+significantly enhance the predictive accuracy of the optimality model’’ (Orzack and
+Sober 1994, p. 363).
+This requirement for an optimality model to provide an adequate explanation is
+paralleled by Potochnik’s account. For Potochnik, the context of inquiry will
+determine what causal factors must be included, as well as the causal factors that
+should be left out of, the best explanation.4 According to her account, the best
+explanation of an event E is a model that:
+1.
+2.
+3.
+
+represents the causes of E that figure into the causal relationship of interest in
+the particular context of inquiry at hand;
+satisfies the criteria of explanatory adequacy; and
+is maximally general within these constraints, where the generality that matters
+is the number of possible systems the model applies to (Potochnik 2007,
+pp. 683–685).
+
+In order for an explanation to qualify as adequate on this account (i.e. condition
+two above) it must meet the following criteria:
+1.
+2.
+
+Pr(E|Cexpl) & Pr(E|C)
+Pr(E|Cexpl) & Pr(E|Cexpl ^ Ck) for all Ck (Potochnik 2007, p. 684)
+
+where Cexpl is the set of causes cited in the candidate explanation of event E, C is the
+set of all causal factors that influence E, and Ck represents each event that is a causal
+influence on E. In short, an adequate explanation should not omit any causal factors
+that, if included, would drastically change the expected probability of the event to
+be explained.
+Given that optimality models are often able to meet this criterion for being
+adequate explanations, Potochnik’s account goes on to argue that optimality models
+will often be the best explanation available because they provide a focused censored
+causal explanation that is more general than the explanation that would be provided
+by a model that included additional causal factors (Potochnik 2007, 2010).
+According to Potochnik, adding extra causal information to the censored causal
+explanation of an optimality model sometimes makes for a worse explanation
+because, ‘‘An optimality model highlights a modular part of the causal process that
+grounds certain phenotypic generalizations. Incorporating information about other
+parts of the causal process can only obfuscate the relationship between the instance
+to be explained and other, relevantly similar instances’’ (Potochnik 2007, p. 688).
+For Potochnik, optimality models highlight how the event falls into a pattern of
+cause and effect, which is independent of the causal factors omitted from the
+optimality model (Potochnik 2010, pp. 221–223). In other words, the censored
+causal explanations of optimality models highlight the causal processes of interest,
+4
+
+Furthermore, Potochnik argues, in some cases causal factors that are causally relevant to the occurrence
+of the explanandum (e.g. genetic causes) ought to be omitted from the best explanation of the event. This
+distinguishes her account from that of, say, Woodward and Strevens (Strevens 2009; Woodward 2003).
+For those authors, causes that make a difference to the explanandum must be included in the best
+explanation of an event. Potochnik’s account goes further in suggesting that even for causes that are
+required for the event to occur, the context of inquiry may dictate that they should be left out of the best
+explanation.
+
+123
+
+

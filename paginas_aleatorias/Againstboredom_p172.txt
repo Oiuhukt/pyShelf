@@ -1,0 +1,36 @@
+Two major types of preference ascription are the instances
+of
+(1) x prefers to F rather than to G
+and of
+(2) x prefers that p rather than that q
+To prefer to F rather than to G is to prefer one option, one
+course of action, to another, to prefer to travel widely
+rather than to read widely, to prefer to smoke rather than
+not to. But one may think that this preference is just to
+prefer that one travels widely rather than that one reads
+widely, that one smokes rather than that one does not
+smoke. Then it seems that instances of (1) are merely a
+special case of type (2), which might be called propositional preference. But instances of (2) range over many things
+other than options. They range over outcomes and many
+other types of states of affairs. One may, for example, prefer that society be arranged in one way rather than another. Similarly, one’s preferences for certain preferences
+rather than others, certain emotions rather than others,
+are typically propositional preferences.
+The term “propositional preference” (cf “propositional
+knowledge”), like my reference to states of affairs, may
+suggest that instances of (2) should be understood as relations between a subject, on the one hand, and two states
+of affairs or propositions, on the other hand. But there
+is a less baroque way of understanding instances of
+(2), which goes back to Prior: “prefers that…rather than
+that…” may be understood as a prenective or hybrid connective, which takes a name and two sentences to make a
+sentence. The semantic value of such a hybrid connective,
+on this view, is no relation but what might be called a
+hybrid connector, something which resembles a relation
+at one end only.
+One reason for thinking that instances of (1) are not
+simply special cases of (2) may be brought out by considering a possible analogy with the structure of intentions.
+For Sam to want, intend (will, wollen) to smoke may seem
+at first glance to amount to nothing more than that Sam
+wants or intends that he himself smokes. But this intro­
+170
+
+

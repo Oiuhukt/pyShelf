@@ -1,0 +1,32 @@
+(iter (- trials-remaining 1)
+trials-passed))))
+(iter trials 0))
+
+Now let us try the same computation using rand-update directly rather
+than rand, the way we would be forced to proceed if we did not use
+assignment to model local state:
+(define (estimate-pi trials)
+(sqrt (/ 6 (random-gcd-test trials random-init))))
+(define (random-gcd-test trials initial-x)
+(define (iter trials-remaining trials-passed x)
+(let ((x1 (rand-update x)))
+(let ((x2 (rand-update x1)))
+(cond ((= trials-remaining 0)
+(/ trials-passed trials))
+((= (gcd x1 x2) 1)
+(iter (- trials-remaining 1)
+(+ trials-passed 1)
+x2))
+(else
+(iter (- trials-remaining 1)
+trials-passed
+x2))))))
+(iter trials 0 initial-x))
+
+While the program is still simple, it betrays some painful breaches of
+modularity. In our ﬁrst version of the program, using rand, we can express the Monte Carlo method directly as a general monte-carlo procedure that takes as an argument an arbitrary experiment procedure. In
+our second version of the program, with no local state for the randomnumber generator, random-gcd-test must explicitly manipulate the random numbers x1 and x2 and recycle x2 through the iterative loop as
+the new input to rand-update. is explicit handling of the random
+308
+
+

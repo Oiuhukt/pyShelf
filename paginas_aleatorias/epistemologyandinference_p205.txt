@@ -1,0 +1,16 @@
+190 / Probability and Informative Inference
+
+a line of slope
+
+w
+
+first touches the convex set representing all possible
+1-vv
+mixed and pure strategies, where w is the prior probability of H2 and 1—w the
+prior probability of HI . A minimax choice of strategy attributing equal importance
+to both sorts of errors would be indicated by the point at which the boundary of the
+convex set is intersected by a 45° line through the origin. A test level a and
+maximum power, is indicated by the intersection of the horizontal line representing an error of the first kind equal to a, and the boundary of the convex set.
+Such a diagram can be used (and perhaps most often is used) to exhibit the
+
+

@@ -1,88 +1,17 @@
 <!DOCTYPE html>
-<html lang="en" class="has-navbar-fixed-top">
+<html lang="en" data-theme="dark">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>pyShelf</title>
     <link rel="icon" type="image/x-icon" href="{{ url_for('static', path='images/favicon.ico') }}">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
+    <link rel="stylesheet" href="{{ url_for('static', path='styles/pyShelf.css') }}">
+    
+    <!-- jQuery REQUERIDO para pyshelf.js -->
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
     <script type="text/javascript" src="{{ url_for('static', path='script/pyshelf.js') }}"></script>
-    <style>
-      body {
-        background-color: #0f172a !important;
-        color: #f8fafc !important;
-        min-height: 100vh;
-      }
-      
-      /* Estilos para Modal Terminal About */
-      .modal-overlay {
-        position: fixed;
-        top: 0; left: 0;
-        width: 100vw; height: 100vh;
-        background-color: rgba(0, 0, 0, 0.75);
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        z-index: 9999;
-      }
-      .about-terminal-box {
-        background-color: #0f172a;
-        border: 1px solid #334155;
-        border-radius: 8px;
-        width: 90%;
-        max-width: 600px;
-        box-shadow: 0 20px 25px -5px rgba(0,0,0,0.5);
-        overflow: hidden;
-        font-family: monospace;
-      }
-      .about-terminal-header {
-        background-color: #1e293b;
-        padding: 10px 15px;
-        display: flex;
-        align-items: center;
-        border-bottom: 1px solid #334155;
-      }
-      .terminal-dot {
-        width: 12px; height: 12px;
-        border-radius: 50%;
-        display: inline-block;
-        margin-right: 6px;
-      }
-      .terminal-dot.red { background-color: #ef4444; }
-      .terminal-dot.yellow { background-color: #f59e0b; }
-      .terminal-dot.green { background-color: #10b981; }
-      .terminal-title {
-        color: #94a3b8;
-        font-size: 0.85rem;
-        margin-left: 10px;
-        flex-grow: 1;
-      }
-      .modal-close-btn {
-        color: #94a3b8;
-        font-size: 1.5rem;
-        text-decoration: none;
-        line-height: 1;
-      }
-      .modal-close-btn:hover { color: #fff; }
-      .about-terminal-body {
-        padding: 20px;
-        color: #38bdf8;
-      }
-      .plain-text-credits {
-        background: transparent;
-        color: #cbd5e1;
-        font-size: 0.9rem;
-        white-space: pre-wrap;
-        margin: 0;
-        padding: 0;
-      }
-      .txt-header { color: #f43f5e; font-weight: bold; }
-      .txt-label { color: #94a3b8; }
-      .txt-highlight { color: #38bdf8; }
-      .txt-link { color: #a855f7; }
-      .txt-ai { color: #10b981; }
-      .txt-github { color: #e2e8f0; }
-      .txt-user { color: #38bdf8; text-decoration: underline; }
-    </style>
 </head>
 <body>
+    {% include 'navigation.html' %}
+    <main class="container">

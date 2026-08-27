@@ -1,0 +1,42 @@
+Modality
+
+9
+
+https://doi.org/10.1017/9781009004596 Published online by Cambridge University Press
+
+It follows from the above characterisation that it is Christian-morally necessary
+that Cain doesn’t kill Abel. And yet (assuming for the sake of the example that
+what we have heard about them is true), Cain killed Abel. We can thus identify
+a proposition – Cain doesn’t kill Abel – that is both necessary, in the current
+sense of the term, and fails to be true. As such, this proposition alone sufﬁces to
+compromise the validity of principle (M), □p→p, for the current modality; and
+it doesn’t take much imagination to identify a whole battery of other propositions with the same effect.
+Scottish-Legal modality, to give one further example, behaves similarly.
+Let us call the Scottish Legal system ‘SLS’. We can then characterise ScottishLegal possibility as that which is compatible with all the elements in SLS.
+According to SLS, drink-driving is an offence and, as such, the proposition
+that Finley drove home while noticeably drunk is Scottish-Legally impossible.
+Despite such status, in a physical sense of ‘possible’, it’s certainly possible for
+him – and anyone – to drive home while noticeably drunk. Any instance of
+drink-driving in Scotland is proof of the invalidity of principle (M) for the case
+of Scottish-Legal modality.
+These reasonings generalise to any deontic modality. Indeed, deontic modalities all have in common with doxastic modalities their invalidation of principle
+(M): just as there’s no guarantee that people (will) believe truly, there’s also no
+guarantee that people (will) do what they deontically must. It is characteristic of
+deontic modalities that their musts can typically (in a physical sense) be
+transgressed. As we will see in the next section, this feature distinguishes alethic
+modalities from deontic modalities.
+
+2.4 Alethic Modalities
+In comparison to epistemic modalities, which, as seen in Section 2.2, can be
+characterised as dependent upon a given body of knowledge (or beliefs), alethic
+modalities can be characterised instead as dependent on a body of truths. And it
+is this feature which gives alethic modalities their name – from the ancient
+Greek aletheia, for truth. The schema for them is very similar to that in the case
+of deontic modalities and, in particular, they share with the deontic family that
+they are not relativised to individuals:
+p is C-possible if and only if it is (logically) compatible with all the elements in
+C (where C is a given set of truths).
+There are several questions that soon appear when trying to structurally characterise alethic modalities. An important issue, which will shape our discussion here
+and be relevant in much of Section 2.5, can be informed by the following remarks.
+
+

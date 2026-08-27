@@ -1,0 +1,35 @@
+integers. Try your hand at the following exercise.)
+Exercise 4.2.1
+1. Take the integers, , as a given system of numbers. You want to define a
+larger system, , that extends by having a quotient a/b for every pair
+a, b of integers, b ≠ 0. How would you go about defining such a system?
+In particular, how would you respond to the question, “What is the
+quotient a/b?” (You cannot answer in terms of actual quotients, since
+until has been defined, you don’t have quotients.)
+2. Find an account of the construction of the rationals from the integers and
+understand it, once again being cautious about mathematics found on the
+Internet.
+With the rationals, you have a system of numbers adequate for any realworld measurement. This is captured by the following property of rational
+numbers.
+Theorem 4.2.1 If r, s are rationals, r < s, then there is a rational t such that r
+< t < s.
+Proof: Let
+
+Clearly, r < t < s. But is
+∈
+
+so as
+
+? Well, letting r = m/n, s = p/q, where m, n, p, q
+
+, we conclude that
+
+.□
+
+The above property of there being a third rational between any two
+unequal rationals is known as density.
+Because of density, for practical measurement in the world, the rational
+numbers are all you need. Between any two rational numbers there is a third.
+Hence, between any two rational numbers there are infinitely many other
+
+

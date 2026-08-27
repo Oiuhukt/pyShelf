@@ -1,0 +1,47 @@
+XXXIl
+
+Introduction
+
+of classical antiquity, of medieval Europe and of India—in being able to give
+an account of sentences involving multiple generality, an account which
+depends upon the mechanism of quantifiers and bound variables: for all the
+subtlety of the earlier systems, the analysis of the structure of the sentences
+of human language which is afforded by modern logic is, by its capacity to
+handle multiple generality, shown to be far deeper than they were able to
+attain. The discovery of the mechanism which enabled this analysis to be
+given, and the realization of its significance, are due to Frege: if he had
+accomplished only this, he would have rendered a profound service to
+
+human knowledge.
+Already when Frege started working, mathematicians such as Boole had
+for some little time been taking an interest in logic. But it was the discoveries due to Frege which made the subject rich enough to come to be
+considered a significant branch of mathematics. There is, of course, no
+discrepancy in assigning a single subject to the two different fields of mathe-
+
+matics and philosophy simultaneously. A subject belongs to mathematics
+if it is possible to handle it by means of mathematical techniques, and Frege
+developed logic to the point where precisely that became possible: a subject
+belongs to philosophy, on the other hand, in virtue of the kind of interest
+
+which it has; and, however successful the application of mathematical
+techniques to logic may be, nothing can deprive it of the interest it must
+have for philosophers.
+After these remarks, it may seem paradoxical to list Frege’s achievements
+as a philosophical logician as his second title to fame after his discoveries in
+mathematical logic. But this would be only a superficial paradox. Both in
+logic itself and in the philosophy of mathematics, there necessarily remain
+questions which the philosopher asks which cannot be resolved by the
+application of mathematical techniques alone, but require a combination of
+these techniques with properly philosophical argumentation. Frege’s
+practice shows that he was very well aware of this, and a remark in an unpubNS 293 (273)
+
+lished article, that a philosopher innocent of mathematics is only half a philosopher, anda mathematicianinnocent of philosophy only halfa mathematician,
+makes the idea explicit—however untrue the remark may be when applied to
+other parts of philosophy or of mathematics. Frege’s work in philosophical
+logic is a true foundation: despite all the work that has been done in the
+subject during this century, Frege’s theories of philosophical logic undoubtedly have to serve as the starting-point for anyone working in this area
+even today; in large part, he provides the terms in which the basic problems
+can still most fruitfully be posed.
+This is of all the greater importance, since the centre of gravity of
+
+

@@ -1,0 +1,12 @@
+Acknowledgments
+I want to thank Kees van Berkel, Matthis Hesse, Jessica Krumhus, and Dunja
+Šešelja for their highly valuable feedback on previous drafts. I am also much
+obliged to Joke Meheus and Diderik Batens for introducing me to the wonderful
+world of NMLs. Finally, not to forget Brad and Fred: thanks to my editors,
+Brad Armour-Garb and Fred Kroon, for their support, trust, and good mood
+throughout the whole process.
+
+Downloaded from https://www.cambridge.org/core. IP address: 187.202.145.21, on 25 Oct 2025 at 20:20:51, subject to the Cambridge Core terms of
+use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/9781108981699
+
+

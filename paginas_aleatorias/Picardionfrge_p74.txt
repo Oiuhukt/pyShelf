@@ -1,0 +1,46 @@
+OUP CORRECTED PROOF – FINAL, 25/5/2022, SPi
+
+      
+
+43
+
+proposition and idea in itself [Sätze und Vorstellungen an sich] I have at most
+only accepted a tenable doctrine by Bolzano. Likewise, I am aware that . . . even
+with the best intentions in the world it may happen that someone does not know
+all of their predecessors in some way (VIII, 135f., n.).
+
+However, such blunt remarks of Kerry’s would not have found favour either with
+the Neo-Kantians in Strasbourg or with Brentano’s pupils in Vienna. Considering
+that neither Brentano nor Marty took notice of Bolzano, it is hardly surprising
+that Frege also ignored him. Nevertheless, a detail in Kerry’s article may arouse the
+reader’s curiosity. In the passage in question (VIII, 129) Kerry mentions a
+statement by Bolzano in his anonymously published Wissenschaftslehre und
+Religionsphilosophie in einer beurtheilenden Übersicht (p. 26). In that passage
+Bolzano says that the contrast between ‘truths in themselves’, on the one hand,
+and ‘thought’ or ‘known propositions’, on the other, is apparent in contexts where
+one asks whether every truth in itself is known by someone or whether every
+proposition in itself (including false ones) is thought or presented by someone,
+that is in contexts where one realizes that
+through classes in geometry it is rather the thought or knowledge of the
+Pythagorean theorem that is reproduced [vervielfältigt] in our minds, not the
+Pythagorean theorem [Satz] in itself. Or, after all, also when we say: “If there were
+not a single rational being, the proposition that there is not a single rational being
+would be itself a truth.”
+
+Of course, we cannot rule out that Frege’s use of the example of the Pythagorean
+theorem in his ﬁrst Logical Investigation (‘Der Gedanke’) to elucidate the difference between subjective idea [Vorstellung] and objective content [Inhalt] is
+merely accidental. The terminology employed by Frege is different from that of
+Bolzano: his use of ‘thought’ [Gedanke] corresponds to Bolzano’s ‘proposition
+in itself ’ [Satz an sich], whereas Frege’s ‘idea’ [Vorstellung] is equivalent to
+Bolzano’s ‘thought proposition’ [gedachter Satz]. Here is what Frege says in ‘Der
+Gedanke’:
+Is thought an idea? If other people can assent to the thought I express in the
+Pythagorean theorem just as I do, then it does not belong to the content of my
+consciousness, I am not its owner; yet, I can nevertheless acknowledge it as true.
+However, if what is taken to be the content of the Pythagorean theorem by me
+and by somebody else is not the same thought at all, we should not really say ‘the
+Pythagorean theorem’, but ‘my Pythagorean theorem’, ‘his Pythagorean theorem’, and these would be different, for the sense necessarily goes with the
+sentence. . . . Could the sense of my Pythagorean theorem be true and the sense
+of his false? (Der Gedanke, p. 68; Eng. tr. M. Beaney)
+
+

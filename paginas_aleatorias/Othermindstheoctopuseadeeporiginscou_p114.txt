@@ -1,0 +1,56 @@
+Being There: Putting Brain, Body, and World Together Again (Cambridge: MIT Press, 1997).
+Nicola Clayton and others at the University of Cambridge: A couple of examples are Joanna Dally, Nathan Emery, and Nicola Clayton,
+“Food-Caching Western Scrub-Jays Keep Track of Who Was Watching When,” Science 312 (2006): 1662–65; and Clayton and Anthony
+Dickinson, “Episodic-like Memory During Cache Recovery by Scrub Jays,” Nature 395 (2001): 272–74.
+Köhler was a German psychologist who spent four years: See his book The Mentality of Apes, trans. Ella Winter (New York: Harcourt
+Brace, 1925).
+Second, he used the remarkable case of the French Canadian monk: Merlin Donald’s book Origins of the Modern Mind: Three Stages
+in the Evolution of Culture and Cognition (Cambridge, MA: Harvard University Press, 1991) is still very interesting, though it’s an old book
+now. The “Brother John” paper is André Roch Lecours and Yves Joanette, “Linguistic and Other Psychological Aspects of Paroxysmal
+Aphasia,” Brain and Language 10, no. 1 (1980): 1–23. In the text I use the past tense about Brother John, but I’ve been unable to find out if
+he’s still alive.
+Extreme views on both sides of the question are fading: Peter Carruthers, “The Cognitive Functions of Language,” Behavioral and Brain
+Sciences 25, no. 6 (2002): 657–74, is a good survey, and is followed by a set of comments by other researchers expressing alternative views.
+Here is an example from recent research on young children: The study, presently under review, is Shilpa Mody and Susan Carey, “Evidence
+for the Emergence of Logical Reasoning by the Disjunctive Syllogism in Early Childhood.” They found that children younger than three did not
+succeed at a task that requires processing a disjunctive syllogism, but three-year-olds did. They also note (citing other work) that although
+children use the word “and” shortly after their second birthday, they don’t produce “or” until they are about three. Mody and Carey are
+cautious about the interpretation of this finding, and they don’t claim it shows that internalization of this part of public language is enabling
+children to succeed on the task.
+A well-known experiment that pushes in a similar direction was done by Linda Hermer and Elizabeth Spelke: “A Geometric Process for
+Spatial Reorientation in Young Children,” Nature 370 (1994): 57–59, with follow-up work and conclusions discussed in Spelke’s “What Makes
+Us Smart: Core Knowledge and Natural Language,” in Dedre Gentner and Susan Goldin-Meadow’s collection, Language in Mind:
+Advances in the Investigation of Language and Thought (Cambridge, MA: MIT Press, 2003). This work suggested that only humans who
+can use language are able to combine information of different kinds (geometry plus color cues) when trying to navigate a room, while rats and
+prelinguistic children cannot. However, more recent work seems to have made the significance of these experiments less clear. For the case of
+humans, see Kristin Ratliff and Nora Newcombe, “Is Language Necessary for Human Spatial Reorientation? Reconsidering Evidence from
+Dual Task Paradigms,” Cognitive Psychology 56 (2008): 142–63. Giorgio Vallortigara has also reported that chickens can solve the task that
+gave rats so much trouble; see Vallortigara et al., “Reorientation by Geometric and Landmark Information in Environments of Different Size,”
+Developmental Science 8 (2005): 393–401.
+But one plausible model, drawing on the work of several people: Daniel Dennett’s Consciousness Explained (New York: Little, Brown
+and Co., 1991) is an important source for the outlines of the view. For the idea that inner speech originates in repurposed efference copies, see
+Simon Jones and Charles Fernyhough, “Thought as Action: Inner Speech, Self-Monitoring, and Auditory Verbal Hallucinations,”
+Consciousness and Cognition 16, no. 2 (2007): 391–99. Peter Carruthers suggests that inner speech is a means for internal “broadcast” that
+facilitates deliberate, rational styles of thought in his paper “An Architecture for Dual Reasoning,” in Jonathan Evans and Keith Frankish, eds.,
+In Two Minds: Dual Processes and Beyond (Oxford and New York: Oxford University Press, 2009). Fernyhough’s book about inner
+speech, The Voices Within, will appear from Basic Books in 2016. My thinking about inner speech has also been influenced by Kritika
+Yegnashankaran’s PhD thesis, “Reasoning as Action,” Harvard University, 2010.
+I’ll now tie these familiar facts to a concept that has become increasingly important: I’ll say more about the framework that introduced
+this concept shortly. Good sources are the Merker paper cited earlier: “The Liabilities of Mobility: A Selection Pressure for the Transition to
+Consciousness in Animal Evolution,” Consciousness and Cognition 14 (2005): 89–114; and Kalina Christoff et al., “Specifying the Self for
+Cognitive Neuroscience,” Trends in Cognitive Sciences 15, no. 3 (2011): 104–12.
+Without using the term, I introduced the idea of efference copies: I also discussed one of the phenomena that efference copies are
+(probably) important in explaining: perceptual constancies. For example, when our eyes jump about (as they routinely do), objects appear to
+remain stable. This is one aspect of the family of “constancy” phenomena; other aspects include our ability to compensate for changes in
+lighting conditions, something that does not involve actions and efference copies. The role played by efference copies in constancy phenomena
+is still being worked out. See W. Pieter Medendorp, “Spatial Constancy Mechanisms in Motor Control,” Philosophical Transactions of the
+Royal Society B 366 (2011): 20100089.
+Within a terminology used by Daniel Kahneman and other psychologists, it’s a means for System 2 thinking: Kahneman’s book
+Thinking, Fast and Slow (New York: Farrar, Straus and Giroux, 2011) is already a classic. See also Evans and Frankish’s edited collection of
+papers, In Two Minds: Dual Processes and Beyond. Dewey did place much emphasis on the imagined rehearsal of actions, especially in his
+theory of moral behavior.
+Gesturing to the careening inner monologues: See his Consciousness Explained. Dennett does not make use of efference copies in his
+model. He ties his account of the origin of the Joycean machine to Richard Dawkins’s notion of the transmission of memes, an idea about
+which I’m more skeptical (see Dawkins, The Selfish Gene, Oxford and New York: Oxford University Press, 1976).
+
+

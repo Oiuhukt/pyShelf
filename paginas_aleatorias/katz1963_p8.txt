@@ -1,0 +1,50 @@
+176
+
+LANGUAGE,VOLUME39, NUMBER 2 (1963)
+
+semantic theory, since we have found an ability of speakers which cannot be
+accounted for by grammar, which is semantic in a reasonable sense, and which
+enables speakers to apprehend the semantic structure of an infinite number of
+sentences without information about setting and independent of individual differences between speakers. We thus take the goals of a semantic theory to include
+at least the explication of each facet of this ability and of the interrelations between them.
+The speaker's exercise of this ability, which henceforth we shall refer to as THE
+ABILITY TO INTERPRET SENTENCES, provides empirical data for the construction
+of a semantic theory, just as the construction of a grammar draws upon empirical
+data supplied by the exercise of the speaker's ability to distinguish well-formed
+sentences from ungrammatical strings, to recognize syntactic ambiguity, and
+to appreciate relations between sentence types. A semantic theory describes and
+explains the interpretative ability of speakers by accounting for their performance in determining the number and content of the readings of a sentence,
+by detecting semantic anomalies, by deciding on paraphrase relations between
+sentences, and by marking every other semantic property or relation that plays
+a role in this ability.
+4. What is beyond the descriptive scope of a semantic theory. Having fixed a
+lower bound on the domain of a semantic theory, our next step must be to fix an
+upper bound, thus uniquely determining the set of problems forming the domain
+of a semantic theory of a natural language.
+Previous conceptions of semantics have usually defined the goals of a semantic
+description of a natural language in such a way that to achieve them a semantic
+theory would have to account for the manner in which settings determine how an
+utterance is understood. We shall now show that to set the goals of a semantic
+theory this high is to set them too high. Once we have shown that a semantic
+theory cannot be expected to account for the way settings determine how an utterance is understood, we will have fixed an upper bound on the domain of semantic theories. That is, we will have shown that a semantic theory is a theory
+of the speaker's ability to interpret the sentences of his language.
+The form of a theory of how settings control the understanding of utterances
+of sentences is as follows. Such a theory is a function F whose arguments are a
+sentenceS; GS, a grammatical description ofS; IS, a semantic interpretation of S
+(where IS is the set of possible readings ofS); and C, an abstract characterization
+of a setting. F(S, GS, IS, C) is
+(1) the particular reading in IS that speakers of the language give to S
+in settings of the type C, or
+_
+2) of the readings from IS that speakers of the
+(2) An n-tuple (n
+language give to S if S is ambiguous n-ways in settings of type C, or
+(3) The null element if speakers of the language give to S none of the
+readings in IS when S occurs in settings of type C.
+The value of F(S, GS, IS, C) is (1) just in case C fully disambiguatesS, i.e. C
+determines a unique reading from the one or more in IS; it is (2) just in case C
+
+This content downloaded from 138.251.14.35 on Fri, 6 Feb 2015 23:06:48 PM
+All use subject to JSTOR Terms and Conditions
+
+

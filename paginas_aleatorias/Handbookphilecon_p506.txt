@@ -1,0 +1,53 @@
+506
+
+2
+
+Viktor J. Vanberg
+
+RATIONALITY PRINCIPLE AND RATIONALITY HYPOTHESES IN
+ECONOMICS
+
+What I have referred to above as the most general form of rational choice theory
+may be called the rationality principle [Vanberg, 2004a]. It essentially claims
+that individuals act in ways that are consistent with their beliefs about how the
+world works and their preferences over the states of the world that they expect
+to result from the different courses of action available to them. What courses of
+action individuals perceive as available options, what they believe to result from
+these options, and which outcome they prefer over all others, are all subjective
+matters, present in a person’s mind and not observable from the outside. In the
+absence of independent evidence an observer who infers a person’s beliefs and
+preferences from her behavior can ‘explain’ every conceivable action, including the
+most absurd, by hypothesizing beliefs and preferences that are consistent with the
+action. To the extent that action-independent evidence of a person’s beliefs and
+preference is available such ‘explanations’ may be refutable. Yet, the refutation
+concerns only the specific assumptions made about the content of a person’s beliefs
+and preferences in the particular instance. The rationality principle itself, i.e.
+the general claim that people act in subjectively consistent ways, remains totally
+unaffected by such refutation.
+If one wants to turn the rationality principle itself into a refutable conjecture,
+into an empirically refutable rationality hypothesis [Vanberg, 2004a], one has to
+place general bounds on the assumptions about people’s beliefs and preferences
+that are admitted in explanations. In other words, one has to rule out — if not
+the existence at least the explanatory relevance of — certain kinds of beliefs and
+preferences. Neoclassical economics has responded to this challenge by modeling
+humans as maximizers of their utility function,2 where the latter reflects their
+preferences and the ‘maximizing’ is meant to imply that they act on adequate
+theories about what are efficient ways to accomplish their goals. While there may
+still be room for interpretation what ‘adequate beliefs’ is exactly meant to entail
+and how utility functions are to be specified, a standard assumption in neoclassical
+theorizing has been that economic agents act on perfect knowledge of the relevant
+aspects of their environment, and that their utility function is essentially about
+the (material) payoffs that they expect from their actions for themselves.
+It is this model of perfectly rational and self-interested behavior3 that has long
+2 The founding father of the neoclassical paradigm, Léon Walras, noted: “In our theory each
+trader may be assumed to determine his own utility or want function as he pleases. Once these
+curves have been determined, we show how prices result from them under a hypothetical régime of
+absolutely free competition” [Walras, 1954, p. 256]. Nicholas Georgescu-Roegen [1971, p. 343]
+points out that Walras’ s successor on the Lausanne chair, Vilfredo Pareto, “overtly claimed,
+(that) once we have determined the means at the disposal of the individual and obtained ‘a
+photograph’ of his tastes . . . the individual may disappear.”
+3 The term ‘self-interested behavior’ is more appropriate in this context than the often used
+term ‘selfish behavior’ because the attribute ‘selfish’ carries with it certain (negative) connotations that bias the issue. It implies assumptions about the ways in which persons go about
+seeking to ‘maximize their utility’ that need not be entailed at all in a theory that supposes
+
+

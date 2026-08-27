@@ -1,0 +1,47 @@
+30
+
+Ancient Philosophy
+
+problem undermining the Contagion Principle of explanation. I will show that
+after gaining understanding of how the Contagion Principle impacts on his
+theory of Forms in the TMA, Plato will reformulate the theory of Forms in the
+Timaeus, introducing primitive conditions, precisely to avoid the difﬁculties the
+Contagion Principle generates, and to block the TMA Regress. (I will claim that
+Plato’s answer to the TMA in the Timaeus is the same as Aristotle’s will be in his
+Essence Regress, as we will see: the f-ness of Form F is primitive.)
+We saw in Section 2.3 that the Contagion Principle explains the cause of the
+qualitative state of an object by tracing it back to a source with that condition
+and from which the object acquired the condition. Turning to Plato’s
+Parmenides, we ﬁnd that
+there are certain forms from which these other things, by getting a share of
+them, derive their names – as, for instance, they come to be like by getting
+a share of likeness, large by getting a share of largeness, and just and beautiful
+by getting a share of justice and beauty. (130e-131a)
+
+So there are f-things in the world (e.g. beautiful things, large things, things that
+are alike); they become f by partaking of Form F, which is what it is to be f (e.g.
+partaking of the Form of Beauty). Plato further states the One over Many
+Principle (with the example of Largeness):
+‘I suppose you think each form is one on the following ground: whenever
+some number of things seem to you to be large, perhaps there seems to be
+some one character, the same as you look at them all, and from that you
+conclude that the large is one.’
+‘That is true’, he [Socrates] said. (132a)
+
+So, for all f-things in the world, there is one Form F, which is the type f-ness and
+which is unique. However, since that Form F, which is the source of f-ness that
+‘spreads’ its qualitative condition to f-things, is also f, given the f-things and Form
+F, all of which are f, by the same One over Many Principle, ‘there seems to be
+some one character, the same as you look at them all’, which Plato recognises:
+‘What about the large itself and the other large things? If you look at them all
+in the same way with the mind’s eye, again, won’t some one thing appear
+large, by which all these appear large?’ ‘It seems so.’ (132a)
+
+Nothing that Plato has said so far suggests that there is more than one Form of
+Largeness. We need additionally to assume that there are no universals to
+explain the similarity Plato describes (à la TBA). It is only in the following
+well-known conclusion of the TMA that Plato commits himself to needing an
+additional Form F to explain the f-similarity of a Form-F-and-all-other-f-things,
+which then generates the regress:
+
+

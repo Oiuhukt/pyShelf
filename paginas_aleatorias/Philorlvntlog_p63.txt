@@ -1,0 +1,53 @@
+52
+
+Relevant logic and its semantics
+
+3.8
+
+A part-whole relation on situations
+
+One situation might be part of another situation. For example, the situations that
+just contains all the information that is present in my study while I am writing
+this sentence is contained in the situation t that contains all the information
+present in Wellington while I write this sentence. The persistence relation that
+we discussed in chapter 2 above is a part-whole relation on situations. Thus, if
+
+s a t we can say that s is part oft.
+3.9
+
+The place of theorems in a universe of situations
+
+As we saw in section 2.8 above, a formula is valid in a model in the RoutleyMeyer semantics if and only if that formula is true in every logical situation
+of that model. In section 2.8 we saw that the logical situations have a rather
+neat relationship to the valid inferences that have only one premise. That is,
+according to the semantic entailment theorem, if it is valid in a model to infer
+from `A' to `B', then `A -+ B' is valid in that model. As we saw in section 2.10,
+this relationship extends very nicely to inferences with more than one premise.
+I am not going to claim any deep philosophical motivation for the distinction
+between logical and non-logical situations. Rather I appeal to the elegance of
+this relationship between logical and non-logical situations as a reason to accept
+this aspect of the model theory. In scientific investigations elegance counts as a
+virtue of a theory. I think that the same should be said of semantical theories. All
+things being equal, we should accept the more elegant semantical theory. Thus,
+the elegance of the relationship between valid inference, valid formulae, and
+logical situations gives us some justification to accept the current semantical
+theory.
+
+3.10
+
+Non-normal situations
+
+Very few of the situations in our model are logical situations. The other situations
+are, in the parlance of modal logic, non-normal situations. That is, a non-normal
+situation is a situation in which some or all of the laws of logic fail. The concept
+
+of a non-normal situation is due to Kripke who uses non-normal worlds in his
+semantics for non-normal modal logics (Kripke 1965b).
+There are, however, interesting differences between Kripke's non-normal
+worlds and Routley and Meyer's non-normal situations. In Kripke's semantics,
+the truth conditions for the modal operators at non-normal worlds are not the
+same as their truth conditions at normal worlds. If, as we have assumed, these
+truth conditions at least in part constitute the meaning of these operators, then
+on Kripke's semantics the meanings of the modal operators are not the same at
+
+

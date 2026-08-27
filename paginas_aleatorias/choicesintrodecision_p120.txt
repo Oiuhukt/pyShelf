@@ -1,0 +1,41 @@
+DECISIONS UNDER RISK: UTILITY
+To respond to this criticism we must distinguish between those multistage
+lotteries that are simply theoretical idealizations introduced for calibrating utility
+scales and real-life multistage lotteries that may take weeks or months to be com¬
+pleted. We can think of theoretical lotteries as being run and paid off in an in¬
+stant. Given this it would not make sense for an agent to distinguish between
+having, say, a $100 ticket to an instantaneous simple lottery ticket paying $100
+unconditionally and an instantaneous multistage lottery with the same outcome.
+In this case we need not take the objection seriously.
+On the other hand, if a multistage lottery takes place over time, we cannot
+use this reply. Suppose, for example, that in situation A an agent is faced with
+the prospect of a 25% chance of selling her house today and a 75% chance of
+never selling it. In situation B, the same agent is faced with a 50% chance of
+agreeing today on an option to sell the house within the week and a 50% chance
+of never selling it. However, if the option is taken, the agent faces a 50% chance
+that the prospective buyer will obtain a loan and buy the house within the week
+and a 50% chance that the deal will collapse and the house will never be sold.
+Using lottery trees we might represent the two situations as follows (figure 4-5).
+Situation
+
+A
+
+Situation
+
+B
+
+Figure 4-5
+If the outcomes are as these trees represent them, the compound lottery in B
+reduces to the simple lottery in A in accordance with the reduction-of-compound-lotteries condition. That would constitute a genuine objection to a theory
+since an agent who sorely needs to sell her house today would rightly prefer A
+to B. But are the outcomes really as the trees represent them? I think not, for
+in situation B the sale is not made today but within the week. Someone who
+needs his money now or dislikes the suspense of waiting as much as one week
+will not view the outcomes in A and B as the same. Thus the compound lottery
+in B and the simple one in A do not satisfy the antecedent of the reduction condi¬
+tion and, accordingly, do not qualify as counterexamples. I would expect that
+other “over time” counterexamples could be dissolved similarly.
+
+102
+
+

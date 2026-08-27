@@ -1,0 +1,117 @@
+262
+
+for any z which is in line with Weismann’s doctrine that
+acquired characters are not transmitted to the next generation. Contrary to Otsuka, I believe that it is only valid for
+some interventions, namely those that do not produce heritable changes. But z might be considered, for instance, as
+the number of alleles of a given type an individual has in
+the germline, as is often done in some versions of the Price
+equation. In such a case an intervention on this character
+would lead to a change in the composition of the population at the next generation and consequently to evolutionary
+change.22
+Taking all these remarks together, how should we interpret the individual-level cause view? I propose that one way
+to do so is the following. Because only the variables of a
+model can be intervened upon, and the individual characters
+(z) of the individuals are the independent variables of this
+model, they are the causes in this model. Yet, since each
+individual of the population does not have the same effect
+on the change in the population at the next generation, the
+mean influence is reported. It corresponds to 𝛽Var(z).23 But
+in principle one could take each individual and see how it
+contributes to the mean change in the population. In fact,
+an ideal intervention on the value of z within the range of
+observed values (since we are referring here to actual difference makers) in the population would make a difference in
+the average value of the character at the next generation. As
+a matter of fact, the effect of a single individual on the population dynamics is what evolutionary biologists sometimes
+aim at uncovering (see, for instance, Coulson et al. 2006).24
+To see this, we can define the squared deviation from the
+mean character z of an individual i as y so that yi = (zi − z)2.
+y is here an individual-level variable even if it is defined
+in reference to a population-level variable; any standardized variable is. Assuming n is the number of individuals in
+the population, from this definition and the definition of the
+∑
+variance for a variable X as Var(X) = 1n ni=1 (Xi − X)2 we
+can rewrite Eq. (6) as:
+22
+
+Note also that heritability might be considered as positive for
+intragenerational changes in line with the point made in Bourrat
+(2015b).
+23
+Note that leaving aside 𝛽 which is supposed constant and thus only
+modulates uniformly what each individual contributes, this is almost
+literally what a variance is. In fact, in words, the variance of a variable is the expected squared difference between an individual value
+and the mean value in the population (for a formal definition see the
+main text). This difference is squared in order to obtain the magnitude of this difference, since some deviations will be positive, others
+negative, and on average will cancel out each other. But rather than
+the squared difference one might decide to take the standard deviation, which is the square root of the variance, to talk about the average effect of an intervention. Standard deviation is often considered a
+better measure of variation since it has the same unit as the variable
+to which it refers.
+24
+I thank Peter Takacs for this point.
+
+13
+
+P. Bourrat
+
+𝛥z =
+
+n
+n
+𝛽 ∑
+1 1∑
+𝛽
+(zi − z)2 =
+y.
+w n i=1
+wn i=1 i
+
+(7)
+
+One can see clearly in Eq. (7) that changing the value of an
+individual’s y by an ideal intervention—for instance decreasing it—would lead to a change in 𝛥z , assuming that the intervention on y produces a heritable change. If this assumption
+is respected, then following the interventionist account of
+causation, y—an individual-level variable associated with
+natural selection—causes some evolutionary change. This
+leads to an individual-level causal interpretation of natural
+selection as the average change made by heritable fitness
+affecting individual characters on evolutionary change.25
+
+When is Natural Selection a Population‑Level
+Cause of Change?
+In the previous section, I have established that in one of the
+simplest possible settings, insofar as one can intervene on
+the character of an individual and produce a change in the
+character of the population at the next generation, then the
+individual-level cause view holds since the change produced
+would be associated with natural selection. Does this mean
+that the notion of population-level causation in reference to
+natural selection should always be rejected? I do not think
+so. Although in any situation an ideal intervention on individual-level properties would, in the model discussed, lead
+to evolutionary change, two types of situations that matter
+empirically should be distinguished. Recall that 𝛽 belongs to
+the structure of the causal model and will not be altered by
+an ideal intervention allowed by the model. Yet a physical
+intervention or manipulation that is a change in the value of
+a variable an agent might carry (or nature itself) might or
+might not alter 𝛽 . Note crucially that this means that ideal
+interventions can do things that would be impossible in the
+real world.26 With the distinction between an ideal and a
+25
+
+Note that if y is not perfectly heritable one will have to compute its
+heritability h2, which, like 𝛽 , is a parameter of the model. Following
+our hypotheses, we assumed here that reproduction is perfect, so that
+(h2 = 1).
+26
+This is why the notion of ideal intervention is often associated with that of a miracle. For instance, Woodward (2003, p. 135)
+considers an ideal intervention to be synonymous with a “localized
+miracle,” borrowing the notion of miracle from David Lewis. Pearl
+(2009) talks about “surgical procedure.” He is very clear that ideal
+interventions can do things that might not be possible physically
+when he writes “[s]ymbolically, one can surely change one equation
+without altering others and proceed to define quantities that rest on
+such ‘atomic’ changes. Whether the quantities defined in this manner correspond to changes that can be physically realized is a totally
+different question that can only be addressed once we have a formal
+description of the interventions available to us” (p. 365). For more on
+
+

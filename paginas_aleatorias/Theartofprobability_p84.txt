@@ -1,0 +1,72 @@
+25
+
+RANDOM VARIABLES, MEAN AND THE EXPECTED VALUE
+
+variable X whose outcomes have probabilities p(i), and have the values Xi,
+(i = 1,2, ... , n), then the expected value of the random variable X is defined
+to be (E is for expectation)
+n
+
+L xiP(i)
+
+E{X} =
+
+(2.5-2)*
+
+i=1
+
+This is the average computed over the sample space, each outcome value Xi
+is weighted by its probability p(i).
+The expected value operator E {.} is a linear operator whose properties
+are worth investigating. We first examine the expected value of the product
+of two random independent variables X and Y, and then examine the sum.
+For the product XY, of the two random, independent variables X and Y,
+the probability of the pair of outcomes Xi and Yi will by definition (2.5-2) be
+Lkp{XY = k}
+
+E{XY}
+
+(2.5-3)
+
+k
+
+How do we get the p{ XY = k}? By definition (2.5-2) we must first sum all
+the px( i)py (j) in the sample space for which xiYi
+k, where the subscripts
+on the probabilities indicate the corresponding variable. Hence we have
+E{XY} =
+
+L k L px(i)py(j)
+k
+
+r,y,=k
+
+This formula is not easy to use so we seek an alternate approach to
+compute E{XY}. We go back to (2.5-2). The product XiYj arises with
+probability px(i)py(j), hence
+E{XY} =
+
+L XiYipx(i)py(j)
+.ample
+spAce
+
+(2.5-4)
+
+= LLXiYiPx(i)py(j)
+i
+
+j
+
+We need to convince ourselves that these two different expressions (2.5-3)
+and (2.5-4) for E{X} are the same. To see this take any point in the product
+sample space (Xi, Yj) and follow it through each computation; you will see
+that it enters into the result exactly once and only once either way, each time
+with weight px(i)py(j). Hence the two formulas represent alternate ways of
+finding the expected value.
+This proof of the equivalence is simple for a finite discrete sample space,
+but when we later face continuous sample spaces it brings up two separate
+ideas. First, the integral (corresponding to the finite summation) over the
+
+[67]
+
+

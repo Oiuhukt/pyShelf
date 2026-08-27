@@ -1,0 +1,48 @@
+conditional probabilities
+
+p(φ ∧ ψ | χ) = p(ψ ∧ φ | χ), and that p(φ ∧ (ψ ∧ χ) | (φ ∧ ψ) ∧ χ) = 1, and
+after several more steps, that p(φ ∧ (ψ ∧ χ) | θ ) = p((φ ∧ ψ) ∧ χ | θ ). Thus,
+he has derived that ∧ is commutative and associative, up to probabilistic
+equivalence.
+He then turns his attention to negation and derives several important
+results. First, he derives that p(¬(φ ∧ ¬φ) | ψ) = 1. Then he derives that
+p(¬(¬φ ∧ ¬ψ) | χ) = p(φ | χ) + p(ψ | χ) − p(φ ∧ ψ | χ). If we introduce an
+abbreviation ∨ such that φ ∨ ψ just stands for ¬(¬φ ∧ ¬ψ), this becomes
+p(φ ∨ ψ | χ) = p(φ | χ) + p(ψ | χ) − p(φ ∧ ψ | χ), which is a version of
+the standard law of Additivity. He then derives that p(φ ∧ (ψ ∧ χ) | θ ) =
+p((φ ∧ ψ) ∧ (φ ∧ χ) | θ ), and p(φ ∧ (ψ ∨ χ) | θ ) = p((φ ∧ ψ) ∨ (φ ∧ χ) | θ ).
+Using this, he derives that p(¬¬φ ∧ ψ | χ) = p(φ ∧ ψ | χ) and that if
+p(φ | χ) = p(ψ | χ) then p(¬φ | χ) = p(¬ψ | χ). He then derives that
+p(φ ∨ φ | ψ) = p(φ | ψ). And finally, he proves that if for all κ, p(φ | κ ) =
+p(ψ | κ ), and p(χ | κ ) = p(θ | κ ), then for all κ, p(φ ∧ ψ | κ ) = p(χ ∧ θ | κ ).
+With these conditions, he is then able to show that logically equivalent
+formulas are probabilistically equivalent, and derive the facts I mentioned
+above about abnormal formulas, and probabilities conditional on normal
+formulas.
+For Popper, one of the important features of this characterization is
+that probability can play the role of giving the meanings of the logical
+symbols. This is quite a natural desideratum for a logical interpretation
+of probability, though it may not be as natural for other interpretations.
+This program is developed further by Field (1977), who gives a method for
+giving meanings to quantifiers (though this is substantially more clumsy
+than Popper’s method for the connectives).
+One thing to note about Popper’s formalism is that infinitary versions of
+Additivity (and Conglomerability, and Disintegrability) can’t even be stated,
+much less satisfied or violated. First, every formula is finite, so that even if
+the language is expanded by adding a disjunction symbol, there are no
+infinite disjunctions explicitly expressible in the language. Second, by the
+Compactness Theorem of propositional logic, no formula in this language
+is logically equivalent to an infinite disjunction of formulas expressible
+in the language unless it is also logically equivalent to a disjunction of
+finitely many of those disjuncts. One might wonder whether this holds
+for probabilistic equivalence, but probabilistic equivalence is only defined
+for formulas within the language, and infinite disjunctions aren’t in the
+language, so the question doesn’t arise.
+While some might find this to be an advantage of the sentential formulation of probability, many have found it to be a limitation and have
+given what they call versions of Popper’s system where the bearers of
+probability are sets rather than formulas of a language, and the operations
+are set intersection and complement rather than (uninterpreted) ∧ and ¬
+
+179
+
+

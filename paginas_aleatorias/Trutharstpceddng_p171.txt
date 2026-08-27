@@ -1,0 +1,51 @@
+Julian Dodd
+
+The Aristotelian Society
+
+Virtual Issue No. 1
+
+!
+
+In other words, there is no single norm governing belief, but a series of
+epistemic obligations, each specific to its subject matter: a distinct such
+obligation for each distinct proposition that can take the place of ‘p’ in a
+true proposition of the form: <S ought to (believe that p) if and only if
+p>.
+
+5. Heal’s position is clear. Belief, as such, is not governed by a norm of
+truth. It remains to be seen, though, what Heal’s grounds are for denying
+(1*): the universally quantified statement ascribing a general norm for
+belief. Is it not the case that belief in general aims at truth? Not
+according to Heal, and here is her reasoning. The idea that truth in
+general – that is, truth in itself – is a value of the kind specified by (1*)
+‘has the implication that any instance of truth is, merely in virtue of
+being true, worth having’ (Heal 1987/8: 105). But as Heal points out,
+this result is extremely implausible, since it amounts to the thesis that we
+ought to believe even utterly trivial or uninteresting truths. There are, she
+observes, innumerable cases of ‘worthless potential knowledge’ (Heal
+1987/8: 105).
+I think Heal is right to deny that every truth is worth knowing; and,
+pace Michael Lynch (2004: 186-7), I doubt whether the counterintuitiveness attaching to the claim that we ought to believe every truth
+can be dissolved by adding a ‘prima facie’ clause to it. I surely do not
+have even a prima facie epistemic obligation to believe the multitude of
+trivial, mundane and uninteresting true propositions that come my way
+as I go about my daily business (David 2005: 297-8). As I idly read my
+morning newspaper, I cannot help but notice that the page has a small
+tear on its left-hand edge. Was there really a pro tanto obligation on me
+to believe this? A positive answer to this question looks a little farfetched.
+But in fact, Heal does not do justice to the full degree of the
+implausibility – one might say the absurdity (Engel 2002: 128) –
+attaching to the idea that we should believe every truth. For there are
+two convincing reasons for thinking that it is metaphysically impossible
+to believe everything that is true. First, there are infinitely many
+propositions. Second, given that any conjunction of atomic truths is itself
+a truth, there will be certain truths that are too complex for us to believe
+(Bykvist and Hattiangadi 2007: 279). Since ‘ought’ implies ‘can’, I
+cannot be obliged – even prima facie obliged – to believe every truth.
+Heal is thus most certainly right to say that we are under no
+epistemic obligation to believe every truth. My worry, however, is that
+!
+
+141
+
+

@@ -1,0 +1,111 @@
+254
+
+Analytic Number Theory
+
+Exercises
+(1) Show that
+(1) = 1.
+(2) Show that
+(x + 1) = x(x)
+for x > 0.
+The following is a sequence of exercises suggesting that
+ζ (2) =
+
+∞
+
+1
+k=0
+
+k
+
+=
+2
+
+π2
+.
+6
+
+This argument, while not rigorous, is how Euler first proved this truly amazing
+identity. To read more about this argument, look at the always delightful Journey
+through Genius: The Great Theorems of Mathematics [52] by William Dunham.
+(3) Assuming that a function can be written as a product of the linear factors of its roots
+(which is not true in general), show that
+
+∞ 
+x2
+sin(x) 1
+=
+1− 2 2 .
+x
+k π
+k=1
+
+It is here where we are not being rigorous. This can be made rigorous using the
+Weierstrass factorization theorem.
+(4) Using Taylor series, show that
+x2 x4 x6
+sin(x)
+=1−
++
+−
+− ··· .
+x
+3!
+5!
+7!
+(5) By formal multiplication (which means just multiply and rearrange the terms,
+without being concerned too much about questions of convergence), show that
+%∞
+'
+
+∞ 
+1
+ 1
+x2
+1− 2 2 =1−
+x2
+k π
+k2π 2
+k=1
+k=0
+⎛%
+⎞
+'2
+∞
+∞
+
+
+1
+1 ⎠ 4
++⎝
++
+x − ··· .
+2
+2
+4
+k π
+k π4
+k=0
+
+k=0
+
+(6) By comparing coefficients, show that
+ζ (2) =
+
+∞
+
+1
+k=0
+
+k
+
+=
+2
+
+(7) By comparing coefficients, determine ζ (4).
+
+π2
+.
+6
+
+

@@ -1,0 +1,38 @@
+The Philosophical Quarterly Vol. , No. 
+ISSN –
+
+April 
+doi: ./j.-...x
+
+THE LEAST DISCERNING AND MOST
+PROMISCUOUS TRUTHMAKER
+B J S
+I argue that the one and only truthmaker is the world. This view can be seen as arising from (i) the
+view that truthmaking is a relation of grounding holding between true propositions and fundamental
+entities, together with (ii) the view that the world is the one and only fundamental entity. I argue that
+this view provides an elegant and economical account of the truthmakers, while solving the problem of
+negative existentials, in a way that proves ontologically revealing.
+
+I. TRUTHMAKER MONISM
+When theorists first gloss the relation between truths and their truthmakers,
+they are apt to say things such as ‘No sentence is true but reality makes it
+so’, ‘Truth supervenes on being’, and ‘Must there not be some way that the
+world is in virtue of which these truths are true?’.1 Thus as Ross Cameron
+notes, ‘a familiar thought among metaphysicians is that truth ought to be
+grounded in the world’.2 I propose to treat this familiar thought literally, as
+telling us everything about the truthmakers. That is, I propose to defend the
+following form of truthmaker monism:
+M. For all worlds w: the one and only truthmaker at w is w.
+On (M), worlds are the only truthmakers. There is only one truthmaker per
+world, and it is the world, the whole world, and nothing but the whole world.
+(M) has received little consideration in the literature. Molnar calls it ‘true
+but trivial’, dismissing it in but two sentences:
+1 W.V. Quine, Philosophy of Logic (Englewood Heights: Prentice-Hall, ), pp. –;
+J. Bigelow, The Reality of Numbers (Oxford UP, ), p. ; D.M. Armstrong, Truth and Truthmakers, hereafter TTM (Cambridge UP, ), p.  (attributed to C.B. Martin).
+2 R. Cameron, ‘Truthmaker Necessitarianism and Maximalism’, Logique et Analyse, 
+(), pp. –, at p. .
+
+©  The Author Journal compilation ©  The Editors of The Philosophical Quarterly
+Published by Blackwell Publishing,  Garsington Road, Oxford  , UK, and  Main Street, Malden,  , USA
+
+

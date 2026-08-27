@@ -1,0 +1,48 @@
+OUP CORRECTED PROOF – FINAL, 03/31/2018, SPi
+
+Steven French and Juha Saatsi
+
+191
+
+A star has been collapsing, but the collapse stops. Why? Because it’s gone as far as it can go.
+Any more collapsed state would violate the Pauli Exclusion Principle. It’s not that anything
+caused it to stop—there was no countervailing pressure, or anything like that. There was
+nothing to keep it out of a more collapsed state. Rather, there just was no such state for it to
+get into. The state-space of physical possibilities gave out. . . . [I]nformation about the causal
+history of the stopping has been provided, but it was information of an unexpectedly negative sort. It was the information that the stopping had no causes at all, except for all the
+causes of the collapse which were a precondition of the stopping. Negative information is
+still information. (Lewis 1986: 222–3)
+
+Attempting to shoehorn this into the causal framework by suggesting that the lack of
+causal information is still indicative of causal relevance, might strike many as a desperate manoeuvre. Skow (2014), however, has recently argued that it can be brought into
+the causal framework, insisting, first, that it is not the case that the stopping had no
+causes at all and second, that there are in fact states for the electrons to ‘get into’.
+With regard to the first point, Skow notes that many physics textbooks standardly
+refer to the ‘pressure’ of a degenerate electron gas in this and other cases. He insists
+that there is, therefore, a sense in which we can attribute a countervailing pressure to
+the gravitational attraction, so that the explanation can be regarded as causal. It is
+important to note, as Skow himself does, that the so-called ‘pressure’ in this case is
+very different from that ascribed to a gas, say, since it is not due to any underlying
+electrostatic force, or indeed any force at all. Indeed, in the years following the establishment of PEP physics struggled to disentangle itself from the understanding of it in
+terms of ‘exclusion forces’ and the like (Carson 1996). Thus, one might be inclined to
+argue that the use of the term ‘pressure’ here is no more than a façon de parler, or a
+pedagogic device, and that in terms of our standard conception of pressure as
+grounded in certain causal features relating to the relevant forces involved (typically
+electromagnetic), there is simply no such thing as ‘degeneracy pressure’.
+Skow rejects such a move, insisting that terms in quantum statistical physics, such as
+‘pressure’ and, indeed, ‘temperature’, have escaped their thermodynamic origins and
+must be conceived of in more abstract terms than as resulting from the force-based
+interactions of particles or as identical to mean molecular kinetic energy, respectively
+(2014: 458–9). Rather, according to Skow these terms should be regarded as dispositional: as the disposition of a system to transfer energy or ‘volume’, respectively, to
+another body. Thus, something other than repulsive forces between constituents—
+such as the consequences of PEP, for example—can contribute to the pressure of a system, rendering the ‘degeneracy pressure’ explanation causal, after all.10
+10
+With regard to Skow’s second point, concerning Lewis’s claim that the collapse stops because there is
+no state for the star as a whole to get into, Skow insists that this claim is also false (2014: 459–60). As he
+points out, what PEP excludes are states of the star in which more than one electron is in the same quantum
+state. However, he argues, since there are always infinitely many states available, the electrons never run out
+of states to get into (because there are always some empty ones available, albeit of high energy), no matter
+how small the star is. Hence the fact that the star stops collapsing at a certain size has nothing to do with
+the lack of available states for the electrons to occupy. According to Skow, “no matter how small the star’s
+
+

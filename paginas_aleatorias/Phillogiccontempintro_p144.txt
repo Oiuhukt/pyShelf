@@ -1,0 +1,34 @@
+5 Logical Consequence via Models
+
+What is logic about? One common answer is that it is the science of good reasoning.
+This is too broad: there is more to reasoning well than being logical. Narrowing
+down a bit, we might say that logic is the science that tells us what follows from
+what. Its topic is the relation of logical consequence.1
+But what is this relation? What do we mean, exactly, when we say that a
+sentence follows logically from some others (or equivalently, that an argument is
+logically valid)?
+5.1 Informal characterizations of consequence
+
+Of course, you’ve learned a technical definition of logical consequence, as preservation of truth in all models (§1.1.2). But it makes sense to ask for an informal
+characterization of the concept that this technical definition is trying to capture.
+After all, logicians were concerned with the systematization of valid arguments
+long before the concept of a model was articulated, and thus long before we could
+define logical consequence as preservation of truth in all models.
+Historically, there have been three main approaches to characterizing consequence. We will consider them in turn, before turning to Tarski’s classic article on
+the concept of logical consequence, which motivates and articulates the currently
+dominant model-theoretic conception.
+5.1.1 In terms of necessity
+
+Valid arguments are supposed to be truth-preserving: nothing untrue can be a
+logical consequence of true premises. Thus logical consequence would seem to
+involve at least
+1
+
+Of course, logic also concerns itself with a number of other properties and relations: for example,
+validity, logical truth, logical equivalence, logical independence, consistency, and provability. But all
+of these have a close definitional or normative connection with logical consequence. (For example, 𝑝
+is logically independent of 𝑞 and 𝑟 if neither 𝑝 nor ⌜¬𝑝⌝ is a logical consequence of 𝑞 and 𝑟; and in a
+properly constructed proof system, only logical consequences of the premises should be provable.) So
+it is not unreasonable to think of logic as the science of logical consequence.
+
+

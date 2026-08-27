@@ -1,0 +1,47 @@
+strates the need for caution in reasoning about such entities. First a bit of
+background. The mathematician Georg Cantor famously showed that the
+power set of a set is always larger than that set, in the sense that if you take each
+member of the set and pair it with a unique member of the powerset, some
+members of the powerset will be left over, not paired with any member of the
+set. (See the diagram. In the diagram, A is a finite set; but Cantor’s argument
+applies to all sets, even infinite ones.)
+
+a, b , c
+a
+
+a, b
+
+a, c
+b
+
+b,c
+
+c
+
+a
+c
+
+A
+
+b
+
+Power set of A
+
+Here is the argument. Let f be any function that maps every member of a set,
+A, to some subset of A. We’ll show that some subset of A isn’t in the range of
+this function—the function doesn’t map any member of A to that subset. (In
+the diagram, this means showing that there is a circle in the right-hand-side of
+the diagram to which no red arrow is pointing.)
+Let’s begin by noting that some members of A have the following feature: they
+are members of the sets to which they are mapped by f . For example, in the
+diagram, a and b have the feature, since a is mapped to {a, c} and b is mapped
+to {b }. But c does not have the feature, since it is mapped to the empty set.
+Let’s form the set, D, of members of A that do not have the feature. That is, let:
+for any x, x ∈ D iff: x ∈ A and x ∈
+/ f (x)
+So in the diagram, D = {c}.
+35
+
+(*)
+
+

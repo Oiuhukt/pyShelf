@@ -1,0 +1,28 @@
+T H E S T R U C T U R A L E Q U AT I O N S M O D E L
+
+Figure 6.9. (A) A normal quantile plot for 100 values drawn from a
+t-distribution with 3 degrees of freedom. (B) The value of the sum of
+squared distances between the quantiles of these values and those of a
+standard normal distribution for various values of  using Jobson’s
+transformation. (C) The normal quantile plot after transforming the data
+using the best value of .
+
+50%, 90% and 95%) for diﬀerent values of  and the quantiles of a normal
+distribution with the mean and standard deviation8 of Y. The value of  that
+minimises this sum of squared diﬀerences will best reduce the kurtosis of
+the original values. Most statistics packages allow one to plot the empirical
+quantiles (cumulative percentage) against these theoretical quantiles. Using
+these graphs, you can try diﬀerent values of  and choose the one in which
+the resulting graph looks most like a straight line. Figure 6.9A shows a quantile plot for 100 values drawn from a t-distribution with 3 degrees of
+freedom. These values have a centred kurtosis of 4.12, the standardised value
+is 9.06 and the probability of this occurring in a normally distributed variable is 6.6105. Notice the large deviations in the tails (the extreme
+values). Figure 6.9B shows the value of the sum of squared distances
+18
+
+Alternatively, you can standardise your variable ﬁrst and then refer to the quantiles of a
+standard normal distribution. These quantiles can be found in most tables of the standard
+normal distribution.
+
+184
+
+

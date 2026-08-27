@@ -1,0 +1,16 @@
+86
+
+Philosophy and Logic
+
+https://doi.org/10.1017/9781108981668 Published online by Cambridge University Press
+
+inferentialist conception (e.g. Brandom 1994, Peregrin 2014), the intuitionist
+conception (see, e.g., Posy 2020), the cognitive-economy conception (e.g.,
+Field 2015), the neo-Tarskian pragmatist conception (e.g., Varzi 2002), the
+logical nihilist conception (e.g., Russell 2018), the logical deﬂationist conception (e.g., L. Shapiro 2011), and the logical pluralist conception (e.g., Beall and
+Restall 2006, S. Shapiro 2014). We have brieﬂy touched upon a few of these, but
+our goal of an in-depth philosophical understanding together with limitations on
+length led us to focus on one highly signiﬁcant conception, the semantic
+conception of LC in the core system of formal logic.
+
+

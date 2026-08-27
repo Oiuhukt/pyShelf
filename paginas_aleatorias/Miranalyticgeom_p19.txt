@@ -1,0 +1,52 @@
+14
+
+Coordinates on a Straight Line and in a Plane
+
+§ 2. Coordinates on a Line.
+The Number Axis
+4. In this article we shall describe a method which permits
+us to determine the position oj points on an arbitrarily chosen
+straight line by ..the specification of numbers.
+Let there be given an arbitrary straight line a. We next choose
+a segment as the unit of length, assign a positive direction to the
+line a (thereby making it an axis), and mark some point on this
+line by the letter 0.
+Let us now agree to define the coordinate of any point M on
+the axis a as the value of the segment OM. The point 0 will be
+called the origin of coordinates; the coordinate of the origin itself
+is equal to zero.
+The specification of the coordinate of a point M completely
+determines the position of M on the given line. For, the modulus
+of the coordinate, i. e. |OAf|, is the distance o( M from the (pre­
+assigned) point 0 , while the sign of the coordinate, i. e., the sign
+of the number OM, gives the direction in which the point M lies
+relative to the point 0; if the coordinate is positive, then M lies
+in the positive direction from 0; if the coordinate is negative,
+then M lies in the negative direction from 0; if the coordinate is
+zero, then M coincides with O. (All this immediately follows from
+the definition of the value of a segment of an axis; see Art. 2.)
+Imagine that the straight line a is drawn horizontally before
+us and is positively directed to the right. The location of points
+of the line a, according to the sign of their coordinates, may then
+be described as follows: Points with positive coordinates lie to
+the right of the origin 0, and points with negative coordinates, to
+the left.
+The coordinate of an arbitrary point is generally denoted by
+the letter x. In cases when several points are considered, they are
+often denoted by one letter having different subscripts, say Afi,
+Ma, ■■■, Mn\ then the coordinates of these points are also denoted
+by one letter with corresponding subscripts: xu x2, . . . , xn.
+To show briefly that a given point has a given coordinate,
+the latter is enclosed in parentheses and written next to the sym­
+bol of the point itself, as for example, M, (*[), M2(jc2), . . . , M„ (xn).
+5. We shall now prove two simple but important theorems
+concerning an axis to which a coordinate system has been attached.
+Theorem 1. For any two points M i(*i) and M2(x2) of an axis,
+we always have the relation
+
+M:M2= x2 x v
+—
+
+( 1)
+
+

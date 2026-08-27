@@ -1,0 +1,33 @@
+CONSTRUCTION, MODALITY, LOGIC
+
+197
+
+We have seen that in the official model-theoretic semantics of mathematical languages, a domain of discourse is a static collection. This suggests that the result of
+formalizing a branch of (classical) mathematics is always a static system, regardless
+of whether the branch as practiced is dynamic or static. In other words, the metamathematical study of a structure seems to require that it be recast in static terms. A dynamic system is more conducive to developing and communicating insights about
+the places and relations of a structure, insights internal to the structure; but in order
+to take a broader perspective and develop and communicate insights about the structure itself—how it relates to other structures, what the correct logic for studying it is,
+and so on—one prefers a static reformulation. The important point is that it is one
+and the same structure.
+The conclusion, thus far, is that some dynamic systems are structure-equivalent
+to static ones or, in other words, some dynamic systems exemplify the same structure as static ones. However, not every dynamic system shares a structure with a static
+one. To put it differently, some dynamic systems are not structure-equivalent to any
+static system, at least not in any obvious or straightforward manner. This conclusion
+is a corollary of the present thesis that ontology, inference, and construction are intimately related.
+Consider, for example, intuitionistic arithmetic, a paradigm example of a dynamic
+system. To start a reductio, suppose that P were a static system that is structureequivalent to intuitionistic arithmetic. What would P be like? Presumably, its objects would constitute a countable set (putting the domain of proofs aside). Thus, we
+might as well identify the domain of P with the natural numbers. The relations of P
+would have the defining conditions of the ordinary successor, addition and multiplication functions, the less-than relation, and the like. In short, then, P has the same
+elements and relations as classical arithmetic. It is hard to avoid the conclusion that
+P is isomorphic to the classical natural-number structure, in which case it exemplifies the same structure. Yet, one might suggest that, by hypothesis, P does not exemplify the classical natural-number structure, because P has a different logic. The
+law of excluded middle does not apply to P.
+There is the rub. In making the identification, we gloss over the distinction between potential infinity and actual infinity. The problem, on the surface, is one internal to structuralism: what is the most natural relationship between logic and the (admittedly relative) structure/system dichotomy? Yet, the situation is a manifestation
+of a deep issue concerning the status or priority of logic. The crux of the problem
+concerns the extent to which “objects” are independent of the way they are constructed
+and studied. As indicated in the previous section, my view is that with dynamic discourse, the sorts of objects studied by a branch of mathematics—the sorts of structures—are determined by the allowed constructions and sanctioned inferences. In
+short, the logic and the objects share a common source: the permissions and the pos-
+
+system has the same structure as the classical one, then on my view there is no relevant difference
+between the two systems—they exemplify the same structure. This question of ontological commitment is revisited in chapter 7.
+
+

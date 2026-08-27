@@ -1,0 +1,39 @@
+PARADOXES OF COSMOLOGICAL SELF-REFERENCE
+
+domain of overlap?" A critical experiment that would simultaneously
+refute one of two competing theories and confirm the other is clearly
+impossible. For example, an experiment that would decide between
+Newtonian and Einsteinian theory is impossible (among other reasons)
+because the instruments and other entities involved in the crucial observations are, in the Newtonian theory, three-dimensional spatial solids
+which endure through time, whereas in the Einsteinian account, they
+are four-dimensional invariants in space-time.
+Although I am in agreement generally with Feyerabend's approach to
+the philosophy of science, it seems that in his presentation of his account of theories, he has made an important error. This is his use of
+"meaning" as a metatheoretical term. He is not alone in making this
+mistake, however, since the other "radical meaning variance theorists"
+also make it. And it is further magnified by the critics9 of the view
+fastening on the arguments which turn on how meaning is construed.
+This is no surprise, considering present-day fashion of assimilating philosophy to linguistic analysis and the philosophy of language.
+The point I wish to make is that meaning is as much a process occurring in the world as is experience. Meaning has to do with the operation of living brains in their biological and extrabiological environments.
+A highly simplified kind of meaning is present in coding operations.
+For example, some general purpose computers must be programmed
+through a set of twelve binary switches which may be in either the up
+or the down position.10 This makes it necessary to communicate with
+the computer with sequences of
+
+DUUDDDUDUDDU
+UUDDDUDDDUDD
+To avoid having to memorize long lists of binary numbers, programmers developed a code. They divided the twelve switches into sets of
+three and labeled the up position with an integer in the order 4-2-1.
+When two or three switches are up, the sum is represented. Thus
+0 means DDD
+1 means DDU
+* The critics I have specifically in mind are Shapere, Kordig, and P. Achinstein,
+"On the Meaning of Scientific Terms/' Journal of Philosophy, 61 (1964), 497-509.
+10
+K. H. Pribram, Languages of the Brain (Englewood Cliffs, N.J.: Prentice-Hall,
+1971), p. 67.
+
+533
+
+

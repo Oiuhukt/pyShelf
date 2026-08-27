@@ -1,0 +1,53 @@
+18
+
+NO ^
+US
+
+4. The Nomothetic Conception Revisited
+With a clearer understanding of the key concepts of invariance and intervention,
+we may contrast our account with Hempel's D-N model in greater detail, with
+particular emphasis on how invariant generalizations differ from laws of nature.
+Laws have traditionally been understood as universal generalizations of
+the form `All A's are B's'. It is our contention that such generalizations,
+even when they satisfy the conditions for lawhood standardly imposed
+by philosophers, often fail to be explanatory, or are at best very poor
+explainers. Discussions of the D-N model of explanation have often employed
+toy examples of explanations having the logical form:
+(5)
+
+All A's are B's
+Object o is an A
+Therefore, o is a B
+
+These have always had an air of artificiality about them. Real scientific
+explanations are much more complex affairs with considerable additional
+structure. Philosophers of science have generally recognized this but have
+nonetheless assumed, no doubt under the influence of the D-N model, that (5)
+is an acceptable idealizationÐthat it captures all the essential features of
+genuine explanations.
+Note that (5) does not have the appropriate form to be an explanation on our
+account, since we require that the explanans and explanandum be expressed in
+terms of the values of variables. This is easily remedied, however. Let X be the
+characteristic function or indicator function for A, so that for any object o,
+X(o)  1 if and only if o is A, and X(o)  0 if and only if o is not A. Analogously,
+let Y be the characteristic function for B. Then (5) can be re-written:
+(50 )
+
+For all objects, X  Y
+For object o, X(o)  1
+Therefore, Y(o)  1
+
+So the mere fact that (5) does not explicitly specify relationships between
+variables is no objection to its qualifying as an explanation.
+The problem, rather, is that the generalizations figuring in (5) and (5') do
+not tell us what being a B (or having a certain value of Y ) depends on. It
+may be that all objects are B's, or at any rate that all objects belonging to a
+much broader class are B's. Consider, for example, the generalization:
+(6)
+
+All igneous rocks have mass greater than zero.
+
+While this fits nicely with the traditional conception of a law, it does nothing
+to tell us why some particular rock is massive: its having a non-zero mass in no
+
+

@@ -1,0 +1,42 @@
+42
+
+An Introduction to Metaphysics
+
+to be determined by the probabilities, nor by any facts about the putative
+causes or the effect, nor by any causal chains between them.23 Since both
+possibilities seem equally good, for the moment, let’s just suppose that it
+was Merlin who beat the 50:50 odds; it was his spell that worked. We’ll
+also suppose that Morgana’s didn’t beat those odds; it lost out. As before, it
+turns out that Morgana casting her spell stands in probabilistic relations
+that often accompany a causal connection: her casting the spell raised the
+conditional probability of the prince turning into a frog, and, if she hadn’t
+cast her spell, the probability of the prince turning into a frog would
+have been much less. Probability Raising and Probabilistic Counterfactual
+Dependence don’t permit the result that only Merlin’s spell worked, even
+though that seems to be a genuine possibility.
+This case of underdetermination, a case of complete overlap, is potentially a serious challenge to the possibility of an account of causation. In
+the partial overlap case there was the fact that the king turned into the
+frog that made it clear that it was Merlin’s spell, not Morgana’s, that was
+effect­ive. The presence of that fact gives some hope to those who want
+to provide an account of causation. There is at least a symptom indicating that there might be some underlying truthmaker for the causal facts.
+Lewis shows the following flicker of hope:
+We want to say that the raising that counts is the raising of the
+probability of the causal chain of events and absences whereby the
+effect was actually caused. Raising the probability of some unactualized
+alternative causal chain leading to the same effect doesn’t count. But it
+would be circular to say it that way within an analysis of causation. I hope
+there is some non-circular way to say much the same thing, but I have
+none to offer.24
+
+The complete overlap case appears to dash that hope. Nothing in the example suggests that there is any fact that might serve as a truthmaker for the
+claim that Merlin was the cause.
+
+23 We are setting aside the possibility that both spells worked. That seems fair since
+
+we could have built into the case that, in an appropriate number of cases when
+two spells are cast at exactly the same target, the target turns into a frog that
+is twice as green and twice as small as someone who is the victim of a one-spell
+transmogrification.
+24	David Lewis, “Causation as Influence,” pp. 79–80.
+
+

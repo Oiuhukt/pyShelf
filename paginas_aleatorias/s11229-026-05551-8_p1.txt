@@ -1,0 +1,46 @@
+Synthese
+(2026) 207:167
+https://doi.org/10.1007/s11229-026-05551-8
+ORIGINAL RESEARCH
+
+Why mental metaphors do not help us understand chatbot
+mistakes
+Markus Pantsar1
+
+· Regina E. Fabry2
+
+Received: 19 January 2026 / Accepted: 19 March 2026
+© The Author(s) 2026
+
+Abstract
+The function of chatbots like OpenAI’s ChatGPT is based on detecting probabilistic
+patterns in the training data. This makes them vulnerable to generating factual mistakes in their outputs. Recently, it has become commonplace in philosophical, scientific, and popular discourses to capture such mistakes by metaphors that draw on
+discourses about the human mind. The two most popular metaphors at present are
+hallucinating and bullshitting. In this paper, we review, discuss, and criticise these
+mental metaphors. By applying conceptual metaphor theory, we provide numerous
+reasons why they do not succeed in providing us with a better understanding of
+factual chatbot mistakes. We conclude by calling for justifications of the epistemic
+feasibility and fruitfulness of the metaphors at issue. Furthermore, we raise the
+question what would be lost if we stopped trying to capture factual chatbot mistakes
+by mental metaphors.
+Keywords ChatGPT · Chatbot mistakes · Hallucination · Bullshitting ·
+Conceptual metaphor theory · Mental metaphors
+
+Markus Pantsar and Regina E. Fabry contributed equally to the conception and writing of this article.
+Regina E. Fabry
+regina.fabry@mq.edu.au
+Markus Pantsar
+markus.pantsar@humtec.rwth-aachen.de
+1
+
+Human Technology Institute, Chair for Theory of Science and Technology, RWTH Aachen
+University, Theaterplatz 14, 52062 Aachen, Germany
+
+2
+
+Discipline of Philosophy, School of Humanities, Macquarie University, Sydney,
+NSW 2109, Australia
+
+13
+
+

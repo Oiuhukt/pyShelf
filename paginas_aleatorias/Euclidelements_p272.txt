@@ -1,0 +1,130 @@
+STOIQEIWN jþ.
+
+ELEMENTS BOOK 9
+the very thing it was required to show.
+
+kbþ.
+
+Proposition 22
+
+᾿Εὰν περισσοὶ ἀριθμοὶ ὁποσοιοῦν συντεθῶσιν, τὸ δὲ
+πλῆθος αὐτῶν ἄρτιον ᾖ, ὁ ὅλος ἄρτιος ἔσται.
+
+If any multitude whatsoever of odd numbers is added
+together, and the multitude of them is even, then the
+whole will be even.
+
+Α
+
+Β
+
+Γ
+
+∆
+
+Ε
+
+A
+
+B
+
+C
+
+D
+
+E
+
+Συγκείσθωσαν γὰρ περισσοὶ ἀριθμοὶ ὁσοιδηποτοῦν
+ἄρτιοι τὸ πλῆθος οἱ ΑΒ, ΒΓ, ΓΔ, ΔΕ· λέγω, ὅτι ὅλος
+ὁ ΑΕ ἄρτιός ἐστιν.
+᾿Επεὶ γὰρ ἕκαστος τῶν ΑΒ, ΒΓ, ΓΔ, ΔΕ περιττός ἐστιν,
+ἀφαιρεθείσης μονάδος ἀφ᾿ ἑκάστου ἕκαστος τῶν λοιπῶν
+ἄρτιος ἔσται· ὥστε καὶ ὁ συγκείμενος ἐξ αὐτῶν ἄρτιος
+ἔσται. ἔστι δὲ καὶ τὸ πλῆθος τῶν μονάδων ἄρτιον. καὶ
+ὅλος ἄρα ὁ ΑΕ ἄρτιός ἐστιν· ὅπερ ἔδει δεῖξαι.
+
+For let any even multitude whatsoever of odd numbers, AB, BC, CD, DE, lie together. I say that the
+whole, AE, is even.
+For since everyone of AB, BC, CD, DE is odd then, a
+unit being subtracted from each, everyone of the remainders will be (made) even [Def. 7.7]. And hence the sum
+of them will be even [Prop. 9.21]. And the multitude
+of the units is even. Thus, the whole AE is also even
+[Prop. 9.21]. (Which is) the very thing it was required to
+show.
+
+kgþ.
+
+Proposition 23
+
+᾿Εὰν περισσοὶ ἀριθμοὶ ὁποσοιοῦν συντεθῶσιν, τὸ δὲ
+πλῆθος αὐτῶν περισσὸν ᾖ, καὶ ὁ ὅλος περισσὸς ἔσται.
+
+If any multitude whatsoever of odd numbers is added
+together, and the multitude of them is odd, then the
+whole will also be odd.
+
+Α
+
+Β Γ
+
+Ε ∆
+
+A
+
+B C
+
+E D
+
+Συγκείσθωσαν γὰρ ὁποσοιοῦν περισσοὶ ἀριθμοί, ὧν τὸ
+πλῆθος περισσὸν ἔστω, οἱ ΑΒ, ΒΓ, ΓΔ· λέγω, ὅτι καὶ ὅλος
+ὁ ΑΔ περισσός ἐστιν.
+᾿Αφῃρήσθω ἀπὸ τοῦ ΓΔ μονὰς ἡ ΔΕ· λοιπὸς ἄρα ὁ ΓΕ
+ἄρτιός ἐστιν. ἔστι δὲ καὶ ὁ ΓΑ ἄρτιος· καὶ ὅλος ἄρα ὁ ΑΕ
+ἄρτιός ἐστιν. καί ἐστι μονὰς ἡ ΔΕ. περισσὸς ἄρα ἐστὶν ὁ
+ΑΔ· ὅπερ ἔδει δεῖξαι.
+
+For let any multitude whatsoever of odd numbers,
+AB, BC, CD, lie together, and let the multitude of them
+be odd. I say that the whole, AD, is also odd.
+For let the unit DE have been subtracted from CD.
+The remainder CE is thus even [Def. 7.7]. And CA
+is also even [Prop. 9.22]. Thus, the whole AE is also
+even [Prop. 9.21]. And DE is a unit. Thus, AD is odd
+[Def. 7.7]. (Which is) the very thing it was required to
+show.
+
+kdþ.
+
+Proposition 24
+
+᾿Εὰν ἀπὸ ἀρτίου ἀριθμοῦ ἄρτιος ἀφαιρεθῇ, ὁ λοιπὸς
+If an even (number) is subtracted from an(other) even
+ἄρτιος ἔσται.
+number then the remainder will be even.
+
+Α
+
+Γ
+
+Β
+
+A
+
+C
+
+B
+
+᾿Απὸ γὰρ ἀρτίου τοῦ ΑΒ ἄρτιος ἀφῃρήσθω ὁ ΒΓ· λέγω,
+For let the even (number) BC have been subtracted
+ὅτι ὁ λοιπὸς ὁ ΓΑ ἄρτιός ἐστιν.
+from the even number AB. I say that the remainder CA
+᾿Επεὶ γὰρ ὁ ΑΒ ἄρτιός ἐστιν, ἔχει μέρος ἥμισυ. διὰ τὰ is even.
+αὐτὰ δὴ καὶ ὁ ΒΓ ἔχει μέρος ἥμισυ· ὥστε καὶ λοιπὸς [ὁ ΓΑ
+For since AB is even, it has a half part [Def. 7.6]. So,
+ἔχει μέρος ἥμισυ] ἄρτιος [ἄρα] ἐστὶν ὁ ΑΓ· ὅπερ ἔδει δεῖξαι. for the same (reasons), BC also has a half part. And
+hence the remainder [CA has a half part]. [Thus,] AC is
+even. (Which is) the very thing it was required to show.
+
+272
+
+

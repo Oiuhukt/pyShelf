@@ -1,0 +1,48 @@
+24
+
+Agenda
+
+operator in propositional logic that they were instructed on in some course
+they took. Including the responses of such participants might yield at
+least partial confirmation for the material conditional account, where this
+partial confirmation may then well be spurious, possibly only showing
+that some participants have satisfactorily memorized their lessons in logic.
+Obviously, philosophers would all fall into this category of participants to
+exclude in these experiments.
+Equally important is the consideration that philosophers working on
+conditionals will not only have a background in logic; they will be familiar
+with all or almost all semantics for conditionals that have been proposed,
+among which they may have their favorite. There is no reason to believe
+that philosophers are less susceptible to confirmation bias than other people, which in the present context might amount to giving more weight to
+certain of one’s intuitions than to others, or perhaps to reject as irrelevant
+all too easily those conditionals which one’s preferred semantics does not
+adequately deal with.
+As for the accusation of psychologism, it should be remembered that
+modern logic was devised to facilitate reasoning in mathematics, and the
+language of mathematics is in many respects unlike ordinary language. At
+a minimum, this makes it reasonable to treat as an open question at least
+initially whether the conditional that we know from propositional logic –
+the material conditional – captures the meaning of the natural-language
+“if . . . then . . .”-construction.20 A still weightier consideration is that the
+evidence that the two are not the same is, by now, simply overwhelming –
+as will be seen at various junctures in the book. It is too much to believe
+that all or almost all of us are with great frequency mistaken about whether
+some conditional is true, or whether it is acceptable, or how probable it is.
+But that, as psychologists have shown, is precisely what must be concluded
+if the ordinary-language conditional is taken to coincide with the material
+conditional.
+20 There are general reasons for being doubtful about at least the radical form of antipsychologism
+
+that was famously propagated by Frege. If one wants one’s logic to also pertain to the arguments
+encountered in everyday reasoning and cast in natural language, then surely one will want it to be
+descriptively adequate in the sense that people do not regularly violate the introduction and elimination rules associated with the various logical constants; if people in their reasoning frequently
+violate the introduction and/or elimination rules for (say) the conjunction operator, then that is
+a strong indication that those rules fail to capture the meaning of the natural-language expression
+“and.” Note, however, that if this is granted, there may be no way to maintain the old ideal of logic
+as giving an account of purely form-based valid inference. For instance, experiments documented
+in Elqayam [2006] appear to show that whether people evaluate conjunctions with indeterminate
+conjuncts according to the weak Kleene table for the conjunction operator or according to the
+strong Kleene table depends on the content of the conjuncts (and possibly on the source of the
+indeterminacy).
+
+

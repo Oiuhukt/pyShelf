@@ -1,0 +1,49 @@
+Probability
+the extension of “X is F”
+
+125
+
+{x |x is F }.
+
+All this leads directly to the concept of probabilities for sentences. On any
+given choice, the probability that “The chosen object is red” is the probability
+that the chosen object is in the set of red objects. And that probability is the
+number of the set of red objects divided by the number of objects in the bag. In
+our set-theoretic language, it is P(Red). That is, P(“X is red”) = P(Red). Since
+writing the quotes in “X is F” is both annoying and unnecessary when writing
+P(“X is F”), we drop them. Generally, for any predicate F,
+P(X is F) = P(F).
+
+We can go on to define probabilities for conjunctions of sentences. Consider “X
+is red and X is translucent”. This is just the probability that X is in the
+intersection of the set of red marbles with the set of translucent marbles. As a
+rule,
+P(XisF&XisG)=P(FﬂG).
+
+Disjunctions follow naturally too. Consider “X is blue or X is translucent”.
+This is just the probability that X is in the union of the set of blue marbles with
+the set of translucent marbles. As a rule,
+P(X isForX is G): P(F U G).
+
+Negations are straightforward. Consider “X is not opaque”. This is just the
+probability that X is in the complement of the set of opaque marbles. We denote
+the complement of set F relative to the assumed background sample space as —F.
+Hence
+P(X is not F)
+
+P(—F).
+
+7.2 Subjective Probability Functions
+Any linguistically competent human mind is able to consider sentences in some
+language (which might, without too much worry, be called its language of
+thought or mentalese). For example, you can affirm that “Socrates was a
+philosopher” and deny that “No man is mortal”. For precision, let’s define a
+language we’ll call Extensional English. The vocabulary of Extensional English
+splits into constants and predicates. The constants are all the names (proper
+nouns) in ordinary English. The predicates are the nouns, adjectives, and verbs
+in ordinary English. The grammar of Extensional English is the grammar of the
+predicate calculus. Here are some sentences in Extensional English:
+
+philosopher( Socrates);
+
+

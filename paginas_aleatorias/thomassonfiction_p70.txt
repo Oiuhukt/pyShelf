@@ -1,0 +1,35 @@
+The first attempt to account for the fact that one character may appear in several different literary works is developed by Wolterstorff, who
+offers a different abstractist view of fictional characters that nonetheless follows the same general principle of drawing out identity conditions for fictional characters based solely on the properties with which
+they are correlated. In Wolterstorff s view, fictional characters are certain
+kinds, namely person-kinds picked out by authors in writing the literary
+work. Thus when Gogol wrote about a character called "Chichikov,"
+he was delineating a certain kind of person, that kind that someone
+belongs to just in case he exhibits all of those properties attributed to
+Chichikov. The properties attributed to Chichikov (as well as some others that may not be explicitly stated in the work but merely presupposed) are said to be "essential within the kind" Chichikov, meaning that
+if anyone is to be of the Chichikov kind, he must exhibit all of these
+properties.
+Wolterstorff admits that this view faces difficulties in handling both
+the apparent identity of characters across different texts and such claims
+as that the author could have written the character slightly differently.
+For, according to Wolterstorff, there is a one-to-one function mapping
+properties onto kinds.6 Thus, if different properties are ascribed to a character in a different work or if different properties were to be ascribed to a
+character in a possible world wherein the author composed slightly differently, the author would be picking out a different kind that has different
+properties within it essentially. It is thus a consequence of this view that,
+if Gogol wrote Dead Souls slightly differently, so that the character called
+"Chichikov" were ascribed slightly different properties, Gogol would not
+have made Chichikov somewhat differently, instead he would have written about a different character entirely, for he would have delineated a
+different person-kind — one requiring different attributes of anyone who
+is an example of that kind (148).
+But as Wolterstorff admits, this runs counter to our intuitions that
+Surely Gogol could have developed the character Chichikov differently — more
+expansively, less expansively, in alternative ways. It's not just that he could have
+written a different text, with a world whose maximal component having the
+property of being called 'Chichikov' essential within it was different. He could
+have represented, or portrayed, Chichikov differently. So, too, having written one
+book, Conan Doyle offered the further adventures of Sherlock Holmes. And then
+there is the related phenomenon of different writers telling the story of Hercules,
+of Don Juan, of Faust — telling it differently (148).
+
+58
+
+

@@ -1,0 +1,49 @@
+If structured propositions are so fine-grained and have already so much structure, while not presupposing that the property or relation in the second element
+of the tuple is instantiated by the object(s) in the first element of the tuple, why
+not simply identify states with structured propositions? This seems to be the
+way Jago (2017) considers states to be ersatz states-of-affairs as well, so it has
+seemed like an especially attractive view25 .
+The main reason is a repetition of some points against the view of rigid
+embodiments as states. Namely, suppose that xxby, B y is the truthmaker for
+“My bag is brown”. Is it also the falsitymaker for “My bag is yellow”? Then
+it contains irrelevant information (violating Desideratum 3). Suppose instead
+that we accept negative properties like Y for not being yellow. Then could
+xxby, Y y be the falsitymaker for “My bag is yellow”? Here we seem to have
+the same case as above: it seems that it’s because it’s false that my bag is
+yellow that we can truthfully say that it has the property of not being yellow,
+rather than the other way around (violating Desideratum 4). Having said this,
+if we consider the structured propositions/lagadonian language sentences to be
+themselves states-of-affairs, or if we replace them by states of affairs, my view
+can attribute states-of-affairs a very special role, albeit not going quite as far as
+identifying them with the states.
+Following to some extent Berto and Jago (2019), we might take an exact
+verifier for “My bag is brown” to be a state s which will be a pair of sets, s 
+xs , s y, the first, s containing the structured propositions that contain what is
+responsible for the state making true what it does, and the second, s containing
+the structured propositions that make the state responsible for making false
+what it does. One might then take exact verification to simply be a matter of
+the abstract constructions I have been alluding to belonging or not to one of
+the elements of a state. For readability purposes, let us suppose that what I
+am calling abstract constructions are the structured propositions of Salmon and
+Soames, though I would be happy for them to be states-of-affairs constructed
+in some other way (Jago (2018, §4) presents three viable alternative ways).
+Let us use capital letters from the beginning of the alphabet with asterisks to
+refer to them, so A for instance is the abstract construction (the structured
+proposition) corresponding to the sentence A. As mentioned previously, states
+will be pairs of sets, each containing these so-called abstractions.
+In this way of constructing them, states have therefore a similar structure
+to the double worlds of relevant logics, which have also been used by Jago
+(2014) in the context of impossible worlds semantics. States constructed in
+this way inherit the benefit of being able to represent independently what a
+valuation point makes true and makes false. This is important for an adequate
+representation of truthmaker semantics, for it follows the American Plan for
+negation (Berto and Restall, 2019) and truthmaking and falsitymaking clauses
+are given independently. Consider for instance a state s that both verifies and
+have to be lagadonian, even though Lewis ultimately rejects linguistic ersatzism wholesale.
+Thanks to an anonymous reviewer for bringing up the option that states could have mere
+representations of individuals as their constituents.
+25 Thanks to an anonymous reviewer for drawing my attention to this alternative.
+
+16
+
+

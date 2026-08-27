@@ -1,0 +1,54 @@
+192
+
+P. Huneman
+
+some trait, since this fact is equivalent to the causal relevance of selected traits in
+their own frequency increase (S).
+There is here one last ambiguity left: what exactly is causal, and are we speaking
+of ‘‘causation’’ or ‘‘causal relevance’’? In fact (S) talks of causal relevance of traits,
+whereas (Q) talks of selection as ‘‘a cause’’, and they proved to be equivalent. It is
+crucial here to distinguish between degrees of generality: the causal relevance of a
+trait in its increase in frequency is an instance of a very general causal scheme,
+which is the dependence of the population-level fate of traits (alleles) upon their
+nature and effects. To say that there is ‘‘selection for x’’ means exactly such causal
+relevance of trait x. ‘‘Natural selection’’ is, on the other hand, the causal scheme
+under which all cases of ‘‘selection for x’’ fall: to say that ‘‘natural selection’’ occurs
+means that there is (at least) some x such that there has been selection for x; hence
+that such causal relevance holds.38 So in such case, it is true that ‘‘natural selection’’
+is the causal scheme responsible of the changing frequency of the traits, so it is
+indeed a cause of such fact. But the emphasis on the causal talk will depend on the
+context, i.e. on which effect is considered (e.g. asking whether a trait is an
+adaptation for some environmental demand, vs. testing a genomic sequence for the
+signature of selection).
+
+5 Conclusion
+I claim that selection is both causally and explanatory relevant (rather than being
+shorthand for infinitely numerous individual causal processes). This commits me to
+a counterfactual view of causation, relating facts and properties rather than events.
+Since causation is not to be thought as causal process, the distinction between
+processes and pseudo-processes (Salmon 1998; Walsh 2001), essential in the
+process account of causation, is of no help to understand natural selection. Although
+selection is not a force—except by a remote analogy—the statistical view is not
+wholly accurate for several reasons, mostly because the elementary properties of
+natural selection cannot be thought as state variables like entropy, which are solely
+predictors. I insisted on the counterfactual view of causation because otherwise, if
+one holds a process view of causation, one cannot resist the statistical conclusion
+about selection, namely that the only causal properties are at the level of individual
+interactions between organisms, because there are actually no other processes—as
+Matthen and Ariew (2009) rightly asserted. The statisticalist view is indeed right in
+many aspects: the inseparability of selection and drift at the individual level, the
+impossibility of considering selection as a force or superadded causation over and
+38
+
+Lewens (2009) pointed out that in some cases ‘‘selection for’’ cannot be equated with the force of
+selection, based on the variations in fitness values. Yet ‘‘natural selection’’ here is not what he calls ‘‘force
+of selection’’, but just the causal scheme subsuming the specific explanations by natural selection for
+properties. The full account of this difference needs another paper aiming at distinguishing how selection
+differs from drift in each viewpoint. At the most general level, here I agree with Lewens’ conclusion that
+defining the nature of selection cannot avoid to specify the explanatory context conditioning which
+adaptations occurred, and especially to decide whether one explains rather the ecological context or the
+variations in allele frequencies.
+
+123
+
+

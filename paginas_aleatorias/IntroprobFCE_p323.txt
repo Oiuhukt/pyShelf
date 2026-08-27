@@ -1,0 +1,67 @@
+322
+
+INTRODUCCIÓN A LA TEORÍA DE LA PROBABILIDAD
+
+teorema 41 del Apéndice, es Riemann integrable en cualquier intervalo finito,
+de manera que la integral:
+R∞
+0 P [X > x] dx
+siempre está definida (pudiendo ser igual a ∞).
+Los corolarios IX.16 y IX.18 muestran que la esperanza de una variable
+aleatoria no negativa X, de esperanza finita, se puede calcular, tanto en el
+caso discreto
+R ∞ como en el caso absolutamente continuo,
+R ∞ mediante la fórmula
+E [X] = 0 P [X > x] dx. Además, la integral 0 P [X > x] dx está bien
+definida no sólo en los casos discreto y absolutamente continuo. Esto sugiere
+que se pueda utilizar la misma fórmula para definir la esperanza de cualquier
+variable aleatoria no negativa, como se hace a continuación:
+Definición IX.19 (Esperanza de variables aleatorias no negativas) Si X es
+una variable aleatoria no negativa, se define la esperanza de X, E [X], mediante la fórmula:
+R∞
+E [X] = 0 P [X > x] dx
+Definición IX.20. Se dice que una variable aleatoria X tiene esperanza
+finita si E [|X|] < ∞.
+Proposición IX.21. E [|X|] =
+
+R∞
+0
+
+R0
+P [X > x] dx + −∞ P [X < x] dx
+
+Demostración
+E [|X|] =
+
+R∞
+
+R∞
+0 P [|X| > x] dx = 0 (P [X > x] + P [X < −x]) dx
+R∞
+R∞
+= 0 P [X > x] + 0 P [X < −x] dx
+=
+
+R∞
+0
+
+R0
+P [X > x] dx + −∞ P [X < x] dx
+
+
+
+Corolario IX.22.
+X tiene esperanza finita si y sólo
+R ∞ Una variable aleatoria
+R0
+si las integrales 0 P [X > x] dx y −∞ P [X < x] dx convergen.
+Proposición IX.23.
+
+ R∞
+E X + = 0 P [X > x] dx y
+R0
+= −∞ P [X < x] dx.
+
+E [X − ]
+
+

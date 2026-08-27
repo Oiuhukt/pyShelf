@@ -1,0 +1,41 @@
+TRANSLATORS’ PREFACE
+What is printed here is a translation of the first volume of Frege’s
+posthumous writings and correspondence published by Felix Meiner,
+Hamburg 1969, under the editorship of Hans Hermes, Friedrich Kambartel
+and Friedrich Kaulbach. Whilst we have naturally translated everything in
+the volume which is by Frege’s hand, we have chosen to omit much of the
+editorial apparatus. Thus we have not translated the three introductory
+exegetical essays by the editors, though we have translated their history of
+the Frege Nachlaß—leaving out, however, parts that are taken up with
+editorial minutiae and a general discussion of the difficulties of deciding on
+dates and titles for some of the pieces. Again, we have not translated all of
+their footnotes, many of which are exegetical, though we have translated
+such as relate to the composition or dating of the individual pieces, or give
+the provenance of some quotation in the text or (where we think it helpful)
+the authorship of some view that Frege is discussing. We have, finally,
+omitted the bibliography of Frege’s published work and translations thereof.
+We ourselves have added footnotes where some difficulty in translation
+seemed to call for comment or where we thought one necessary if the reader
+was to follow the argument. Asterisked footnotes are Frege’s own;
+numbered footnotes are either ours or the editors’ and are marked
+accordingly. Matter within square brackets is either editorial or added by
+ourselves where we have made some interpolation to assist the reader—as,
+for instance, where there is some play on words in the German which is
+inevitably lost in the English translation. It should be clear in each case
+whether the intervention is ours or the editors’.
+We have not thought it necessary to provide the reader with a glossary,
+but some key terms call for comment here either because of their inherent
+difficulty or because we have adopted different renderings from previous
+translators.
+First and foremost we have parted company with all previous English
+translators of Frege by rendering ‘‘bedeuten’ and ‘‘Bedeutung’ as ‘mean’ and
+‘meaning’. We have done this throughout, both before and after he
+formulated his celebrated distinction between Sinn (sense) and Bedeutung
+(except of course where the obvious translation of ‘Bedeutung' is
+‘importance’ or ‘significance’). And cognate terms such as ‘bedeutungsvolF
+and ‘gleichbedeutencf we have accordingly rendered by ‘meaningful’ and
+‘having the same meaning’. ‘Meaning’ is, after all, the natural English
+equivalent for ‘Bedeutung', and renderings such as ‘reference’ and
+‘denotation’ are strictly incorrect and have only been adopted by other
+
+

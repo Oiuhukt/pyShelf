@@ -1,0 +1,52 @@
+16
+
+M. Zicchetti
+
+30
+For instance, (Pedersen 2021), (Horsten 2021) and (Zicchetti 2022). To argue that we have
+such independent justification for consistency statements exceeds the scope of our investigation.
+31
+See (Feferman 1962, 1964, 1991). For a recent discussion of implicit commitments in this
+context, see (Dean 2014), (Horsten and Leigh 2017), (Nicolai and Piazza 2018), or (Łełyk and
+Nicolai 2022).
+32
+I am grateful to an anonymous referee of this journal for suggesting this scenario.
+33
+The idea that our acceptance of some concepts of truth might not need any justification, or
+might be justified by default, has been investigated, for instance, in (McGee 2005) and (Fischer
+et al. 2019).
+
+Downloaded from https://academic.oup.com/pq/advance-article/doi/10.1093/pq/pqae059/7695466 by guest on 20 November 2024
+
+type of justification for such statements: Some mathematicians (such as Gödel)
+argued that we have some intuition-like faculty that might provide immediate
+justification for statements, such as the consistency of S. Others argued that
+we have some default type of justification for accepting consistency.30 Finally,
+other philosophers (most notably Feferman) argued that reflection principles
+such as consistency statements (and even stronger reflection principles) are,
+in some sense, implicit commitments.31 This is important, as it places this investigation into a broader context within the philosophy and epistemology of
+mathematics.
+Moreover, it should be added that even if it were impossible to acquire an
+inferential justification for consistency employing soundness arguments relative
+to justifications provided by proofs, one might acquire such a justification by different means. One example could be, for instance, the following scenario:32 One
+might argue that the truth-theoretic axioms of CT have a “special” epistemic
+status. For instance, they might be justified (i) by default or (ii) by our understanding
+of the concept of truth.33 With this, one might try to argue that our justification to believe the consistency of PA results from our justification to believe
+the syntactic theory S—which does not contain PA—and our justification
+we have for the concept of truth axiomatized by CT. Whatever justification
+we have for S and CT does not seem to support the consistency of PA directly, i.e., without employing the soundness argument. Let me comment briefly on
+this possibility. Suppose that such an argument would be transmissive. Then,
+I believe this argument would ensure that our justification for believing in
+the consistency of PA would be quite minimal. For instance, our justification
+could result from some justification to accept a very small amount of induction, together with some justification to accept the concept of truth embodied
+by CT. However, I suspect that the soundness argument will end up being
+non-transmissive, as long as either (a) conditions such as (NUC) are in place or
+(b) the justification to believe the premises of [SOUND] is provided by proofs
+of formalized statements in the theory of truth. In the concrete scenario, (NUC)
+would give us that proofs provided in CT[S] justify the soundness of PA only
+if CT[S] is consistent. Therefore, my proposed argument for failure should
+apply. A possibility to argue that [SOUND] is transmissive would be to either
+reject (a) or (b). Concerning (a), one could, for example, deny or weaken the
+(NUC). With this, there is no prima facie immediate way to argue for failure.
+
+

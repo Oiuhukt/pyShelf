@@ -1,0 +1,47 @@
+180
+
+The Structure of Scientific Inference
+
+preferential treatment, but there are severe objections to them in the form
+developed by Jeffreys. First, the restriction to differential equations is inadequate even for physics in its present theoretical state, let alone for the
+other sciences. Second, it has proved very difficult to define a simplicity
+ordering which satisfies all our intuitions regarding simplicity. Moreover, it is
+not clear what justification could be given for the assumption that greater
+simplicity is correlated with higher initial probability of hypotheses. 1 Some
+of these points will be investigated in chapter n , but meanwhile it must be
+concluded that this example of method (b) at least has not yet been shown to
+be adequate for a confirmation theory.
+Method (c) involves abandoning the attempt to confirm generalizations in
+infinite domains (let us call these strictly universal generalizations). Structure
+descriptions would now be specified, not by a set of precise ^-numbers, which
+would give zero probabilities, but by a set of intervals of ^-numbers, for
+example 'A proportion p of Ps are Qs\ where 61 ^ p<02, and (6^ d2) is a
+fixed finite interval in the range o to i . 2 This hypothesis may then have nonzero probability, since it is a member of a finite set of similarly defined
+hypotheses, and the confirmation of any finite prediction may be made as
+precise as we like by taking the intervals sufficiently small. Alternatively, the
+method may be interpreted as in Carnap's instance confirmation, as a way of
+assigning finite probability only to states of finite subsets of all the individuals,
+since these states are equivalent to disjunctions of denumerable states involving the rest of the denumerably many individuals. Since there is a finite
+number of states of a finite number of individuals, each can be given a finite
+probability.
+It has often been argued that, since science necessarily involves strictly
+universal generalization, a confirmation theory must assign finite probabilities
+to such generalization, and that therefore method (c) is unacceptable. That this
+consideration is not relevant to the confirmation of finite predictions has
+already been argued in connection with the transitivity paradox. But in
+addition to this argument, I shall now try to show more positively that even
+though strictly universal generalizations may have an essential role in science,
+they do not need to be confirmable. It will turn out that the zero probability
+of strictly universal generalizations is not after all counter-intuitive when
+carefully scrutinized, and that whenever a generalization in an infinite
+domain appears to be required by scientific inference, it can be replaced
+1 Jeffreys explicitly adopts the view proposed here, that confirmation theory is the explication of scientists' intuitions. H i s justification for the simplicity postulate goes as follows:
+' T h e actual behaviour of physicists in always choosing the simplest law that fits the observations therefore corresponds exactly to w h a t w o u l d be expected if they regarded the probability
+of m a k i n g correct inferences as the chief determining factor in selecting a definite 1 law out of
+an infinite number that w o u l d satisfy the observations equally well or better, and if they
+considered the simplest law as having the greatest prior probability.' (Scientific Inference, 60.)
+2
+
+Proposed b y J. Darlington, ' O n the confirmation of laws', Phil. ScL, 26 (1959), 14.
+
+

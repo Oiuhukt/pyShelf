@@ -1,0 +1,68 @@
+The simulation heuristic
+
+205
+
+Table 1. Analysis of first completion of the "if only" stem
+
+Response categories
+
+Time version
+
+Route version
+
+(i) Route
+(ii) Time
+(iii) Crossing
+(iv) Boy
+(v) Other
+
+8
+16
+19
+18
+1
+
+33
+2
+14
+13
+3
+
+event that fails to occur: Not a single subject mentioned that if Mr. Jones
+had come to the intersection two or three seconds earlier he would have
+gone through safely. The finding is typical: Events are not mentally
+undone by arbitrary alterations in the values of continuous variables.
+Evidently, subjects do not perform the undoing task by eliminating that
+necessary condition of the critical event that has the lowest prior probability - a procedure that would surely lead them to focus on the extraordinary
+coincidence of the two cars meeting at the intersection. Whatever it is that
+people do, then, is not perfectly correlated with prior probability.
+The alterations that people introduce in stories can be classified as
+downhill, uphill, or horizontal changes. A downhill change is one that
+removes a surprising or unexpected aspect of the story, or otherwise
+increases its internal coherence. An uphill change is one that introduces
+unlikely occurrences. A horizontal change is one in which an arbitrary
+value of a variable is replaced by another arbitrary value, which is neither
+more nor less likely than the first. The experimental manipulation caused
+a change of route to be downhill in one version, uphill in the other, with a
+corresponding variation in the character of changes of the timing of Mr.
+Jones's fatal trip. The manipulation was clearly successful: Subjects were
+more likely to undo the accident by restoring a normal value of a variable
+than by introducing an exception. In general, uphill changes are relatively
+rare in the subjects' responses, and horizontal changes are non-existent.
+The notion of downhill and uphill changes is borrowed from the
+experience of the cross-country skier, and it is intended to illustrate the
+special nature of the distance relation that can be defined for possible
+states of a system. The essential property of that relation is that it is not
+symmetric. For the cross-country skier, a brief downhill run from A to B is
+often paired with a long and laborious climb from B to A. In this metaphor,
+exceptional states or events are peaks, normal states or events are valleys.
+Thus, we propose that the psychological distance from an exception to the
+norm that it violates is smaller than the distance from the norm to the
+same exception. The preference for downhill changes is perhaps the major
+rule that mental simulations obey; it embodies the essential constraints
+that lend realism to counterfactual fantasies.
+A notable aspect of the results shown in Table 1 is the relatively low
+Downloaded from https:/www.cambridge.org/core. Boston University Libraries, on 27 Jun 2017 at 08:48:21, subject to the Cambridge Core
+terms of use, available at https:/www.cambridge.org/core/terms. https://doi.org/10.1017/CBO9780511809477.015
+
+

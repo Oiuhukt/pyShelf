@@ -1,0 +1,49 @@
+10
+
+Philosophy and Logic
+
+Substitutional Deﬁnition of Logical Consequence
+Let L, L, Γ, and S be as in the proof-theoretic deﬁnition of LC. Using “⊨SB”
+for the substitutional relation of LC, we deﬁne:
+Γ ⊨SB S iff for any uniform substitution, *, of the non-lcs in Γ and S by
+non-lcs of L of the same syntactic types: T(Γ*)  T(S*), that is, if all the
+sentences of Γ are true under *, S is true under *
+
+where “true” means “true simpliciter,” that is, “materially true” (“true in the
+actual world”).
+Examining this deﬁnition, Tarski concluded that while it sets a necessary
+condition for LCs, it does not set a sufﬁcient condition. The substitutional
+deﬁnition is satisﬁable not just by LCs, but also by non-LCs. The reason is
+that whether the substitutional test works depends on the richness of the
+language L. If L does not have enough non-lcs to generate counterexamples
+for all non-LCs, then some non-LCs of L will be pronounced LCs by this test.
+Example: Let the entire nonlogical vocabulary of L consist of “Logician,”
+“Tarski,” and “Frege.” Consider the consequence:
+
+(1) Tarski is a logician; therefore, Frege is a logician
+Clearly, (1) is merely an MC, but it passes the substitutional test. For any
+uniform substitution of “Logician,” “Tarski,” and “Frege” by non-lcs of L (of
+the same syntactic type),
+
+https://doi.org/10.1017/9781108981668 Published online by Cambridge University Press
+
+T½LogicianðTarskiÞ  T½LogicianðFregeÞ :9
+So, the substitutional test fails. The nonlogical vocabulary of L is too impoverished to provide counterexamples for all nongenuinely-LCs. Tarski concluded
+that the substitutional deﬁnition is inadequate:
+The [substitutional deﬁnition] could be regarded as sufﬁcient for the sentence [S]
+to follow [logically] from the class [Γ] only if the designations [names] of all
+possible objects occurred in the language in question. This assumption, however,
+is ﬁctitious and can never be realized. (Tarski 1983 [1936a]: 416, my emphasis)
+
+We cannot assume that given an arbitrary language L, its nonlogical vocabulary
+is sufﬁciently rich to provide an adequate substitutional test of LC.
+Another problem with the substitutional deﬁnition of LC, not mentioned by
+Tarski, is that generally, it takes into account only the truth of sentences in the
+actual world. Consider the consequence:
+(2) There is exactly one individual; therefore, there are at least two
+individuals.
+9
+
+Here, [Logician(Tarski/Frege)]*=Logician*(Tarski*/Frege*).
+
+

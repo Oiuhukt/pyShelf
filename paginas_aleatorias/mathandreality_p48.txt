@@ -1,0 +1,43 @@
+naturalism and ontology
+
+37
+
+to express our best physical theories, for he thinks that there is a presumption
+in science of supervenience, such that, although the concepts of ordinary
+language and of special sciences other than physics may also allow for useful
+ways of describing and understanding the world, the truth of utterances
+within those theories should ultimately supervene on matters of physical
+fact. Thus, in answering the question of why ‘this special deference to
+physical theory?’ Quine (1978: 98) responds:
+The answer is not that everything worth saying can be translated into the technical
+vocabulary of physics; not even all good science can be translated into that
+vocabulary. The answer is rather this: nothing happens in the world, not the
+ﬂutter of an eyelid, not the ﬂicker of a thought, without some redistribution of
+microphysical states. It is usually hopeless and pointless to determine just what
+microphysical states lapsed and what ones supervened in the event, but some
+reshufﬂing at that level there had to be; physics can settle for no less. If the
+physicist suspected there was any event that did not consist in a redistribution of
+the elementary states allowed for by his physical theory, he would seek a way of
+supplementing his theory. Full coverage in this sense is the very business of physics,
+and only of physics.
+
+Whether or not Quine is right about this presumption of supervenience
+is not particularly important as regards our own application of the naturalistic approach to answer ontological questions about whether there
+are mathematical objects. Since, as we have already noted, existentially
+quantiﬁed claims whose truth would require the existence of mathematical
+objects already appear in our current best physical theories, whether we
+follow Quine in focusing on the existentially quantiﬁed claims of our best
+physics, or go further to allow existentially quantiﬁed claims made in the
+context of other theories also to be ontologically signiﬁcant, either way we
+will ﬁnd ourselves faced with statements whose truth would require the
+existence of mathematical objects.
+The only situation in which a focus on physics might be thought to cause
+special problems is if we thought that the existentially quantiﬁed utterances
+of pure mathematics should be viewed as ontologically signiﬁcant. For in
+that case, even if we found a way of rejecting the Quinean conclusion
+that our best physical theories give us reason to believe in mathematical
+objects, the presence of utterances whose truth would require the existence
+of mathematical objects in our best expressions of our pure mathematical
+theories would mean that we would still ﬁnd ourselves committed to
+
+

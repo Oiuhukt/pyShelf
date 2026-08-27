@@ -1,0 +1,69 @@
+Figure 17: Kepler’s theory of planetary distances.
+14.5. Explain why the sun-centred model of Copernicus was
+crucial in two ways for Kepler to be able to posit this theory.
+You might think that the “p-value” of Kepler’s theory does not
+pass a significance test since there are so many possible permutations of the polyhedra—shouldn’t one of them fit just by
+chance? Kepler had some dubious arguments for his particular
+ordering, a sample of which you will find in the readings. But
+even if you are not impressed by these arguments, Kepler’s theory is not as arbitrary as you might think, because many permutations do not change the sizes. For example:
+
+As Copernicus puts it, the heliocentric system “binds together
+so closely the order and the magnitudes of all the planets and of
+their spheres or orbital circles and the heavens themselves that
+nothing can be shifted around in any part of them without disrupting the remaining parts and the universe as a whole.” For
+this reason he can claim triumphantly that earlier astronomers
+“have not been able to discover or to infer the chief point of all,
+i.e., the form of the world and the certain commensurability of
+its parts. But they are in exactly the same fix as someone taking
+from different places hands, feet, head, and the other limbs—
+shaped very beautifully but not with reference to one body and
+without correspondence to one another—so that such parts
+made up a monster rather than a man.”
+
+14.6. Show that the cube and the octahedron are interchangeable (i.e., have the same ratio of circumradius to inradius).
+
+§ 15.
+
+Galileo
+
+Galileo was a prominent advocate of Copernicus’s heliocentric
+system; this even got him into hot water with the church authorities, as we learn more about in the readings. Galileo presented his case in Dialogue Concerning the Two Chief World
+Systems (1632). At the end of the work one reads:
+
+The Copernican system conflicts with the ancient vision of the
+cosmos and the polyhedral theory of the elements in a number
+of ways.
+
+In the conversations of these four days we have,
+then, strong evidences in favor of the Copernican
+system, among which three have been shown to be
+very convincing—those taken from the stoppings
+and retrograde motions of the planets, and their
+approaches toward and recessions from the earth;
+second, from the revolution of the sun upon itself,
+and from what is to be observed in the sunspots;
+and third, from the ebbing and flowing of the
+ocean tides.
+
+14.4. Outline how.
+But Kepler, as we saw in §2, was fascinated by the mathematical beauty of those theories and was not about to give them
+up so easily. In his Mysterium Cosmographicum (1596), gave
+a very imaginative interpretation of the Copernican universe
+in terms of the regular polyhedra, using them to explain “the
+nature of the universe, God’s plan for creating it, God’s source
+for the numbers, the reason why there are six orbits, and the
+spaces which fall between all the spheres.” See figure 17. The
+spheres of the planets are nested in such a way that the regular
+polyhedra fit precisely between them. Kepler’s theory fits the
+facts remarkably well, and is a striking unification of the two
+special numbers from §2.
+
+The first argument is that of problem 14.1. The third argument
+is that the tides can only be due to the earth’s motion:
+There is nothing we can do to replicate artificially
+the motions of the tides, apart from moving the
+vessel containing the water. Surely this is enough
+to convince anyone that any other cause that is put
+20
+
+

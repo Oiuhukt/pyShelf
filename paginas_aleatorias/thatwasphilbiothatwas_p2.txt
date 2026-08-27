@@ -1,0 +1,98 @@
+154
+
+dismissing logical empiricism’s relevance to the philosophy
+of biology—see, for example, Mayr (1988, 2004).
+The Cambridge Companion to Logical Empiricism
+(Uebel and Richardson 2007a) ignores biology altogether:
+there is no chapter on logical empiricism and the philosophy
+of biology even though there is a chapter on logical empiricism and the philosophy of physics (Ryckman 2007), which
+is not a surprise, but also chapters on the logical empiricism
+and the philosophy of psychology (Hardcastle 2007) and the
+philosophy of the social sciences (Uebel 2007). The index
+has no entry for “biology.” This is particularly surprising
+because (Rieppel 2003) had recently demonstrated the influence of Carnap’s (1922) Der Raum and Woodger’s work
+(see below) on Hennig’s (1950) formulation of cladistics in
+systematics.2
+The purpose of this article is to challenge this legacy of
+demeaning the relevance of logical empiricism to the philosophy of biology. It will suggest that, once we take theoretical debates amongst the biologists in the 1930s and 1940s
+into account, the contributions made by logical empiricists
+from the late 1930s till the late 1950s fall centrally within
+the conceptual landscape of contemporary work in theoretical biology (what Wolters refers to as “ideology”). Only
+slightly more polemically, it will also suggest that some of
+the logical empiricist analyses continue to provide insights
+even today.
+These claims are no longer entirely novel. In particular, Hofer (2002, 2013), Byron (2007), and Nicholson and
+Gawne (2014, 2015) have defended related claims. I use and
+comment on Hofer’s work below; while she focuses (mostly
+appropriately for her biographical purposes) on networks
+of personal interactions between the relevant figures, my
+concern here is with the intellectual content of the logical
+empiricist analyses of biology. Byron’s contribution is to
+point out that there was a long and lively tradition within
+the philosophy of biology (and not just limited to logical
+empiricism) long before the late 1960s when Hull and a
+few others are often supposed to have founded the discipline. However, his methodology is entirely bibliometric;
+in contrast, the concern of this article is to trace and analyze
+the critical philosophical arguments. Nicholson and Gawne
+(2014) aim to rehabilitate Woodger. They ignore Nagel and,
+by and large, accept the view that logical empiricism was
+of little value for the philosophy of biology. (According to
+them, although they acknowledge the complexity of this
+issue, Woodger should not be treated as a logical empiricist.)
+Another difference between their analysis and this article is
+
+2
+In response, Uebel (personal communication, August 4, 2014) has
+pointed out that when the volume was first being planned around
+1998 there was no extant literature documenting attention to biology
+on the part of the logical empiricists.
+
+13
+
+S. Sarkar
+
+that, when they consider Woodger’s formal work, Nicholson
+and Gawne’s defense of Woodger is largely sociological,
+dealing with the reception of Woodger’s work in its contemporary context; in contrast, this article critically examines
+the content of Woodger’s most important formal contributions. Nicholson and Gawne (2015) defend organicism in
+contrast to logical empiricism as the appropriate philosophy
+of biology.
+The debates amongst the biologists alluded to earlier,
+starting in the late 1920s and continuing through the 1930s
+and 1940s, were both scientific and philosophical. The most
+important philosophical debate was that between mechanism
+and organicism (and, also, to some extent emergentism), and
+it dominated theoretical discussions within much of biology
+into the 1950s (see the third section). Within the logical
+empiricist canon, this debate played itself out in the disagreements between Woodger on the side of the organicists
+and Nagel tentatively on the mechanist side. Nagel left a
+lasting legacy in his analysis of theory reduction and reductionism. Woodger’s formal analyses revealed (1) the complexity of mereology in the biological context which was
+subsequently recognized by contemporary biologists, as well
+as (2) problems with the definition of temporal identity for
+biological systems. Woodger’s semiformal analysis of a variety of biological concepts, especially those of the Bauplan
+and innateness, are perhaps even more important. Nagel also
+provided a telling critique of the doctrine of emergence that
+remains pertinent today. His analysis of teleology in 1961
+was less important and changed radically in the 1970s in
+response to the advent of molecular biology—but post-1961
+developments are beyond the scope of this article. (The year
+1929 was chosen as the beginning of this story because that
+was when Woodger’s first philosophical book, Biological
+Principles, was published. The year 1961 was chosen as the
+end because it saw the publication of Nagel’s Structure of
+Science, which is widely regarded as the epitome of logical
+empiricist philosophy of science (e.g., see Suppe 1974).)
+The discussion below is organized around Wolters’s
+claims but that is not because they should be singled out
+for special criticism—as noted earlier, such views are commonplace. It is to Wolters’s credit that he crystallized these
+views precisely even though they ultimately turn out to be
+indefensible. The second section will address the claim that
+the “wrong people” addressed biology within logical empiricism. It will show that almost all the relevant logical empiricists had impeccable biological credentials. The next section
+turns to the question of the “wrong framework.” It will document the extent to which the debate between mechanism and
+organicism dominated philosophical discussions of biology
+in the 1930s and 1940s. Thus, the logical empiricists quite
+appropriately focused on this issue in the 1940s and 1950s.
+Section four will consider whether they asked the “wrong
+questions.” It will describe in detail and critically defend
+
+

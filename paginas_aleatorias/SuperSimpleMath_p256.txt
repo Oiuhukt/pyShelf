@@ -1,0 +1,142 @@
+256 Further graphs
+
+Exponential
+graphs
+
+Key facts
+
+✓ An exponential function is one where x appears as
+the power of a constant.
+
+An exponential graph is a graph in the
+form y = kx, where x appears as the power
+of a constant. The graph’s curve represents
+accelerating growth or decay, depending
+on its direction.
+
+✓ Exponential graphs are almost flat at one end and
+quickly get steeper at the other.
+
+✓ The graph will show either exponential growth or
+
+exponential decay, depending on the value of the
+base of x.
+
+✓ For exponential growth, the higher the value of x,
+the faster the growth. For exponential decay, the
+higher the value of x, the slower the decay.
+
+Exponential functions
+This is an exponential function in the form f(x) = kx.
+When k, called the base of the exponent, is greater
+than 1, the output of an exponential function will
+show exponential growth (see page 61).
+
+Graph of y = 2x
+x
+This is the graph of the exponential function f(x) = 2 .
+It shows exponential growth. The graph is almost flat
+at one end, then as x increases, the curve climbs
+steeper and steeper upward.
+
+x
+
+f (x) = 2
+In this example, the base is
+2, so the output will double
+if the input increases by 1.
+
+For exponential growth, the higher the
+value of x, the faster the growth.
+
+y
+
+The number is
+raised to the
+power of x.
+
+8
+7
+
+x
+
+Table for y = 2
+We identify coordinates for the graph of the
+exponential function f(x) = 2x by swapping f(x) for
+y to turn the function into an equation. Substituting
+different values for x into the equation reveals the
+y values, and therefore the coordinates to plot.
+
+6
+5
+
+y = 2x
+
+4
+3
+
+Raising 2 to negative values
+of x gives values of y less
+than 1 but greater than 0.
+
+2
+1
+
+Input (x)
+
+−2
+
+−1
+
+0
+
+1
+
+2
+
+Output (y)
+
+1
+4
+
+1
+2
+
+1
+
+2
+
+4
+
+As 2 is raised to greater
+values of x, each value of
+y is further from the last.
+
+x
+−3
+
+−2
+
+−1
+
+0
+
+This part of any exponential
+curve is asymptotic to the
+x axis, which means it
+approaches but never
+touches the axis.
+
+1
+
+2
+
+3
+
+The y intercept (where
+x = 0) will be 1 for any
+exponential graph, because
+any number raised to the
+power of 0 is 1.
+
+

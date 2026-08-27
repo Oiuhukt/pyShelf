@@ -1,0 +1,46 @@
+Quisiera terminar señalando dos cosas que restan por hacer. Mi objetivo
+final es decir cómo los modelos causales sirven en la investigación para concluir
+que hay una relación causal entre dos fenómenos. Creo que el marco presentado
+en este capítulo es útil para poder mostrar que los compromisos que tienen los
+investigadores cuando utilizan modelos es menos problemático de lo que pudiera
+parecer a primera vista.
+
+Referencias
+Aristóteles. (2012). Ética nicomaquea (3ª ed.; A. G. Robledo, Ed.). UNAM.
+Blåsjö, V. (2022). Operationalism: An interpretation of the philosophy of ancient
+greek geometry. Foundations of Science, 27 (2), 587–708. Descargado de
+https://doi.org/10.1007/s10699-021-09791-4 doi: 10.1007/s10699
+-021-09791-4
+Elgin, C. Z. (2004). True enough. Philosophical Issues, 14 (1), 113–131. doi:
+10.1111/j.1533-6077.2004.00023.x
+Freudenthal, G. (1986). Newton’s Justification of the Theory of Absolute Space. En R. S. Cohen y M. W. Wartofsky (Eds.), (Vol. 88,
+pp. 13–28). Dordrecht: Springer Netherlands. Descargado 2022-11-29,
+de http://link.springer.com/10.1007/978-94-009-4500-5_2
+doi:
+10.1007/978-94-009-4500-5_2
+Gettier, E. L. (1963). Is justified true belief knowledge? Analysis. doi: 10.1093/
+analys/23.6.121
+Grimm, S. (2012). The value of understanding. Philosophy Compass, 7 (2),
+103–117. doi: 10.1111/j.1747-9991.2011.00460.x
+Ichikawa, J. J., y Steup, M. (2018). The Analysis of Knowledge. En E. N. Zalta
+(Ed.), The Stanford encyclopedia of philosophy (Summer 2018 ed.). Metaphysics Research Lab, Stanford University. https://plato.stanford
+.edu/archives/sum2018/entries/knowledge-analysis/.
+Klein, P. D. (2019). How to get certain knowledge from fallible justification.
+Episteme, 16 (4), 395-412. Descargado de https://www.cambridge.org/
+core/article/how-to-get-certain-knowledge-from-fallible
+-justification/B1337451D2EF1534F1061E84659418D3
+doi:
+10.1017/epi.2019.33
+Laudan, L. (1981). A Confutation of Convergent Realism. Philosophy of Science, 48 (1), 19–49. Descargado 2022-12-12, de https://www.jstor.org/
+stable/187066
+Mach, E. (2013). The science of mechanics. Cambridge University Press. Descargado de https://books.google.com.mx/books?id=IdD1AAAAQBAJ
+Mayo, D. G. (2018). Statistical inference as severe testing: How to get beyond
+the statistics wars. Cambridge: Cambridge University Press. Descargado
+de https://www.cambridge.org/core/books/statistical-inference
+-as-severe-testing/D9DF409EF568090F3F60407FF2B973B2
+doi: 10
+.1017/9781107286184
+
+12
+
+

@@ -1,0 +1,45 @@
+:.
+
+THE DICTIONARY PROBLEM
+
+9
+
+determining which of several sets an element is a member of, or operations based
+on an ordering or other auxiliary information associated with the keys in the set.
+For the data structures we consider, we will pay some attention to methods for
+insertion and deletion, but we shall not discuss the more complicated operations.
+We first survey some known methods for set representation, and then propose
+a new data structure called a "packed trie".
+
+Data structures
+Methods for set representation include the following: sequential lists, sorted
+lists, binary search trees, balanced trees, hashing, superimposed coding, bit vectors, and digital search trees (also known as tries). Good discussions of these data
+structures can be found in a number of texts, including Knuth [4], Standish [5], and
+AHU [6]. Below we make a few remsirks about each of these representations.
+A sequential list is the most straightforward representation. It requires both
+space and search time proportional to the number of characters in the dictionary.
+A sorted list assumes an ordering on the keys, such as alphabetical order.
+Binary search allows the search time to be reduced to the logarithm of the size of
+the dictionary, but space is not reduced.
+A binary search tree also allows search in logarithmic time. This can be thought
+of as a more flexible version of a sorted list that can be optimized in various ways.
+For example if the probabilities of searching for different keys in the tree are known,
+then the tree can be adapted to improve the expected search time. Search trees
+can also handle insertions and deletions easily, although an unfavorable sequence of
+such operations may degrade the performance of the tree.
+Balanced tree schemes (including AVL trees, 2-3 trees, and B-trees) correct
+the above-mentioned problem, so that insertions, deletions, and searches can all
+be performed in logarithmic time in the worst case. Variants of trees have other
+nice properties, too; they allow merging and splitting of sets, and priority queue
+operations. B-trees are well-suited to large applications, because they are designed
+to minimize the number of secondary memory accesses required to perform a search.
+However, space utilization is not improved by any of these tree schemes, and in fact
+it is usually increased because of the need for extra pointers.
+Hashing is an essentially different approach to the problem. Here a suitable
+randomizing function is used to compute the location at which a key is stored.
+Hashing methods arc very fast on the average, although the worst case is linear;
+fortunately this worst case almost never happens.
+An interesting variant of hashing, called superimposed coding, was proposed
+by Bloom [7] (see also [4, §6.5], [8]), and at last provides for reduction in space,
+
+

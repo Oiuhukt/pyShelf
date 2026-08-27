@@ -1,0 +1,37 @@
+X
+
+X
+
+S
+
+¬S
+
+Figure 2: Lack of probabilistic independence.
+
+Egan’s examples exploit a very general problem for the claim that what
+matters in decision taking is the probability of a conditional proposition. No
+two contingent, logically independent propositions are probabilistically independent in all probability distributions—or in all
+belief distributions. There are always possible states of information in which
+one bears positively or negatively on the other. Maybe conditional propositions are normally independent of their antecedents, in which case it doesn’t
+matter whether you consider p(A→C) or p((A→C)|A). But where they do
+come apart, as in Egan’s examples, it is the conditional probability that
+matters: the probability of the conditional on the assumption that you do the
+action. Also, on (almost) any understanding of the conditional proposition,
+p((A→C)|A) = p(C|A).18 So: (provided we are focusing on the restricted
+category based on causal relations) it is sometimes essential to use conditional probabilities, and it never does any harm to use the conditional
+probabilities.
+
+The Lessons
+Egan’s examples show that doing decision theory in terms of non-backtracking
+counterfactuals is no good. Indeed, the ban on backtracking is a bad idea. We
+want all the evidence we can get about what the causal situation will be, on the
+assumption that I do A. In the counterexamples to Jeffrey, what the backtracking
+evidence reveals is that there is no causal connection between smoking and
+18. The equality holds provided A&B entails A → B. This is so on standard accounts of counterfactuals. Good reasons for the claim are found in L. Walters, “Morgenbesser’s Coin and
+Counterfactuals with True Components,” Proceedings of the Aristotelian Society, 109 (2009),
+pp. 365–79.
+
+83
+© 2011 The Author. Journal compilation © 2011 Wiley Periodicals, Inc.
+
+

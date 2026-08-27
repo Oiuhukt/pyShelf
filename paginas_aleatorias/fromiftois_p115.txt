@@ -1,0 +1,70 @@
+Non-normal Modal Logics; Strict Conditionals
+
+3. Show the following for N. Specify a counter-model and draw a picture
+of it.
+(a)
+
+✷p ⊃ p
+
+(b)
+
+✷p ⊃ ✷✷p
+
+(c)
+
+¬( pp)q
+
+(d)
+
+✷( pp)
+
+(e)
+
+( pq)(✷p✷q)
+
+(f)
+
+✷✷p(✷q✷✷q)
+
+(g)
+
+✸✸p
+
+(h)
+
+✷✷( p ∨ ¬p)
+
+4. Which of the above (in problem 3) hold in S2 (Nρ)? Which hold in S3
+(Nρτ )?
+5. Repeat 3.10, problem 7, with N instead of K. (Beware: in Nτ , ✷p ⊃ ✷✷p
+is not valid. A little ingenuity is required here.)
+6. How might one object to the arguments of 4.7 and 4.8?
+7. Show that
+
+✸✸( p ∧ ¬p) ∨ ✷(qq), in both S2 and S3, but that neither
+
+disjunct is valid in either S2 or S3. (Note that there is nothing odd,
+in general, about having a logically valid disjunction, each disjunct of
+which is not logically valid – just consider p ∨ ¬p. But it is odd for this
+to arise if the disjuncts have no propositional parameter in common.)
+8. *Consider an interpretation for N. Call a world standard if it is both
+normal and accesses a non-normal world. A new notion of validity
+is obtained if we deﬁne it in terms of truth preservation at standard
+worlds. Show that according to this deﬁnition of validity, ✸✸A is valid.
+If, in addition, we insist that R be reﬂexive, or reﬂexive and transitive, we obtain the non-Lewis systems S6 and S7, respectively. These are
+extensions of S2 and S3, respectively, but, despite the numerology, they
+are not extensions of S5. Design tableau systems for S6 and S7 and prove
+them sound and complete.
+9. *Show that L (✷p ⊃ p) ∨ ✷q, but
+
+Lσ τ (✷p ⊃ p) ∨ ✷q. Infer that Lσ τ is a
+
+proper extension of L. By a tableau-theoretic argument, show that Lρ is
+an extension of Lσ τ . (Hint: see 4.10.6.) Show that Lσ τ ✷p ⊃ p, and infer
+that it is a proper extension.
+10. *What effect does the addition of the constraint η have on L and its other
+extensions?
+
+81
+
+

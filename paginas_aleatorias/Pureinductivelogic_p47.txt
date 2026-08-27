@@ -1,0 +1,48 @@
+6. Some Basic Principles
+
+35
+
+As in the justiﬁcation of the rationality of Ex we may argue that it
+would, in the zero knowledge situation we are limiting ourselves to, be
+irrational of an agent to treat any two relation symbols of the same arity
+any diﬀerently. This leads to the following principle which in our context
+corresponds to Carnap’s axioms A8 and A9 from his Axiom System for
+Inductive Logic see [130, page 974].
+The Principle of Predicate Exchangeability, Px.
+If R, R are relation symbols of L with the same arity then for  ∈ SL,
+w() = w(  )
+where   is the result of simultaneously replacing R by R and R by R
+throughout .
+Although in the statement of this principle we only transposed two relation symbols repetition of this action (and the fact that any permutation
+of a ﬁnite set can be represented as compositions of transpositions) gives
+that if R1 , R2 , . . . , Rk are relation symbols of L of the same arity,  ∈ Sk
+(the set of permutations of {1, 2, . . . , k}) and  ∈ SL then w() = w(  )
+where   is the result of simultaneously replacing Ri by R(i) throughout
+ for i = 1, 2, . . . , k.
+Our ﬁnal symmetry motivated principle in this chapter is perhaps
+slightly more questionable. In this case the contention is that there is
+a symmetry between any relation symbol R of L and its negation ¬R and
+so our agent has no reason to treat R any diﬀerently than ¬R. Since ¬¬R
+is logically equivalent to R this ﬁnds expression in31 :
+The Strong Negation Principle, SN.
+For  ∈ SL,
+w() = w(  )
+where   is the result of replacing each occurrence of R in  by ¬R.
+Just as with Ex in the deﬁnitions of Px and SN we could equally well
+have restricted  to being quantiﬁer free since the given versions then
+follow.
+Obviously requiring w to satisfy these three principles severely restricts
+the possible choices for w, an issue which we shall return to later. Notice
+that for each of Ex, Px, SN if the probability function w on SL satisﬁes
+the principle then so does its restriction w  SL to a sublanguage L .32
+31 There is also a weaker version of this principle, the Weak Negation Principle, motivated
+
+by considering the symmetry as existing only when all relation symbols of L are being
+replaced by their negations. Precisely,
+The Weak Negation Principle, WN: For  ∈ SL, w() = w(  ), where   is the result of
+simultaneously replacing each occurrence of a relation symbol in  by its negation.
+In this monograph we do not study WN further.
+32 By L being a sublanguage of L we mean that the set of relation symbols in L is a subset
+of the set of relation symbols in L but L still has all the constant symbols a1 , a2 , a3 , . . . .
+
+

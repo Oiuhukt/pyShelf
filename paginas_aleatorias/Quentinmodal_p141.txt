@@ -1,0 +1,50 @@
+5.3 The Inductive Route Towards Necessity
+
+129
+
+example, the fact that a table breaks indicates that it is possible that it breaks
+(because actuality implies possibility), and this modal knowledge can then be
+extended to other similar tables, to the conclusion that they are breakable.
+This approach can be qualified, in Hale (2003)’s terminology, as a possibilityfirst approach: the idea is that knowledge of a given class of possibilities, and in
+particular, the absence of some relevant possibilities in this class, informs us about
+relations of necessity. Here, the relevant class of possibilities is the class of realised
+possibilities.8
+The assumption that observed situations are representative of possible situations
+cannot itself be justified by induction without circularity. But this is no more
+a problem than it is for other versions of induction, where one assumes that
+observed situations are representative of all unobserved ones of the same type in
+the universe. The notion of representativeness involved here is, of course, sensitive
+to the way situations are classified into types. One could wonder at which point
+some variation in an experimental setting makes the type of situation different, and
+not representative anymore. I have claimed earlier that types of situations can be
+defined conventionally (Sect. 5.2.1), but that some choices are more fortunate than
+others. This is also related to the notion of projectibility mentioned in Sect. 5.3.2: a
+property attributed to situations of a type is projectible in so far as these situations
+are representative of other situations of their type with regard to this property.
+As explained earlier, I presume that the assumption that a theoretical predicate
+is projectible rests on experimental stability and reproducibility, so this is itself
+known by induction (assuming that more mundane predicates associated with
+our observations are projectible), and the same goes for representativeness. Any
+assumption of representativeness is, of course, defeasible. In any case, the main
+point that I wish to make here is that this kind of problem is not specific to modal
+knowledge: small variations in experimental designs can also be observed among
+the set of actual situations. Yet, scientists generally consider that the phenomena
+observed in such designs are representative of their type.
+As we can see, assuming situated possibilities, there is a homogeneity between
+an induction towards universal regularities and an induction towards necessity: both
+involve generalising from a sample of situations to a larger set of the same type. One
+could reject the latter while accepting the former assuming some disparities between
+the two cases: either merely possible situations do not exist while unobserved actual
+situations do, or observed situations are representative of unobserved actual ones,
+but not of merely possible ones. I assume that possible situations do exist (qua
+possible states of affairs), and in this context, claiming that observed situations are
+representative only of actual ones seems to be question-begging. Actual situations
+are merely a sub-set of the possible situations: the ones that are realised. There
+seems to be no more reason to assume a bias in the way these are selected among
+
+8 Note that Hale explicitly rejects this option, but (1) he does not discuss inductive reasoning in his
+
+paper, and (2) he is mainly concerned with knowledge of metaphysical modalities, and assumes,
+wrongly in my opinion, that knowledge of weaker modalities must derive from it.
+
+

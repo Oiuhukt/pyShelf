@@ -1,0 +1,45 @@
+But even putting that aside, is it true that any player of g with aim α
+has α as their own personal aim or goal? If it is, then anyone who doesn’t
+adopt α as their aim cannot be genuinely playing g. This claim strikes me
+as quite implausible. If all competitive games have winning as a constitutive
+aim in the sense at issue, then playing those games non-competitively is impossible or conceptually incoherent. This does not seem right. It certainly
+doesn’t seem to comport with our ordinary ways of thinking and talking
+about games. If I go out to play tennis with you but we end up just hitting
+around without playing any points, there is nothing at all wrong with reporting my activity as having played tennis. If I’m trying to throw a game of
+Tic-tac-toe because my nephew hates losing so much, there’s nothing at all
+wrong with describing what I’m/we’re doing as playing Tic-tac-toe. Moreover, many games have fairly specific conditions that a player must meet in
+order to win. It’s difficult to see how the fact that a player is not trying to
+achieve exactly those specific conditions leaves them doing something else
+entirely. Imagine someone confused about the victory conditions of some
+game (they think the point of the game is α∗ rather than α). It seems to
+me that with a bit of luck this sort of person can end up winning the game
+despite not having adopted the aim of the game as their own personal aim.
+But how can they have won the game if they weren’t playing it?
+I am not alone in concern or dissent here. The claim that one can only
+count as playing some game if one has adopted the point of that game as
+one’s own personal aim is not without controversy.11 Defenders typically dig
+in with claims that even when a player is trying to lose the game, there is
+still some sense (or some sense) in which they are trying to win, or perhaps
+that they are, in cases like that, playing a subtly different game (e.g. Shwar
+rather than War). Neither response strikes me as very plausible.
+If I’m right, then it’s difficult to see what insight is to be gleaned about
+the teleological structure of inquiry by looking to games and game-playing.12
+Inquiring is not similar to playing a game in the ways that would make the
+fact that games have a conventionally determined point/constitutive aim
+relevant — inquiring is not an artifactual practice in the way that playing
+a game of Tic-tac-toe or War is. Further, the claim that some game g’s
+having a constitutive aim α implies that anyone playing g has α as their
+own personal aim looks false. And so the analogy with games is unhelpful
+either way. Of course, this doesn’t mean that inquirers don’t have personal
+aims in every case. It only means that an argument that they do that goes
+11
+A few dissenters: Williamson (2000), McHugh and Way (2018), Kelp and Simion
+(2020), Kelp (2021), and Nguyen (2019). The latter also includes a nice, in-depth account
+of the complex aims of game players.
+12
+See Rowbottom (2014) for concerns about the games analogy with respect to ‘the aim
+of science’.
+
+7
+
+

@@ -1,0 +1,232 @@
+ARTICLE
+
+NATURE COMMUNICATIONS | https://doi.org/10.1038/s41467-019-13585-5
+
+Genome-wide association analysis of household income n = 286,301
+LDSC
+
+Heritability
+h 2 = 7.39%
+
+Global
+
+Enrichment
+of
+conserved
+regions,
+CNS, and
+others
+
+Stratified
+over
+functional
+groupings
+
+Polygenicity
+explains
+∼92% of the
+inflation in
+GWAS test
+statistics
+
+Test for
+population
+stratification
+
+Income
+linked to
+better
+health
+compared
+with
+education
+Conditioning
+on income
+results in an
+attenuation
+of rg
+between
+intelligence
+and health
+
+Mendelian randomisation
+
+INTERVAL data set on
+intelligence mata-analysed
+with publically available
+data. n = 95,521
+
+Loci discovery and annotation
+
+Genetic prediction of income
+
+Gene-based GWAS
+
+Independent cohort.
+Generation Scotland n = 6680
+1.2–2% of phenotypic variance
+in income explained
+
+Gene-set
+and
+property
+analysis
+
+30 independent loci
+identified
+
+Causal role for intelligence
+on income identified
+
+118 genes
+GWAS catalog
+lookup
+
+10,891
+gene sets
+
+Functional annotation
+Loci overlap with
+psychiatric, cognitive,
+and neurological
+traits
+
+46.7% of SNPs intronic,
+29.0% SNPs ncRNA,
+17.1% SNPs intergenic
+Genetic
+correlations
+Comparison
+with another
+marker of SEP
+(education)
+Income
+conditioned on
+intelligence
+and vice versa
+
+11
+developmental
+stages 29 ages
+
+86% of SNPs found in
+an open chromatin
+state
+
+Positional mapping
+
+117 genes
+
+eQTL mapping
+
+186 genes
+
+Chromatin interactions
+
+227 genes
+
+18 of the 24 genes
+associated with income
+also associated with
+intelligence
+
+Comparison with
+GWAS of intelligence
+(Hill et al. 2018)
+
+Brain
+expression
+changes
+across the
+cortex
+identified
+
+24 board
+cell types
+
+Gene mapping
+33% of SNPs had an
+RDB score of < 2
+
+30 broad and
+53 specific
+tissues gene
+sets
+
+Expression
+in medium
+spiny
+neurons and
+serotonergic
+neurons
+
+400 unique
+genes
+
+24 genes associated
+with all four gene based
+analysis
+
+Fig. 2 Flow chart for the statistical analysis carried out using the GWAS data on household income in 286,301 White British participants in UK
+Biobank. Blue indicates a type of analysis conducted (i.e. LDSC to derive a heritability estimate) and gold indicates a subtype of this type of analysis (i.e.
+global heritability or the heritability of a subset of SNPs). Green indicates the result of an analysis (i.e. the global heritability was 7.39%).
+
+total of 29 of these 30 loci were not identiﬁed in the previous UK
+Biobank analysis of income7 (Supplementary Data 2). The 30 loci
+predominantly contained SNPs found within intronic regions
+(47%) as well as non-coding RNA introns (29%). A total of 17%
+of the SNPs within the independent loci were found in intergenic
+regions, and only 1.2% were found in exons (Fig. 3b). Many of the
+loci contained SNPs showing evidence of inﬂuencing gene regulation with 33% having a Regulome DB score of <2 (Fig. 3c) and
+86% having evidence of being in an open-chromatin state (indicated by a minimum chromatin state of <8, in Fig. 3d). Additionally, these loci were linked to intelligence (11 loci), mental
+health (schizophrenia, 1 locus; bipolar disorder, 2 loci; neuroticism, 4 loci) and neurological variables (corticobasal degeneration, 1 locus; subcortical brain volumes, 1 locus; and Parkinson’s
+disease, 1 locus) (Supplementary Data 3).
+Linkage disequilibrium score (LDSC) regression showed that
+the mean χ2 statistic was 1.45 and the intercept of the LDSC
+regression was 1.04. These statistics indicate that around 92% of
+the inﬂation in the GWAS test statistics was due to a polygenic
+signal rather than residual stratiﬁcation or confounding. The
+LDSC regression estimate of the heritability of household income
+was 7.39% (SE = 0.33%).
+Gene prioritization. Three methods of mapping allelic variation
+to genes were used to better understand the functional consequences of the 30 independent loci linked to income (positional
+mapping, expression quantitative trait loci (eQTL) analysis and
+chromatin mapping). Using positional mapping, SNPs from the
+GWAS were aligned to 117 genes. eQTL mapping was used to
+match cis-eQTL SNPs to 186 genes, and chromatin interaction
+mapping linked the SNPs to 277 genes (Fig. 3e and Supplementary
+
+Data 4 and Supplementary Fig. 1). These mapping strategies
+identiﬁed a total of 400 unique genes, of which 133 (Fig. 3e cells
+14 + 23 + 26 + 3 + 24 + 11 + 2 + 30) were implicated by at least
+two mapping strategies and 47 (Fig. 3e cells 23 + 24) were
+implicated by all three. Of the 133 implicated by two mapping
+strategies, two showed evidence of a chromatin interactions with
+two independent genomic risk loci (Supplementary Data 5). Both
+HOXB2 and HOXB7 showed interactions with loci 24 and loci 25.
+HOXB2 showed interactions in mesendoderm (an embryonic
+tissue layer) tissue and IMR90 (foetal lung ﬁbroblasts) tissue,
+whereas HOXB7 showed associations in the tissues of hESC
+(human embryonic stem cell), mesenchymal (multipotent stromal
+cells which differentiate into a variety of different cell types) stem
+cell, IMR90, left ventricle, GM12878, and trophoblast-like cells.
+Gene-based association analysis. Using MAGMA13, 118 genes
+were associated with income (P < 2.662 × 10−6) (Supplementary
+Data 6 and Fig. 4a). These genes overlapped with 24 of those
+implicated using positional, eQTL, and chromatin interaction
+modelling (Fig. 3e). Of the genes implicated by each of the three
+methods and the gene-based GWAS, BSN was of particular note
+due to it being expressed primarily in the neurons of the brain
+and its role in the scaffolding protein involved in the organization
+of the presynaptic cytoskeleton. Also found in this overlap was
+the gene CHST10. The protein encoded by CHST10 is a sulfotransferase that acts on HNK-1, which is involved in neurodevelopment and synaptic plasticity.
+These 24 genes were then examined to determine if gene-based
+statistics had implicated them in intelligence due to the previously
+reported strong genetic correlations between income and
+intelligence7. We found that 18 were associated (P < 2.75 × 10−6)
+
+NATURE COMMUNICATIONS | (2019)10:5741 | https://doi.org/10.1038/s41467-019-13585-5 | www.nature.com/naturecommunications
+
+3
+
+

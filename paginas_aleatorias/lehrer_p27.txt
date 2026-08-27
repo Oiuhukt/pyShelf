@@ -1,0 +1,38 @@
+INDUCTION, RATIONAL ACCEPTANCE, AND SETS
+
+ductive consequence of such a disjunction d and b. Proof: Either there
+is some member m of P such that for every other member k of P,
+p(m,b) exceeds p(k,b) or there is not. Suppose there is such a member m. In that case, by condition (i) of AR and T6 it follows that for
+every other member k of P, I(~k,b), and the set of such negations of
+other members of P has m as a deductive consequence. Hence by condition (ii) of AR, it follows that A(m,b). Moreover, I(b,b) from the
+fact that p(b,b) — 1 by P3, and thus there must be some k in any minimally inconsistent set to which b belongs such that p(k,b) is less than
+1. Hence by condition (i) of AR, A(b,b). By condition (ii) of AR
+it follows that for any s that is a deductive consequence of m and b,
+A(s,b). This proves that for any s that satisfies condition (a) of the
+theorem A(s,b). Suppose that there is no member m of P such that
+for any other member k of P, p(m,b) exceeds p(k,b). In that case,
+there will be a disjunction d of members of a set S of members of P
+such that m is a member of S if and only if for any member k of P, if
+p(m,b) = 7^p(k,b), then p(m,b) exceeds p(k,b). For any member k
+of P that is not a disjunct of k (if there are any), I(^k,b) by T6,
+and the set of such negations of members of P that are not disjuncts
+of d has d as a deductive consequence. (If the set is null, d would
+be a disjunction of all members of P and, hence, would be a deductive consequence of the set by natural deduction.) Hence A(d,b) by
+condition (ii) of AR. Again, A(b,b) by the argument given above.
+By condition (ii) of AR it follows that for any s that is a deductive
+consequence of d and b, A(s,b). This proves that for any s that satisfies condition (b) of the theorem A(s,b) by AR. This shows that
+if s satisfies either condition (a) or (b) of the theorem, then A(s,b)
+by AR. We shall now prove that if A(s,b) by AR, then s satisfies
+either condition (i) or (ii) of the theorem. Again, either there is some
+member m of P such that, for every other member k of P, p(m,b)
+exceeds p(k,b), or there is not. Suppose there is such a member. For
+any s in G, either s is a deductive consequence of m and b or it is
+not the case that A(s,b) by AR. For consider the set G' of all those
+members of G that are not deductive consequences of m and b. Any
+g that is a member of G' is such that the set whose only members
+are m and g is a minimally inconsistent set, because m is inconsistent
+with every member of G' and no such member is itself inconsistent.
+But p(m,b) exceeds p(g,b) by T5, PI, and P4. Hence for any such
+321
+
+

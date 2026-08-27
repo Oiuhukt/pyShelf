@@ -1,0 +1,40 @@
+quencies? Do all random phenomena possess this
+property? Not all of them, but many do. We shall
+explain this rather complicated idea by the following
+reasoning. Try to understand it properly; this will rid
+you of possible mistakes when you use probability
+methods.
+When speaking about frequency stabilization we
+assumed that we could repeat one and the same
+experiment (tossing a coin, casting a die, etc.) an
+unlimited number of times. Indeed, nothing prevents us
+from making such an experiment however large
+a number of times (if we have the time). But there are
+cases when we do not carry out an experiment
+ourselves but just observe the results of "experiments"
+carried out by nature. In such cases we cannot
+guarantee the frequency stabilization beforehand, we
+must be convinced of it each time.
+Suppose, for example, the "experiment" is the birth
+of a child, and we would like to know the probability
+of a boy being born ("experiments" of this kind are
+made by nature in vast numbers annually). Is there frequency stabilization in these random events? Yes, there
+is. It is established statistically that the frequency of
+the birth of a boy is very stable and almost
+independent of the geographical location of the
+country, the nationality of parents, their age, etc. This
+frequency is somewhat higher than 0.5 (it is
+approximately 0.51). In some special conditions (for
+example, during war or after it) this frequency, for
+reasons unknown so far, can deviate from the average
+stable value observed for many years.
+The property of frequency stabilization (at least for
+fairly short periods) is inherent in such random
+phenomena as failure of technical devices, rejects in
+production, errors of mechanisms, morbidity and
+mortality of population, and meteorological and
+4-956
+
+29
+
+

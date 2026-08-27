@@ -1,0 +1,33 @@
+half-way. On Woodward’s way of thinking about causation I have, in effect, told
+you that there is some other position of the knob P such that, if the knob had been
+at P (instead of at the half-way mark), then the water would have been at a different
+temperature. Obviously I could provide you with more of this kind of information.
+I could be more specific about the way the temperature depends on the knob’s position. For example I could say that if the knob were turned all the way, the water
+would be boiling. Woodward holds that this information is also causal-explanatory
+information about the water’s temperature. In general, information about how the
+event being explained is situated in a range of counterfactual alternatives is causalexplanatory information. Bare claims about the token causes of the event are one
+way to provide this kind of information, but not the only way.
+Let me now turn to Strevens’ theory. Strevens thinks that there are two kinds
+of causation. On the one hand, there is the low-level, microphysical production of
+precisely-specified events, like that event consisting in these atoms being in exactly
+these positions at this time. On the other hand, there is high-level causation between
+imprecisely-specified events, as when Suzy’s throw causes the window to break.
+These events are imprecise because there are a huge number of microphysical ways
+Suzy could have thrown, and a huge number of ways in which the window could
+break.
+Strevens analyzes high-level causation in terms of low-level causation; he
+says relatively little about what low-level causation is. Here, in brief outline, is how
+the analysis goes. He agrees with the common thought that the causes of an event
+“make a difference” to whether that event occurred. But he does not understand
+difference-making in counterfactual terms. Instead he starts with the notion of a set
+of facts “causally entailing” another fact. Set S causally entails F if and only if, first,
+S entails F, and second, this logical relation “mirrors” the low-level, microphysical
+production of F (or of the “maximal precisification of F”) by the members of S.
+Suppose we have such an S and F. Strevens then subjects the set S to a process of
+“abstraction.” Roughly speaking, this process weakens the members of S as much
+as possible, consistent with S still causally entailing F. So we might start with the
+fact that I threw a rock with a mass of 50 grams at that window, the fact that it had
+an initial velocity of 10 m/s, the fact that there was nothing around to interfere with
+14
+
+

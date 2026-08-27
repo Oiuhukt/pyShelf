@@ -1,0 +1,49 @@
+Philosophy and Logic
+
+26
+
+Deﬁnition. (Relevant Semantic Validity) p1, p2 . . . ⊨RL q means that, in all
+relevant models M for all n-chains, s1 s2 ⊐ x1 and x1 s3 ⊐ x2 and …and
+M
+M
+x(n−1) sn ⊐ s(n+1) , if Jp1 KM
+s1  1 and Jp2 Ks2  1 and…, then JqKs(n+1)  1.
+This precisely deﬁnes valid arguments in terms of truth preservation across the
+sites of information chains. [Technical Note: The length of chains that matter
+depends on the premises in an argument. To be absolutely precise, we specify
+two special cases: a 0-chain only involves the actual state @, which reﬂects
+@@ ⊐ @, and a 1-chain involves @ and some state s, which reﬂects @s ⊐ s.]
+We can now check a few results.
+The majority of relevant axioms in Section 1.3 are true at @ (the 0-chain)
+in any relevant model. For example, J p → pKM
+@ = 1 is always true because
+of pointedness. [Technical Note: It is only the majority of axioms because our
+models do not always make Ax9 and Ax10 true. Our proof theory is closer
+to the “standard” relevant logic known as R, but our model theory is closer
+to the “basic” relevant logic B. This makes the presentation simpler on both
+sides and the discrepancy between the proof theory and model theory makes
+no difference to the key results we want to highlight in this Element.]
+If we look at the relevantly derivable arguments in Section 1.3, it is not
+difﬁcult to see that they are all semantically valid: ¬¬p ⊨RL p and p ⊨RL ¬¬p
+hold, as do all of the DeMorgan principles ¬( p ∧ q) ⊨CL ¬p ∨ ¬q and ¬p ∧ ¬q
+⊨CL ¬( p ∨ q) and ¬( p ∨ q) ⊨CL ¬p ∧ ¬q and ¬p ∨ ¬q ⊨CL ¬( p ∧ q).
+Below is a diagram to indicate how this model theory imposes a requirement
+of shared parts in valid arguments. In the following diagram, each dot is a state.
+The lines represent the realization relation: The combination of two states on
+the left is realized in the state on the right. A formula with + has value 1, a
+formula with − has value 0, and a formula with ? has no value at that state.
+Imagine that p stands for “this is a pig” and q stands for “that is a quince.”
+One sentence is about animals, the other sentence is about fruits. The pig state
+supports p+ all by itself but does not support q+ and the quince state supports
+q+ all by itself but does not support p+. When the combination of states is
+realized, we only get out positive information supported by all states.
+p+, q−
+p?, q?
+p−, q+
+Call the ﬁrst two states s1 and s2 and the third state s3 so we have s1 s2 ⊐ s3 . This
+model has a 2-chain where combined p and q information does not necessarily
+lead to p, which explains why p, q ⊭RL p. Since the combination of s1 with a
+Downloaded from https://www.cambridge.org/core. IP address: 189.132.150.226, on 10 Oct 2025 at 14:15:52, subject to the Cambridge Core terms
+of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/9781009189583
+
+

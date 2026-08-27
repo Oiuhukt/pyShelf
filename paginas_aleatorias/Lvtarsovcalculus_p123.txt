@@ -1,0 +1,54 @@
+π
+.
+2
+For δ, it is suﬃcient to take δ = ϵ since, according to (32), the condition
+Select an arbitrary ϵ > 0, demanding for the sake of simplicity that ϵ <
+|x − 0| < δ immediately leads to
+sin x
+−1 <δ =ϵ
+x
+sin x
+at x = 0.
+x
+Reader: Do we really have to resort to a similar line of reasoning, based
+Thus, unity is indeed the limit of the function
+
+on the definition of the limit of function at a point, each time we have to
+f (x)
+find the limit of
+when both lim f (x) = 0 and lim g (x) = 0.
+x→0
+x→0
+g (x)
+Author: No, of course not. The situation we are speaking about is
+0
+known as an indeterminate form of the type . There are rules which
+0
+enable one to analyze such a situation in a relatively straightforward manner and, so to say, “resolve the indeterminacy”. In practice it is usually
+not diﬃcult to solve the problem of existence of the limit of a function
+f (x)
+at a specific point and find its value (if it exists). A few rules of
+g (x)
+0
+evaluation of indeterminate forms of the type (and other types as well)
+0
+will be discussed later. A systematic analysis of such rules, however, goes
+beyond the scope of our dialogues.
+It is important to stress here the following principle (which is significant
+for further considerations): although the theorem on the limit of the ratio
+f (x)
+is not valid in the cases when lim g (x) = 0, the limit of a function
+x→0
+g (x)
+at a point a may exist if lim f (x) = 0. The example of the limit of the
+x→0
+
+sin x
+function
+at x = 0 is a convincing illustration of this principle.
+x
+Reader: Presumably, a similar situation may take place for numerical
+sequences as well?
+113
+
+

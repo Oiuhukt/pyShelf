@@ -1,0 +1,29 @@
+Step by Step
+
+187
+
+height again and now make their way due north,
+due west, and due south. At each of the predetermined points they repeat the procedure, measuring in succession the height at each of the points
+of a network with the spacing between the points
+500 paces.
+Their objective was to reach the summit, i.e.
+the highest point in the neighbourhood.
+Fortunately real hikers do not follow this procedure, although experimentalists do. Why such
+senseless waste of time?
+Admittedly, it is possible to work out the highest
+point on a surface by systematically measuring the heights of the points lying on the surface and selecting the highest. But the reasoning
+is far from the only one and it by no means follows in a natural way from the very formulation of the problem. Just the contrary is true,
+it is a bad and unnatural way of looking at things.
+Hikers generally make the following: they survey the neighbourhood, choose the most convenient path to the summit and do not care to explore all the points within some network.
+Experimentalists sometimes rely on exhaustion
+of points, either on a network or other array,
+because they fail to give a clear formulation of
+the problem at hand. One of the achievements of
+the theory of experiment is the development of a
+clear, consistent analysis of the process of putting forward hypotheses, of formulation of problems and hypothesis testing.
+Let us now return to the oil additive problem.
+Remember the important thesis: the success of
+statistical analysis is determined by the rigour
+of the formulation of the problem.
+
+

@@ -1,0 +1,51 @@
+The Routledge Handbook of Causality and Causal Methods
+
+15.5
+
+A second implication of the theory: Biological individuality based on
+closure of constraints and a processual view of life
+
+Let us turn now to a second point. A theory-based approach to biological individuality grounded
+on closure of constraints, as a distinctively biological causal regime, entails a processual view of
+living systems, as it assumes an inseparability between what living systems are – their “being”,
+individuality, identity – and what they do – their “doing”, as reflected in their metabolism, without which they cannot be, as they are not able to self-maintain (Jonas, 1966/2001; Moreno &
+Mossio, 2015). To assume a processual view on living systems (see, e.g., Nicholson & Dupré,
+2018) does not entail that we can simply avoid the whole issue with individuality, since it is still
+the case that to understand living phenomena, including causal understanding, we will need to
+somehow individuate biological individuals standing in relation to one another, even if they are
+conceived as just bunches of coexisting processes in time and space for a given (and variable)
+period. We can indeed explain what are individuals in terms that do not enter into tension with
+a processual view. As Dewey (1938: 135) writes, “To remain and endure is a mode of action”.
+Biological individuals can be conceived as coexisting processes that remain temporarily and
+spatially interconnected and cohesive (to different degrees), such that we can identify them as
+enduring as systems for a given temporal span, while they are constantly traversed by processes
+that cross the boundaries between their inner medium and their external environments, up to a
+point in which they reach the limit of their self-maintenance as living systems. Biological individuals, while enduring, undergo modification. Accordingly, “continuity is not bare repetition
+of identities” (Dewey, 1938: 245), such that to diachronically ascribe individuality we need to
+reidentify the same biological individuals in different time-slices.
+We can consider, then, a difficulty related to ascertaining biological individuals based on
+closure of constraints, which results from their dynamics across time. Biological systems are in
+constant flow, they are always crossed by various fluxes, their parts are constantly replaced by
+other parts that are in some sense (functionally) equivalents, among other dynamical aspects.
+How can we accommodate these dynamics while individuating and identifying living systems
+based on closure of constraints?
+We need to deal, in short, with a fundamental issue related to identity, namely, that it
+can be ascertained both in a single time-slice (synchronically) and across time, in successive
+time-slices (diachronically) (Boniolo & Testa, 2012; Huneman, 2014a). No matter how one
+conceives of identity, along the spectrum from more stringent to more inclusive interpretations discussed by Montévil and Mossio (2020), one can investigate both whether, say, a given
+organism meets the criteria of membership to a reference class here and now, and whether it
+keeps complying with them over time. The more stringent the definition of identity, the more
+restrictive the reference class, and the less it tolerates changes across time.
+Then, a first point to consider is that an account of biological individuals based on closure
+of constraints is rather inclusive, and, thus, while it may seem synchronic in nature, it is not
+so, and, accordingly, does not leave aside living systems’ diachronic changes. To put it shortly,
+the theory of biological autonomy has resources to deal with diachronic individuality. Firstly,
+the relations between constraints subject to closure involve time, as explicitly shown in the
+different time scales in which the very constraints are defined. An important aspect of the
+theory of biological autonomy is that it explicitly includes in its theoretical treatment that not
+all entities (or configurations) involved in closure, i.e., constraints, as well as their causal interactions among themselves and with processes, relate to the same time scales. This is relevant
+because this temporal aspect of living organization is not often sufficiently recognized. The
+relevant opposition between diachronic and synchronic in this case is not, therefore, between
+12
+
+

@@ -1,0 +1,45 @@
+FREGE AGAINST THE FORMALISTS
+
+227
+
+In fact, it gleams everywhere so distinctly through the husk of
+formal arithmetic that we often think we see it alone. We
+forget, however, that much having good reason in meaningful
+arithmetic is unjustified in formal arithmetic. We constandy
+forget the profound differences. Many a reader has perhaps
+condemned our references to time as wholly unmathematical—
+when, for example, we assumed that the length of a sequence
+changes in time. This complaint would be quite justified from
+the standpoint of proper or meaningful arithmetic; in formal
+arithmetic, however, time is involved by the subject itself. For
+while the actual numbers are timeless, numerical figures arise
+and pass away in time. The manipulations of the game also take
+place in time.
+
+§132
+
+Thomae writes:
+The simpliest null sequence is naturally (o o o . . o . .).
+
+Our question is: Does this group of figures designate a
+numerical sequence, or is it itself a numerical sequence? Accord¬
+ing to the usual usage of signs, the first alternative would be
+correct; but since the figure zeros are not signs in this context,
+but just figures, we must conclude that Thomae intends the
+above group of figures to be a numerical sequence. Is this really
+so? We have so far assumed that the numerical sequences consist
+of numerical figures and nothing else; but here we also see dots
+and parentheses. The latter may perhaps be dismissed as mere
+drapery. But what have the dots to do with the numerical
+sequence? Are they to represent figure zeros? But then why do
+not the figure zeros themselves appear? That would be simpler.
+We should then have a sequence consisting of eight figure zeros.
+But whether we would then have a null sequence in Thomae’s
+sense is questionable. The alternative is not a sequence of
+numerical figures, but a row composed partly of numerical
+figures and partly of dots. Only the group made up of the first
+three figure zeros can be regarded as a numerical sequence;
+the fourth figure zero may not be taken as part of the sequence,
+for it is separated by dots. Do the dots invite us to imagine
+
+

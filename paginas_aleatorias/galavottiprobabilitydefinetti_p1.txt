@@ -1,0 +1,41 @@
+The notion of subjective probability in the work of
+Ramsey and de Finetti
+by
+
+MARIA CARLA GALAVOTTI
+University of Bologna
+
+THEDECADE FROM the mid-twenties to the mid-thirties was
+undoubtedly the most crucial for the twentieth Century notion of
+subjective probability. It was in 1926 that Frank Ramsey wrote his
+essay “Truth and probability”, presented at the Moral Science Club
+in Cambridge and published posthumously in 1931.‘ There he put
+forward for the first time a definition of probability as degree of
+belief, that had been anticipated only by E . Bore1 in 1924, in a
+review of J . M. Keynes’ Treatise on
+Ten years after
+Ramsey‘s paper, namely in 1935, Bruno de Finetti gave a series of
+lectures a t the Institut Poincare in Paris, published in 1937 under
+the title “La prkvision: ses lois logiques, ses sources subjectives”?
+In this paper subjective probability, defined in a way analogous t o
+that adopted by Ramsey, was implemented with the notion of
+exchangcability, that de Finetti had already worked out in 19281930.‘ Exchangeability confers applicability to the notion of subjective probability, and fills the gap between frequency and probability
+a s degree of belief. I t was only when these two were tied together
+that subjectivism could become a full-fledged interpretation of
+probability and gain credibility among probabilists and statisticians.
+One can then say that with the publication of “La prevision” the
+formation process of a subjective notion of probability was completed.’
+
+’ I n Ramsey 1931. pp. 156-Ic)X.
+
+’ ~ c cBore1 1924.
+
+’ S e e dc Finetti 1937.
+Scc de Finetti 1929 and 1930.
+’ In a footnote :idded to the English cdition of “La prCvision” de Finetti says that h e
+ciimc to know Kamsey‘s work o n probability in 1937, after The original version ol
+‘‘La privision” wiis completed (in Kyburg and Smoklcr (eds.) 1964. p. 102).
+
+’
+
+

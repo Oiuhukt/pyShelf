@@ -1,0 +1,40 @@
+Reconsidering Representation
+
+265
+
+some models are useful while others are not, and they would agree that saltshakers
+and left hands are useless. Yet they insist that “the questions about the utility of
+these representational vehicles are questions about the pragmatics of things that
+are representational vehicles, not questions about their representational status per
+se” (ibid., 75), where “vehicle” denotes what we previously called the carrier of a
+representation (Section 6.2).
+To assess the merits of this take on representation we start by enquiring into
+the relationship between General Griceanism and stipulative fiat. Even though
+Callender and Cohen mention the two in the same breath, they are actually separate doctrines. As Toon points out (2010a, 77–78, 2012b, 244), General Griceanism requires that some account be given of how non-fundamental representations
+relate to mental states, but the position is not committed to that account being of
+any particular kind, much less to it being stipulative fiat. So one can be a proponent of General Griceanism without being a proponent of stipulative fiat. Scientific representation can, in principle, be reduced to mental representation in many
+different ways. In fact, the more developed versions of both the morphism account
+and the similarity account of scientific representation (as well as other accounts
+that we encounter later in this chapter) are consonant with a General Gricean outlook in that they see an agent’s intentions as a constitutive ingredient of an account
+of scientific representation. Agents designate intended targets, choose objects to
+be used as models, formulate hypotheses concerning the relation between models
+and targets, and evaluate these with respect to certain goals, purposes, and standards of accuracy. These actions are the result of an agent’s mental activities. The
+relevant mental activities are just more complex than merely stipulating that M
+represents T and leaving it at that. Yet, the Gricean can still argue that the primary
+task of a theory of fundamental representation is to identify the mental states
+that correspond to these activities. It is then simply a question of one’s research
+interests whether one sees an analysis of the mental states or the scrutiny of, say,
+similarity claims as the more pertinent problem.
+This said, how does stipulative fiat fare as an account of scientific representation? Callender and Cohen support stipulative fiat by noting that anything can
+represent anything else (ibid., 73). This is correct. Objects that function representationally do not belong to a particular category of things.5 Anything from an
+assembly of toothpicks to a second order differential equation can, in principle,
+be a scientific representation. But that anything can, in principle, be a scientific
+representation does not imply that a mere act of stipulation is sufficient to turn
+anything into an actual scientific representation. The most obvious problem of
+stipulative fiat is that it violates the Surrogative Reasoning Condition. As a number of commentators have noticed,6 one can stipulate that the saltshaker represents Madagascar or that the espresso machine represents the Big Bang, but these
+representations are cognitively inert because the account makes no provision for
+claims about Madagascar or the Big Bang to be extracted from reasoning about
+the carriers of the representation. Bare stipulation does not ground surrogative
+reasoning. As we have seen, the ability to use a model to reason about its target is
+
+

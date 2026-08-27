@@ -1,0 +1,53 @@
+Quins • Two Docmas of Empiricisi
+
+I-- 387.
+
+account o f cognitive synonymy is at present up for consideration, namely,
+. interchangeability sa lv a veritate everywhere except within words. T h e
+question before us, to resume the thread at last, is whether such inter­
+changeability is a sufficient condition for cognitive synonymy. W e can
+quickly assure ourselves that it is, by examples o f the following sort. T h e
+statement:
+(4)
+
+Necessarily all and only bachelors are bachelors
+
+is evidently true, even supposing ‘necessarily’ so narrowly construed as to
+be truly applicable only to analytic statements. T h e n , if 'bachelor' and
+‘unmarried man’ are interchangeable salva veritate, the resu lt
+(5)
+
+Necessarily all and only bachelors are unmarried m en
+
+o f putting ‘unmarried m an’ for an occurrence o f ‘bachelor’ in (4) must,
+like (4). be true. B u t to say that (5 ) is true is to say that (3 ) is analytic,
+and h en ce that ‘bachelor’ and ‘unmarried m an’ are cognitively syn­
+onymous.
+Let us see what there is about the above argument th at gives it its air
+of hocus-pocus. T h e condition o f interchangeability salv a veritate varies
+in its force with variations in the richness o f the language a t hand. T h e
+above argument supposes we are working with a language rich enough to
+contain the adverb necessarily’, this adverb being so construed as to yield
+truth when and only when applied to an analytic statement. B u t can we
+condone a language which contains such an adverb? D oes the adverb
+really make sense? T o suppose that it does is to suppose that we have
+already made satisfactory sense o f ‘analytic’. T h e n what are we so hard at
+work on right now?
+O ur argument is not flatly circular, but som ething like it. It has die
+form, figuratively speaking, o f a closed curve in space.
+Interchangeability salv a veritate is meaningless until relativized to a
+language whose extent is specified in relevant respects. Suppose now we
+consider a language containing just the following materials. T h ere is an
+indefinitely large stock o f one-place predicates (for example, 'F* where ‘F x ’
+means that x is a man) and many-place predicates (for example, ‘G ’ where
+‘Gxy’ m eans that x loves y), mostly having to do with extralogical subject
+matter. T h e rest o f the language is logical. T h e atom ic sentences consist
+each o f a predicate followed by o n e or more variables V , ‘y\ etc.; and the
+complex sentences are built up o f the atom ic ones by truth functions (‘not’,
+and’, ‘or’, etc.) and quantification.11 In effect such a language enjoys the
+benefits also o f descriptions and indeed singular terms generally, these
+being contextually definable in known wavs.9 Even abstract singular terms
+naming classes, classes o f classes, etc., are contextually definable in case
+the assumed stock o f predicates includes the two-place predicate o f class
+
+

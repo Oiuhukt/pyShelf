@@ -1,0 +1,44 @@
+are not uniquely responsible for the reliable transmission of organismic form across
+generations; they should be treated as just one developmental resource among many, not a
+repository of information about how to build an organism.
+The issues raised by DST, in particular the critique of genetic information, are difficult
+ones, with deep historical roots. (Developmental biologists have traditionally been wary of the
+notion of genetic information, and of the hegemony of genetics in biology.) One
+philosophically interesting aspect of the DST approach is its plea for ‘causal democracy’, that
+is, for treating all the causal factors responsible for organismic development equally, rather
+than privileging genes (cf. Oyama 2000). The idea of causal democracy seems reasonable; if a
+given phenomenon is known to have multiple causes, it makes sense to accord all of them
+equal status, at least until the greater importance of one has been empirically demonstrated.
+However, at times the advocates of DST have defended the notion of causal democracy in a
+suspiciously a priori way, as if according parity to the various factors responsible for
+organismic development is an absolute methodological imperative, rather than something
+responsible to empirical data. I suggest that this is a mistake. Even if the notion of genetic
+information cannot be made philosophically respectable, it is still possible that genes turn out
+to play far more important a role in explaining organismic development than other causal
+factors. Whether this is so is something that we will only know when molecular
+developmental genetics has run its course.
+
+FURTHER READING
+Bill Shipley’s book Cause and Correlation in Biology (2000) contains a good discussion of
+Wright’s work on path analysis and Fisher’s work on randomized experiments, including the
+relation of their work to modern causal graph theory. Elliott Sober’s The Nature of Selection
+(1984) is the best philosophical discussion of causal concepts in evolutionary theory; this is
+where Sober introduces the selection of/for distinction and the distinction between variational
+and selectional explanation. Two good biological works discussing causation in relation to
+evolution are Michael Wade and Susan Kalisz’s paper ‘The Causes of Natural Selection’
+(1990) and John Endler’s book Natural Selection in the Wild (1986). A useful collection of
+papers on teleological concepts in biology is Colin Allen, Marc Bekoff, and George Lauder
+(eds.), Nature’s Purposes (1998); also useful is David Buller (ed.), Function, Selection and
+Design (SUNY, 1999). On causation and genetics, Sahotra Sarkar’s book Genetics and
+Reductionism (1998) provides a detailed discussion of most of the important issues, including
+the limitations of heritability analysis. Elliott Sober’s paper ‘Apportioning Causal
+Responsibility’ (Journal of Philosophy 1988: 303–18) examines the problem of quantifying
+the relative importance of different causal factors, with particular reference to genetics. The
+papers in Susan Oyama, Paul Griffiths, and Russell Gray’s edited collection Cycles of
+Contingency (2001) defend the developmental systems theory perspective; a good critique is
+provided by Peter Godfrey-Smith in ‘Explanatory Symmetries, Preformation and
+Developmental Systems Theory’ (2000).
+
+REFERENCES
+
+

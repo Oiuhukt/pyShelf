@@ -1,0 +1,32 @@
+W hatever H appened to C arnapian D eflationism ?
+
+prime or 19 is a prime,” and (van Inwagen adds) that those are all
+the numbers between 16 and 20. But ‘or’ and ‘all’ van Inwagen takes
+to be ‘obviously univocal’ (2009, 484).
+There is an interesting point to this line of argument that may
+be put succinctly: ‘exists’ and the existential quantifier are (like
+number terms, ‘or’, and ‘all’) topic-neutral. They are formal terms
+that may be conjoined with material terms of different categories
+while retaining their same sense—at least in the sense of retaining
+the same core rule of use. This seems right. But notice the lineage
+of the idea: van Inwagen attributes these observations to Carnap,
+the father of deflationism, and Frege, the grandfather of deflationism (as both teacher of Carnap and inspiration for the deflationary neo-Fregean position in the philosophy of mathematics).
+This should give us a clue already that something has gone awry,
+and that the metaontological deflationist position may not really
+be in tension with the idea that expressions like the quantifier and
+‘exists’ are formal expressions that may be used univocally by disputants in ontological debates. To track down what happened and
+whether we’ve gone wrong here, it will be useful to pause to look
+at the history of treatments of ‘exists’, and see where this notion of
+‘exists’ as a univocal formal notion—which van Inwagen takes to be
+the key to defending hard metaphysics—really comes from.
+
+1.4. ‘EXISTS’ AS A FORMAL NOTION:
+A BRIEF HISTORY
+The idea that ‘exists’ is a formal (topic-neutral) term has quite a
+long history.25 The goal here is not to argue for this claim (which
+25. For an excellent history of the idea that various logical notions are formal, see
+McFarlane (2000).
+
+63
+
+

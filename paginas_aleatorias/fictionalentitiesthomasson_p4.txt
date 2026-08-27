@@ -1,0 +1,29 @@
+Holmes’), and then in the same breath betraying that as mere pretense, with the
+addition of ‘doesn’t exist’ (1990, 422). The full-blown pretense approach thus seems
+to implausibly take as pretenseful precisely the (type 2 and type 4) talk about fiction
+that is designed to step outside of the pretense and speak from the real-world
+perspective. It also offers contorted and ad hoc readings of what seem to be
+straightforward literal claims (cf. Thomasson 2003). So while pretense theories do
+well at addressing internal and fictionalizing discourse, they are much less plausible
+adopted as across the board approaches—but if we can’t adopt them across the board,
+they can’t be used to avoid positing fictional entities.
+Various other approaches to fictional discourse have been proposed which
+don’t rely on taking pretense to be ubiquitous in fictional discourse, yet still avoid
+accepting that there are fictional entities. The best developed of these is Mark
+Sainsbury’s (2005) negative free logic approach, which takes as its central motivation
+the truth of claims of type (2): nonexistence claims involving fictional names. On the
+negative free logic view, fictional names are non-referring terms, and all simple
+sentences using non-referring terms are false. Thus ‘Holmes exists’ is false (as
+‘Holmes’ doesn’t refer), and so its negation ‘Holmes doesn’t exist’ is true (Sainsbury
+2005, 195), leaving us with a far simpler and more plausible account of the truth of
+nonexistence claims than pretense views provide. Internal discourse by readers can
+still be held to be true even though it involves non-referring names, since these claims
+are plausibly held to be implicitly prefixed with a fiction operator, where “According
+to the fiction, Holmes solved his first mystery in his college years” may be true even
+if the simple claim “Holmes solved his first mystery in his college years” would be
+false. Cross-fictional statements can be handled similarly by taking them to fall in the
+context of an ‘agglomerative’ story operator that appeals to the total content of the
+
+4
+
+

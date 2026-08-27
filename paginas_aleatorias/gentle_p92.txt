@@ -1,0 +1,48 @@
+A TEX intro (Canadian spelling)
+
+Section 11: I get by with a little help
+
+$\int_0^1 3x^2\,dx = 1$.
+R1 2
+3x dx = 1.
+0
+
+$\sqrt2 \quad \sqrt {x+y\over x-y} \quad \root 3 \of {10}$ \quad $e^{\sqrt x}$.
+q
+√
+√
+√
+3
+x+y
+10 e x .
+2
+x−y
+
+$\|x\| = \sqrt{x\cdot x}$.
+√
+kxk = x · x.
+
+$\phi(t) = {1 \over \sqrt{2\pi}} \int_0^t e^{-x^2/2}\,dx$.
+Rt
+2
+φ(t) = √12π 0 e−x /2 dx.
+
+$\underline x \quad \overline y \quad \underline{\overline{x+y}}$.
+x y
+
+x + y.
+
+$\bigl \lceil \lfloor x \rfloor \bigr \rceil \leq \bigl \lfloor \lceil x \rceil
+\bigr \rfloor$.
+   
+bxc ≤ dxe .
+
+$\sin(2\theta) = 2\sin\theta\cos\theta
+\quad \cos(2\theta) = 2\cos^2\theta - 1 $.
+sin(2θ) = 2 sin θ cos θ
+
+cos(2θ) = 2 cos2 θ − 1.
+
+86
+
+

@@ -1,0 +1,47 @@
+142
+
+RICHARD MONTAGUE
+
+Similarly, if £? is, like ‘seems’, a predicate constant of type
+<1, 1, — 1), we could replace 5^ by an operator
+of degree
+<1,2, 1) and express the assertion
+6f[u, w(j), v]
+by
+Sf'w[u, v, </>].
+(It should be clear from this example, as well as from the general
+definition of extension, that the m variables immediately following
+an operator of degree <m, n,p} are to be regarded as bound.)
+There is of course no contention that all formulas of intensional
+logic involving ^ or ^ can be paraphrased within extended
+pragmatics; for instance, the assertion ‘Jones believes something
+which Robinson does not believe’ does not correspond to any
+formula of extended pragmatics.
+We may now consider various technical properties of the
+three systems introduced in this paper. Notice first that the
+compactness theorem does not hold for intensional logic. In
+other words, let us call a set of sentences satisfiable if there is a
+nonempty interpretation 51 and a point of reference i of 51 such
+that all sentences in the set are true with respect to i and 51;
+then it is not the case that for every set T of sentences of intensional
+logic,
+(3)
+
+if every finite subset of T is satisfiable, then T is
+satisfiable.
+
+This is obvious in view of the reduction, at which we hinted
+earlier, of ordinary second-order logic to intensional logic,
+together with the well-known failure of the compactness theorem
+for second-order logic. On the other hand, let us call </) a predicative
+sentence if 4> is a sentence of intensional logic not containing the
+descriptive symbol and such that (1) whenever G is a predicate
+variable, ip is a formula, and A Gip is a subformula of </>, there are
+<0,...
+x such that 0* is a predicate constant, each <f
+(for i ^ n) is either an individual constant, an individual variable,
+or a predicate variable, x is a formula, ip is the formula (^[C0,. . .,
+CJ
+x)> and G is Ci for some i ^ n; and (2) whenever G is a
+
+

@@ -1,0 +1,41 @@
+108
+
+The Gödelian Symphony
+
+(1) undecidability as a property of formulas with (2) undecidability as
+a feature of formal systems.
+(1) The first property, which we know well by now, is always relative to a given formal system S: to assert that α is undecidable in S is to
+maintain that, in S, α is not provable and not refutable, that is, such that
+its negation is not provable either.This does not rule out α being provable (therefore decidable) elsewhere. This point has already been
+flagged before, and it depends on the following simple remark: talk of
+formally absolutely undecidable formulas is sort of meaningless. Of
+course, mathematicians harmlessly claim to have proved, or refuted,
+some mathematical statement or other, feeling no need to add any qualification. What is at issue in this case, though, is what I have dubbed
+“intuitive” mathematics. On the other hand, given any formula α, one
+can always build a formal system in which that formula is provable
+(provable, that is, in the formal sense – in the sense of proof theory).
+One can always construct (or find) a formal system that has α as a theorem, at the very least because the axioms of formal systems are theorems; this is one of the cases in which the terminology of formal
+systems departs from that of informal mathematics, where if something
+is an axiom, it is not a theorem, that is, the conclusion of a proof.
+Therefore, building a formal system having α as an axiom is sufficient
+to obtain, trivially, that α is provable (therefore decidable) in that formal system, in spite of its being undecidable somewhere else.9
+(2) Undecidability in the second sense, on the other hand, is a
+property of any formal system S whose set of theorems is not decidable, that is, given Church’s Thesis, recursive. Given a formula α in the
+language L of S, there is no effective procedure terminating in a finite
+number of steps which allows us to decide whether α is a theorem of
+S or not. Now our Typographical Number Theory is an undecidable
+formal system in this sense. The Fundamental Property of formal systems, recall, prescribes that the set of theorems of a real formal system
+9
+
+This is already an “immediate consequence” about which some philosophers might
+complain – Wittgensteinians, for instance. Wittgenstein thought it absurd to claim that
+the same formula α is undecidable in some formal system, but decidable in some other.
+When we modify a system, according to Wittgenstein, α is not the same formula anymore (that is, it cannot retain the same meaning it had in the previous system), even
+though it stays typographically identical. I shall talk about this peculiar Wittgensteinian
+stance in the final chapter of the book.
+
+9781405197663_4_007.indd 108
+
+7/22/2009 7:42:10 PM
+
+

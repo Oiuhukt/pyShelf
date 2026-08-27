@@ -1,0 +1,177 @@
+I
+
+N principio erat verbũ: 7- verbũ erat
+reconstruction of Gutenberg’s
+apud deũ: et de9 erat verbũ. Hoc erat Typographic
+42–line bible of 1452–55, using modern
+in principio apud deũ. Om̃ia p ip̃m
+Fraktur and decorative initial designed in
+by Yannis Haralambous.
+facta sunt: 7- sine ip̃o factum eĆ niĚil. The abilityMETAFONT
+to control special characters like the
+insular (Tironian) ampersand (7-) and unusual
+Quod factũ eĆ in ip̃o vita erat: 7- vita features
+like hanging punctuation makes LTEX
+critical
+erat lux hominũ: et lux in tenebriŊ lu- particularly well suited forandtypesetting
+teaching editions.
+(Beginning of St. John’s Gospel.)
+cet· 7- tenebreeãnõcomp̃henderũt.FuA
+
+Where to get LATEX
+
+k The TEX Users Group (TUG) distributes a free copy of the
+
+k
+k
+
+TEX Collection DVD to all members annually, with complete
+installations for all major platforms and a copy of the entire
+CTAN archive.
+Many local and national user groups also participate: check
+with your nearest group (see TUG Web site for addresses).
+You can buy a copy with business support from any of the
+vendors listed below.
+All the public-domain and open-source implementations are
+freely available for download from CTAN (below), including
+the DVD ISO image of the TEX Collection.
+
+Technical Requirements
+Operating systems
+
+LATEX runs on all current computing platforms. The most
+common implementations are:
+System
+
+Implementation
+
+Microsoft Windows
+
+Free: TEX Live, ProTEXt (MikTEX)
+Commercial: see vendor list
+
+Unix and GNU/Linux
+
+Free: TEX Live
+
+Apple Macintosh OS X
+
+Free: MacTEX (TEX Live)
+Shareware: OZTEX, CMacTEX
+
+Android
+
+TEX for Android in the Google Play store
+TEX Live for Android at Google Code
+
+All others
+
+Contact the TEX Users Group
+
+The TEX Users Group (TUG)
+TUG membership is $85 a year (individual), $55 (students,
+new graduates, seniors, and citizens of countries with modest economies), $100 (non-voting, eg libraries), or $500 (institutional, up to eight named memberships). See http://
+www.tug.org/forms for details of ‘early-bird’ rates and other
+charges. Membership includes the triannual journal TUGboat
+and discounts on conference fees:
+2013
+2012
+2011
+2010
+2009
+2008
+
+TUG
+
+EUROTEX/CONTEXT AND OTHERS
+
+Tokyo, Japan
+Boston, MA
+Kerala, India
+San Francisco, CA
+South Bend, IN
+Cork, Ireland
+
+[tba]
+Breskens, Netherlands
+Bassenge, Belgium & Bachotek, Poland
+Brejlov, Czech Republic
+Pisa, Italy
+Bohinj, Slovenia & Pisa, Italy
+
+CTAN — the Comprehensive TEX Archive Network
+CTAN is an Internet archive of all free TEX and LATEX software, packages, and documentation. There are searchable
+indexes and catalogues at http://www.ctan.org, http://
+www.tex.ac.uk/, and http://www.dante.de .
+Online and other support
+Network-based support is freely available on the comp.text
+.tex Usenet newsgroup, the latexusersgroup@gmail.com
+mailing list and the tex.stackexchange.com web forum.
+There are many others, including the TEX FAQ, listed at
+www.tug.org/interest.html .
+
+Hardware
+
+k LATEX will run even on old machines, but a 500MHz processor or above is recommended.
+
+k You should have at least 512Mb of memory, more if
+k
+k
+
+Software for editing and reading documents
+
+k You need a good text editor for creating and maintaink
+
+Vendors with business support
+Andrew Trevorrow
+MacKichan Software
+MicroPress, Inc
+PCTEX, Inc
+Tom Kiffe
+TrueTEX, Inc
+
+OzTEX
+Scientific Word
+Visual TEX
+PCTEX
+CMacTEX
+TrueTEX
+
+Mac
+Win
+Win
+Win
+Mac
+Win
+
+http://www.trevorrow.com/oztex/
+http://www.mackichan.com
+http://www.micropress-inc.com
+http://www.pctex.com
+http://www.kiffe.com
+http://truetex.com
+
+you aim to do very complex work or use very long
+documents.
+You need about 500Mb of hard disk space depending
+on the options you choose (minimal install is about
+250Mb; full is about 1.2Gb).
+The finer your screen and printer resolution, the better
+quality you will be able to see and print. A fast inkjet
+printer or a laser printer is recommended if you need
+printed output.
+
+k
+
+ing documents: there is a selection included on the TEX
+Collection DVD.
+You also need a PDF reader to view your typeset output (included on the TEX Collection DVD), eg
+GhostScript/GSview, Okular, Adobe Acrobat Reader, etc.
+You may need a graphics editor (eg GIMP) if you want
+to create or modify images (see Figures); and a vector
+editor (eg InkScape) if you use diagrams.
+
+TEX, LATEX, and METAFONT are trademarks of the American Mathematical Society. PostScript, PDF, and Acrobat are trademarks of Adobe Corporation. Macintosh and TrueType are trademarks of Apple Corporation. Windows, Word, and OpenType are trademarks of
+Microsoft Corporation. Unix is a trademark of Bell Laboratories. Unicode is a trademark of Unicode, Inc. Copyright © 2001–2013 by Silmaril Consultants and distributed under the terms of the LATEX Project Public License (http://www.latex-project.org/lppl/).
+
+

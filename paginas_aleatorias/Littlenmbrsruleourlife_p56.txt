@@ -1,0 +1,43 @@
+42
+
+COMPUTING PROBABILITIES: RIGHT WAYS AND WRONG WAYS
+
+probability that a randomly chosen such plate has no duplicate letters and
+no duplicate digits?
+The first question is how many letters there are in the Swedish alphabet. Aren’t there letters like å, ä, and ö? Yes, but these are not used for
+license plates. A few others are also not used, and the total number of
+available letters is 23. There is, therefore, a total of 23 × 23 × 23 × 10 ×
+10 × 10, which is approximately 12 million license plates (excluding typical Swedish vanity plates such as VIKING or I♥ABBA). To get a plate
+that has no duplicate letters, we can choose the first letter in any way we
+want, so for this we have 23 choices. The next letter cannot be the same
+as the first, so here we have 22 choices. Finally, the third letter cannot be
+equal to any of the first two, which gives 21 choices. Same for the digits:
+first 10, then 9, and then 8 choices. The number of plates with no duplicates is thus 23 × 22 × 21 × 10 × 9 × 8. Divide by the total number to get
+the probability
+P(no duplicate letters or digits) =
+
+23 × 22 × 21 × 10 × 9 × 8
+≈ 0.63
+23 × 23 × 23 × 10 × 10 × 10
+
+For the license plates, the order is important. For example, ABC123 is
+different from BCA231. In some combinatorial problems, order is irrelevant, for example, those that have to do with poker. You are dealt a poker
+hand (5 cards from a regular deck of 52 cards). What is the probability of
+being dealt a flush (five cards in the same suit, not all five consecutive)?
+First find the total number of different hands, and then the number
+of hands that give a flush. As there are 52 ways to choose the first card,
+51 ways to choose the second, and so on down to 48 ways to choose the
+fifth, the multiplication principle tells us that there are 52 × 51 × · · · ×
+48 = 311,875,200 different ways to get your cards. But then we have taken
+order into account and, for example, distinguished between the sequences
+(♠A, ♦A, ♠2, ♥A, ♣A) and (♣A, ♠2, ♦A, ♠A, ♥A), and in poker, four
+aces are four aces regardless of order. As there are 5 × 4 × 3 × 2 × 1 =
+120 ways to rearrange any given five cards (five choices for the first, four
+for the second, and so on), we need to divide 311,875,200 by 120 to get
+the number 2,598,960. There are about 2.6 million different poker hands.
+For the number of hands that give a flush, first consider a flush in some
+given suit, for example, hearts. For the first card, we then have 13 choices,
+for the second 12, and so on, and each such sequence of five cards can be
+rearranged in 120 ways, which gives 13 × 12 × 11 × 10 × 9/120 = 1,287
+
+

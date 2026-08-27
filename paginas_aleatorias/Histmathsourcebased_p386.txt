@@ -1,0 +1,22 @@
+11.6. Further reading
+
+371
+
+Roberts, G. and Smith, F. 2012. Robert Recorde: the Life and Times of a Tudor Mathematician, University of Wales Press. This is both a biography and a thorough overview of
+his work, the influences upon it and its contributions to mathematical and scientific
+life.
+Shirley, J.W. 1983. Thomas Harriot: A Biography, Oxford University Press. A good
+guide to the breadth of Harriot’s activities, as well as to his relations with friends and
+colleagues, though short on Harriot’s mathematics.
+Stedall, J.A. 2003. The Greate Invention of Algebra: Thomas Harriot’s Treatise on Equations, Oxford University Press., Oxford University Press. A masterly reconstruction
+of Harriot’s study of equations, with a fine short introduction.
+Taylor, E.G.R. 1954. The Mathematical Practitioners of Tudor & Stuart England, Cambridge University Press. A historical survey (1485–1714) with 582 biographies of
+practitioners and 628 mathematical works listed briefly — a most useful work.
+Website: The Manuscripts of Thomas Harriot (1560–1621)
+www.echo.mpiwg-berlin.mpg.de/content/scientific_
+revolution/harriot.
+As the website says: ‘The project aims not only to publish Harriot’s surviving papers
+but to organize them in such a way that readers can find their way more easily through
+the disordered raw material.’
+
+

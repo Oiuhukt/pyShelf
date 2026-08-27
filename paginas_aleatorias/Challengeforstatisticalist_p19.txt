@@ -1,0 +1,49 @@
+Mathematical Explanations in Evolutionary Biology or…
+
+1091
+
+The first question to address is: If one adopts statisticalism, is one forced to accept
+the claim that all the statistical explanations provided by population genetics are genuine
+MENP? It might be difficult to answer that question, since it might be difficult to prove that
+all the statistical explanations provided by population genetics are genuine MENP.11 How
+could one prove such claim once and for all? Let us put aside the indirect argument that
+several philosophers used statistical explanations from population genetics as examples of
+genuine MENP. This might be irrelevant, since those philosophers might have been mistaken. Moreover, even if those explanations were genuine MENP, this does not exclude the
+possibility that there might be other statistical explanations in population genetics that are
+both non-causal and non-mathematical. However, this formulation of the issue is perhaps
+unnecessarily strong. For the present challenge to be taken seriously by statisticalists, it
+suffices that at least some statistical explanations in population genetics are genuine MENP,
+it is not necessary that all statistical explanations in population genetics are MENP. This is
+why it is better to say that the statisticalist has to prove (1ʹ), i.e., that statistical explanations
+from population genetics that are usually regarded as genuine examples of MENP are not
+really MENP. In other words, it is insufficient for the statisticalists to show that there are
+some statistical explanations in population genetics that are not genuine MENP in order to
+claim that the present challenge need not be addressed. To make such claim, statisticalists
+would have to show that there are no MENP at all among population genetics explanations.
+Indeed, if at least some explanations in population genetics are MENP, the statisticalist
+should need to address the present challenge with regard to those cases. If the statisticalist
+is able to prove (1ʹ), she then has still to show (2), i.e., that the statistical explanations in
+population genetics that are not MENP are genuinely non-causal (otherwise her position
+would be pointless), and (3), i.e., that that kind of non-causal explanations is compatible
+with a naturalist stance.
+Let us focus on the difficulty of proving (1ʹ), i.e., that statistical explanations from
+population genetics that are usually regarded as genuine examples of MENP are not really
+MENP. The problem is that some of the alleged examples of MENP which come from
+population genetics are quite convincing.
+Consider, for instance, the case of drift discussed above in Sect. 2. Drift explanations are
+regarded by statisticalists as genuine examples of statistical, non-causal explanations in science (Walsh et al., 2017). Are drift explanations genuine MENP? The answer to this question seems to be in the affirmative. Lange (2013a), for instance, conceives of drift explanations as genuine MENP. According to Lange, drift explanations in population genetics
+are what he calls Really Statistical (RS) explanations. In Lange’s view, an RS explanation
+“does not proceed from the particular chances of various results […]. It exploits merely the
+fact that some process is chancy” (Lange, 2013a, p. 173). RS explanations are statistical
+explanations that are thought to be genuine instances of MENP, since it can be shown that
+RS explanations are both (a) genuine non-causal explanations, i.e., they are not explanations that merely fail to cite causes; and (b) genuine mathematical explanations, i.e., they
+are not explanations that merely use mathematics for representational purposes.
+
+11
+Otsuka is less cautious on this issue and straightforwardly affirms that, according to the statisticalists,
+“population genetics is not only mathematical—it is a mathematics. That is, not only does it deal with complex mathematical formulae (after all physics is full of sophisticated mathematics), but rather its principal
+equations describing evolutionary changes are all mathematical theorems, whose derivation requires nothing more than assumptions or axioms of, say, probability theory” (Otsuka, 2016, p. 461).
+
+13
+
+

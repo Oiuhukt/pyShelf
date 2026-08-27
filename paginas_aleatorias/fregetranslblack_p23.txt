@@ -1,0 +1,36 @@
+16
+
+TRANSLATIONS FROM THE WRITINGS OF GOTTLOB FREGE
+
+§ ii. Generality
+In the expression for a judgment, the complex symbol to the
+right of |- may always be regarded as a function of one of
+the symbols that occur in it. Let us replace this argument with a
+Gothic letter, and insert a concavity in the content-stroke, and make
+this same Gothic letter stand over the concavity: e.g.:
+1—w—0 (a)
+This signifies the judgment that the function is a fact whatever we take
+its argument to be. A letter used as a functional symbol, like 0
+in 0{A), may itself be regarded as the argument of a function;
+accordingly, it may be replaced by a Gothic letter, used in the
+sense I have just specified. The only restrictions imposed on the
+meaning of a Gothic letter are the obvious ones: (i) that the com¬
+plex of symbols following a content-stroke must still remain
+a possible content of judgment (§ 2); (ii) that if the Gothic letter
+occurs as a functional symbol, account must be taken of this
+circumstance. All further conditions imposed upon the allowable
+substitutions for a Gothic letter must be made part of the judgment.
+From such a judgment, therefore, we can always deduce any
+number we like of judgments with less general content, by substi¬
+tuting something different each time for the Gothic letter; when
+this is done, the concavity in the content-stroke vanishes again.
+The horizontal stroke that occurs to the left of the concavity in
+
+I—w—^(o)
+is the content-stroke for [the proposition] that 0 (a) holds good
+whatever is substituted for 0; the stroke occurring to the right of
+p. 20] the concavity is the content-stroke of 0 (a)—we must here
+imagine something definite substituted for a.
+By what was said before about the meaning of the judgmentstroke, it is easy to see what an expression like
+
+

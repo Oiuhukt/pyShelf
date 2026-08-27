@@ -1,0 +1,32 @@
+P1: GEM/SPH
+CY504-25
+
+P2: GEM/SPH
+CB421-Boolos
+
+318
+
+QC: GEM/UKS
+March 20, 2007
+
+T1: GEM
+21:48
+
+Char Count= 0
+
+NONSTANDARD MODELS
+
+for the construction of section 13.3. Call i minimal if there is no j < i such
+that ci = c j is in  # . Show that the function δ taking n to the nth number i
+such that ci is minimal is arithmetical.
+25.10 Continuing the preceding problem, explain why for every constant c there
+is a unique n such that c = δ(n) is in  # , and that if in the construction of
+section 13.3 we take as the element ciM associated with the constant ci this
+number n, then the relation R M associated with any relation symbol R will
+be arithmetical.
+25.11 Explain how the arithmetical Löwenheim–Skolem theorem for the case where
+function symbols are absent follows on putting together the preceding six
+problems, and indicate how to extend the theorem to the case where they are
+present.
+
+

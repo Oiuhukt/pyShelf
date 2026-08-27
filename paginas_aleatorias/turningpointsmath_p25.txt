@@ -1,0 +1,43 @@
+2.6 • Growth
+
+15
+
+2
+
+Rafael Bombelli (1526–1572)
+
+The equation x3 = 15x + 4 considered above is an example of an “irreducible cubic”, one with
+rational coefficients, irreducible over the rationals, all of whose three roots are real and distinct.
+It was shown in the nineteenth century that any solution by radicals of such a cubic—not just
+Cardano’s—must involve complex numbers [5, 10]. Thus complex numbers are unavoidable
+when determining solutions by radicals of irreducible cubics. It is for this reason that they arose
+in connection with the solution of cubic rather than (as seems much more plausible) quadratic
+equations. Note that the nonexistence of a solution of the quadratic x2 + 1 = 0 was accepted for
+centuries.
+2.6
+
+Growth
+
+Here are several examples of the penetration of complex numbers into mathematics in the
+centuries after Bombelli.
+As early as 1620, Albert Girard suggested that an equation of degree n may have n roots.
+Such statements of the “Fundamental Theorem of Algebra” were however vague and unclear.
+For example Descartes, who coined the unfortunate term “imaginary” for the new numbers
+(Gauss called them “complex”), stated that although one can imagine that every equation has
+as many roots as is indicated by its degree, no (real) numbers correspond to some of these
+imagined roots.
+Leibniz, who spent considerable time and effort on the question of the meaning of complex
+numbers and the possibility of deriving reliable results by applying the ordinary laws of algebra
+to them, thought of complex roots as “an elegant and wonderful resource of divine intellect, an
+unnatural birth in the realm of thought, almost an amphibium between being and non-being”
+[11, p. 159].
+Complex numbers were used by Johann Heinrich Lambert for map projection, by Jean le
+Rond d’Alembert in hydrodynamics, and by Euler, d’Alembert, and Lagrange in (incorrect)
+proofs of the Fundamental Theorem of Algebra.
+Euler made important use of complex numbers in, for example, number theory and
+analysis; he also linked the exponential and trigonometric functions and, arguably, the five
+most important numbers in mathematics in, respectively, the following two famous formulas:
+eix = cos x + i sin x and eπi + 1 = 0 . (Euler was the first to designate −1 by “i”.) Yet he said of
+them [9, p. 594]:
+
+

@@ -1,0 +1,35 @@
+El teorema de Gödel. Ernest Nagel & James R. Newman
+
+41
+
+de número Gödel 13 por el numeral de m. Esta caracterización metamatemática determina unı́vocamente un número definido, que es una cierta
+función aritmética de los números m y 13, en la que puede ser expresada
+la función misma dentro del sistema formalizado25 . El número puede, por
+consiguiente, ser designado dentro del cálculo. Esta designación será escrita
+como ‘sust(m, 13, m)’ siendo la finalidad de esta forma recordar la caracterización metamatemática que representa, es decir, ‘el número Gödel de la
+fórmula obtenida a partir de la fórmula de número Gödel m, sustituyendo
+la variable de número Gödel 13 por el numeral de m’. Podemos ahora dejar a un lado el ejemplo y generalizar. El lector se dará cuenta en seguida
+de que la expresión ‘sust(y, 13, y)’ es la imagen reflejada dentro del cálculo aritmético formalizado de la caracterización metamatemática ‘el número
+Gödel de la fórmula que se obtiene a partir de la fórmula de número Gödel
+y, sustituyendo la variable de número Gödel 13 por el numeral de y’. Se
+observará también que cuando se sustituye ‘y’ por un numeral definido en
+‘sust(y, 13, y)’ —por ejemplo, el numeral de m o el numeral de doscientos
+cuarenta y tres millones— la expresión resultante designa un número entero
+definido, que es el número Gödel de una determinada fórmula26 .
+
+7.3. El núcleo de la argumentación de Gödel. Nos encontramos preparados, por fin, para seguir en lı́neas generales la argumentación principal
+de Gödel. Comenzaremos enumerando de forma genérica los pasos fundamentales para que el lector pueda captar una vista panorámica de la
+secuencia del argumento.
+GÓDEL mostró (I) cómo construir una fórmula aritmética G que represente la declaración metamatemática ‘La fórmula G no es demostrable’.
+Esta fórmula G dice, ası́, ostensiblemente de sı́ misma que no es demostrable. Hasta cierto punto, G está construida de forma análoga a la paradoja
+de Richard. En esa paradoja la expresión ‘richardiano’ se asocia a cierto
+número n, y queda construida la oración ‘n es richardiano’. En la argumentación de Gödel, la fórmula G se asocia también a un cierto número
+h y está construida de modo que corresponda a la declaración ‘la fórmula que tiene el número asociado h no es demostrable’. Pero (II) Gödel
+mostró también que G es demostrable si, y solamente si, es demostrable su
+negación formal ¬G. Este paso de la argumentación es también análogo al
+paso de la paradoja de Richard en el que se demostró que n es richardiano
+si, y solamente si, n no es richardiano. De cualquier modo, si una fórmula
+y su negación son ambas formalmente demostrables, el cálculo aritmético
+no es consistente. Por consiguiente, si el cálculo es consistente, ni G ni ¬G
+
+

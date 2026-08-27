@@ -1,0 +1,50 @@
+Philosophy of Science
+
+1307
+
+In recent work I have endorsed this general contention and have attempted to
+provide a more systematic explication of what these underlying commitments are,
+how they function to produce different epistemic assessments of scientific inquiry,
+and why, in at least some cases, disagreements between those who assess theories and
+models differently are likely not amenable to resolution (see Chakravartty 2017a for a
+detailed discussion). At the heart of this account are two ideas: the notion of epistemic
+stances, which comprise the relevant, variable, underlying commitments; and a
+defense of a permissive account of epistemic rationality, according to which under
+certain fairly minimal conditions, different stances may be rational even if
+conflicting. Among a number of aspects of this picture one might contest, the
+account of rationality on which it depends is perhaps most controversial. In this
+article I consider two recent, distinct but related concerns that focus attention here
+specifically. The first, due to Christopher Pincock (2023), raises questions about
+whether epistemic agents such as scientific realists are, in fact, rationally obligated to
+hold the beliefs they do about the output of scientific work. The second, due to Stathis
+Psillos (2021) and Ragnar van der Merwe (2022), raises questions about whether
+failing to recognize such obligations courts science denialism, often in the form of
+pseudoscience.
+In the following section I briefly review the key features of my conception of
+stances and rationality and the implications it has for debates about realism and
+antirealism, which constitute the focus of these recent critiques. Next, in section 3,
+I consider the idea that realists must view their own epistemic stances as rationally
+obligatory on pain of incoherence, and argue that this concern is sustained by two
+conflations: one of beliefs with underlying stances, and another of rational choice
+with rational obligation. Once these distinctions are clarified, the objection, though
+instructive, loses its force. Finally, in section 4, I consider the charge that to accept
+that conflicting epistemic stances may be rational has the unwelcome consequence
+that forms of science denialism are also rational. I argue that this consequence does
+not follow from the account of stances and rationality proposed. Recognizing this,
+however, is sadly no antidote to science denialism, which is often driven by stances
+that are not (or not merely) epistemic as such, and which represents a pressing
+concern for anyone who is serious about science whatever their stances or
+conceptions of rationality may be.
+2. Scientific ontology and underlying epistemic stances
+Debates about scientific realism concern how we should interpret the results of
+scientific investigation. What do our best theories and models tell us about the world?
+Realists contend that they give us credible descriptions of a mind-independent
+reality, extending across a full range of subject matters including objects, events,
+processes, and properties that cannot be detected by the unaided senses, or that are
+otherwise distant from us in time or space. Antirealists, in various ways, deny this
+interpretation of our best science. Debates in this sphere have often been framed in
+terms of the (approximate) truth of theories and the successful reference of
+theoretical terms, as per foundational discussions in the 1970s and 1980s. Arguably,
+however, the broadness of these formulations is out of step with more recent, finergrained emphasis on the details of scientific practice, and a growing diversity of more
+
+

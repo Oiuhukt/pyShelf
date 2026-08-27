@@ -1,0 +1,42 @@
+66 Philosophy of Biology
+
+hive—words that name structures in terms of their function—philosophers
+have tried to render their teleology harmless. This enterprise has met with
+resistance. Some of the resistance stems from the belief that biological functions cannot be cashed in for adaptations, as we need a prior concept of
+function in order to express and assess claims about adaptation itself.
+
+Adaptationism—for and against
+Chapter 2 reported the debate about the unfalsiﬁability of the principle of
+natural selection when ﬁtness is deﬁned in terms of reproductive success.
+The practical problems arising from a deﬁnition of ﬁtness differences in
+terms of alternative packages of design problem solutions also became apparent. Gould and Lewontin’s famous paper carries these criticisms further. It
+deﬁnes “adaptationism” as the research program in biology which “regards
+natural selection as so powerful and the constraints upon it as so few that
+direct production of adaptation through its operation becomes the primary
+cause of nearly all organic form, function and behavior” (Gould and Lewontin
+1979: 584). Adaptationism begins by “atomizing” organism into separate
+traits, and then seeks the design problem that each of these traits optimally
+solves. When it fails to show the optimality of a trait with respect to a single
+design problem, adaptationism seeks conﬂicting design problems which the
+organism’s lineage faced and which favored these suboptimal traits as “tradeoffs” in an optimal package. This is where Dr. Pangloss and Panglossianism
+emerge. The eighteenth century philosopher Voltaire introduced Pangloss as
+a caricature of Leibniz, the German philosopher who held that everything
+has a function, a role to play in making this the best of all possible worlds.
+Thus, for example, Dr. Pangloss explained the existence of the bridge of the
+nose on humans as owing to its function in supporting eyeglasses. One problem here is that the bridge of the nose is not a separate trait, in the sense that
+it was never acted upon by natural selection. The nose as a whole perhaps is
+a trait but, even if so, the bridge is nothing more than an arbitrary aspect of
+it. Another problem is that eyeglasses came long after nose bridges so could
+not be part of their cause. More generally, Gould and Lewontin argued, it
+is impossible to tell just by looking at a few generations whether a particular feature of an organism is an adaptive trait. Such speculations, based on
+“reverse engineering” of function and plausible selective histories, are not
+science; they are “just so” stories. (Readers may recall Rudyard Kipling’s
+Just So Stories—fables about how the camel got its hump, how the elephant
+got its trunk, how the leopard got its spots, etc.) What has this to do with
+“spandrels?” As Gould and Lewontin tell us, spandrels are the curved triangular areas in the raised corners of the square structure supporting the
+central dome in cathedrals like the Basilica of San Marco. They are typically
+decorated with mosaic religious iconography, often well integrated into the
+much larger mosaics of the dome itself. The mistaken treatment of traits
+not actually selected for as adaptations is likened by Gould and Lewontin
+
+

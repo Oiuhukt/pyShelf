@@ -1,0 +1,43 @@
+186
+
+the oxford handbook of epistemology
+
+Although I do not argue the issue here, I think that Pascal was mistaken about
+his second point.7 However, I think he was essentially correct in saying that the
+pragmatic beneﬁts of a belief can in principle be relevant to its rationality. In the
+sections that follow, I propose a general theory of rationality, and within the
+context of this theory I illustrate how the pragmatic consequences of a belief can
+potentially affect the rationality of our having that belief. Nevertheless, I also argue
+that within the framework of the general theory, it is possible to explain and
+defend our general intellectual practice of not taking the pragmatic beneﬁts of a
+belief into account in deliberations and debates about what to believe.
+
+3. T H E E P I S T E M I C G O A L
+
+...................................................................................................................................................................
+
+In evaluating the rationality of beliefs, epistemologists have traditionally been concerned not just with any intellectual goal but rather with a very speciﬁc goal, that
+of now having beliefs that are both accurate and comprehensive. This goal has
+two aspects, either of which could be championed more easily on its own than
+in tandem with the other. If the goal were only to have accurate beliefs, the strategy
+would be to believe only that which is maximally certain, whereas if the goal were
+only to have comprehensive beliefs, the strategy would be to believe as much as
+possible.
+Note also the synchronic character of the goal. The goal is not to have accurate
+and comprehensive beliefs at some future time but rather to have such beliefs
+now. To understand the signiﬁcance of characterizing the goal in this way, imagine
+that my prospects for having accurate and comprehensive beliefs a year from now
+would be enhanced by now believing something for which I lack adequate evidence. For example, suppose that P involves a more favorable assessment of my
+intellectual talents than the evidence warrants, but suppose also that believing P
+would make me more intellectually conﬁdent than I would be otherwise, which
+would make me a more dedicated inquirer, which in turn would enhance my
+long-term prospects of having accurate and comprehensive beliefs. Despite these
+long-term beneﬁts, there is an important sense of rational belief, indeed the very
+sense that traditionally has been of the most interest to epistemologists, in which
+it is not rational for me now to believe P. Moreover, the point of this example is
+not affected by shortening the time period in which the beneﬁts are forthcoming.
+It would not be rational, in this sense, for me now to believe P if we were instead
+to imagine that believing P would somehow improve my prospects for having
+accurate and comprehensive beliefs in the next few weeks, or in the next few
+
+

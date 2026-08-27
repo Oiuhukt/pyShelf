@@ -1,0 +1,54 @@
+638
+
+Aidan Lyon
+may have only a couple of alleles. The normality then comes, when the
+number of loci is large, from the Central Limit Theorem. (Gillespie [1998],
+p. 106, my emphasis)
+
+10
+
+11
+
+They originate from, or at least are inspired by, Francis Galton’s work in this area. See Stigler
+([1986], Sections 2–3) for a historical account of the development of such explanations.
+Interestingly, the size distribution of featured Wikipedia articles (in bytes) is very
+well-approximated by a log-normal distribution (http://en.wikipedia.org/wiki/User:Dr_pda/
+Featured_article_statistics). A standard CLT explanation of this distribution might be that there
+are many factors that determine the size of a featured article—say the contributions of different
+authors—and these factors are independent and multiply together to form the total size of each
+article. Of course, this is not true; at best, they might sum together. To run a CLT-style explanation for the distribution of featured article size one would have to find some set of factors that
+are appropriately distributed and multiply to the total byte size of the article (or something that
+could be transformed to total byte size without destroying approximate log-normality). It’s not
+at all clear what those factors would be.
+
+Downloaded from https://academic.oup.com/bjps/article-abstract/65/3/621/1497281 by Universiteit van Amsterdam user on 06 May 2019
+
+There are several reasons to be skeptical of such explanations.10 (I’ll focus on
+Grinstead and Snell’s version since it’s more precise and uses a more general
+version of the CLT.)
+First, there is a problem with the construction of random variables whose
+values are each ‘allele pair’s effect on the height of the individual’. Consider an
+analogy with the lengths of Wikipedia articles. For some authors, it is possible
+to isolate their contribution to the article (for example, five lines of text).
+However, the contributions of others cannot be isolated in this way. One
+author may write one line with completely false information. This causes another author to delete that one line, and replace it with three more. If the first
+author hadn’t written the false information, the second wouldn’t have added
+the three lines. Because of this, we can’t associate random variables with each
+author’s contribution that all have the same units and sum to the total length
+of the article. Genes can work in similar ways to determine a phenotype such
+as height, and so for the same reason, we can’t associate random variables
+with each allele pair’s effect on height that are all measured in the same way
+and sum to total height.11
+The second problem is closely related to the first, but still distinct. Genes can
+regulate each other’s expression through gene regulatory networks. They also
+interact through the developmental mechanisms that convert gene products
+into the components of a trait (for example, muscle tissue). This means that a
+gene’s contribution to height can be strongly dependent on the expression of
+other genes. However, independence of factors is required for the CLT to apply.
+Indeed, it’s striking that there is no mention of the condition of independence in
+the above passage (or its surrounding text), even though the version of the CLT
+that the authors cite (Theorem 9.5) requires it. There are generalizations of the
+CLT that allow for some dependencies between factors, so long as other constraints are met (for example, Hoeffding and Robbins [1948]). However, it is by
+no means clear that genetic factors satisfy these constraints.
+
+

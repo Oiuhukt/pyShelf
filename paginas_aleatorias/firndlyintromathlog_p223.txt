@@ -1,0 +1,103 @@
+7.3. Primitive Recursion
+
+207
+
+Lemma 7.3.5. The standard ordering relations ≤, < (on the natural numbers) are primitive recursive. The equality relation = is primitive recursive.
+.
+.
+Proof. The primitive recursive function 1 −
+((y + 1) −
+x) is the characteristic function for the relation x ≤ y. Furthermore, we have
+
+• x=y ⇔ x≤y ∧ y≤x
+• x < y ⇔ ¬(y ≤ x).
+Thus, it follows from Lemma 7.3.4 that these relations are primitive recursive.
+Lemma 7.3.6. The class of primitive recursive
+under
+P functions is closed
+Q
+bounded sum and bounded product, that is,
+x, i) and i≤y f (∼
+x, i)
+i≤y f (∼
+are primitive recursive functions if f is a primitive recursive function.
+Proof. We have
+X
+f (x,
+i) = f (x,
+0)
+∼
+∼
+i≤0
+
+and
+
+X
+i≤y+1
+
+f (x,
+i) = f (x,
+S(y)) +
+∼
+∼
+
+X
+
+f (x,
+i) .
+∼
+
+i≤y
+
+P
+Thus, it is easy to see that we can define the function i≤y f (x,
+i) primitive
+∼
+recursively from the function f , and we conclude that the class of primitive
+recursive function is closed under bounded sum.
+It is also easy to see that the class of primitive recursive function is
+closed
+under bounded products. It is straightforward to define the product
+Q
+f
+i) primitive recursively when the function f and the multiplicai≤y (x,
+∼
+tion function are available.
+Lemma 7.3.7. The class of primitive recursive relations is closed under
+the bounded first-order quantifiers (∃i ≤ n) and (∀i ≤ n).
+Proof. We have just proved that the class of primitive recursive functions
+is closed under bounded products.
+If χR is the characteristic function for
+Q
+the relation R(x,
+y),
+then
+χ
+(
+x,
+i) will be the characteristic function
+R
+i≤y
+∼
+∼
+for the relation (∃i ≤ y)[R(x,
+i)].
+Hence,
+the class of primitive recursive
+∼
+relations is closed under bounded existential quantification. Furthermore,
+we know that class is closed under the propositional operators, and we
+know that (∀i ≤ y)[R(x,
+i)] holds if and only if ¬(∃i ≤ y)[¬R(x,
+i)] holds.
+∼
+∼
+Thus, we can conclude that the class also is closed under bounded universal
+quantification.
+Definition 7.3.8. The definition scheme
+(
+g1 (x1 , . . . , xn ) if h(x1 , . . . , xn ) = 0
+f (x1 , . . . , xn ) =
+g2 (x1 , . . . , xn ) otherwise
+
+

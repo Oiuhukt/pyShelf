@@ -1,0 +1,41 @@
+Carnapian who sets a much lower bar on when ontological commitments of a framework can be justified
+and accepted.18
+4. Ontology and methodology: Motivating the Carnapian approach
+While I believe there are good reasons for favouring the Carnapian approach to causation over
+metaphysical approaches, I must admit that I do not have knockdown or conclusive arguments against the
+latter. This may be disappointing but is hardly surprising. As we have seen in the last two sections,
+pragmatists and metaphysicians disagree on so many things (especially on the goals of ontological inquiry)
+that probably any argument favouring one will rely on premises or intuitions that the other finds
+unjustified.19 For this reason, the “arguments” I shall provide in this section are not aimed at settling the
+debate or disagreement; instead, the goal is to stimulate further exchanges between pragmatists and
+metaphysicians.
+4.1 What is wrong with the metaphysical approach?
+The Carnapian and the metaphysician have very different understandings of the relationship
+between ontology and methodology. For metaphysicians, the study of ontologyM (i.e., metaphysics) is a
+distinct project from that of methodology or epistemology: ontological issues are concerned with what
+
+In a broadly Quinean spirit, Schurz and Gebharter (2016) argue that causation is a “theoretical concept” explicated
+by “axioms” of the “theory” of causal Bayes nets (aka SCMs). My project and theirs share important common
+grounds, but I disagree that the SCM framework alone is sufficient to explicate the concept (or rather concepts) of
+causation. In making this claim, they seem to assume that SCMs can capture everything important about causation
+and that it is the single best causal framework we have. There are good reasons to doubt these assumptions. First, the
+framework of SCM is merely concerned with the “thin” concept of causation. But there are plenty of “thick” causal
+concepts used in the sciences that the formalism simply cannot capture (cf. Cartwright, 2007). For example, in
+classical mechanics, the detailed dynamics of a system’s evolution needs to be described using Hamiltonian
+equations which we do not find in SCMs. Additionally, axioms of SCMs presuppose idealized assumptions (such as
+modularity) that may be violated in biological sciences. Moreover, even in domains where SCMs plays a significant
+role, causal notions used there are often richer and messier than what the axioms of SCMs can tell us. For example,
+actual interventions conducted in clinical trials are much more complicated than the kind of atomic or ideal
+interventions assumed in the SCM framework. Additionally, the formalism of SCM does not capture other
+peripheral causal notions like invariance, proportionality, and stability, which play an indispensable role in causal
+inference practice.
+19
+I am not the only one who is skeptical about the possibility of having conclusive arguments against the
+metaphysician. Woodward (2017, p. 193), for example, found that “putting everything into an ordinary ‘linear’
+argument [against the metaphysician] was impossible”; so, he organized his article as an imaginary dialogue with
+“Professor Metafisico”.
+18
+
+18
+
+

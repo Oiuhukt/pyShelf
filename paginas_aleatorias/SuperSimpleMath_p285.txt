@@ -1,0 +1,268 @@
+285
+decimals continued
+probability 209
+proportions 164, 165
+raised to a power 115
+recurring 63–64
+rounding 90
+terminating 63
+degrees 30, 31, 34
+denominators 46, 47–55, 106
+rationalizing 124
+density 70, 71, 72
+depreciation see decay
+depression, angle of 205
+diameter 43, 76, 193
+difference of two squares 105,
+138, 142
+dilations 178, 188
+fractional and negative 179
+direct proportion 160, 166
+direction
+of rotation 176
+vectors 170, 172
+discounts 59
+discrete data 224, 229
+discriminant 141
+displacement 169, 247
+distance
+angles of elevation and
+depression 205
+calculating using bearings
+183
+distance-time graphs 246
+scalar quantities 169
+scale drawings 182
+speed-time graphs 247,
+248
+distributive property 99, 100
+division
+by 10, 100, and 1000 15
+algebraic fractions 108
+bounds of a 93
+in a given ratio 159
+long 19
+mental 21
+methods of 18–19
+negative numbers 14
+order of operations 28
+powers 117, 118
+reversing 131
+roots 123
+with scientific notation 127
+short 18
+dodecagons 38
+dodecahedrons 79
+domain 252–253
+double line graphs 229
+doubling and halving 57
+drawing
+angles 34
+Fibonacci spirals 279
+histograms 239
+plans and elevations 81
+scale drawings 182
+see also construction
+dual bar charts 227
+
+E
+
+either/or, probability of
+210
+elevation, angle of 205
+elevations 81
+elimination, simultaneous
+equations 134, 135
+end probabilities 214, 215
+endpoints 148
+equal angles 32
+equal vectors 170
+equations 95, 130
+balanced 131
+completing the square
+139–140
+cubic 143
+of a line 146, 147
+of parallel lines 147
+with parentheses 133
+proportion 166
+quadratic 137–142
+simultaneous 134–136
+solving 130, 131–132
+solving using graphs 152–153
+equilateral triangles 35, 36,
+273
+equivalent expressions 101
+equivalent fractions 46, 48
+error interval 92
+estimation 90, 91, 92
+arithmetic 10–13, 16, 17, 19
+frequency tables and typical
+values 232, 233
+interpolation and extrapolation
+244
+evaluation 97, 109, 143
+events
+conditional/dependent 215
+independent 214
+mutually exclusive 211, 213
+probability 210
+probability of two 213
+expected frequency 219
+experimental probability 209
+exponential decay 256, 257
+exponential functions
+256–257
+exponential graphs 256–257
+exponential growth 61, 256
+exponents
+algebra 98
+exponent laws 118–121,
+128
+order of operations 28
+powers 22, 115
+expressions
+algebraic 95, 96, 97–106
+equations 130
+functions 111
+inequalities 154
+sequences 268
+square roots 123
+exterior angles 39
+polygons 41
+extrapolation 244
+
+F
+
+faces, 3D shapes 79, 83–86
+factor pairs 23
+factor trees 25, 27
+factoring 101
+algebraic fractions 106, 108
+prime factorization 25
+quadratic equations 137, 138,
+139, 141, 142
+quadratic expressions 102–105
+factors 23, 24
+common 26–27
+Fibonacci numbers 278
+Fibonacci sequence 278–279
+Fibonacci-type sequences 279
+formula triangles 70–71, 72
+formulas 109, 130
+rearranging 110
+fractional dilations 179
+fractions 10, 46
+adding and subtracting 49
+algebraic 106–108
+of an amount 50
+comparing 48
+and decimals 55, 64
+dividing 52–53
+fractional powers and roots
+120
+improper and mixed numbers 47
+irrational square roots in 124
+multiplying 51
+ordering 48
+and percentages 54, 55, 56
+probability 209
+proportions 164
+and recurring decimals 64
+frequency 226
+bar charts 227
+cumulative 236
+expected 219
+frequency trees 220
+histograms 238–239
+pie charts 230
+relative 219
+Venn diagrams 217
+frequency density 238
+frequency tables 226, 227, 228,
+230, 236, 239
+and typical values 232–233
+frustums 87
+full turns 30, 31, 40
+functions 111, 130
+composite 113
+domain and range 252–253
+evaluating from a graph 152
+inverse 112
+order of 113
+plotting on a graph 145
+
+G
+
+Gauss, Carl Friedrich 271, 273
+geometric sequences 265,
+276–277
+geometrical reasoning 44
+
+geometry
+bearings 183
+circle theorems 193–194
+combinations of transformations
+181
+congruent and similar shapes
+188–191
+constructing angles 185
+constructing perpendicular
+lines 184
+constructing triangles 192
+dilations 178–179
+loci 186–187
+reflections 175
+rotations 176–177
+scale drawings 182
+scaling area and volume
+180
+translations 174
+vectors 169–173
+Golden Ratio 279
+graphs
+area under a curve 248
+coordinate grid 144
+cubic 254
+cumulative frequency 236,
+237
+distance-time 246
+domain and range of a function
+252–253
+double line 229
+equation of a circle
+262–263
+equation of a line 146
+exponential 256–257
+length and midpoint of a line
+segment 148
+line graphs 229
+linear 145
+linear inequalities 155
+linear real-life 250
+nonlinear real-life 251
+parallel and perpendicular lines
+147
+probability distributions
+221
+proportion 166
+quadratic 149, 150–151
+quadratic inequalities 156
+quartiles and 237
+reciprocal 255
+scatter graphs 243–244
+slope of a curve 249
+solving equations using
+152–153
+speed-time 247
+time series 240
+transformations of 260–261
+trigonometric 258–259
+velocity-time 247
+greatest common factor (GCF)
+26–27
+grouped frequency tables 226,
+232–233
+growth and decay 61
+
+

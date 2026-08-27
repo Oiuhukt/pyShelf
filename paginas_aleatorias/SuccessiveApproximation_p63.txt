@@ -1,0 +1,56 @@
+THE MET HOD OF I T E R A T I O N
+
+The method we have described for solving equation (61) is that
+of iteration. In general we may describe the method as follows:
+We write the equation f ( x ) = 0 in the form x = (p(x). Then we
+select an initial approximation x l9 substitute in the right side of the
+equation, and obtain a second approximation x 2 = <p(x 2). In
+general, if we have an approximation x n9 we obtain the next approxi­
+mation x n+1 by means of the formula
+*n+l = ?(*»).
+(62)
+If we find that to within the required accuracy x n+l = x n we may
+take x n for our root.
+Newton’s method is a special case of the method of iteration,
+because the method may be presented as follows.
+Suppose we are given the equation f ( x ) = 0. We divide both sides
+by —/'(* ) and add x. We obtain
+/(* )
+/(* )
+This equation is clearly equivalent to the original one, except
+possibly at those points where f ' ( x ) = 0 , where it is not defined.
+It turns out, however, that in a certain sense, which we shall not
+investigate here, this “almost never” matters.
+Applying the method of iteration to this equation, we find that the
+successive approximations x w + 1 are given by
+x = x — 777-7*
+
+{*n+l} =
+
+“
+
+f(x„)
+
+f(Xn.)
+
+But this is precisely the formula used in Newton’s method.
+In the same way we may show that the method of chords is a
+special case of the method of iteration. We may rewrite the equation
+f [ x ) = 0 in the form
+x — a
+X = x-f(x)'fix) - f i d )
+
+or in the form
+b —x
+* = X -f{x) ;
+
+'fib) - f i x )
+
+A number of questions arise in connection with the method of
+iteration we have described:
+1. Does the sequence xl9 . . ,9xn9. . ., obtained by the method of
+iteration always converge to some number f ?
+
+49
+
+

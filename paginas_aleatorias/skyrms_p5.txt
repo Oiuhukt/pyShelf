@@ -1,0 +1,50 @@
+Brian Skyrms
+Pure syntax, semantics, and pragmatics may now appear as rather motley
+categories.9 Perhaps the traditional way is not the most illuminating way
+of dividing up the metalanguage. For the time being, I will simply refer
+to the metalanguage without worrying about how or whether to draw
+the syntax-semantics-pragmatics distinction.
+The idea of a language system has already been stretched far beyond
+the customary notion of a formal language, to the point where I think
+that it is reasonable to begin using the term "ideal language game." Is
+there no end to this process?
+When an ideal language game is intended as an explication of actual
+language use, the regularities which are idealized into rules should be
+those which can be taken as indicative of competence of language use.
+The limits on the process of idealization are then the limits of logical
+richness of actual language use. Of course what is indicative of competence in language use is rarely clear-cut. Too bad, but that's the way
+language use is, by and large.10 For this reason, among others, empirical
+linguistic regularities will typically underdetermine the corresponding
+ideal language game, leading to a range of alternative explications.
+sorts of responses to various sorts of experiences, where the responses are degrees of
+belief in propositions" (1968, pp. 179-80).
+This view has the attractive feature of enabling empiricist epistemology to avoid
+the pretense of the myth of the given and the neoidealism of the coherence theory
+of knowledge (in this case, the coherence theory of rational belief).
+9
+Actually, the formulation given is not precise enough to tell us where the boundaries are. Logical consequence is a relation between items of language, unlike the
+denotation relation. Is it therefore a syntactical relation rather than a semantical
+one? Or is the distinction an epistemological one; that in order to learn about
+logical consequence we must first study the denotation relation? Is semantics restricted
+to denotation and things definable in terms of it, or does it include all sorts of relations
+between items of language and items in the world? What about an idealized explanatory
+relation between explanatory accounts and events?
+There are lots of alternative ways to answer such questions. One way is in terms
+of various functions of language. For instance, if we are interested in the language
+function of describing the world, we will need referential semantics which will include that part of traditional syntax which is exclusive of inference rules. If we are
+also interested in inferential functions of language more comes in. How much more
+depends on how broadly inference is conceived. Epistemological concerns cut across
+all categories. If we are interested in illocutionary force, etc., we bring in a whole
+new array of factors. The best way of sorting out all these factors will depend on
+what question is being investigated.
+10
+As a situation where things are relatively clear-cut and which illustrates some
+of the richness of the notion of an ideal language game, Professor N. Belnap has
+suggested that we look at the legal procedures for a trial. For example, consider the
+concept of inadmissible evidence. If certain kinds of evidence are admitted in a
+criminal trial, an appellate court may declare a mistrial. In doing so, it is in effect
+saying the criminal trial game has not been played. Rules of admissibility of evi-
+
+500
+
+

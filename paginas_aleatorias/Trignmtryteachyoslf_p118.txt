@@ -1,0 +1,23 @@
+Equation 1, the length of the arc is rθ cm.
+Then it follows that 2πr = rθ, so that the angle at the centre is 2π rad.
+But, as the angle at the centre of the circle is 360°,
+
+This equation, π rad = 180°, is the one you should remember when
+you need to change from degrees to radians, and vice versa.
+In many cases, when angles such as 45° and 60° are given in radians
+they are given as multiples of π. That is
+
+You can also work out 1 radian in degrees from the equation π rad =
+180°. You find that
+
+This equation is very rarely used in practice. When you need to
+convert radians to degrees or vice versa, use the fact that π rad = 180°
+and use either or as a conversion factor.
+Thus, for example,
+
+7.5 Area of a circular sector
+Figure 7.4 shows a shaded sector of a circle with radius r units and an
+angle at the centre of θ rad. Let the area of the shaded region be A
+units2.
+
+

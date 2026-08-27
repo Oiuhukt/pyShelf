@@ -1,0 +1,39 @@
+374 indiscernibility
+
+really seem to steer us in either direction. Indeed, for everything said so far, it is not
+at all clear that objects-platonists should feel under any pressure to take any particular stance on issues relating to the identity of indiscernibles.
+
+Ante rem structuralism and indiscernibles
+In fact, we think that the version of objects-platonism which is most likely to have
+a vested interest in the identity of indiscernibles is Shapiro’s ante rem structuralism. We introduced this back in §2.4, and we have mentioned it several times since,
+but we will recap the general idea. Shapiro believes that mathematics is about antestructures (he calls them ‘structures’, but they are not structures in the sense of Definition 1.2). These are supposed to be abstract objects, consisting of places, with
+certain intra-structural relations holding between them.28
+To explain why Shapiro’s ante rem structuralist might find the identity of indiscernibles interesting, note the following. According to Shapiro, the essence of a place
+in an ante-structure is its intrastructural relations to the (other) positions in the
+ante-structure.29 Clarifying this, Shapiro writes:
+The number 2 […] has lots of properties […. But] every property that 2 enjoys comes in
+virtue of its being that place in the natural number structure. This is because that is what
+2 is.30
+
+Shapiro seems to be suggesting that there are properties which are essential to 2, and
+that these essential properties (at least partially) ground its accidental properties.
+But, if we accept that places in structures have certain essential properties, then we
+can formulate new versions of the identity of indiscernibles:
+Identity of Essential-Indiscernibles (scheme). If a and b are places in the same structure, and they are indiscernible in the signature appropriate to the essential properties of
+that structure, then a = b.
+We say that this is a scheme, since there will be different versions of this principle,
+corresponding to the different grades of indiscernibility. So, we could replace ‘indiscernible’ in this scheme with ‘one-indiscernible− ’, or ‘two-symmetrical’, or anything else. But the idea is that, in restricting our attention to essential properties, we
+will rule out ‘cheap’ routes to discernibility.31
+Shapiro, however, rejects all of these principles, and for a very simple reason.
+Shapiro believes that there are cardinal ante-structures. According to Shapiro, these
+ante-structures consist only of places, with no essential (intra-structural) properties
+28
+
+Shapiro (1997: 73–4).
+See Shapiro (1997: 5–6, 72, 2006a: 114–21).
+30 Shapiro (2006a: 121).
+31 See e.g. Shapiro (2006a: 140).
+
+29
+
+

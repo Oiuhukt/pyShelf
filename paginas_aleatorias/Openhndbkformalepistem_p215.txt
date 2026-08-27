@@ -1,0 +1,44 @@
+208
+
+sylvia wenmackers
+
+PA R T I I
+M AT H E M AT I C A L P R E L I M I N A R I E S
+In this part, we will briefly review some common non-standard tools
+and the dual notions of filters and ideals. We will apply these notions in
+the ultrafilter construction of the hyperreals. We also present the axioms
+of standard probability theory. After that, we will be properly equipped to
+address infinitesimal probabilities in the context of countable lotteries as
+well as other cases.
+4
+
+common non-standard tools
+
+In this section, we review some common tools that appear in (nearly) all
+approaches to non-standard analysis.12
+4.1 Universe
+By a universe, we mean a non-empty collection of mathematical objects,
+such as numbers, sets, functions, relations, etc.—all of which can be defined
+as sets by working in Zermelo–Fraenkel set theory with the Axiom of
+Choice (ZFC). This collection is assumed to be closed under the following
+relations and operations on sets: ⊆, ∪, ∩, \, (·, ·), ×, P (·), ·· . Furthermore,
+we assume that the universe contains R and that it obeys transitivity (i.e.,
+elements of an element of the universe are themselves elements of the
+universe).
+In particular, we are interested in the standard universe, which is the
+superstructure V (R), and a non-standard universe, ∗ V (R).
+4.2 Star-map
+The star-map (or hyperextension) is a function from the standard universe
+to the non-standard universe.
+
+∗ : V (R) → ∗ V (R)
+A 7→ ∗ A
+We assume that ∀n ∈ N, ∗ n = n and that N 6= ∗ N.
+In the literature, two notations occur for the star map: before or after
+the standard object. In this chapter, I have opted for the former notation,
+because it allows us to read the ∗ -symbol as the prefix ‘hyper-’. For instance,
+∗ R are called “hyperreals.”
+12 For further information, see also Benci, Di Nasso, and Forti (2006, section 1) and Cutland
+(1983, section 1.2).
+
+

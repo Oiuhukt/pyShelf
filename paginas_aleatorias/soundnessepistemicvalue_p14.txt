@@ -1,0 +1,43 @@
+14
+
+M. Zicchetti
+
+IV. Taking stock
+This article focused on the purported epistemic value of soundness arguments,
+and, in particular, it investigated two central epistemological aspects of such
+arguments: The question of whether soundness arguments can be employed
+to justify or overcome reasonable open-mindedness about their conclusion.
+It has been argued that both questions should receive a negative answer.
+On one hand, a soundness argument fails to transmit justification due to a
+28
+Alternatively, we could also have argued that CT[S] interprets PA—so that PA must be
+consistent relative to the consistency of CT[S].
+
+Downloaded from https://academic.oup.com/pq/advance-article/doi/10.1093/pq/pqae059/7695466 by guest on 20 November 2024
+
+With this, we can conclude that the argument violates Wright’s ‘new’ Cogency
+Template: Reasonable open-mindedness about the consistency of PA amounts
+to reasonable open-mindedness about whether the premises of [SOUND ]
+are justified by CT[S]. In other words, [SOUND ] cannot be successfully
+employed to overcome reasonable open-mindedness about the consistency of
+PA.
+With this proposed strategy, we can argue that soundness arguments cannot
+be employed to improve our epistemic situation concerning consistency—in
+the sense spelt out as (†) and (‡). However, some clarifications are necessary.
+First, we can see that, according to the proposed analysis, the “entangled” version of the soundness argument [SOUND] presented an immediate case of failure: The consistency of our theory of truth CT[S] gave us the consistency of
+the target theory S directly simply by the fact that S was contained in CT[S].
+On the other hand, [SOUND ] presents a less immediate case of failure: The
+consistency of CT[S] directly gives us the consistency of S* only. In order
+to conclude that PA must be consistent as well, we needed the additional information that S* and PA are equiconsistent so that the consistency of S*
+(and of CT[S]) is incompatible with PA being inconsistent.28 The additional
+step involving the notion of equiconsistency is crucial: It gives us a way of
+generalizing the analysis to the target cases, where the syntactic containment
+assumption is lifted. Finally, it is essential to point out that the equiconsistency between S* and PA is not some ‘external fact’ that only we can appreciate:
+It is provable in CT[S]. This is important because, for this strategy against
+transmission and cogency to be in good standing, we want the information
+about the equiconsistency to be accessible—upon reflection—to the agent accepting CT[S], and this is ensured by its provability in CT[S]. With this,
+we can naturally generalize our original diagnosis to soundness arguments
+in general. Where does this conclusion leave us? The remainder of this article makes some important yet exploratory remarks about my analysis’s scope,
+consequences, and ramifications.
+
+

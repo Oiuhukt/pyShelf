@@ -1,0 +1,40 @@
+16
+
+DOROTHY EDGINGTON
+
+As there was a very low chance that the plane would crash, this
+hindsightful counterfactual does not seem to match a rational forward-looking judgement, ‘If you catch the plane you will be killed’.
+True, but note that if someone made that forward-looking judgement in advance, albeit without good reason, and I miss the plane
+and it crashes, we would be inclined to say she was right! Although
+the best-informed and most reasonable opinion to have in advance
+is one which matches the objective chance, that does not mean that
+the objective chance gives the ultimate verdict on the conditional.
+Perhaps the chance that C if A was high, but it turns out that A and
+not C. Perhaps the chance is significantly different tomorrow that,
+for example, she will be cured if she has the operation. Or perhaps a
+chance event like the plane crash switches the verdict.
+This example and others like it suggest that the conditional probability we are concerned to estimate, for counterfactuals (and in a
+sense the ultimate verdict on some forward-looking wills), is the
+chance, at a time when A still had some chance of coming about, of
+C given A and any relevant, causally independent, subsequent facts
+that have a causal bearing on C. You have the chance back then.
+Then you eliminate the ‘no crash’ possibilities and take a probability distribution over the remaining possibilities. It’s still a conditional
+probability, but not one that represents a reasonable degree of conditional belief at the earlier time.
+Why do we assess them this way? I argue elsewhere (Edgington
+2004) that it is these hindsightful counterfactuals that help us to
+make inferences to true conclusions: ‘She must have missed her
+plane’, someone says, surprised to see me; ‘if she had caught it she
+would be dead.’
+Bennett also incorporates this kind of case into his refinement of
+Lewis’s account of closeness. There are other refinements and complications. I turn now to the case for liberalism: pretty well any acceptable indicative conditional can ‘go counterfactual’ in a suitable
+context. Here is an extreme example (borrowed and adapted from
+Grice 1989), which concerns a very minimal ground for an indicative.
+If the shift to the counterfactual is permissible here, it looks as if it is
+permissible, in a suitable context, for any indicative. There is a treasure hunt. The organizer tells me ‘I’ll give you a hint: it’s either in the attic or the garden.’ Trusting the speaker, I think ‘If it’s not in the attic it’s
+in the garden.’ We are competing in pairs: I go to the attic and tip off
+my partner to search the garden. I discover the treasure. ‘Why did you
+©2008 The Aristotelian Society
+Proceedings of the Aristotelian Society, Vol. cviii, Part 1
+doi: 10.1111/j.1467-9264.2008.00233.x
+
+

@@ -1,0 +1,46 @@
+Original Sinn
+
+601
+
+subsequent experiences; if this could occur, it would make no difference to
+our future expectations whether we dismissed a given experience as illusory
+or not.
+Quine’s second thesis, which is the basis for his rejection of analyticity, is a
+more serious and more difficult matter. Frege held that analytic statements
+have sense in the same sense of ‘sense’ as synthetic ones. Wittgenstein
+held that they are devoid of sense; and the positivists that they have meaning
+as well as contingent statements only under an equivocation over the word
+‘meaning’. Seeking to explain the role of analytic statements in language,
+the positivists fastened upon their use as elucidatory sentences, serving to
+convey some feature of the senses of words contained in them. This would
+ordinarily be thought of as applicable only to those analytic statements
+which would not normally be regarded as requiring proof: the prototype
+would be such a sentence as ‘January has thirty-one days’. Quine agrees
+with Frege to this extent, that allegedly analytic and allegedly synthetic
+statements play similar roles in language—so similar, indeed, that the
+distinction between them cannot be discerned: neither kind of statement
+possesses a meaning for itself; both figure only as recipients of truth-values
+within a total theory.
+There is some justice in the positivist account of the role which analytic
+statements are made to play, at least for some uses of some analytic statements ;
+
+and certainly Quine’s rejection of analyticity is tightly connected with his
+denial that elucidation is a linguistic operation distinguishable from that of
+assertion. It is common for philosophers to remark that assertion is the
+primary function of language—that, e.g., we can imagine a language without
+questions or commands, but not one without assertions. Quine’s “Iwo
+Dogmas’ model of language is, however, one in which assertion is the only
+possible form of linguistic act. There is no place for the enunciation or
+explanation of the sense which is being attached to some expression: all
+must be conceived in terms of assignments of truth-values to sentences.
+And that is the fundamental source of its inadequacy.
+Quine holds that every sentence is subject to revision. In a sense, this is
+obviously true. A child may doubt whether he is right in supposing ‘January
+has thirty-one days’ to be the generally accepted sentence; he may also,
+familiar perhaps with such changes as that from the Fahrenheit to the
+Centigrade scale, easily perceive how it might cease to command general
+acceptance. There is no difficulty, at any rate, about the revisability of
+those analytic statements whose acceptance depends on proof, e.g. mathematical theorems: the discovery of a mistake in the proof remains, save
+in the simplest cases, an open possibility, and, in face of a purported
+
+

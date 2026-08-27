@@ -1,0 +1,38 @@
+DESCRIPCIONES*
+BERTRAND RUSSELL
+
+Hemos tratado en el capítulo precedente acerca de las palabras todo y
+alguno; en este capítulo consideraremos la palabra el (la) en el singular, y
+en el próximo capítulo consideraremos la palabra el (la) en el plural. Puede
+pensarse que es excesivo dedicar dos capítulos a una palabra, pero para el
+matemático filosófico es una palabra de enorme importancia: al igual que
+el gramático de Browning con la enclítica Se daría la doctrina de esta palabra si estuviese «muerto de cintura para abajo» y no meramente en una prisión.
+Hemos tenido ya ocasión de mencionar «funciones descriptivas», esto
+es: expresiones tales como «el padre de x» o «el seno de x». Estas expre-
+
+siones han de definirse definiendo primero «descripciones».
+Una «descripción» puede ser de dos clases, definida o indefinida (o ambigua). Una descripción indefinida es una expresión de la forma «un tal-ytal», y una descripción definida es una expresión de la forma «el tal-y-tal».
+Comencemos con la primera.
+«¿Con quién te encontraste?» «Me encontré con un hombre.» «Esto es
+
+una descripción muy indefinida.» No estamos por lo tanto separándonos del
+uso habitual en nuestra terminología. Nuestra pregunta es: ¿Qué asevero realmente cuando asevero «Me encontré con un hombre»? Supongamos por el
+momento que mi aserción es verdadera, y que de hecho me encontré con
+Juan. Es claro que lo que asevero no es «Me encontré con Juan». Puedo decir
+
+«Me encontré con un hombre pero no era Juan»; en ese caso, aunque mien-
+
+to, no me contradigo a mí mismo, como lo haría si cuando digo que me encontré con un hombre quisiese decir realmente que me encontré con Juan. Es
+claro también que la persona a la que estoy hablando puede entender lo que
+
+digo, incluso si es un forastero y no ha oído hablar nunca de Juan.
+Pero podemos ir más allá: no solamente Juan sino que tampoco ningún
+hombre efectivo entra en mi enunciado. Esto resulta obvio cuando el enun-
+
+*
+
+Versión castellana de Luis M. Valdés Villanueva.
+
+[50]
+
+

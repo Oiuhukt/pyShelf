@@ -1,0 +1,41 @@
+Frege on Predication
+But if we make the substitution, the result does not make sense, let alone
+preserve truth value:
+(14) Silver Blaze the concept horse.
+The objection concludes that what has gone wrong is that we have assumed
+that ‘the concept horse’ refers to a concept. Frege is fully aware of this line of
+argument and comments that:
+the behaviour of the concept is essentially predicative, even where
+something is being asserted about it; consequently it can be replaced there
+only by another concept, never by an object. (Frege 1891, p. 50)
+
+What this means is that, because ‘ is a horse’ and ‘the concept horse’ cannot
+be substituted for one another in sentences without change of truth value,
+Frege himself claims that ‘the references of the two expressions are essentially
+different’ (Frege 1891, p. 50).
+We will not assess this line of argument here. We will encounter another
+line of argument in Chapter 3 §3 which relies on the assumption that coreferring expressions can be substituted for each other in sentences without
+change of truth value, and we will address that assumption there. (Wiggins
+1984; MacBride 2011 address the line of argument concerning predicates such
+as ‘ is a horse’ and noun phrases such as ‘the concept horse’.) Here we will
+concentrate on some responses to the paradox of the concept horse.
+The paradox is significant because Frege wants to say various things about
+concepts (such as that they are incomplete, that they are referred to by
+predicates and so on) and yet he cannot do so on pain of paradox. In ‘On
+Concept and Object’, he tries to resolve matters:
+It must indeed be recognized that here we are confronted by an awkwardness
+of language, which I admit cannot be avoided, if we say that the concept
+horse is not a concept, [footnote omitted] whereas, e.g., the city of Berlin is a
+city and the volcano Vesuvius is a volcano. Language is here in a predicament
+that justifies the departure from custom. The peculiarity of our case is indicated
+by Kerry himself, by means of the quotation-marks around ‘horse’; I use italics
+to the same end. There was no reason to mark out the words ‘Berlin’ and
+‘Vesuvius’ in a similar way. In logical discussions one quite often needs to
+assert something about a concept, and to express this in the form usual for
+such assertions, viz., to make what is asserted of the concept into the content
+of the grammatical predicate. Consequently, one would expect that the
+reference of the grammatical subject would be the concept; but the concept
+
+49
+
+

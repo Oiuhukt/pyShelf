@@ -1,0 +1,53 @@
+188
+
+[61]
+
+[62]
+
+H. Grossmann
+
+and easily applicable rules, the gulf between the specialization of the “experts” and
+the universal “relatedness” could be bridged.
+Not a trace of such a conception of algebra can be found in any of Descartes’ forerunners, from Oresme to Viète and Fermat. Conceived not as a technical instrument
+of mathematics, but as a philosophical method specially designed to aid in achieving
+the universal science, the Algebra is Descartes’ exclusive, original creation.139 Once
+this difference is clearly realized, it must be inferred that for the understanding
+of the character of the Cartesian algebra, the “internal,” “logical” reasons for its
+formation, reasons deriving from the internal development of mathematics, are of
+little use, and must be discarded, for the Cartesian Algebra as a philosophic method
+is not connected with the previous development of mathematics and hence cannot
+be understood on the basis of this development. Other explanatory factors must be
+sought. But no attempt to find them has as yet been made.
+Previously, however, we have referred to two characteristic aspects of this new
+“conception universelle de la science”: first that it shows many clearly marked
+features analogous to those noted in the functioning of machines, alien to the
+older conception of science, which obviously arose under the impact of new influences; secondly, we have seen that a number of historians of mathematics, such as
+P. Boutroux, M. Marie, H. G. Zeuthen and others have pointed out the mechanical character of the algebraic procedures. They stress that the operations of the
+Cartesian algebra reveal an automatism in the application of fixed rules; that
+because of the simplification and rapidity of the procedure, they do not require
+a great effort of intelligence; that they are thus accessible to everyone; that they
+make mathematical mass production possible – the attacking of great problems
+beyond the capacity of individuals, problems of which the solution is possible only
+through the cooperation of many minds. In brief, the above mentioned historians
+state that the Cartesian algebra objectively shows all the features characteristic
+of the functioning of machines. It is itself an intellectual machine, an intellectual mill, on which one has only to “turn the handle in order to see the solutions
+of problems come out of it.” Is this resemblance to machines in the functioning
+of the Cartesian algebra only a coincidence, a mere accident? We prefer another
+explanation.
+In our view, it is perfectly natural that in an epoch when machines were winning
+their first great victories in England, France, Holland, Italy and Germany, and visibly
+demonstrating to everyone the advantages of the automatism of machine labor over
+handicraft labor, the enthusiastic admiration for the former, which is expressed in all
+contemporary accounts, should also influence the thinking of the leading minds – a
+Bacon and a Descartes. Modern times were heralded by L. B. Alberti’s passionate
+paean to technique.140 There we read that technique permits us “to cut rocks, pierce
+mountains, fill valleys, resist the overflow of the seas and rivers, clean out swamps
+139 Descartes could rightly say: “Je commence en cela par où Viète avait fini” (Letter to Mersenne,
+
+March 31, 1638, AT II, 82).
+
+140 Alberti’s book “On Architecture” was written about 1450 and published only posthumously in
+
+Florence in 1485. Here it is quoted from the French edition (Paris, 1553, Preface).
+
+

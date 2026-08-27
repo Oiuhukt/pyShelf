@@ -1,0 +1,48 @@
+I could experiment on most of the putative causal factors for properly baking
+a cake. However, I also investigated a larger set of instances by asking my sister,
+who also bakes with the same recipe, about her baking experiences. I could not
+intervene on the factors she mentioned, but I could record concomitant variations
+of the rising of the cake with other factors: Do variations in the type of yeast lead
+to different results in rising? Does the type of oven? Did she notice other factors
+that may have a causal role?
+
+You might want to know whether Mill’s methods led to any useful result. They did.
+It seems the problem was using a certain food processor which has blades that can
+cut when they turn clockwise, or just mix when they turn anti-clockwise. A chemist
+friend of mine hypothesized that blades may break yeast molecules, thus affecting cake
+rising. (Notice that this is a mechanism-based explanation, see chapter 12; notice also
+that such an explanation uses both evidence of difference-making and of mechanisms,
+see chapter 6.) I also tried the stability of this explanation by using a traditional mixer,
+which does not cut, and also using the original food processor, but setting the blades
+to turn anti-clockwise. (Notice, this amounts to testing invariance under intervention,
+see chapter 10.) And the cake rose properly again!
+The fourth method is the one that most prominently makes use of the notion
+of variation, as Mill uses the actual word. But the other methods, considered carefully, are also about variations. In comparing instances in the Method of Agreement
+and of Difference, we look precisely at things that vary, and at things that stay the
+same. Causal reasoning in Mill’s methods recommends that we do more than simply observe the effect (failed rising) following the cause (to be determined!). The four
+methods tell us to look for how things vary or stay the same, when other factors
+change or stay the same. Whether these observed variations are regular—and what
+that means—is a further question, and we address it later in this chapter and also in
+chapter 15.
+Mill says that the four methods are particularly well suited to the natural sciences
+and that the experimental method is inapplicable in the social sciences (Mill, 1843,
+Book VI, chs VI–VII). Yet he also specifies that between observation and experiment
+there is no logical distinction but only a practical one (Mill, 1843, Book III, ch VII).
+We could read this as a statement about a unified logic underlying causal methods.
+The rationale of variation (see also later) goes precisely in this direction. However, the
+problem of causality in observational studies is not overtly addressed in Mill’s work,
+as he does not tell us what alternative method, in line with his four methods, would
+be suitable for observational contexts. So Mill just states that there is logical unity and
+does not address the difference in practice. We explain how theorizers of variations fill
+in the details in the rest of the chapter.
+It is at this stage that the work of another pioneering methodologist comes to the
+rescue. Emile Durkheim argues against the view that the four methods cannot be
+applied in the social sciences (Durkheim, 1912, ch VI). According to Durkheim the
+comparative method is the only way to make sociology scientific. However, not all of
+the Millian four methods will do. Only the Millian Method of Concomitant Variations
+will, for the obvious reason that in the observational contexts typical of social science
+we cannot really change the putative factors. Durkheim claims that the method of
+
+170 | variation
+
+

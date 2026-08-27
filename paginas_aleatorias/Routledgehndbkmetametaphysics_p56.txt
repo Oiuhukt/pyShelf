@@ -1,0 +1,51 @@
+Rudolf Carnap
+
+For present purposes, the point is that any pragmatic cost-benefit analysis of “the system of thing
+properties” must acknowledge not only that quantification over second-order variables brings
+immense increase in expressive power, but that additional, perhaps unwanted complexities arise.
+If the monadic second-order variables range over sets, questions arise as to whether they range
+over the full power set of the specified domain: if so – i.e., if the semantics deploys full models
+containing all subsets of the first-order domain – then completeness fails, compactness fails, and
+Lowenheim-Skolem fails. There is no sound and complete proof system for second-order logic.
+Moreover decisions must be made about the form of a comprehension scheme: i.e., whether
+every open higher-order sentence specifies a property or whether type restrictions apply.
+And the complexities do not end here. If sufficiently ambitious we might wish to explore
+Second Order Number Theory – that is, the theory of the integers together with all sets of
+integers; questions then arise which are not solvable from ZFC. One solution is to add axioms;
+but choice of axioms is notoriously complex and delicate (see Woodin 2001).
+Perhaps such complexities are not prohibitive (depending upon one’s goals); but clearly the
+decision to adopt a linguistic framework which requires a higher-order logic has strings attached;
+adoption of linguistic frameworks is serious business.
+Carnap tells us that “the philosophical statement of the reality of properties – a special case
+of the thesis of the reality of universals – is devoid of cognitive content.” He does not claim the
+statement to be devoid of meaning simpliciter: cognitive content is not the only kind of meaning
+there is. He seeks to illuminate the role of the ontological question “Do universals exist?” in a
+new light – one which involves
+a practical, rather than a theoretical question; it is the question of whether or not to
+accept the new linguistic forms. The acceptance cannot be judged as being either true
+or false because it is not an assertion. It can only be judged as being more or less expe­
+dient, fruitful, conducive to the aim for which the language is intended.
+(Carnap 1950, 214)
+Whether any gain in understanding is achieved by explaining ontological practice in terms of
+pragmatic utility rather than representation of facts and accurate description of reality is not to
+be adjudicated here; the current task is to articulate Carnap’s view, not to evaluate it. But it is
+clear that Carnap’s conception of ontology does not portray it as shallow or easy: to portray
+ontological conflict as a clash of commitments rather than a clash of beliefs is not to patronize,
+minimize, or deflate it: it is simply to relocate it on the map of human endeavor, one likely to
+be friendlier to empiricist constraints.
+This highlights the pragmatist aspect of Carnap’s conception of ontological dispute. The
+expressivist aspect must now be discussed.
+Not all philosophical illumination takes the form of reductive analysis, meaning equivalence,
+or translational paraphrase. In some cases it suffices to have an explanation of “what’s going on”
+when we think or talk in certain ways. Consider emotivist theories of moral discourse: such
+theories do not purport to translate moral claims into claims about sentiments; the claim, rather,
+is that moral judgments serve to express sentiments, manifest attitudes, or articulate commit­
+ments. Emotivism is a paradigm case of an irrealist or nondescriptivist theory, according to
+which some region of commitment (in this case, moral-evaluative discourse) is portrayed as a
+non-fact-stating mechanism that serves some vital, nondescriptive purpose. Such a theory might
+or might not be satisfactory: it might not accommodate various aspects of moral discourse. More
+sophisticated variants of such an approach are provided by Allan Gibbard’s norm expressivism,
+Simon Blackburn’s projectivism, and other such “irrealist” theories.5
+41
+
+

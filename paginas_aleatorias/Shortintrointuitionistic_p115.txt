@@ -1,0 +1,20 @@
+13.3. PROGRAM INTERPRETATION OF NJ
+
+Converting two &-cuts in this deduction, we obtain
+
+Convert
+
+Conversion of
+
+at the end of this deduction :
+
+results in the following normalform:
+
+Let us repeat this for deductive terms. Using variables
+we obtain
+
+Then:
+
+103
+
+

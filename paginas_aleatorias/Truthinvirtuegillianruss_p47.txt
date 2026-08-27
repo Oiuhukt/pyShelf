@@ -1,0 +1,44 @@
+30
+
+Part I: The Positive View
+
+meaning. The ‘limiting case’ idea may be a neat picture, but we do not
+yet have a reason to believe that the picture is true to life.¹
+This ﬁrst point should be conceded to Quine. The ‘limiting case’
+idea is pretty, but I cannot think what it would be for one sentence to
+be ‘more’ true in virtue of meaning (or the world) than another. There
+is no argument for the existence of analytic sentences to be had here.
+Quine’s second challenge is this: not only does the conclusion (that
+some sentences are true solely in virtue of meaning) not follow from the
+premises, but it looks as if it is not even true. The standard examples
+which get presented as sentences that are true in virtue of meaning are
+not really examples of sentences that are true in virtue of meaning. Take
+the case of everything is self-identical. If we look at the world, we will
+note that all the things in it really are self identical. It seems that the
+world makes even this sentence true.
+This second point is troubling and deserves a substantial answer.
+How can an analytic sentence be true in virtue of meaning (except
+in the trivial way that all sentences are) if even the best examples of
+analytic sentences seem to be true in part because the world is a certain
+way?
+
+Boghossian’s Version of the Argument
+Boghossian rejects truth in virtue of meaning on similar grounds,
+writing:
+I want to register my wholehearted agreement with Quine, that the metaphysical
+notion [of analyticity] is of dubious explanatory value, and possibly of dubious
+coherence.
+
+Boghossian sets the objection up as a dilemma. He claims, very reasonably, that it is a truism that for any statement S,
+(1.1) S is true iff for some p, S means that p and p.∗
+He then asks:
+. . . how could the fact that S means that p make it the case that S is true?
+Doesn’t it also have to be the case that p?
+¹ This point also has some useful (and legitimate) rhetorical force for the Quinean: it
+suggests where the supporter of analyticity may have gone wrong; he was understandably
+bewitched by this neat but inaccurate picture of what is special about, for example,
+logical sentences.
+∗
+I reproduce Boghossian’s text exactly here.
+
+

@@ -1,0 +1,46 @@
+FREGEAND HILBERTON CONSISTENCY
+
+327
+
+Point B lies betwveen
+pointsA and C.
+
+logically implies the thought:
+Point B lies betweenpoints C and A.
+
+then Hilbert's axiom:
+(II.1) If A, B, Care points of a straight line and B lies between A and C,
+then B lies between C and A.
+
+would be, from Frege's point of view, superfluous. The thought expressed by II.1 would not be independent of the other axioms of order, despite the fact that the sentence 11.1 is clearly independent, in
+Hilbert's sense, from those axiom sentences.
+Similarly, if the analysis of the geometrical concepts alone suffices
+to establish, for example, that the congruence of two triangles follows from the congruence of two sides and the enclosed angle of
+those triangles, then no set of sentences containing the negation of
+this axiom would express a set of Frege-consistent thoughts. This despite the fact that such a set will in general be Hilbert-consistent.
+Frege does hold that a number of the axioms of geometry are independent of one another, and hence that no amount of conceptual
+analysis will show them to be reducible to truths of logic or provable
+from one another. There is no evidence that he takes any of
+Hilbert's specific independence claims about geometrical axioms to
+be false. Frege's objection is rather that nothing Hilbert demoncan support such claims.
+strates in the Foundationsof Geometry
+In general, the syntactic consistency of a set of sentences is insufficient to guarantee what Frege would consider the consistency of a
+set of thoughts expressed by those sentences. The case is the same
+with respect to property consistency and the existence of X-structures. The consistency of the property defined by a set I of
+schematic sentences, and the existence of a I-structure, all turn on
+the syntactic form of the sentences in S. For Frege, on the other
+hand, two sets of sentences indistinguishable as to syntactic form can
+express sets of thoughts one of which is consistent while the other is
+not. Again, the results demonstrated by Hilbert's proofs do not imply the results with which Frege is concerned and on which, as Frege
+sees it, the foundations of mathematics is based.
+CONCEPTS
+111.GEOMETRICAL
+
+In addition to the consistency of thoughts, Frege recognizes a kind
+of consistency that applies to properties or, as he would say, to concepts. Concepts, for Frege, come in levels. A first-level concept is one
+under which objects fall; thus, the ordinary concept point, under
+
+This content downloaded from 128.6.218.72 on Fri, 10 Apr 2015 00:56:43 UTC
+All use subject to JSTOR Terms and Conditions
+
+

@@ -1,0 +1,45 @@
+202
+
+PETER MENZIES
+
+The ﬁrst three counterexamples show that Lewis’s theory does not distinguish
+between causes and enabling conditions. My hypothesis about the distinction is that
+an enabling condition has to satisfy only the counterfactual condition (ii), with the
+counterfactual typically construed as a deviant counterfactual, whereas a cause has to
+satisfy both conditions (i) and (ii), with the counterfactual in (i) construed as a deviant
+counterfactual and the counterfactual in (ii) as a default counterfactual.
+Birth and Death
+Recall that in this example we judge a car accident to be a cause of a person’s death,
+whereas we do not judge his birth to be so. It is possible to see that the car accident, but
+not the person’s birth, counts as a cause of the person’s death, according to the truth
+conditions above. Since the important difference between these events concerns the
+status of the type (i) counterfactuals rather than the type (ii) counterfactuals, I shall focus
+on the former. To see that the type (i) counterfactual, ‘If the car accident were to occur,
+the person would die’, is a true deviant counterfactual, perform the following thought
+experiment: consider the actual world up until a short time before the actual car
+accident, then imagine that the car accident occurs, not as a result of the actual course
+of history but as a result of an intervention, and ask whether the person will die in this
+new course of events as it evolves. Clearly, the answer is that the person will die. On
+the other hand, a comparable thought experiment shows that the equivalent type (i)
+counterfactual about the person’s birth is a false deviant counterfactual: considering the
+actual world up until a short time before the person’s birth, then imagining that his
+birth occurs, not as result of the actual course of history but as a result of an intervention, we need not conclude that the person will die. The actual sequence of events
+from the person’s birth to his death involves too many coincidental events and human
+choices to be replicated in every possible world in which his birth is brought about by
+an exogenous intervention. Given this failure of the type (i) counterfactual to come out
+as true, the person’s birth does not meet a required condition to be a cause of the
+person’s death. (It is simple to see that the type (ii) counterfactual about the birth is a
+true deviant counterfactual and so satisﬁes the requirement to be an enabling condition
+of the death.) It is tempting to think that the causal difference between the car accident
+and the person’s birth is due to the fact that the former is an abnormal event whereas
+the latter is part of the normal conditions of the causal set-up. However, the real source
+of the causal difference lies, I believe, in the more objective fact that the former
+represents a means by which an agent with suitable powers could bring about a person’s
+death, whereas the latter does not.
+The Absence of a Meteor Strike
+Recall that in this example we judge the state of affairs of my not being hit by a meteor
+to be an enabling condition, but not a cause, of my writing this essay. The explanation
+of our causal judgements about this example follows the pattern of the explanation of
+the ﬁrst example. My not being hit by a meteor is not a cause of my writing this paper
+
+

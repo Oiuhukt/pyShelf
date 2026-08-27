@@ -1,0 +1,77 @@
+:
+
+Frege: An Introduction
+
+to his
+
+Philosophy
+
+Frege that this could seriously be questioned). Two other axioms
+are in the same position. The first says that if a property holds of
+everything, it holds of any given thing, while the other says that if a
+
+(second order) property holds of all (first order) properties, then it
+holds of any given such property. What of Axiom (V), governing
+the relation between a concept and its extension (more generally, a
+
+function and
+
+its
+
+course of values)? Frege never concealed from
+
+himself or from his readers that this axiom did not have quite the
+
+appearance of self-evidence enjoyed by the other axioms. It is a
+remarkably powerful axiom in its ability to prove existential
+propositions, and this might itself have been a source of worry. Yet
+
+seems to state what is involved in the very notion of a concept
+having an extension, and ‘is what people have in mind when they
+speak of the extension of a concept’. Frege’s view seems to have
+been that if we have any grasp of the extension of a concept, it must
+be because this axiom is true. Our understanding of extensions
+proceeds from a prior grasp of concepts, via the recognition of
+it
+
+Axiom (V). As he says:
+By means of a logical faculty we lay hold upon the extension of a concept by
+starting out from the concept ([1906c], p. 197 (181)).
+
+So Frege has in mind something like a transcendental argument
+a necessary condition for our grasp of extensions is the truth of
+
+Axiom (V). In this way we can understand why the refutation of
+the axiom left Frege with a puzzle about how we apprehend logical
+objects. In a letter to Russell of 1902 he said
+
+How do we apprehend logical objects ?
+
+I
+
+have found no other answer to it than this.
+
+We apprehend them as extensions of concepts, or more generally as courses of
+values of functions. I have always been aware that there are difficulties connected
+
+with this, and your discovery of the contradiction has added to them; but what
+other way is there? (p.223 (141)).
+
+The seriousness of Russell’s discovery was thus partly due to the
+fact that it showed that we do not have a clear grasp of the relation
+between concepts and their extensions; and this seemed to undermine the objective status of Frege’s programme.
+of course, mostly conjecture. It is a puzzle about
+Frege’s work that he nowhere considers in detail the question of
+what justihes our claim to know the truths of logic. Perhaps his
+doubts about Axiom (V) made him reticent on the subject. Once,
+towards the end of his life, Frege did discuss what he describes as the
+All thi s
+
+is,
+
+logical source of knowledge’.
+
+He distinguishes three sources of
+190
+
+

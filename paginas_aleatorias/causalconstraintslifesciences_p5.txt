@@ -1,0 +1,52 @@
+1072
+
+Lauren N. Ross
+
+not to any other location. These neural pathways constrain the flow of signaling—
+they explain why it is impossible for this signal (or lack of it) to impact areas outside
+of the downstream site of interest that they lead to. This basic notion of constraint
+is ubiquitous in neuroscience and central to many different frameworks for
+understanding the brain (Friston 2011; Bassett et al. 2021).
+Consider a few challenges for viewing these neural constraints as non-causal,
+which is suggested by Lange’s analysis. First, scientists often refer to the neural
+connectivity in these cases as causal and capturing causal information (Sporns 2007;
+Friston 2011). Second, these neural connections successfully meet standards of
+interventionist causality, in contrast to Lange’s claims. Recall Lange’s claim that
+constraints reveal “no obvious variables to be changed” as they are “fixed” such that
+changing them “reveals nothing” (Lange 2018, 87–8). These claims fail to hold for
+neural constraints because we not only consider changes to them, but these changes
+are present and studied across individuals. For example, the fact that sensory nerve
+patterns vary across individuals helps explain why viral lesions in the same spinal
+nerve produce different sensory outcomes across patients (Lee et al. 2008).4
+Differences in neural pathways in the brains of adolescents and adults is studied
+and cited in explaining behavior differences across these groups (Baum et al. 2017).
+Finally, another point in favor of viewing these neural pathways as causal is that they
+are factors that “make-a-difference” to the outcome of interest. This is suggested in
+the lesion–paralysis case above—if the lesioned area were causally connected to a
+different downstream location, this would change the location of paralysis.
+3.2. Physiology: Vascular pathways
+As a second example, consider vascular pathways or blood vessels in the context of
+physiology. Scientists refer to blood vessels as factors that “constrain” the flow
+of blood and they cite them in explaining particular outcomes. Consider the case of
+pulmonary embolism after clot formation in the large veins of the leg. When a clot
+forms in the large vessels of the leg (common after periods of sitting or with use of
+some medications), a particular pathophysiological outcome often occurs—the clot
+can travel to, lodge in, and cause damage in the vasculature of the lung, which is
+called a pulmonary embolism. In this case, our explanatory question is: when a large
+clot forms in the leg veins, why does it lead to embolism-related damage in the lung,
+as opposed to anywhere else in the body? Why doesn’t it result in an embolism in the
+liver, arm, brain, spleen, etc.? The answer to this question involves citing the vascular
+architecture of the human body—namely, that the veins in the leg lead directly to the
+lung (where the vessels narrow, trapping the clot) and they do not lead anywhere
+else. This explains why, given the starting location of such a clot, it is impossible for it
+to travel to and do damage in any other location. Thus, the fact that the blood vessels
+constrain the flow of blood in this way explains why such a pathological outcome
+presents in this area and not another. Similar strategies are used to explain the
+unique flow of infectious material in the body (Meyers et al. 2005) and the spread of
+cancerous cells through the lymphatic system (Estourgie et al. 2004). The flow of these
+materials is constrained and explained by these vessels and anatomical structures.
+4
+
+This is seen in variations in dermatome maps across individuals (Lee et al. 2008).
+
+

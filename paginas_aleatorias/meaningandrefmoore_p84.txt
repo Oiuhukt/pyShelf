@@ -1,0 +1,48 @@
+76
+
+P.
+
+F.
+
+STRAWSON
+
+for the mythical logically proper name), that accounts for the misleading
+attempt to elucidate the nature of the variable by reference to such
+words as ‘he’, ‘she’, ‘it’.
+Of ordinary proper names it is sometimes said that they are essentially
+words each of which is used to refer to just one individual. This is
+obviously false. Many ordinary personal names—names par excellence—
+are correctly used to refer to numbers of people. An ordinary personal
+name, is, roughly, a word, used referringly, of which the use is not
+dictated by any descriptive meaning the word may have, and is not
+prescribed by any such general rule for use as a referring expression (or
+a part of a referring expression) as we find in the case of such words
+as ‘I’, ‘this’ and ‘the’, but is governed by ad hoc conventions for each
+particular set of applications of the word to a given person. The important point is that the correctness of such applications does not follow
+from any general rule or convention for the use of the word as such.
+(The limit of absurdity and obvious circularity is reached in the attempt
+to treat names as disguised description in Russell’s sense; for what is in
+the special sense implied, but not entailed, by my now referring to
+someone by name is simply the existence of someone, now being referred
+to, who is conventionally referred to by that name.) Even this feature of
+names, however, is only a symptom of the purpose for which they are
+employed. At present our choice of names is partly arbitrary, partly
+dependent on legal and social observances. It would be perfectly possible
+to have a thorough-going system of names, based e.g. on dates of birth,
+or on a minute classification of physiological and anatomical differences.
+But the success of any such system would depend entirely on the convenience of the resulting name-allotments for the purpose of making
+unique references; and this would depend on the multiplicity of the
+classifications used and the degree to which they cut haphazard across
+normal social groupings. Given a sufficient degree of both, the selectivity
+supplied by context would do the rest; just as is the case with our present
+naming habits. Had we such a system, we could use name-words descriptively (as we do at present, to a limited extent and in a different way,
+with some famous names) as well as referringly. But it is by criteria
+derived from consideration of the requirements of the referring task that
+we should assess the adequacy of any system of naming. From the
+naming point of view, no kind of classification would be better or worse
+than any other simply because of the kind of classification—natal or
+anatomical—that it was.
+I have already mentioned the class of quasi-names, of substantival
+phrases which grow capital letters, and of which such phrases as ‘the
+
+

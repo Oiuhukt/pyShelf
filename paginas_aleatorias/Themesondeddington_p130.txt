@@ -1,0 +1,54 @@
+
+
+ 
+
+It is, of course, a ﬁction that the choice functions are the possible worlds if this requires that
+there be a fact of the matter about which choice function is the actual one. But we can say that
+conditionals (and propositions generally) are true relative to a given history (represented by a
+path through the tree) if and only if true for all choice functions that determine that path. Some
+counterfactuals will lack truth-values in the supervaluation, but they still will have well-deﬁned
+probability values, determined by the chance model, and the path through its tree.
+
+References
+Bennett, J. () A Philosophical Guide to Conditionals. Oxford: Clarendon Press.
+Edgington, D. () Counterfactuals and the beneﬁt of hindsight. In P. Dowe and P. Nordhof
+(eds), Cause and Chance: Causation in an Indeterministic World. London and New York:
+Routledge.
+Gibbard, A. () Two recent theories of conditionals. In W. Harper, R. Stalnaker, and
+G. Pearce (eds), Ifs, Dordrecht: Reidel, pp. –.
+Hájek, A. and Hall, N. () The hypothesis of the conditional construal of conditional
+probability. In E. Eells and B. Skyrms, Probability and Conditionals: Belief Revision and
+Rational Decision, Cambridge: Cambridge University Press, pp. –.
+Grice, P. () Studies in the Way of Words. Cambridge, MA: Harvard University Press.
+Iatridou, S. () The grammatical ingredients of counterfactuality, Linguistic Inquiry :
+–.
+Kaufmann, S. () Conditioning against the grain. Journal of Philosophical Logic :
+–.
+Kölbel, M. () Truth without Objectivity. London and New York, Routledge.
+Lewis, D. () Counterfactuals. Cambridge, MA: Harvard University Press.
+Lewis, D. () A problem about permission. In E. Saarinen et al. (eds), Essays in Honour of
+Jaakko Hintikka, Dordrecht: Reidel, pp. –.
+Lewis, D. () Probabilities of conditionals and conditional probabilities, Philosophical
+Review : –.
+MacFarlane, J. () Future contingents and relative truth, Philosophical Quarterly :
+–.
+McGee, V. () To tell the truth about conditionals, Analysis : –.
+Osborne, M. and Rubinstein, A. () A Course in Game Theory. Cambridge, MA: The MIT
+Press.
+Skyrms, B. () Causal Necessity. New Haven: Yale University Press.
+Skyrms, B. () Pragmatism and Empiricism. New Haven: Yale University Press.
+Stalnaker, R. () A theory of conditionals. In N. Rescher (ed.), Studies in Logical Theory,
+Oxford: Blackwell, pp. –.
+Stalnaker, R. () Indicative conditionals, Philosophia : –.
+Stalnaker, R. () Inquiry. Cambridge, MA: The MIT Press.
+Stalnaker, R. () Conditional propositions and conditional assertions. In A. Egan and
+B. Weatherson (eds), Epistemic Modality, Oxford: Oxford University Press, pp. –.
+Stalnaker, R. (). Context, Oxford: Oxford University Press.
+Stalnaker, R. () Counterfactuals and Humean reduction. In B. Lower and J. Schaffer (eds.),
+A Companion to David Lewis. Wiley-Blackwell, pp. –.
+Stalnaker, R. and Jeffrey, R. () Conditionals as random variables. In E. Eells and B. Skyrms,
+Probability and Conditionals: Belief Revision and Rational Decision, Cambridge: Cambridge
+University Press, pp. –.
+Thomason, R. () Indeterminist time and truth-value gaps, Theoria : –.
+
+

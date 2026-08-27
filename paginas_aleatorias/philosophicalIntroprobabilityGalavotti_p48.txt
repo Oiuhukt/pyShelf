@@ -1,0 +1,31 @@
+single particles, and this clashes with the frequency
+interpretation, which, as Chapter 4 will illustrate in some
+detail, defines probability with reference to mass phenomena.
+To solve this problem, a special version of frequentism,
+called `propensity theory' would be proposed. We will examine
+frequentism in Chapter 4 and the propensity theory in Chapter
+5.
+Frequentism reflects the empirical meaning of probability
+as the theory of aleatory phenomena. However, it did not
+totally obscure the epistemic meaning of probability, which
+Laplace put at the core of a theory that became so
+influential as to be labelled the `classical' interpretation.
+The epistemic interpretation not only survived, but gave rise
+to two distinct currents, namely the logical and the
+subjective viewpoints. These will be dealt with in Chapter 6
+and Chapter 7, respectively.
+1.2 Probability and induction
+Although they are today commonly seen as intertwined,
+induction and probability are different notions, with a
+different history. According to Larry Laudan36, the encounter
+between induction and probability, at the origin of the
+probabilistic conception of induction that now prevails,
+occurred only in the second half of the nineteenth century.
+Up to that time, induction was regarded as aiming at
+certainty, not probability. With the notable exception of
+Thomas Bayes and Richard Price, who clearly saw the
+advantages of combining induction with probability, the usual
+tendency was to consider induction as a means of expanding
+knowledge, by setting general relations among large masses of
+
+

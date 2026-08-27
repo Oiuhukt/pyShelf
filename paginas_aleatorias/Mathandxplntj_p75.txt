@@ -1,0 +1,43 @@
+Mathematics and Explanation
+
+69
+
+Looking back, then, at premise 2, we have a better understanding of why it is so
+unpersuasive to the determined nominalist. We need to address Saatsi’s challenge
+to relate the presence of mathematical explanations to the ontological commitment to abstract mathematical objects. But we have not found an account of these
+mathematical explanations that avoids a resolute representational reading while
+also clarifying what it is about these explanations that ties them to the existence of
+abstract objects. Even if the determined nominalist admits the class of mathematical explanations endorsed by Lange, they still have available an ontology of
+properties that stops short of commitment to abstract objects. It seems, then, that
+a platonist interpretation of mathematics in terms of abstract objects is disconnected from the explanatory role of mathematics outside of mathematics.
+
+https://doi.org/10.1017/9781009039154 Published online by Cambridge University Press
+
+5.3 Inference to the Best Mathematical Explanation
+Colyvan and Baker have often emphasized that an explanatory indispensability
+argument is directed at scientiﬁc realists. Scientiﬁc realists typically defend
+their realism about unobservable entities like atoms and electrons through the
+use of inference to the best explanation (IBE). So, it is claimed, the scientiﬁc
+realist should also accept the existence of platonic mathematical objects using
+the very same sort of IBE argument. As Baker puts the point, “A crucial plank of
+the scientiﬁc realist position involves inference to the best explanation (IBE) to
+justify the postulation in particular cases of unobservable theoretical entities . . .
+the indispensability debate only gets off the ground if both sides take IBE
+seriously, which suggests that explanation is of key importance in this debate”
+(Baker 2005, p. 225). On this reading, premise 1 reﬂects an endorsement of an
+appropriate form of IBE. Then the existence of the genuine mathematical
+explanations required for premise 2 gets us the existence of abstract mathematical objects. For the very same explanatory considerations that speak in favor of
+atoms and electrons also speak in favor of numbers and groups.
+It turns out to be difﬁcult to articulate and defend a form of IBE that supports
+a plausible form of scientiﬁc realism as well as mathematical platonism. To
+appreciate the challenges, consider a classic explanatory argument for the
+existence of God popular from the beginning of the nineteenth century. What
+explains the existence of the universe and the apparent design that we ﬁnd in
+some natural objects like living things? The best available explanation of these
+facts in 1800 was that God created the universe and is directly responsible for
+these features of living things through various acts of special creation. So, if we
+accept IBE, then it looks like we should also accept the existence of God. In
+schematic form, IBE is a form of inference that can be boiled down to premise
+(A) and conclusion (B):
+
+

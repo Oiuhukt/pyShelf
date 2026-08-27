@@ -1,0 +1,47 @@
+https://doi.org/10.1017/9781009109987 Published online by Cambridge University Press
+
+Truthmaking
+
+33
+
+The overall merits of Lewis’s view are remarkable, and the criticisms that
+have been brought against it are familiar. My focus concerns its merits and ﬂaws
+speciﬁcally as a theory of modal truthmakers. When it comes to this issue,
+Lewis’s view is far from appealing. Perhaps it is ultimately worth its many
+theoretical costs on other grounds, but not solely on the basis of its utility for the
+theory of ontological grounds.
+The most salient concern with the view is its extreme ontological price tag. In
+order to account for the modal truths of the actual world, inﬁnitely more worlds
+are brought into the fold. Lewis is quick to note that while his possible worlds
+involve inﬁnitely many new ontological commitments, at least they only
+involve more of the same. Lewis isn’t positing new kinds of entities, just more
+of the same sorts of entities we ﬁnd in the actual world. Nevertheless, Lewis’s
+view is still chock-full of ontological commitments, and there is no doubt that
+accepting it comes with a great loss of parsimony. As Armstrong (2004: 83) puts
+the point, Lewis is “bringing in giants to do a boy’s work.”
+A second objection is epistemological in nature. On Lewis’s view, the truthmakers for statements of possibility turn out to be, at least in some cases, the
+concrete entities of other possible worlds. But these are entities with which, ex
+hypothesi, we have no causal interaction. Supposing that knowledge of truths
+typically involves some sort of relation to what makes those truths true, one
+wonders how we can have any modal knowledge at all.50 It’s true that On the
+Plurality of Worlds could have been submitted on time only if Lewis’s counterpart does submit it on time. What epistemic access do we have to such an event
+taking place? I seem to have no better evidence as to what’s going on in some
+other possible world than I do as to what’s going on at some distant planet.
+Hence, if I don’t have justiﬁcation for asserting that in some distant galaxy
+there’s a philosopher who looks a lot like David Lewis and is punctually turning
+in a manuscript that looks a lot like On the Plurality of Worlds (and I don’t), then
+I don’t have justiﬁcation for asserting that in some other possible world there’s
+a philosopher who looks a lot like David Lewis and is punctually turning in
+a manuscript that looks a lot like On the Plurality of Worlds. Modal realism
+leads to modal skepticism.
+Lewis (1986: 108–115) brings up this style of objection himself and deals
+with it at length. One of his strategies is to stage a “partners in crime” defense
+with mathematical truth. Mathematics, too, is a ﬁeld in which we seem to have
+knowledge in spite of having no causal access to the things that that knowledge
+concerns, that is, numbers. The strength of this response turns on the strength of
+50
+
+For more on the relationship between truthmaking and epistemology, see, for example, Sorensen
+2001: chapter 11 and Heathcote 2006.
+
+

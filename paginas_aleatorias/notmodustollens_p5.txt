@@ -1,0 +1,30 @@
+THE REASONER 19(2) 2005
+
+http://doi.org/10.54103/1757-0522/2025/2
+
+some hypothesis (typically in conjunction with various auxiliary
+hypotheses). This is a basis for disconfirmation. This, in outline,
+is what scientists, such as Semmelweis, mean when they imply
+that what a hypothesis “cannot explain” is disconfirming for that
+hypothesis. In other words, Semmelweis is thinking of disconfirmation as some sort of abductive reasoning regarding what a
+hypothesis cannot explain.
+Should philosophers of science take scientists to be engaged in
+reasoning about causes in the world, about the physical consequences of things, they would be in a position to more charitably
+interpret scientific reasoning. Instances of hypothetical reasoning
+might be more charitably interpreted as involving something like
+causal conditionals, rather than the material conditional. Indeed,
+the idea broached for scientific disconfirmation might be carried
+over to scientific confirmation.
+Recall that Semmelweis intended to support or confirm the view
+that “cadaverous particles” were responsible for childbed fever by
+supposing that, if the particles were chemically destroyed the mortality rate in the first clinic would be reduced: “Suppose cadaverous particles adhering to the hands cause the same disease among
+maternity patients that cadaverous particles adhering to the knife
+caused in Kolletschka. Then if the particles are destroyed chemically, so that in the examination patients are touched by fingers
+but not cadaverous particles the disease must be reduced” (Semmelweis, 1983, p. 65). Hempel might render this reasoning as an
+instance of affirming the consequent:
+If childbed fever is caused by cadaverous particles, then chemical cleaning reduces the incidence of
+childbed fever.
+Chemical cleaning reduces the incidence of childbed
+30
+
+

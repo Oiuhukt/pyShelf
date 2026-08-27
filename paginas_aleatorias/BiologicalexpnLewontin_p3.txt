@@ -1,0 +1,45 @@
+Bases of Conflict in Biological E x p l a n a t i o n
+the genotype of o r g a n i s m s would evolve in such a w a y t h a t
+a n y new m u t a t i o n would be recessive in its phenotypic manifestations. W h a t Fisher said was that d o m i n a n c e is a result of
+an evolutionary process in which the whole n a t u r e of the
+g e n o m e h a s b e e n adjusted in order to hide the effects of n e w
+mutations. Sewall Wright opposed this notion, claiming t h a t
+n a t u r a l selection was too w e a k to accomplish the result predicted by Fisher, and that d o m i n a n c e is a physiological f a c t
+of life that does not need a n y explanation in t e r m s of n a t u r a l
+selection. Wright said t h a t d o m i n a n c e arises because of the
+n a t u r e of the response-curve of e n z y m a t i c reactions. As is
+well known, w h e n the concentration of e n z y m e is limiting,
+the a m o u n t of p r o d u c t is proportional to the a m o u n t of enzyme. As the a m o u n t of e n z y m e increases, the a m o u n t of
+p r o d u c t produced falls off and reaches an asymptote. T h u s
+the p h e n o m e n o n of d o m i n a n c e - - b e c a u s e , for a doubling of
+the a m o u n t of enzyme, there is not a doubling of the a m o u n t
+of product. T h e r e will be complete d o m i n a n c e if in f a c t the
+a m o u n t of e n z y m e produced by one gene completely saturates
+the substrate.
+Notice t h a t I a m m a k i n g a distinction between m y first case,
+"why is the sex ratio 1:1?", in which there exist alternative
+e x p l a n a t o r y systems, e a c h designed to answer essentially diff e r e n t questions f r a m e d in the s a m e terms, and a second case
+in which the two f o r m s of e x p l a n a t i o n c o m m o n l y used in
+biology are at v a r i a n c e with e a c h other. I n the latter case,
+these two e x p l a n a t i o n s are j u x t a p o s e d and one is rejected as
+being, in fact, incorrect. This conflict also occurs in m o l e c u l a r
+biology. As an e x a m p l e , let us ask w h y it is that the genetic
+code looks as it does. W h y does a certain set of triplets of
+nucleotides a n d not a n o t h e r set of triplets specify phenylalanine? Is it just a result of chance? Would it m a k e any difference
+in the world if instead of UUU specifying p h e n y l a l a n i n e it
+were UGC? T h e r e are two schools of thought about this matter.
+One says t h a t the code we h a v e is an historical accident, that
+there could h a v e been ( a n d m a y h a v e b e e n at one t i m e ) other
+codes. One of the interesting discoveries of m o d e r n m o l e c u l a r
+genetics is that the code is universal. It appears t h a t all living
+o r g a n i s m s at p r e s e n t share the s a m e relationship b e t w e e n
+the set of triplets and the a m i n o acid t h a t is produced. On
+the theory t h a t m a n y codes are a priori equally likely, this
+discovery proves the monophyletic origin of life. However, it
+c a n be argued that the set of triplets which specify p a r t i c u l a r
+a m i n o acids are not at r a n d o m with respect to e a c h other.
+I f you really look at t h e m hard, you notice that the redun-
+
+37
+
+

@@ -1,0 +1,51 @@
+3/10/2021
+
+e.Prooﬁng
+
+chance of an outcome is extremal (i.e., is between 0 and 1), and yet has a nonextremal credence in that outcome (i.e., a credence of either 0 or 1).
+Of course, a crucial assumption in the PP-based argument for incompatibilism is
+that the laws of nature and a complete description of the present (or past) state of
+the world at a time is admissible. If that assumption is denied, then the above
+argument is no good. Loewer (2001) and Glynn (2010) both offer formulations the
+Principal Principle on which what is admissible is relativized to a “level”. The
+rough idea is that information about the microphysical state of the world or about
+the microphysical laws is inadmissible when assessing certain probability
+ascriptions (such as those that appear in non-fundamental physical theories) but
+information about the present macrophysical state of the world or about the present
+macrophysical laws is admissible (provided that it is about the appropriate
+“level”).8
+The idea that admissible information is at least sometimes restricted to information
+about the macrophysical present or about the macrophysical laws motivates a more
+compatibilist-friendly test of whether a probability ascription models chance, which
+I call “Macrophysical Laws and Macrophysical Conditions Test”, or
+“Macrophysical Test” for short:
+Macrophysical Laws and Macrophysical Conditions Test: If the
+content of the macrophysical natural laws and a macrophysical
+description of the present state of the world is better grounds for our
+expectation that event o occurs than is a sentence of the form, “the
+present probability of [event] o is equal to [real number] n”, then
+either the sentence is false or the sentence is not about chance.
+Macrophysical Test lets the compatibilist square chance’s predictive role with
+compatibilism. That the world is deterministic, she argues, is consistent with there
+being probabilistic macrophysical laws. These probabilistic macrophysical laws
+combine with the macrophysical conditions of the world to determine the (nonextremal) macrophysical chances—despite there being more fundamental
+deterministic laws. In turn, these macrophysical chances play an important
+predictive role; the macrophysical chances are the best macrophysical evidence we
+have about what the future will like, though information about the microphysical
+features of the world may be even better evidence about what the future will be like.
+On this picture, information about the microphysical features of the world is like
+information about the record of a chance event or about the predictions of a reliable
+crystal ball; all such evidence about an event’s occurrence might be better evidence
+than is the outcome’s chance of occurring, but that such evidence is possible to
+obtain is simply irrelevant to the question of where the chances are.
+From the point of view of the incompatibilist, however, Macrophysical Test seems
+ad hoc—motivated only by the very premise that the incompatibilist denies. Once
+we have retreated from Laws and Conditions Test to Macrophysical Test, what nonarbitrary reason can be given to not keep going? If we sufficiently restrict the kinds
+of evidence that a probability ascription must be as good as if it is to be true and
+about chance, i.e., if we sufficiently restrict what counts as admissible information,
+
+https://eprooﬁng.springer.com/journals_v2/printpage.php?token=DwNxx4zkpFLLJXb8ERPNmJj-3hDUWc6wmupgptGsQtSxMbg-iFzAdbMg0PXxae4z
+
+11/24
+
+

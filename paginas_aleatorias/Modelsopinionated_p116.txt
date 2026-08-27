@@ -1,0 +1,50 @@
+102
+
+5
+
+The Inferential View
+
+model is inaccurate, but appeals to a user’s corrective abilities to justify their use of
+it: “Since models often misrepresent some aspect of the system or other, it is usually
+up to the user’s competence, judgment, and background knowledge to use the model
+successfully in spite of the fact that the model misrepresents certain aspects of the
+system” (Contessa 2007, p. 60).
+Ducheyne (2012) provides a variant of Interpretation that has a similar motivation to Bolinksa’s. The notion of an analytic interpretation allows for arbitrary connections between aspects of carriers and aspects of their targets (Bolinska’s specific
+objection is that it is these arbitrary connections that allow for interpretations of
+carriers in terms of targets that she takes to be not epistemic representations at all,
+rather than drastic misrepresentations).20 Ducheyne therefore tries to constrain the
+sorts of connections between carrier and target features that analytic interpretations,
+at least in science, should make. The central idea is that it develops Interpretation
+with the requirement that each relevant relation specified in the interpretation, holds
+precisely in the model – a condition that Ducheyne explicates by saying that the
+model is “an ideal ceteris paribus and ceteris absentibus state of affairs” (ibid.,
+p. 83) – and corresponds to the same relation in the world which, however, holds
+only approximately (with respect to a given purpose) in the target.21 For example,
+the low mass of an actual pendulum’s string approximates the masslessness of the
+string in the model. The one-to-one correspondence between (relevant) objects and
+relations in the model and target is retained, but the notion of a user taking relations
+in the model to denote relations in the target, is replaced with the idea that the relations in the target are approximations of the ones they correspond to. Ducheyne
+calls this the Pragmatic Limiting Case account of scientific representation (the
+pragmatic element comes from the fact that the level of approximation required is
+determined by the purpose of the model user). This imposes stringent constraints on
+possible interpretations and thereby undercuts cases like Bolinska’s hockey puck.
+However, if this account is to succeed in explaining how distortive idealisations
+are scientific representations, then more needs to be said about how a target relation
+can “approximate” a model relation. Ducheyne implicitly relies on the fact that relations are such that “we can determine the extent to which [they hold] empirically”
+(2012, p. 83, emphasis added). This suggests that he has quantifiable relations in
+mind, and that what it means for a relation r in the target to approximate a relation
+r’ in the model is a matter of comparing numerical values, where a model user’s
+purpose determines how close they must be if the former is to count as an
+
+Ducheyne (2012, p. 80) also claims that Contessa’s account fails to distinguish scientific representation from epistemic representation more generally (and he offers an example of using colours
+in a picture of a group of runners to represent the finishing position of each runner). According to
+Ducheyne, the example “meets Contessa’s requirements for analytic interpretation, but it does not
+seem to qualify as a scientific representation” (ibid.). Since, as noted in Sect. 5.1, Contessa is not
+attempting to demarcate scientific representation from epistemic representation more generally
+this is not a criticism of Contessa’s proposal.
+21
+Following Ducheyne we use “model” rather than “carrier” to indicate that his discussion is
+focused on scientific models, rather than epistemic representations more generally.
+20
+
+

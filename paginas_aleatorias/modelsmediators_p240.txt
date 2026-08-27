@@ -1,0 +1,55 @@
+Knife-edge caricature modelling
+
+227
+
+examples the formula v1 ⫹u1 ⫹⌬v1 ⫽c2 ⫹⌬c2 (condition 8.15), and
+explicitly derives the relation from them, albeit not as a formal equation
+(pp. 590 and 593). Thus on page 593 we read:
+With production on an increasing capital basis, I(v ⫹ s) [i.e. v1 ⫹ s1] must be equal
+to IIc [i.e. c2], plus the part of surplus product that is reincorporated as capital
+[⌬c1], plus the extra portion of constant capital needed to expand production
+in department II [⌬c2], and the minimum for this expansion is that without
+which genuine accumulation, i.e. the actual extension of production in department I, cannot be carried out.42
+
+So we have:
+v1 ⫹s1 ⫽c2 ⫹⌬c1 ⫹⌬c2
+
+(8.15⬘)
+
+v1 ⫹[u1 ⫹⌬v1 ⫹⌬c1]⫽c2 ⫹⌬c1 ⫹⌬c2
+
+(8.15⬙)
+
+or
+
+Nevertheless, at the very end of the text (pp. 595–7), when Marx is preparing to draw general conclusions from his schemes – especially concerning the point if transition is reached via over- or underproduction –
+he once again falls back on the simple reproduction condition with
+which he started:
+v1 ⫹s1 ⫽c2
+
+(8.4)
+
+v1 ⫹u1 ⫽ c2
+
+(8.16)
+
+modifying it into
+He applies this last formula (8.16) for the parameters of the new
+regime (␣1 ⫽50%, thus u1 ⫽½s1) to the initial production (Schema
+C-a). Indeed for the values of Schema C-a the formula 8.16 holds: 1000
+⫹500⫽1500.
+Why does he apply this apparently irrelevant or mistaken formula?
+The easy answer is to refer to the unﬁnished shape of the text: it was
+perhaps meant to be followed by a piece indicating the relevant
+diﬀerence between the conditions for simple and expanded reproduction.
+However, there is another explanation, which directly relates to
+Marx’s examples. Note that his generalisations (pp. 595–7) follow just
+after setting out Schema D (pp. 590–5). The problem is not so much
+that he takes the formula v1 ⫹ u1 ⫽ c2 as a starting point of the analysis.
+42 The last caveat (‘the minimum’ etc.) says that we must at least have v ⫹s ⱖ c ⫹⌬c .
+1
+1
+2
+1
+
+

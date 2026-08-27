@@ -1,0 +1,91 @@
+184 CORRELATION AND CAUSALITY
+
+Chap ter 8
+
+MULTIPLE UNMEASURED VARIABLES
+
+185
+
+number of correlations (covariances) between the constructs increases
+geometrically. The researcher may desire to specify a structural model
+for those relationships. Such models are discussed in the next chapter.
+Multiple indicator models with many constructs usually tend
+to be highly overidentified. For instance, a model with four
+constructs, each with four indicators, with each indicator loading on
+only one factor, and no correlated errors has 98 overidentifying
+restrictions! For such models a small number of specification errors
+can greatly distort the parameter estimates and lack of fit can be
+virtually undetectable if one solely relies on the overall F2 test. The
+problem is analogous to an overall F test in the analysis of variance.
+Since there are so many degrees of freedom on the numerator, the
+overall test has low power to detect a few but important differences.
+Clearly one must think through the model and explicitly test for
+specific sorts of specification error. Failure to do so may often lead to
+parameter estimates that are very misleading.
+It is not unusual for the structural model to contain a mix of
+constructs. Some of the constructs require multiple indicators while
+others may not. For instance, the model may contain demographic
+variables such as sex, ethnicity, or age. It seems reasonable to argue
+that these variables have perfect or near perfect reliabilities: They are
+perfect indicators with epistemic correlations of one. How can such
+variables be incorporated into multiple indicator models?
+The simplest way to do so is to create a factor for each such
+measure. Then force the loading of the measure on the construct to be
+one and do not give the measure a disturbance. The factor will then
+become the measure, and its variance is set to the variance of the
+measure. Thus, if the variable is already standardized, the factor will
+also be standardized.
+Before turning to an example of a multiple construct model, it
+should be noted that specification error can be evaluated in a different
+manner with three or more constructs. Earlier, consistency of estimates
+was defined. It involved comparing the ratio estimates of loadings
+determined by the within and between construct correlations. With
+
+three or more constructs consistency can be evaluated by comparing
+two sets of between construct correlations. For instance, note that in
+Figure 8.6 the ratio of the path from L to X1 to the path from L to X2
+equals
+
+U13
+U14
+U15
+U16
+
+U24 = 
+U25 = 
+U26
+U23 = 
+The preceding yields six vanishing tetrads only three of which
+are independent:
+
+UU24 í U23U14 = 0
+UU25 í U23U15 = 0
+UU26 í U23U16 = 0
+UU25 í U24U15 = 0
+UU26 í U24U16 = 0
+
+[8.1]
+
+UU26 í U25U16 = 0
+
+[8.2]
+
+and
+
+Two of the overidentifying restrictions are constraints of homogeneity
+first between L and A (Equation 8.1) and second between L and W
+(Equation 8.2). The final independent restriction can be called the
+consistency of L with W and A. Only when a construct has just two
+indicators does it make sense to evaluate consistency with two other
+constructs. If there are three or more indicators this form of
+consistency follows from both simple consistency and homogeneity
+between constructs. In a similar fashion the consistency of A with L
+and W and the consistency of W with L and A can be defined.
+In Table 8.4 are the correlations between six subtests of the
+Iowa Test of Basic Skills for 1501 inner-city children (Crano, Kenny,
+& Campbell, 1972) The six tests can be thought of as two indicators of
+language usage (capitalization, X1, and punctuation, X2), work skills
+(map reading, X3, and use of graphs, X4), and arithmetic (concepts, X5,
+and problems, X6).
+
+

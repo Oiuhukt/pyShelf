@@ -1,0 +1,83 @@
+twist it to hurt him, you can get someone's personal information
+and use it to his harm. Rigorous security policies have to be put
+in place to protect citizens against information-based harms.
+It has alsways struck me as somewhat strange that the defenders of privacy here in Holland point to the second world war
+for a paradigm case of privacy violation. They relate the sad history of the occupation by the Nazi's, who found an easily accessible and well organized citizen adminstration, from which they
+could hand-pick jews, gypsys, criminals, mentally handicapped,
+homosexuals, trace them and send them off to the extermination
+camps. This part of our national past has for a long time effectively prevented the introduction of identification cards, registration of religion and sexual preference. But it seems somewhat
+odd to say that the Nazi's invaded the privacy of the Dutch Jews.
+They mudered, tortured innocent human beings. The reason for
+insisting on security and reasonable care in the context of storing
+sensitive data on persons is of course fear of harm. Just like we
+ban weapons out of fear of harm. It not strange that we fear
+information-based harm now information is becoming more and
+more like a gun.
+No other moral principle than John Stuart Mill's Harm Principle is needed to justify limitations of the freedom of persons
+who cause, threaten to cause, or are likely to cause, information
+based harms to people. And Mill's Harm Principle is widely acknowledged as an uncontrovetsial justification for intereference
+with individual liberty.
+
+Equality
+A second form of informational wrongdoing which involves personal data concerns a form of inequality. It has been pointed out
+by several authors that privacy may be disappearing as a foundational moral value in the Western World. Data privacy is already
+technologically obsolete, according to Calvin Gottlieb. The laws
+do not work because 'people don't want them to work in far too
+many situations' (Gottlieb, 1996: 156-175). One reason for this
+development is that people really want the benefits of ICT in
+exchange for the use of their personal data. One type of benefits
+they want is the benefits of a market of personal data. Citizens as
+customers have become aware of the fact that market transactions have changed in character. If I buy coffee at the shopping
+Mall, information about the transaction will be generated and
+stored. Customers have gradually become aware of this. Everytime
+they come to the counter to buy something they realize they have
+something to sell as well, namely the information about their
+purchase. A lot of privacy conerns have been resolved in a market for personal data and private contracts about consent to personal data use.
+Now we should not be led to believe that now citizens have
+become aware of the fact that they can get discounts on consumer goods in exchange for personal data that they know, or
+could know, what they are doing and what they are consenting
+
+to. It simply cannot be assumed that the conditions of the market are fair, and that the parties meet as equals.
+Dataprotection should be put in place in orde to guarantee
+fair market for personal data.
+
+Justice
+I think that what is often seen as a violation of privacy has more
+to do with the information-traffic accross the boundaries of what
+we intuitively tend to think of as seperate social "spheres". Many
+people do not object to the use of their personal medical data for
+medical purposes, whether these are directly related to their own
+personal health affairs, to that of their family, or expanding the
+circle even further, to that of their community, or the world population at large for that matter. They will however object for understandable reasons to being disadvantaged socio-economically,
+discriminated against on the workfloor, refused services, denied
+benefits, or turned down for insurance coverage on the basis of
+their medical records. These medical records were created to cure
+them from diseases.
+Michael Walzer in criticizing John Rawls' conception of primary goods and his abstract idea of simple equality develops the
+idea of seperate spheres of justice which have goods internal to
+them and have their own schemes of fair distribution (Walzer,
+1983). In the medical, the political, the commercial, educational
+spheres there all seem to be diffferent goods which are associated
+with the characteristic and defining practices. What has to be
+prevented, according to Walzer, is that some goods become 'dominant' and replace the goods which are internal to a particular
+sphere of justice, as happens when money (commercial sphere)
+could buy you a vote (political sphere), or if political office (political) would give you preferential treatment in healthcare (medical). What seems to be especially offensive and to go against the
+grain of our sense of justice is these transfers accross spheres that
+should be have been kept seperate. Walzer thinks therefore that
+some of the passages between spheres are blocked and should be
+blocked. He refers to this as blocked exchanges and practicing
+the art of seperation.
+The type of injustice I would like to draw your attention to
+here comes into existence when certain distinctions and associated information (the use of which may be perfectly unobjectionable in one sphere) carry over into another sphere. If difference in health status would be allowed to determine one's educational opportunities, or one's socio-economic achievements (that
+is information about them) would lead to preferential treatment
+in the legal setting, or political offices (information about the
+fact that someone holds them) would advance your
+enterpreneurial opportunities, and family relations (the fact that
+you are known to be the presidents nephew) would determine
+eligibility for political office, these would be perceived as injustices, because of the fact that distinctions -information about
+
+Computers and Society, September 1997
+
+35
+
+

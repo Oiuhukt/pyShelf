@@ -1,0 +1,55 @@
+Philosophy of Biology
+
+18
+property changes
+
+give rise to
+
+kinematic
+properties
+
+properties of
+
+entities
+
+particular trends
+
+dynamical principles
+
+Figure 2 A generalized schema for interpreting the dynamics of a system.
+biology. Further, it transcends even discussions of probabilistic or statistical
+theories – a diagram such as this could readily be instantiated in the context of
+a deterministic theory as well.13 Before we unpack it further, however, a few
+disclaimers are in order, given that this diagram involves importing a number
+of terms that are not commonly found in the philosophy of biology.
+Properties and Trends
+First, it is taken as an assumption here that the sense in which entities bear
+properties is unproblematic, and hence we owe no further explanation of
+the “properties of” arrow in Figure 2.14 Also, I take it that the “particular
+trends” in which we are interested at both the macro and micro levels are set
+independently, whether by our interests in building theories (i.e., they are the
+target of a specific class of explanations that we would like to offer) or by being
+the subset of property changes picked out by the dynamical principles, which
+we have identified independently. In our case, the particular trends at issue are
+various ways of instantiating natural selection – which we already, in some
+intuitive sense, believe to be the set of changes to individual or population
+trajectories brought about by variations in fitness and leading to adaptation.
+We thus have an independent handle on the phenomena we wish to explain; the
+devil is in the details of the causal story that gives rise to those changes.
+Kinematics versus Dynamics
+Second, on the distinction between kinematics and dynamics. Strictly speaking,
+kinematics refers to properties concerning motion – here, as is often the case
+in theoretical physics, the motion of an entity through a state space. To pick up
+our example, some kinds of changes in the properties of individuals will result
+in changes in lineage structures, and some kinds of changes in the properties
+13
+
+This means that the question of causation in natural selection is not merely one of the
+interpretation of probability or the role of statistics.
+14 Of course, contemporary metaphysics has by no means settled the way in which this is supposed
+to work (Loux, 2006, ch. 1–3), but those complexities are thankfully unimportant for us here.
+
+Downloaded from https://www.cambridge.org/core. IP address: 201.141.16.192, on 28 Sep 2021 at 16:48:09, subject to the Cambridge Core
+terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/9781108680691
+
+

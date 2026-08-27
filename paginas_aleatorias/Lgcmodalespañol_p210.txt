@@ -1,0 +1,113 @@
+212
+
+UNA INTRODliCCION A LA LOGIeA MODAL
+
+Dada un álgebra de":Boole B, un subconjunto x: de B tiene la
+propiedad 'de las intersecciones finitas, (p.iJ.}, 'si y sólo si para
+cada n y cada aJ, ... , <lo E X, al /\ ... /\' a¡(;i!: O.
+.
+PROPOSICIÓN 2: En toda álgebra de)30ole B; todo subconjunto X de B con la p.if. pueq,eextendúse iui filtiá propio en B.
+Prueba: {b E B: hay ti y al,::;, ~'E X tales que (al/\ ... /\ an)
+::; b } es un filtro .•
+
+a
+
+, ,,;.:; ~,,'; ; ,_ :',
+
+. ¡ j~"
+
+~
+
+I~ ',Ó,
+
+",
+
+.
+
+'.
+
+,.
+
+, (,.'
+
+l'
+
+:f\
+
+:
+
+TEOREMA DEL ULTRAFILTRO: Todo filtro propio en un álgebra
+de Boole B puede extenderse a Uli.ultrafiltro en B.
+Prueba: Utilizando el lema de Zom.1
+i' - ~ , , !
+
+.
+
+, ..
+
+CO~OLA~IO 3: Todo subconjunto con la p.if. de un álgebra de·
+Boole B puede extenderse a un ultrafiltro en B.
+I
+
+1:
+
+'.
+
+Dado un conjunto X:, consideremos 'su conjunto potencia P(X).
+Este conjunto con las operaCiones de 'inters,ección, unión y complementario, y los conjuntos 0 y X, constituye un álgebra de
+Boole, el álgebra de los subconjuntos' de X; Cualquier subconjunto
+de P(X) cerrado bajo las operaciones de intersección, unión y
+complementario, y al que pertenecen 0 y X, constituye también,
+junto con las operaciones y conjuntos indicados, un álgebra de
+Boole, un álgebra de subconjuntos de X ..
+Un álgebra (de Boole) de conjuntos es un álgebra de subcon~'
+jUntos'de algún conjunto X.:· . ..
+.
+Dos álgebras de Boole BI y B2 son isomorfas si y'sólo si
+existe una biyección f de BIen B2, tal que para cada a;b E B:
+
+.,
+
+. ,~'
+
+i) f(a /\lb) =f(a)~A2 f(b) \
+ii) f(a VI b) = f(a) V2 f(b)
+. iii) .f(a*l) = f(a)*2 .
+iv) f(OI) =O2
+v) fOI) = 12
+
+.1·
+
+.1
+
+I
+
+il
+
+,.I1
+
+'~ I
+
+I
+
+Dada.un álgebra deBooleB,.consideremos el conjunto de
+todos losultrafiltros en B,
+"
+
+!¡
+
+1
+
+¡,
+
+)1 . ,
+1 '
+
+.
+
+'j\,
+¡l¡
+
+St(B) = {U: U es ultrafiltro en B }.
+
+

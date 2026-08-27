@@ -1,0 +1,46 @@
+https://doi.org/10.1017/9781108914765 Published online by Cambridge University Press
+
+58
+
+Philosophy of Physics
+
+states they are adjacent to. However, this is not just a feature of deliberation – it
+is a feature of correlations more generally across space-time.
+It may be beyond the remit of agency accounts to explain worldly probabilistic structure – it may be a given from which the temporal asymmetry of
+causation is derived. However, some attempt might be made to explain the
+temporal asymmetry of deliberation: the fact that we deliberate before we
+decide. One simple explanation begins by characterising deliberation as an
+information-gathering process – agents gather information from earlier states
+of the world and themselves and store this in the form of deliberative states.
+A general feature of recording systems in our world is that they gather information from the past and retain it towards the future, rather than the reverse
+(Reichenbach, 1956; Albert, 2000: Ch. 6; Fernandes, 2022b). However, while
+this might explain why deliberation is temporally asymmetric, it doesn’t
+explain why deliberation comes prior to decision – why decision temporally
+concludes deliberation.
+Expanding on this ﬁrst attempt, one might require decisions to be appropriately sensitive to information gathered during deliberation. As a fact about our
+world, it seems that decisions are insensitive to information gathered after the
+decision – what you learn tomorrow is not appropriately correlated with the
+decisions you made yesterday. Therefore, information gathered after your
+decision is not part of deliberation: it doesn’t play the right functional role.
+This asymmetry appears to also be an instance of a more general temporal
+asymmetry of recording devices – the inputs that are relevant for outputs must
+be prior in time to their outputs. The temporal asymmetry of recording devices
+might itself be explained in broadly entropic terms (see, for example,
+Reichenbach, 1956; Albert, 2000; Fernandes, 2022b).41
+Given very general features of deliberation and the probabilistic structure of
+the world, there is only one way that deliberation could have been temporally
+oriented. Therefore, it will be hard to make sense of counterfactuals where one
+reverses the direction of deliberation but keeps probabilistic structure intact –
+the kind of counterfactuals that Price appeals to (Section 4.4). These agentbased explanations have more in common with statistical mechanical accounts
+than Price’s account regarding how closely they relate the temporal asymmetry
+of causation to physical temporal asymmetries. Using an ‘objective’ agency
+explanation, the temporal asymmetry of causation is ultimately due to whatever
+physical temporal asymmetries explain the temporal asymmetry of recording
+devices combined with general temporally symmetric features of agency and
+41
+
+For an alternative account of why deliberation is temporally asymmetric, see Fernandes (2017).
+Ismael (2016: 260−1) and Price (2007: 275−8) also suggest that epistemic constraints will be
+relevant to explaining temporal features of deliberation, without specifying how.
+
+

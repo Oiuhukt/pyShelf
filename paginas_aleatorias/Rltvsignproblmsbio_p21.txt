@@ -1,0 +1,30 @@
+This is the author's accepted manuscript without copyediting, formatting, or final corrections. It will be published in its final form in an upcoming issue of The British
+Journal for the Philosophy of Science, published by The University of Chicago Press on behalf of The British Society for the Philosophy of Science.
+Include the DOI when citing or quoting: https://doi.org/10.1086/728261. Copyright 2023 The British Society for the Philosophy of Science.
+
+Relative Significance Controversies in Evolutionary Biology
+
+of the causes that they are invoking.22 By making headway on the frequency question, researchers realized that the rates of fixation of neutral mutations were inconsistent with Kimura’s initial prediction and needed explanation. This was provided by Ohta, who showed
+there was a relation between the relative efficacy of selection and drift, which could be observed by adjusting the difference in the fitness of alleles (a ratio measuring the strength of
+selection) and the given population’s size.
+The transition from a relative frequency controversy to a blended controversy that occurred in the neutralist–selectionist debate is no coincidence. As I noted earlier, the controversy started because of an inconsistency between what theorists believed to be the more
+efficacious cause (selection) and the available data. Relative frequency controversies are a
+tool that allows scientists to inquire about the efficacy of causes. Because of this, we will
+often see an efficacy controversy lurking just below a relative frequency controversy.
+
+4.2 The controversies surrounding group selection
+There are two approaches scientists may take to investigate phenomena where more than
+one causal relationship has been identified—a top-down and a bottom-up approach. One
+uses the top-down approach by uncovering theoretical reasons for why a cause should be
+rare or common (or more or less efficacious). Alternatively, one uses the bottom-up approach
+by inferring from observations which causes are common and which are rare (or which are
+more or less efficacious).
+Williams’s ([1966]) analysis of group selection provides an example of the top-down
+approach. While he thinks evolution by group selection is a theoretical possibility, he is
+sceptical that it ever makes a difference in evolutionary outcomes (Williams [1966], pp.
+122–23) and formulates several arguments to defend this point. One of them states that in
+order for group selection to occur, one of the following conditions must be met: either the
+species in question has a particular population structure in which the groups are small and
+migration is minimal or the trait selected for at the group-level is not disadvantageous at the
+
+

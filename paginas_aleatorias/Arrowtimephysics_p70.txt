@@ -1,0 +1,45 @@
+64
+
+Philosophy of Physics
+
+of (at least seemingly) deterministic processes. This appears to be a particular
+problem with respect to causation, which in its most paradigmatic instances
+(e.g., physical impact) seems very clearly to be deterministic. That is, even
+a vanishingly small probability of, say, Newton’s Cradle not resulting in an
+impact on the last pendulum in the sequence would strongly contradict our
+intuitions about the world.
+An alternative approach to a straightforward physical reduction would be to
+attempt a reduction of both the statistical second law and the constitutingprocesses of our experience of time to a third, even more fundamental quantity.
+Sklar (1993, pp. 387–411) reviews several such attempts, including a reduction
+to information and information exchanges. This latter approach was popular in
+the second half of the twentieth century (e.g., Brillouin, 1951; Bennett, 1973;
+1982). However, the information-theoretic approach to entropy is currently
+more controversially debated (for arguments against, see, e.g.: Earman &
+Norton 1998; 1999; Norton, 2005; for arguments for: Bub, 2001. For our
+purposes, it is sufﬁcient to note that no full reduction to any third quantity has
+yet been achieved. Therefore, the explanatory potential of the Local Statistical
+Arrow of Time remains exactly this: a potentiality of offering an explanation
+that would avoid making assumptions about the nature of the universe (in
+contrast to the Universal Statistical Arrow of Time, Section 5.2), but for
+which currently no straightforward route to formalisation has been identiﬁed.
+
+https://doi.org/10.1017/9781009217347 Published online by Cambridge University Press
+
+5.4 Conclusion
+It is easily apparent that the derivation of the two Statistical Arrows of Time from
+the statistical second law requires the introduction of more additional assumptions than does the derivation of the Empirical Arrow of Time. The Global
+Statistical Arrow of Time requires two additional assumptions (Section 5.2):
+the Cosmic Entropy Assumption and the Past Hypothesis. The Local Statistical
+Arrow of Time requires one additional assumption: the Local Reduction
+Assumption (Section 5.3). Carrying over from the prior derivation of the
+statistical second law is the Equal Accessibility Assumption (Section 4.3).
+Therefore, the validity of the Statistical Arrows of Time depends on
+a comparatively large number of contingencies. Furthermore, as demonstrated
+in the discussions of each assumption above, the assumptions are not trivially
+fulﬁlled and decisions about their veracity depend on advances on other, highly
+contested, questions in science and philosophy: in the case of the Cosmic Entropy
+Assumption and the Past Hypothesis on advances in our understanding of the
+universe’s cosmological development; in the case of the Local Reduction
+Assumption on a better understanding of how atomic and molecular phenomena
+
+

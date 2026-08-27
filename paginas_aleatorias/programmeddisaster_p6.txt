@@ -1,0 +1,34 @@
+Donald Sultan, Early Morning, May 20,1986
+found that the best programmers can be more than twentyfive times as competent as the worst and that many software-design supervisors are unable to evaluate or even
+understand their programmers' work. Ofcourse, efforts to
+regulate software or certify programmers are likely to
+meet resistance. "I'll fight them to the death," says
+Robert Ulrickson, president of Logical Services, a Santa
+Clara, California, company that designs computerized
+instruments. "I don't want to be part of an economy that's
+run by the government."
+But, for the most part, the mere appearance of government interest in software safety has had a positive effect.
+In September of 1987, in the wake of the Therac-25
+tragedies, the FDAannounced its intent to regulate some
+computer software in medical devices and began to work
+out guidelines. At about the same time, a staff member of
+the U.S. House of Representatives Committee on Science, Space, and Technology began investigating soft-
+
+ware quality-assurance practices on behalf of Congress.
+Seeing the writing on the wall, manufacturing and professional associations are instructing their members in software-quality assurance and acceptance testing. Employees are being sent to courses on computer-system safety,
+and unusually thorough attention is being devoted to
+checking for hazards in new machines. Some manufacturers have even contracted with outside firms to perform
+independent tests and evaluations. Given the low priority
+traditionally assigned to software safety, such efforts
+promise considerable improvement. •
+a research assistant professor in the radiation
+oncology department at the University of Washington School of
+Medicine, in Seattle, is designing software for a computercontrolled radiation-therapy machine. His first article for THE
+SCIENCES, "Ada's Troubled Debut," appeared in the January/
+February 1987 issue.
+
+JONA11lAN JACKY,
+
+-27-
+
+

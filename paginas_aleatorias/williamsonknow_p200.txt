@@ -1,0 +1,60 @@
+188
+
+Stephen Schiffer
+
+symptom may be conclusive evidence that I have a certain disease, even though
+I am unaware of the symptom, unaware that I have the disease, and would be
+unaware that the symptom was evidence of the disease even if Iwere aware
+of it.
+On the intended reading of HAS, in order for E to be a justification that S has
+to believe P, S must know, or at least believe, E—or at least simply have E, if E
+is an experience or sensation. (Ifwe assume Williamson’s theory, wherein only
+evidence can justify and a proposition belongs to S’s total evidence just in case S
+knows it,! then E is a justification that S Aas for believing P if and only if E is a
+justification for S to believe P and S knows E.)
+
+On the intended reading of IN, E can be a justification that S has for
+believing P and yet not be what justifies S im believing P, even though S is
+justified in believing P. For example, $ may know a certain fact about a DNA
+fingerprint found in a hair sample at the scene of a murder; this fact may be
+virtually conclusive evidence that the chauffeur was the murderer; and S may not
+know that the DNA fingerprint implicates the chauffeur yet still be justified in
+believing that the chauffeur committed the murder on the basis of knowing that
+two independent and uninvolved witnesses say they saw the chauffeur commit
+the murder. To be justified in believing P is to believe P and to be justified
+in doing so, and for E to be what justifies S in believing P it must be that
+S believes P on the basis of S’s having, knowing, or at least believing E, in a
+sense of “on the basis of” that awaits explication but can be used to sort cases.
+Assuming Williamson’s theory of evidence (see below), we may say that evidence
+E justifies S in believing P only if S’s knowing E accounts for the fact that S is
+justified in believing P. This in turn implies that, all other things being equal,
+if E justifies S in believing P, then S would not be so justified if S did not
+know E.
+' ‘Williamson’s equating a person’s evidence with her knowledge—an equation he calls E = K
+(p. 185)—is a cornerstone of his theory of evidence (unless otherwise noted, all page references
+
+for Williamson are to Knowledge and its Limits). The doctrine that only evidence can justify
+belief occurs in a few places (e.g., p. 208), and is evidently also pretty central to Williamson’s
+theory. It has, however, a weak and a strong reading. The weak reading is that if E justifies one’s
+
+believing P, then E is known, and thus, by E = K, belongs to one’s total evidence. The stronger
+reading is that, if E justifies one’s believing P, then E is evidence for P for one. Williamson
+sometimes gives the impression that he accepts the stronger reading, as when he says that “evidence
+
+for a mathematical conjecture may consist of mathematical knowledge” (p. 207), but here he is
+probably using “evidence” in a loose vernacular way, since on his account of evidence, nothing
+can be evidence for a mathematical proposition, and no mathematical proposition can be evidence
+
+for any proposition. This is because E is evidence for P only if it raises the probability of P,
+in the sense that Prob(P/E)
+
+> Prob P, and for Williamson every mathematical proposition has
+
+probability 1 or 0. The fact that nothing can be evidence for a mathematical proposition may
+be taken to be a problem for Williamson’s theory of evidence, since we may well want to say
+such things as that my evidence for P’s being a theorem of number theory is that the brilliant
+number theorist Jones told me that it was. We needn't, however, bother about any of this, since
+all the issues in this chapter about what a person is justified in believing pertain only to contingent
+propositions,
+
+

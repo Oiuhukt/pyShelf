@@ -1,0 +1,44 @@
+(1983). A quite different perspective on relativity theories, spacetime structure, relativity and
+conventionality of simultaneity, and the nature of the GR metric field can all be found in
+Brown (2005). For in-depth discussion of determinism and its fortunes in the main historically
+important physical theories, see Earman (1986) and the update/survey paper (2007). Causal
+anomalies and problems of all kinds in GR are most thoroughly discussed in Earman (1995).
+Finally, many of the topics touched on in this article are discussed with great clarity and
+rigour by Norton (2007).
+
+REFERENCES
+BROWN, H. (2005). Physical Relativity. Oxford: Oxford University Press.
+EARMAN, J. (1972). ‘Notes on the Causal Theory of Time’, Synthese 24: 74–86.
+—— (1986). A Primer on Determinism. University of Western Ontario Series in the
+Philosophy of Science 32. Dordrecht: Reidel.
+—— (1995). Bangs, Crunches, Whimpers, and Shrieks: Singularities and Acausalities in
+Relativistic Spacetimes. Oxford: Oxford University Press.
+—— (2007). ‘Aspects of Determinism in Modern Physics’ in J. Butterfield and J. Earman
+(eds.), Philosophy of Physics. Handbook of the Philosophy of Science Series.
+Amsterdam: Elsevier.
+EINSTEIN, A. (1905). ‘Zur Elektrodynamik bewegter Körper’ (‘On the Electrodynamics of
+Moving Bodies’), Annalen der Physik 17: 891–921.
+FRIEDMAN, M. (1983). Foundations of Space-Time Theories. Princeton: Princeton
+University Press.
+GÖDEL, K. (1949). ‘An Example of a New Type of Cosmological Solutions of Einstein’s
+Field Equations of Gravitation’, Reviews of Modern Physics 21: 447–50.
+GRÜNBAUM, A. (1968). Modern Science and Zeno’s Paradoxes . Middletown, Conn.:
+Wesleyan University Press.
+HOEFER, C. (1994). ‘Einstein’s Struggle for a Machian Gravitation Theory’, Studies in
+History and Philosophy of Science Part B: Studies in History and Philosophy of
+Modern Physics 25: 287–336.
+—— (2000). ‘Energy Conservation in GTR’, Studies in History and Philosophy of
+Science Part B: Studies in History and Philosophy of Modern Physics 31: 187–99.
+—— (2003). ‘Causal Determinism’, Stanford Encyclopedia of Philosophy (online)
+http://plato.stanford.edu/entries/determinism-causal/>, accessed 24 April 2009.
+LACEY, H. M. (1968). ‘The Causal Theory of Time, a Critique of Grünbaum’s Version’,
+Philosophy of Science 35: 322–54.
+LARAUDOGOITIA, J. (1996). ‘A Beautiful Supertask’, Mind 105: 81–3.
+LEWIS, D. (1979). ‘Counterfactual Dependence and Time’s Arrow’, Noûs 13: 455–76.
+MALAMENT, D. (1995). ‘Is Newtonian Cosmology Really Inconsistent?’, Philosophy of
+Science 62: 489–510.
+MAUDLIN, T. (1994). Quantum Non-Locality and Relativity: Metaphysical Intimations of
+Modern Physics. Oxford: Basil Blackwell.
+MISNER, C., THORNE, K., and WHEELER, J. A. (1973). Gravitation. New York: W. H.
+
+

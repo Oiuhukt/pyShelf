@@ -1,0 +1,42 @@
+The Effects of Social Context on the Process of Scientific Investigation
+
+159
+
+We couldn’t understand why the experiments clashed. Clearly, the reasonable thing was
+that one of them was wrong.
+
+For many excellent reasons, it was concluded that it was Holt’s experiment
+which was wrong. But this decision took place within a context of shared
+theories and mechanisms and, equally importantly, within a context of
+almost total disbelief in LHV. Anyone who wished to defend the validity of
+Holt’s result, particularly after the results of the later experiments became
+known, would almost certainly have had to reject some section of contem¬
+porary physics. The fact that this did not happen does not necessarily imply
+that it could not have happened.
+For example, Clauser published a paper in 1976 (30a) in which he describes
+an experimental investigation of Holt’s ‘anomaly’. In this paper, he points
+out several ‘possibly significant’ differences between Holt’s apparatus and
+Clauser’s own partial replication. One of these is that different sorts of
+polarisation analysers were used: Holt employed calcite crystals, while Clauser
+(and all the other experimenters) employed sets of glass plates, arranged in
+parallel rows and aligned at the ‘Brewster angle’. Now morphologically, a
+lump of crystal and a set of 13 or so glass plates are quite dissimilar, but
+functionally they are held to be identical (or at least sufficiently alike to
+avoid the necessity of including calcite crystals in the replication). This
+functional identity is derived from our current theories about the nature of
+polarised light; in other words, the identity is defined by the context.
+(The practical equivalence of these devices was defined by the social
+context in a much more direct way. Clauser’s lab operated on a tight budget.
+He already had a set of glass plates from his earlier experiment, and would
+not have been able to purchase a pair of calcites even if he wanted to, which
+apparently he did not.)
+I do not wish to claim that LHVs only manifest themselves in the presence
+of calcite crystals, any more than I wish to claim that LHVs only show up in
+the presence of experimenters whose surnames begin with ‘H’. Nevertheless
+such claims are clearly not impossible to make. Their reasonableness, or lack
+of it, derives from a set of tacit conventions. The risks involved in rejecting
+these conventions vastly outweighed the possible benefits — in this particular
+case. All I wish to point out is that functional equivalence is dependent on
+theory. The fact that, for example, mercury thermometers appear to do the
+
+

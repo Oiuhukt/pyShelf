@@ -1,0 +1,35 @@
+6.6 Philosophical Issues
+A key step in Beltrami’s modelling of non-Euclidean geometry was his
+decision to generalize the concept of length. He was emboldened to do this
+by his reading of Riemann (1854), a ground-breaking work in the foundations
+of geometry that was first published in 1868. In a sweeping new approach to
+geometry (now known as Riemannian geometry), Riemann generalized the
+arithmetized geometry of Descartes from the plane to curved spaces of any
+dimension n. The points of the space, instead of being represented by ordered
+pairs of numbers, were represented by ordered n-tuples
+
+. And
+
+distance, instead of being given by the ‘Pythagorean’ formula, was obtained
+by calculus from an ‘infinitesimal Pythagorean’ formula. The ‘infinitesimal
+Pythagorean’ property means that the geometry of the space (as manifested
+by the angle sum of a triangle, for example) approaches Euclidean geometry
+in small regions, but may diverge from it in large regions. An example is the
+geometry of the sphere, where small triangles have angle sum close to
+large triangles have angle sum much greater than
+
+, but
+
+.
+
+The sphere is an example of a space with constant positive curvature.
+Riemann looked briefly at spaces of constant negative curvature, but it was
+Beltrami who noticed that such spaces exhibit non-Euclidean geometry, and
+that their ‘lines’ (curves of shortest length) can be modelled simply by
+circular arcs, as in Figure 17. Thus Riemannian geometry is a thoroughgoing
+arithmetization of geometry, pointing the way to an arithmetic basis for
+Euclidean, non-Euclidean, and all kinds of curved geometries.
+The revolution wrought by Riemann and Beltrami raised several issues
+about the nature of geometry and its place in mathematics.
+
+

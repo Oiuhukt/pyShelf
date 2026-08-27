@@ -1,0 +1,31 @@
+41
+
+seems that […] my law V is false” (FCorr, 131). Famously, even before Russell’s discovery of
+this contradiction, Frege had already expressed doubts about basic law V (1883, vii). And
+long after that, Frege he still wrote: “we cannot accept a thought as an axiom if we are in
+doubt about its truth” (1914, 205).44
+Stroud (2018) emphasizes that one can be committed to the truth of a law and maintain
+that no justification can be given to it. But this attitude—which Stroud presents as his own—
+can hardly be attributed to Frege. This would amount to saying that Frege, for a time,
+thought that basic law V was true, and that the question as to how a subject can be justified
+in believing basic law V is unanswerable: one cannot say what would make a subject
+justified in believing it. But this suggests that Frege recognized no objective criteria for
+accepting or rejecting basic law V, which is plainly false. Upon receiving Russell’s letter,
+Frege seems to have formed the belief that basic law V is false. Therefore, he recognized at
+least one necessary condition for accepting it—namely, if a thought is a basic law, then it
+entails no contradiction.
+One could reply that this observation only shows that basic law V was not basic after all.
+Perhaps what Frege truly took as basic was the principle that no contradiction is true, which
+entails—given weak normativity as a bridge principle—that one must reject thoughts that
+one knows to be contradictory. I am sceptical about this, because I am inclined to take Frege
+at face value when he says that basic laws are basic. But let us consider this interpretation
+anyway: Frege gives a justification of the basic laws—to deny them would be
+
+44
+
+By 1906 Frege gave up hope of rescuing basic law V from Russell’s paradox (see Frege 1906a).
+
+Thus, Frege seems concerned with the truth of the laws of logic independently of the prospects of
+his logicist project.
+
+

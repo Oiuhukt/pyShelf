@@ -1,0 +1,59 @@
+182 CORRELATION AND CAUSALITY
+
+Chap ter 8
+
+MULTIPLE UNMEASURED VARIABLES
+
+183
+
+The X4 to X6 measures are the same with the participants being
+measured one year later. All participants were smokers from a town in
+northern California. In Table 8.3 are the correlations between items
+and the standard deviation of each item. All the solutions reported
+below are unstandardized since the loadings of X1 and X4 are forced to
+one, and the variance-covariance matrix serves as input. The variance
+of the time 1 and time 2 factor is then free to vary.
+
+10.30. Residuals from the covariance matrix are reproduced in Table
+8.3. Interestingly, the factor variance decreases over time being 0.406
+at time 1 and 0.262 at time 2. Respondents seem to be becoming more
+homogeneous over time. The autocorrelation of the factor is
+.251/((.406)(.262))1/2 = .770.
+
+Table 8.3. Correlations of Cigarette Smoking Items at Two Time
+Points, X1 to X3- Time 1 and X4 to X6 Time 2. Residuals on and
+above Diagonala,b
+
+Figure 8.5 Unstandardized model for the covariance matrix in Table 8.3
+
+The first solution attempted forced the loadings of first, X2 and
+X5 and second, X3 and X6, to be equal. Thus the unstandardized
+loadings were constrained to be stable over time. The F2 for the model
+is 47.19 with 10 degrees of freedom. Clearly some part of the model is
+misspecified. Because the same items were used at both points in time
+it is likely that the unique factors are correlated over time. To test this a
+canonical correlation analysis was set up treating X1, X2, and X3 as one
+group of variables and the remaining variables as the second set. The
+test of the F2(4) equals 29.72, which is highly significant. Thus
+correlated errors across constructs is indicated.
+The model was respecified allowing the disturbances of the
+same measure to be correlated over time. The variance of the
+disturbances was set at one. The resultant parameter estimates are
+contained in Figure 8.5. The fit of the model is quite good: F2(7) =
+
+To test the equality of the loadings over time, a model was set
+up that allowed the loadings to vary over time. However, to identify
+the model, the loadings for X1 and X4 were kept at one. The F2 for this
+model is 9.44 with 5 degrees of freedom. The test of equality
+constraints is the difference of the general model from the restricted
+model: F2(7) of 10.30 minus F2(5) of 9.44 or F2(2) of 0.86, which is not
+statistically significant, indicating that the fit does not suffer by
+imposing the equality constraints.
+THREE-OR-MORE-CONSTRUCTS MULTIPLE
+INDICATOR MODEL
+COMPLICATIONS
+
+The addition of a third construct to multiple indicator models
+adds only a few complications. As the number of constructs grows the
+
+

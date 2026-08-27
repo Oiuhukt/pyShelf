@@ -1,0 +1,56 @@
+118
+
+Gry Hasselbalch and Aimee Van Wynsberghe
+
+and the sustainability of AI,1 which includes a view on the physical infrastructure of
+AI and what this means in terms of the exploitation of people and the planet. Here,
+we also use the example of “data pollution” to examine the sustainability of AI from
+multiple angles.2 In the last part of the chapter, we explore the ethical implications
+of AI on sustainability. Here, we apply a “data ethics of power”3 as an analytical tool
+that can help further explore the power dynamics that shape the ethical implications of AI for the sustainable development agenda and its goals.
+
+6.2 AI and the Global Sustainable
+Development Agenda
+Public and policy discourse around AI is often characterized by hype and technological determinism. Companies are increasingly marketing their big data initiatives
+as “AI” projects4 and AI has gained significant strategic importance in geopolitics as
+a symbol of regions’ and countries’ competitive advantages in the world. However,
+in all of this, it is important to remember that AI is a human technology with farreaching consequences for our environment and future societies. Consequently,
+the ethical implications of AI must be considered integral to the ongoing global
+public and policy agenda on sustainable development. Here, the socio-technical
+constitution of AI necessitates reflection on its sustainability in our present and a
+new narrative about the role it plays in our common futures.5 The “sustainable”
+approach is one that is inclusive in both time and space; where the past, present,
+and future of human societies, the planet, and environment are considered equally
+important to protect and secure, as is the integration of all countries in economic
+and social change.6 Furthermore, our use of the concept “sustainable” demands we
+ask what practices in the current development and use of AI we want to maintain
+and alternatively what practices we want to repair and/or change.
+AI technologies are today widely recognized as having the potential to help
+achieve sustainability goals such as those outlined in the EU’s Green Deal7 and
+1
+2
+3
+4
+5
+6
+
+7
+
+Aimee van Wynsberghe, “Sustainable AI: AI for sustainability and the sustainability of AI” (2021) AI
+and Ethics, 1: 213, 218.
+Gry Hasselbalch, “Data pollution & power: A white paper for a global sustainable development
+agenda on AI” (2022), www.datapollution.eu/, accessed June 27, 2023.
+Gry Hasselbalch, Data Ethics of Power. A Human Approach in the Big Data and AI Era (Edward
+Elgar, 2021).
+Madeleine C Elish and Danah Boyd, “Situating methods in the magic of big data and artificial intelligence” (2018) Communication Monographs, 85: 57.
+Francesco Lapenta, Our Common AI Future (JCU Future and Innovation, 2021).
+As outlined throughout the “Brundtland report”/World Commission on Environment and
+Development, “Our Common Future,” https://sustainabledevelopment.un.org/content/documents/​
+5987our-common-future.pdf, accessed June 6, 2023.
+Council of the European Union, European Green Deal, accessed July 19, 2024: www.consilium​
+.europa.eu/en/policies/green-deal/
+
+Downloaded from https://www.cambridge.org/core. IP address: 177.249.163.232, on 22 Feb 2025 at 05:56:29, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://www.cambridge.org/core/product/0AD007641DE27F837A3A16DBC0888DD1
+
+

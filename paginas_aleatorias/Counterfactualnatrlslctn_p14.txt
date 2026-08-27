@@ -1,0 +1,55 @@
+184
+
+P. Huneman
+
+of resistance to invasion (adaptive dynamics). Besides, throughout this paper I have
+equated selection with increase in relative frequency—but the counterfactual
+statement is easily modifiable in order to account for cases of stabilizing selection
+where frequency of the trait will not change but variance of the distribution of traits
+diminishes. It may suffice to formulate the causal statement in terms of
+counterfactual dependency between the value of the xi and the decrease in relative
+frequency of the xj with j = i. Stabilizing selection for xi goes like this: ‘‘if the value
+of X for those entities had not been xi, then instances of the other many xj would not
+have been likely to decrease in frequency.’’
+Manipulationnist accounts of causation are built on a counterfactual account of
+causation, provided that the notion of ‘‘intervention’’ defines which counterfactual
+changes are made upon the value of the variables (Woodward 2003). Riesman and
+Forber (2005) argued for an interpretation of selection as a cause based on such
+view; clearly their analysis would be compatible with my view, and generally with
+any interpretation of the causal status of selection that would rely on the scheme of
+difference-making. However, I still prefer the counterfactual interpretation, because
+the manipulationist view of selection as a cause is vulnerable to specific
+objections.30 Now I still have to show how and why in the case of natural selection
+these counterfactual dependencies actually hold, and this will explain why they
+make selection differ from drift.
+3.2 Possible Worlds: Reliable Factors, Causes and Selection
+A counterfactual assertion is, as Lewis pointed out, an assertion about some possible
+worlds and their distance from our actual world. Selectionist explanations, when
+phrased in counterfactual terms, should indeed embody references to those possible
+worlds, and I will show this now. Recall first that not all counterfactuals in
+biological contexts express natural selection. If an individual organism is struck by
+lightning, the counterfactual ‘‘if it had not been here it would have not been killed’’
+holds, yet it is not about natural selection. Why? Because lightning strikes are very
+rare circumstances, and hence their effects appear only in small populations. Once
+again, lightning or any case of random deletion can kill all the high fitness
+individuals if the population is small, but probably not if it is large. Suppose you
+have A and A’ types, and their fitness is Wa [ Wa’.31 So it can be the case that the
+frequency of A’ becomes higher than the frequency of A because of those random
+deletions, but it will probably not be the case in a large population. And if this
+indeed obtains (for example if lightning often suppresses lots of As) then we will
+30
+Lewens (2009) and Walsh (forthcoming) actually emphasized cases of Gillespie fitness, i.e. cases
+where defining fitness includes the variance of the trait distribution, and hence changing fitness implies
+changing population size, which makes impossible to distinguish an intervention on fitness (hence
+selection) and an intervention on population size (hence drift), so that no legitimate intervention, hence no
+causation in the manipulationnist sense, can be defined.
+31
+This is a rather crude model, not even a Fisher-Wright model for single locus diploid population, since
+we consider only genotypes and not alleles; all the subtleties of population genetics are here not at stake,
+it’s like a population of asexual haploids. However, the conceptual point made here still concerns real
+population genetics, because as we saw the values of the variables in the counterfactual statement can be
+understood as competing alleles in a one locus model.
+
+123
+
+

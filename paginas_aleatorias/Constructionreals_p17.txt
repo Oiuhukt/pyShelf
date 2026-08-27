@@ -1,0 +1,75 @@
+2
+
+Construction of the rational numbers
+
+for any x, y ∈ Q.
+A new binary operator (/Q ), called division, on Q × Q \ {0} is defined by
+x
+= x/Q y := x · y−1 .
+y
+We can now proceed to showing that (Q, +Q , ·Q , <Q ) with additive identity 0
+and multiplicative identity 1 is an ordered field using the properties (2.15) – (2.26)
+of the ordered ring Z. We will, however, only prove the new property of Q — the
+existence of multiplicative inverses for non-zero elements. Detailed proofs of the
+other properties can be found, for example, in [4], p. 104–109.
+Proposition 2.18. (Q, +Q , ·Q , <Q ) forms an ordered field.
+Proof. (M4)
+
+Let x = m
+n ∈ Q \ {0}. Suppose that m > 0. Then
+m
+·Q
+x ·Q x =
+n
+m·n
+=
+n·m
+m·n
+(2.20) =
+.
+m·n
+−1
+
+
+
+
+
+
+
+n
+m
+
+
+
+Since (m · n) · 1 = m · n = 1 · (m · n), we obtain
+x ·Q x−1 =
+
+m·n
+1
+= = 1.
+m·n
+1
+
+(2.30)
+
+−n
+If n < 0, we have x−1 = −m
+. In that case we can argue similarly to obtain
+
+x ·Q x−1 =
+
+−(m · n)
+= 1.
+−(m · n)
+q. e. d.
+
+Since Q satisfies the axioms for an ordered field, which entirely includes the axioms for an ordered ring, we can identify Z with the subset ZQ of Q and use the
+same symbols for operators and relations on those sets.
+Establishing the ordered field of rational numbers is the prerequisite for the
+actual set we are aiming for: the complete ordered field of real numbers. We still
+need to give a formal description of completeness as well as methods of filling the
+“gaps” in Q, which we will explore in the next chapter.
+
+11
+
+

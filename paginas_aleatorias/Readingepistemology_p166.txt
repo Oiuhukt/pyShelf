@@ -1,0 +1,46 @@
+154
+
+FOUNDATIONS OR COHERENCE?
+
+The alternative coherent system objection holds that there may be many mutually
+incompatible coherent systems that are equally coherent. Even though some such
+coherent system could provide a correct account of the world while the others do
+not, coherentism is unable to choose this coherent system as being more justified
+than the others. So, assuming that astronomy and astrology are each equally
+coherent, the coherentist is not more justified in believing the former rather than
+the latter.
+In response to this objection, Bonjour acknowledges that two belief systems
+may be equally coherent at some particular time, but that this tie is likely to be
+broken in the long run and with the continuing impact of cognitively spontaneous
+beliefs.
+What, if anything, guarantees in the long run that two equally coherent belief
+systems will not remain equally coherent?
+Either Bonjour clandestinely resorts to the foundationalist idea that cognitively
+spontaneous beliefs are epistemically privileged or he simply assumes the falsity of
+scepticism. Yet as long as scepticism is in the field of competitors, one cannot assume,
+as Bonjour does, that mutually incompatible yet equally coherent belief systems will
+eventually differ with respect to their degrees of internal coherence. We will return to
+this point.
+A general problem with coherentism is the so-called problem of truth. The
+objection states that coherence may be a necessary but not a sufficient condition
+for justification because, by itself, it does not allow one to distinguish truth from
+deluded but coherent theories or belief systems. Fairy tales, dreams, and hallucinations may sometimes be coherent. A completely internal and subjective notion of
+justification, such as coherence, cannot bridge the gap between true belief, which
+might be no more than a lucky guess, and knowledge, which must be grounded in
+some connection between internal subjective conditions and empirical data. Coherentism must somehow show that coherently justified beliefs are more likely to be
+true than beliefs that are not justified in this way. (We have already touched upon the
+problem of truth in connection with 50S a's text.)
+One attempt to connect up coherence with truth is the adoption of a coherence
+theory of truth, that is, the view that a belief is true if and only if it coheres with a set
+of beliefs. If truth is defined in terms of coherence, it is a definitional truth that
+coherence is truth-conducive. The obvious problem with the coherence theory of
+truth is, however, that it is not clear why it shouldn't be possible for a belief to enjoy
+coherentist justification and nevertheless be false. In paragraphs ~ and [h}-3>
+Bonjour rejects the coherence theory of truth and instead adopts the correspondence
+theory of truth, which states that a belief that p is true if and only if it corresponds
+with the fact that p. The correspondence theory captures our commonsense intuition
+that truth depends on something in the world to make it true.
+Bonjour mentions in passing that the correspondence theory of truth poses
+unresolved problems.
+
+

@@ -1,0 +1,16 @@
+statistical hypotheses. Philosophical Transactions of the Royal Society of London A:
+Mathematical, Physical and Engineering Sciences 231 (694-706), 289–337.
+Neyman, J. and E. S. Pearson (1933b). The testing of statistical hypotheses in relation
+to probabilities a priori. Mathematical Proceedings of the Cambridge Philosophical
+Society 29 (4), 492–510.
+Pérez, M.-E. and L. R. Pericchi (2014). Changing statistical significance with the
+amount of information: The adaptive α significance level. Statistics & probability
+letters 85, 20–24.
+Spanos, A. (2013). Who should be afraid of the Jeffreys-Lindley paradox? Philosophy of
+Science 80 (1), 73–93.
+Sprenger, J. (2013). Testing a precise null hypothesis: The case of Lindley’s paradox.
+Philosophy of Science 80 (5), 733–744.
+
+22
+
+

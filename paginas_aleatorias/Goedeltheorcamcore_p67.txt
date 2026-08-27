@@ -1,0 +1,42 @@
+Gödel’s Incompleteness Theorems
+
+61
+
+cardinals. This implies many regularity properties for projective sets of reals
+(see, e.g., [100]).
+Whitehead’s Conjecture. In 1974 Shelah [116] surprised algebraists by proving that a problem about uncountable abelian groups attributed to Whitehead
+(namely whether every Z-module satisfying Ext(A, Z) = 0 is free) was undecidable in ZFC. He later showed – in one of his first ventures in using forcing – that
+the problem cannot be decided even assuming GCH. This and much subsequent
+work by him in this area has had a large impact.
+
+8 Further Philosophical Consequences of
+the Incompleteness Theorems
+We have treated the philosophical consequences of the Incompleteness Theorems throughout this book, as they arise. Here we take up some further
+issues.
+The consequences of the Incompleteness Theorems for the Hilbert Program
+center mainly around the question whether the Second Incompleteness Theorem undermines the plank of that program having to do with the demand for
+an internal finitary consistency proof as we saw.156 The consensus seems to
+be in favor, but there are a number of important objections having to do with
+the intensional adequacy of the provability predicate of the theory in question (as we also noted). As for the demand for completeness, in the sense that
+every mathematical proposition formulated in an appropriate system is provable or refutable, this desideratum of the Hilbert Program would seem to be
+straightforwardly impossible to satisfy.
+It is all the more striking, then, that Gödel, after some wavering throughout
+the 1930s and 1940s on the question whether there were absolutely undecidable
+propositions,157 would adopt this position: “As to problems with the answer
+Yes or No, the conviction that they are always decidable remains untouched by
+these results [i.e., the Incompleteness Theorems].”
+
+8.1 Absolute Undecidability
+The above remark was made in the 1930s while Gödel still entertained the proposition that there are absolutely undecidable statements, using the Continuum
+Hypothesis (CH) as an example (see below). This is in contrast to statements
+156
+
+This depends on how one interprets the Hilbert Program, as of course the First Incompleteness
+Theorem also can be interpreted as undermining that Program. See Zach’s writings on the
+Hilbert Program, among which is [141]. See also Raatikainen’s [110].
+157 See Gödel’s Brown Lecture 193? in [45]. Some papers on absolute undecidability include
+[131], Koellner’s [78], and Davis’s [13].
+Downloaded from https://www.cambridge.org/core, IP address: 201.141.17.208, on subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/9781108981972
+
+

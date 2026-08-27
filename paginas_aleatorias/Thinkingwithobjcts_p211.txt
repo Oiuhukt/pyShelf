@@ -1,0 +1,27 @@
+196
+
+Thinking with Objects
+
+Figure 7.3. Borelli’s pendulum (Theoricae Mediceorum planetarum). Borelli claimed that the speed
+of a body moving along the arcs BC or BE is the same, although the angular distance covered in the
+same time is greater over BE than BC. He tried to prove this statement by arguing that the speed of
+a bob would be the same whether AB is free or hindered by a nail in D. The idea of using a nail in
+D to shorten the pendulum is clearly borrowed from the third day of the Discorsi (ﬁg. 3.16). Borelli
+claimed that the bob would reach point G. Surprisingly, he did not state that C and G should be at
+the same height, but rather claimed on the basis of experience that the angles GD̂B and BÂC are
+inversely as the square roots of the lengths of the pendulums, 兹AB:兹DB. From here Borelli argued that the speeds of the pendulum are equal and also that without external inﬂuences, the speed
+of an orbiting body would be constant and the body would traverse equal distances in equal times at
+diﬀerent distances from the center. The analogy between the vertical pendulum and an orbiting
+body is problematic, however, because an orbiting body at a constant distance from the center has a
+constant speed, whereas the speed of the pendulum varies at each point.
+
+In the case of orbiting bodies, however, we see that their speeds are not constant
+but rather increase closer to the central body, whether the sun or a planet. Thus
+Borelli argued that the light of the rotating sun pushes the planets with a force inversely as the distance, much as Jupiter does with its satellites. Here Borelli
+seemed unconcerned that Jupiter is not a luminous body like the sun. At this point
+he had recourse to the impact laws and implicitly criticized Descartes for refusing
+to accept that a large body cannot be set in motion by a smaller one. The action of
+the central body is assimilated to a lever, increasing further the barrage of mechanical analogies. Borelli argued that the rotation of the central body, either the
+sun or Jupiter, moves orbiting bodies with an equal force, opposed by the body’s resistance. Since the resistance increases with the distance from the center, the cir-
+
+

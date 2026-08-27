@@ -1,0 +1,49 @@
+Explanatory Generalizations, Part I: A Counterfactual Account
+
+19
+
+way depends upon its petrologic classification. This notion of dependence is
+captured by our notion of a testing intervention: it is only if a generalization
+is invariant under testing interventions that it conveys information about
+how one variable depends on another. By subjecting an igneous rock to
+tremendous heat and pressure, it can be transformed into a metamorphic
+rock. This is an intervention, but not a testing intervention for the generalization in question: metamorphic rocks are also massive. Nor are there any
+other interventions that qualify as testing interventions under which this
+generalization is invariantÐhence our sense that it tells us nothing about
+what the massiveness of rocks depends on. Put another way, the generalization cannot be used to answer what-if-things-had-been-different questions
+about hypothetical situations in which the rock would not have been massive.
+Indeed, if anything, (6) suggests false answers to questions about what would
+happen if a particular rock were transformed from igneous to metamorphic.
+This failure is closely connected to the familiar problem of explanatory
+irrelevance. The classic example comes from Salmon (1971):
+(7)
+
+All men who regularly consume birth control pills fail to become
+pregnant.
+John Jones regularly consumed birth control pills.
+Therefore, John Jones failed to become pregnant.
+
+The generalization in (7), while arguably a law, is not invariant under testing
+interventions. In particular, intervening to prevent John Jones from taking
+birth control pills would not affect his chances of conception. Thus, while
+(7) satisfies the requirements for successful D-N explanation, it does not
+identify conditions such that changes in those conditions resulting from
+interventions would lead to changes in the explanandum. According to
+our account, this is why it fails to be explanatory.13
+Our account agrees with Hempel's that to be explanatory with respect
+to an object o, a generalization relating X and Y must not merely say that
+the actual values of X and Y possessed by object o stand in this relation.
+And like Hempel, we agree that the additional content of explanatory
+generalizations is (at least partially) counterfactual in nature. However,
+our account disagrees with Hempel's (and with other standard treatments of
+the role of laws in explanation) about what this additional content consists
+in. According to the standard view, to count as a law, and hence as
+explanatory, a generalization must describe a relationship that holds of
+the actual values of X and Y possessed by objects other than o. Moreover,
+the relationship must also hold for certain hypothetical values possess by
+objects other than o. In particular, if a generalization like `All A's are B's' is
+to be explanatory with respect to o, it must `support' counterfactuals of the
+following form: if some object o* that is different from o and does not
+possess property A were to be an A, then it would be a B. (In terms of our
+
+

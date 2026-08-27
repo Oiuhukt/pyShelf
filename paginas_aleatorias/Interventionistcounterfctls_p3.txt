@@ -1,0 +1,54 @@
+Interventionist counterfactuals
+
+141
+
+The similarity semantics interprets the points as possible worlds; the causal
+modeling semantics interprets them as models.
+A selection function maps each point a and antecedent / to a set of points f ð/; aÞ:
+/ h! w is true at a if w is true at every point in f(/, a) and false otherwise.1
+The similarity semantics and the causal modeling semantics place different
+interpretations on the selection function. I will explain both approaches, beginning
+with the similarity semantics in Sect. 1.2, and moving on to the causal modeling
+semantics in Sect. 1.3.
+1.2 Similarity semantics
+Lewis (1973a, b) interprets points as possible worlds, and interprets the selection
+function in terms of comparative similarity or ‘‘closeness’’ among worlds. f(/, w),
+Lewis suggests, is the set of ‘‘closest / worlds to w’’—i.e., the set of worlds where
+/ is true which are at least as similar to w as any other world where / is true.2
+Lewis (1973b, pp. 58–60) argues that once we place the appropriate structural
+constraints on comparative similarity, the selection function must satisfy the
+following four constraints, and that furthermore, any selection function satisfying
+these constraints can be represented by an appropriately-structured similarity
+relation.
+(S1) If / is true at w, then f(/, w) = {w}.
+(S2) / is true at every point in f(/, w).
+(S3) If / is possible at w, then f ð/; wÞ 6¼ ;.
+(S4) If w entails / and w is true at some points in f(/, w), then f ðw; wÞ ¼
+fv 2 f ð/; wÞ : w is true at vg.
+(S1) amounts to the requirement that every world be uniquely closest to itself,
+(S2) to the requirement that A be true at all the closest A worlds to w, (S3) to the
+requirement that if A is possible, some A worlds are closest to w, and (S4) to the
+requirement that the relation Cw—where ‘‘w0 Cw w00 ’’ means that w0 is closer to w
+than w00 is to w—has the structure of a total preordering.
+While the structure of the similarity relation is uncontroversial, its content is a
+matter of considerable dispute. As Fine (1975) points out, it can’t look much like
+our ordinary notion of similarity. The sentence ‘‘if Nixon pressed the red button, a
+nuclear war would have started’’ is true. But a world in which Nixon presses the red
+
+1
+
+Although this is the standard account of the relationship between selection and truth at a point, it is not
+the the only possible account. We might say instead that / h! w is true at a if w is true at every point in
+f(/, a), false at a if w is false at every point in f(/, a), and indeterminate otherwise. We would then need a
+three-valued logic for assigning truth values to compounds of counterfactuals. Or we might say that
+/ h! w is true at a if / is true at most points in f(/ a), and false otherwise. For simplicity’s sake, I will
+ignore these alternatives and assume the standard account.
+2
+
+To ensure that we can use the concept of closeness to define a selection function, we need the Limit
+Assumption, which forbids infinite sequences of closer and closer / worlds to w with none closest. I will
+assume that the Limit Assumption holds; see Stalnaker (1981a, pp. 96–98) for a defense of it.
+
+123
+
+

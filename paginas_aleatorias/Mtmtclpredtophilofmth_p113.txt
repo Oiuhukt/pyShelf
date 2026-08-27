@@ -1,0 +1,46 @@
+106
+
+5 The Hierarchy of Sets
+
+Axiom 5.5 and Exercise 5.8 guarantee that every rank is a transitive set of ranks.
+Now we want to prove the converse.
+Exercise 5.9 Show that if x is a set of ranks, then x ∨ ρ(x).
+Theorem 5.9 Every transitive set of ranks is a rank.
+Proof Suppose x is a transitive set of ranks. We want to show that x has the same
+members as ρ(x). Suppose α ⇒ ρ(x). Then, by Theorem 5.8, ρ(α) ⇒ ρ(x). That is,
+x outranks α. So, by Theorem 5.6, α cannot outrank every member of x. Suppose β
+is a member of x not outranked by α. Then, by Exercise 5.2, β ⇒
+/ α. So, by Theorem
+5.7, either α ⇒ β or α = β. In the each case, α ⇒ x. (In the first case, because x is
+transitive.) We conclude that ρ(x) ∨ x. Now apply Exercise 5.9 and Axiom 5.4. 
+
+5.2 Two Models
+At the beginning of this chapter, I noted that we will explore interpretability relations
+between theories. We will consider interpretations or translations that carry us from
+one theory to another. We can treat this as an entirely syntactic exercise, assigning
+sentences to sentences without ever indicating what those sentences mean. I hope
+it will not be too confusing if we follow established usage and (as in Sect. 2.3)
+talk about “interpretations” of another sort, interpretations that offer readings of
+individual theories rather than mappings between theories. In such a reading of our
+set theory, we would (1) specify our universe of discourse (we would indicate
+what we are discussing when we say “every set”, “any sets,” “some set”, or “some
+sets”); (2) indicate which objects in our universe are members of which objects; and
+(3) indicate which objects in our universe are the ranks of which objects. Recall,
+from Chap. 2, that a model of our set theory would be an interpretation that makes
+all our axioms true. At the moment, our only axioms are 5.1–5.5 (though we will
+add more in a bit).
+Here is a very simple interpretation. Let our universe of discourse consist of the
+lamp on my desk. When we say that all or some objects in the universe have a certain
+property, we will just mean that the lamp has that property. The lamp will count as
+a set, it will have no members, and its rank will be itself.
+If we eliminate defined vocabulary and translate things into a kind of logicianese,
+Axiom 5.1 reads as follows.
+Every set x and every set y is such that [ρ(x) ⇒ ρ(y) if and only if some member z of y is
+such that [every member w of x is such that [ρ(w) ⇒ ρ(z)]]].
+
+If that looks like gibberish, a more formal version may be helpful.
+∃x∃y((x is a set ≤ y is a set) ∧ (ρ(x) ⇒ ρ(y) ∀ ∞z ⇒ y∃w ⇒ x ρ(w) ⇒ ρ(z))).
+According to the above interpretation, this says that my lamp is a member of my
+lamp if and only if some member of my lamp has a certain property that we need not
+
+

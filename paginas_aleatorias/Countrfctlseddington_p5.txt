@@ -1,0 +1,40 @@
+COUNTERFACTUALS
+
+5
+
+evident for subjunctives as it is for indicatives.
+On the suppositional account, our backward-looking and forward-looking indicative conditional judgements express our degree
+of confidence in the consequent on the supposition of the antecedent. With the backward-looking ones, we all have our own idiosyncratic combinations of knowledge and ignorance, and, as Gibbard
+(1981) made famous, people can faultlessly come to opposite opinions: there is nothing objective to aim at. For instance, we both start
+off knowing that X or Y or Z did it. I discover it wasn’t Y. You discover it wasn’t Z. I accept ‘If not X, Z’ and reject ‘If not X, Y’. You
+do just the opposite. All the relevant facts are available, but neither
+of us has them all, and we would know if we pooled our information that X did it. The present objective chance that X didn’t do it is
+zero, so there is no such thing as the present objective chance of Y
+supposing that not X (just as there is no such thing as an objective
+chance that you will pick a spotted ball if you pick a red ball, when
+there are no red balls in the bag). For many forward-looking indicatives, by contrast, it is not yet determined whether the antecedent is
+true (or at least we treat it as not yet determined, not yet knowable,
+whether the antecedent is true), and there may be such a thing as the
+objective conditional chance of C given A for our judgements to aim
+at. And after the event, should it turn out that not A, we can be
+right or wrong when we say that, very likely, C would have happened if A had—very likely, you would have picked a spotted ball if
+you had picked a red ball (assuming now that there were some red
+balls in the bag). Thus, I hope, we get a fundamentally unified account of conditional judgements, which also explains interesting
+differences between the different kinds. Of course we may be certain
+that if A, C, but typically we are not, and conditional probability—
+the probability of C on the sup-position that A—is, I claim, the key
+to how close to certain we are of a conditional of any kind. For subjunctive conditionals, this conditional probability does not (normally) represent your current degree of belief in C given A, but (most
+typically) your view about how likely it was that C would have happened, given that A had.2
+Pairs like the following have been supposed to force a separate
+2
+
+The provisos are there because (a) sometimes, about the future, it might be a matter of
+indifference whether you say ‘If it rains…’ or ‘If it were to rain…’; and (b) not every context
+shift away from your actual epistemic state is a temporal one: ‘Suppose Euclidean geometry
+had been true of the actual world …’
+
+©2008 The Aristotelian Society
+Proceedings of the Aristotelian Society, Vol. cviii, Part 1
+doi: 10.1111/j.1467-9264.2008.00233.x
+
+

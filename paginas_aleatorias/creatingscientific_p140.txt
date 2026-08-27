@@ -1,0 +1,38 @@
+Mental Modeling
+
+125
+
+and abstraction. Barsalou, too, stresses that the human conceptual system
+should not be understood by means of an analogy to a recording system.
+Perceptual symbols are schematic extractions from perceptual processes
+that allow for infinite possibilities of imaginative recombination. Further,
+one should not expect simulations to be as detailed or vivid as the original
+perceptions. In conducting a perceptual simulation, one need be consciously aware of neither mental imagery, which requires extra cognitive
+effort to produce, nor the simulation process.
+There are many open questions about modal representation for which
+only partial solutions have been suggested, such as: How do abstract concepts become represented? How does “translation” take place across modalities? How does integration take place? And, how are perceptually dissimilar
+instances of a concept recognized and categorized? But there are many
+open questions about amodal representation as well, and, significantly, as
+Barsalou points out, there is little direct empirical evidence in favor of a
+fully amodal view. In sum, Barsalou and other proponents of embodied
+cognition do make a compelling case that at the very least a more tempered
+conclusion is warranted in the present circumstances, and this is sufficient
+for our needs: “The conceptual system appears neither fully modular nor
+fully amodal. To the contrary, it is non-modular in sharing many important mechanisms with perception and action. Additionally it traffics heavily
+in the modal representations that arise in sensory-motor systems” (Barsalou 2003, 27). Thus, how modal representations could contribute to various
+cognitive processes, such as mental modeling, merits investigation.
+The point I want to make from this research is that a working memory
+model with modal iconic aspects (which I will now call a “perceptual
+mental model”) better fits the simulation needs for reasoning about physical systems, as well as the need for interfacing between external and internal representations. Concept representation is likely to have both modal
+and amodal aspects. The modal aspects serve the requirements of simulative mental modeling we have been discussing. Recall that on Craik’s
+speculation, mental simulation occurs by the “excitation and volley of
+impulses which parallel the stimuli which occasioned them” (Craik 1943,
+60), with simulative reasoning processes resulting in conclusions similar
+to those that “might have been reached by causing the actual physical
+processes to occur” (ibid., 51). On the perceptual symbol theory, too, the
+human conceptual system is predicated on a form of reenactment, where
+working-memory-specific concept representations are constructed for
+the purpose of supporting situated action. One important implication
+of the modal view of category representation is that, rather than being
+
+

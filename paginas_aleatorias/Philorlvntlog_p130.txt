@@ -1,0 +1,53 @@
+Modality, entailment and quantification
+
+119
+
+The conclusion is one that a relevant logician should find a little unpleasant.
+But things get worse. The following argument is also valid in our intended
+model:
+1. cicero = cieeror,)
+hyp
+tully = cicerol,l
+1, truth condition for =
+tully = tullyl,l
+2, truth condition for =
+4. cicero = cicero --* tully = tullye 1 - 3, -* I
+2.
+3.
+
+This conclusion seems quite irrelevant.
+Some philosophers, however, might tell us to accept this conclusion. A direct
+reference theorist, for example, might tell us that `cicero = cicero -+ tully =
+tully' is quite acceptable. On a standard version of the theory of direct reference,
+sentences express structured propositions. For example, the sentence `Ramsey
+is a dog' expresses the structured proposition (Dog, ramsey), where `Dog' refers
+to the property of being a dog and `ramsey' refers to my dog. On the theory of
+direct reference, a proper name contributes only its referent to the structured
+proposition expressed by the sentence. This is to be contrasted with a definite
+description which contributes the properties used to describe the object. Since
+
+the referent of 'Cicero' and 'Tully' are the same, the structured proposition
+expressed `cicero = cicero' is (=, cicero, cicero) and the proposition expressed
+by 'tully = tully' is (=, cicero, cicero). Thus, a direct reference theorist could
+well say that the implication at step 4 of the above proof is quite relevant, that
+is, it is merely a self-implication.
+On the other hand, we can modify our semantics slightly in a way that is in
+accord with the theory of direct reference that avoids commitment to these sorts
+of seemingly irrelevant implications. On Kaplan's theory of direct reference,
+in addition to its content, an expression has a character. To understand what
+a character is, we first have to understand the distinction between contexts of
+utterance and contexts of evaluation. A context of utterance is merely a context
+(in our theory, a situation) in which an expression is said, written, signed, or
+whatever. The context of utterance determines the referents of the expressions
+used in an utterance. For example, I yelled `Ramsey stop barking!' just before
+writing this sentence. My use of `Ramsey' refers to my dog. Suppose at the
+very same time the philosopher Hugh Mellor in Cambridge said `Ramsey was
+a great philosopher'. He is not referring to my dog, but to a human being, Frank
+Ramsey. The context of evaluation, on the other hand, is a situation in which
+we determine whether a statement is true or false. Suppose for example, that I
+say `Ramsey could have been an obedience champion' we first use the context
+of utterance to determine that the referent of `Ramsey' is my dog. In so doing
+we determine the structured proposition (Obedience Champion, ramsey). We
+then evaluate this proposition at all situations accessible to the present one to
+
+

@@ -1,0 +1,42 @@
+10â•… probability and relative frequencies
+But it also is necessary to show that there are any collectives at all, that is,
+that there really are such random sequences of attributes. Wald succeeded
+in showing this in 1937 by proving that if we allow only countably many
+(see Appendix A.0.3) place selection functions there are continuum many
+collectives with the proper relative frequency. The natural question is then
+why should we restrict ourselves to only countably many place selection
+functions. Wald suggested that we think of gambling systems as theories
+in a formal logical system (that is, a gambling system would be a set of
+sentences in a formal language). Since there are only countably many such
+theories (sets of sentences), this would achieve the desired result of restricting
+the class of place selection functions. It also seems a reasonable suggestion:
+surely a gambling system would have to be somehow formalized. Yet,
+Alonzo Church noted that this suggestion was in fact problematic. Luckily,
+he also gave a solution to the difficulty.
+1.2.3.2â•‡Church’s solutionâ•‡In a footnote near the end of Church’s 1940
+paper ‘The concept of a random sequence’ he pointed out two problems
+with defining a theory of randomness in a given formal system L; first,
+the definition of randomness will be relative to that language, and this,
+to Church, seemed arbitrary; secondly, the notion of defining a gambling
+system relative to a logic leads to well-known problems:
+It [Wald’s interpretation of gambling systems] is unavoidably relative to the choice
+of the particular system L and thus has an element of arbitrariness which is artificial.
+If used within the system L, it requires the presence in L of the semantical relation
+of denotation (known to be problematical on account of the Richard paradox). If it
+is used outside of L, it becomes necessary to say more exactly what is meant by
+‘definable in L,’ and the questions of consistency and completeness of L are likely to
+be raised in a peculiarly uncomfortable way.
+(Church 1940: 135)
+
+Church’s insight was that a gambling system could be seen as an algorithm.
+An algorithm is a mechanical step-by-step method for producing some outÂ�
+put given some input. Familiar examples are long division and multiplication,
+and flowcharts are familiar graphical representations of algorithms. We can
+think of recipes, especially those from Cook’s Illustrated, as algorithms. Similarly,
+a gambling system can be thought of as a recipe for success in the casino. More
+prosaically, a betting system can be seen as a computer programme that tells
+us whether to bet on a given play on the basis of what happened in previous
+plays. As Church 1940 puts it, a betting system is an algorithm that computes
+the values of a place selection function, telling us when and how to bet.
+
+

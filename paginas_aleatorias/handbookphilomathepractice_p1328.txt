@@ -1,0 +1,57 @@
+1334
+
+T. P. Davis
+
+where 0 < a < 1, b is a positive odd integer, and ab > 1 þ 3π
+2 (Weierstrass 1872).
+Prior to the introduction of this function, it was believed, almost axiomatically, that if
+a function was continuous, it could only be nondifferentiable at a ﬁnite set of points,
+perhaps because there was a “proof” in one of André-Marie Ampère’s papers –
+although this point is debated by some. These everywhere continuous but nowhere
+differentiable functions were met with disdain from the mathematical community,
+with Poincaré calling these functions “monsters” and Charles Hermite “a lamentable
+scourge.” In fact, some mathematical proofs were upended as a result of the
+existence of such functions, and this leads to the careful treatment of all concepts
+and the birth of modern analysis (Gray 2015).
+However, there are processes in both physics and ﬁnance that could be described
+by precisely such a function. In 1827, botanist Robert Brown observed both organic
+and inorganic particles under a microscope undergoing “jittery” motion, now named
+Brownian motion in his honor. The explanation for this behavior was not explained
+until 1905 when Albert Einstein wrote a paper attributing the phenomenon to the
+atomic theory of matter (Einstein et al. 1905) which was surprisingly still not
+generally accepted at the time. Bachelier realized that stock prices can be described
+by such processes.
+A Brownian motion is a continuous function of time W(t) (denoted W since it is
+known as a Weiner process (Wiener 1923)) starting at 0. The process up to time T is
+built up by realizations of normal random draws
+W ðT Þ ¼
+
+N
+
+½W ðtiþ1 Þ  W ðti Þ
+
+ð6Þ
+
+i¼0
+
+where the increments are independent and identically distributed according to the
+normal distribution with mean 0 and variance Δt
+W ðt þ ΔtÞ  W ðtÞ  N ð0, ΔtÞ:
+
+ð7Þ
+
+These processes are martingales which means their expectation in the future is
+equal to the value today. This was embedded in Bachelier’s thesis as the “Principle of
+Mathematical Expectation”:
+The mathematical expectation of a speculator is nil. The generality of this principle needs to
+be appreciated: it signiﬁes that the market, at a given instant, considers as having nil
+expectation not only the current trading operations, but also those that would be based on
+a subsequent movement of prices. The mathematical expectation of an operation that may be
+either positive or negative, if it produces a price movement, is a priori nil.
+
+Mathematically this is shown by taking expectations
+E½W ðtÞjF s  ¼ E½W ðtÞ  W ðsÞjF s  þ E½W ðsÞjF s 
+
+ð8Þ
+
+

@@ -1,0 +1,46 @@
+44
+
+Epistemology
+
+5.5 Conclusion
+This section has developed a novel account of defeat for virtue epistemology.
+I have developed an account of defeaters as evidence that attempting, or at least
+attempting in a certain way, is unsuccessful. In addition, I argued for an account
+of defeat that is normative in that a defeater defeats some justiﬁcation one has
+when it is epistemically proper for one to have the defeater. I showed that this
+account can accommodate plausible cases in which defeat undermines competence of attempts both in epistemology and beyond.
+
+6 Virtue Epistemology and External Defeat
+
+https://doi.org/10.1017/9781009161022 Published online by Cambridge University Press
+
+6.1 Introduction
+The previous section developed a virtue epistemological account of defeat. One
+key idea is that in cases of defeat, the ranges of the abilities required for justiﬁed
+belief shift. A second key idea is that defeaters are evidence that attempting, or
+at least attempting in a certain way, isn’t successful. A third key idea is that
+defeaters undermine justiﬁcation (by shifting ranges of abilities) if and only if it
+is epistemically proper for one to have them.
+This section aims to show how the virtue epistemological view can accommodate external defeat. The ﬁrst and the second key ideas of the view work in
+exactly the same way as for internal defeat. What will require special attention is
+the third key idea. In cases of internal defeat, what happens is that we know or
+justiﬁably believe the relevant defeaters. More generally, in cases of internal
+defeat, the reason why it is epistemically proper for us to have the defeaters we
+have is that we stand in some (epistemically proper) psychological relation to
+them. Of course, since cases of external defeat are cases in which we do not
+stand in any psychological relation to the relevant defeaters, this story won’t
+work for external defeat. Accordingly, one way of framing the central task for
+this section is that it aims to develop an account of the conditions under which it
+is epistemically proper for us to have defeaters when we do not stand in some
+psychological relation to them. As we will see, this is no easy task, especially for
+standard versions of virtue epistemology.
+With these points in play, here is the order of business for this section. I ﬁrst
+argue that cases of external defeat mean trouble for standard versions of virtue
+epistemology (Section 5.2). To make room for external defeat, the ﬁrst step is to
+develop a distinctively functionalist version of virtue epistemology (Section 5.3).
+
+and even successful because of ability. What’s more, once you come to know, subsequent shots
+may well be competent and apt. Crucially, however, this is because now you have a defeater for
+the defeater provided by the testimony.
+
+

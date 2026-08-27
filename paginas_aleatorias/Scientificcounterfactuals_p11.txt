@@ -1,0 +1,47 @@
+Synthese (2022) 200:473
+
+Page 11 of 27
+
+473
+
+possible world which stands in some similarity relation to the actual world.15 Rather,
+what makes a counterfactual true is a matter of whether a counterfactual’s consequent
+(C) follows from its antecedent (A). This basic mechanism, which underlies the mental models account of conditionals (Sect. 3.2), can equally accommodate all types of
+counterfactuals: regular counterfactuals, counternomics, and countermetaphysicals.
+The task at hand is to make precise what ‘follow’ means here; I will do so in Sect.
+4.2.1.
+To sum up, a good account of counterfactuals and counterfactual cognition in
+science ought to pay attention to the connection with modelling practice, which emphasises the key role of the imagination—understood propositionally—in counterfactual
+evaluation. Furthermore, it ought to accommodate the empirical results which show
+that counterfactuals are evaluated on the basis of whether their consequents follow from
+their antecedents, an evaluation which is silent to the modal status of the states of affairs
+described by their antecedents. Luckily, there is one such account available, which I call
+‘the make-believe view of scientific counterfactuals.’ This is a fiction-based account
+of counterfactuals, which closes the gap between traditional philosophical theories
+of counterfactuals and scientific practice, and reclaims counterfactuals as a rightful
+object of study for philosophers of science.
+
+4 Fictionalism about scientific counterfactuals
+4.1 Contextualising fiction
+On the one hand, counterfactuals feature prominently in scientific models. On the
+other, counterfactual reasoning is an imaginative activity. When put together, these
+two observations suggest a view of models as “works of fiction” (Cartwright, 1983,
+p. 153). The idea that the notion of fiction might be relevant to the practice of modelbuilding and scientific representation with models is not new. It was explored in a
+series of essays edited by Suárez (2009), as well as by those who advocate any version
+of what is nowadays known as the fiction view of models. In the following extend
+this view of scientific models to counterfactuals in science, and thereby propose a
+fiction view of counterfactual reasoning in science, the make-believe view of scientific
+counterfactuals. While I am not the first to propose a fictionalist view of counterfactuals
+(see e.g. Kim & Maslen, 2006; Kimpton-Nye, 2020; McLoone 2019; and Wilson,
+2021), my account offers new insights with respect to the motivation, scope, and
+implications of fictionalism about counterfactuals in science. First, I introduce both
+the notion of fiction it uses (Sect. 4.1.1), as well as the fiction view of models it draws
+on (Sect. 4.1.2). Then, I develop the make-believe view of scientific counterfactuals
+and discuss in which respects it improves on the aforementioned literature (Sect. 4.2).
+
+15 Recall that ‘actual’ is indexical; which world is considered as actual is designated by the context in
+which a counterfactual is uttered.
+
+123
+
+

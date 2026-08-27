@@ -1,0 +1,41 @@
+the past. What changes might the movement of those ancient atoms have wrought, over such a
+vast period of time? Not changes enough to dispose of me and my little finger, certainly, for I
+am here, now, by stipulation, in the history in question. But there is no such protection for the
+rest of my familiar universe, anywhere within the future light cone of those ancient
+microscopic changes.
+
+3.3 A General Objection to the Third Arrow Strategy?
+We conclude that the AKL approach does not yield a satisfactory explanation of the
+asymmetry of deliberation. Moreover, the argument just outlined suggests a powerful
+objection to any attempt to ground the time-asymmetry of causation on the kind of
+macroscopic statistical asymmetries we find in our world. As already noted, it seems highly
+plausible that these asymmetries have their origin in PH. But we have just argued that since
+FH would not make it absurd to deliberate for future ends, PH cannot explain why we do not
+deliberate for past ends. So any account of the causal arrow that seeks to reduce the timeasymmetry of causation to the kind of asymmetries that derive from PH seems destined to be
+similarly powerless to explain the time-asymmetry of deliberation—destined, in other words,
+to share the failings of Hume’s proposal in this respect.
+This brings us back to a question we deferred in sect. 2. Insect. 1, generalizing from this
+objection to Hume’s view, we formulated the Practical Relevance Constraint: an account of
+the time-asymmetry of causation should be expected to explain the time-asymmetry of
+deliberation. In sect. 2, we observed that it is not obvious why we should care about
+counterfactuals in deliberation in the first place, and hence how Lewis’s account might deal
+with PRC (even if it succeeds in accounting for the time-asymmetry of counterfactual
+dependence). We now return to that issue.
+
+4. WHY CARE ABOUT COUNTERFACTUALS?
+Can Lewis’s account meet PRC? Alternatively, can it maintain that PRC is an optional
+matter for a satisfactory account of causation? Interestingly, these issues have been on the
+table for many years, in a different guise. There is a long-standing debate between two rival
+accounts of rational decision, causal decision theory (CDT) and evidential decision theory
+(EDT); and a much-discussed class of cases, known generically as Newcomb problems, in
+which the two theories seem to give different recommendations.
+The original Newcomb problem (see Nozick 1969) goes like this: we are presented with two
+boxes, one transparent and one opaque. The transparent box contains $1,000, and we are told
+that the opaque box may contain either $1,000,000 or nothing. We are offered the choice of
+taking only the opaque box, or taking both boxes. It seems obvious that we should take both
+boxes, for that way we are $1,000 better off, whatever the opaque box contains. However, we
+are also informed that the choice of what to put in the opaque box is made by an infallible (or
+almost infallible) predictor, who places $1,000,000 in the opaque box if and only if he predicts
+that we will take only that box. This information seems to imply that if we take just the opaque
+
+

@@ -1,0 +1,49 @@
+16
+
+Philosophy of Physics
+
+to the laws of fundamental physics either directly (if causation relates global
+states) or indirectly (if causation relates parts of global states, given background
+conditions). While these moves require some of our assumptions about causation to be given up, these costs may be affordable if they allow us to ﬁnd a place
+for causation in a physical view of the world – and reject Russell’s eliminativist
+conclusion. However, Russell has a third argument – an argument that identiﬁes
+a crucial feature of causation that is not shared by the laws of fundamental
+physics: temporal asymmetry. While Russell doesn’t give much weight to this
+argument, it is perhaps Russell’s greatest challenge.13
+
+https://doi.org/10.1017/9781108914765 Published online by Cambridge University Press
+
+2.3 Russell’s Third Argument
+Russell’s third argument is that the temporal asymmetry of causation is in tension
+with the character of the laws of fundamental physics. In the laws of fundamental
+physics, ‘the future “determines” the past in exactly the same sense in which the
+past “determines” the future’ (Russell, 1912−13: 15). Because Russell has in
+mind deterministic laws, let’s begin our discussion there. Examples of deterministic laws include the laws of Newtonian mechanics, general relativity, and the
+evolution of the quantum mechanical wave function described by the Schrödinger
+equation.14 If the laws of fundamental physics are all deterministic, the state of
+a system at one time is enough to logically determine its state at any other time,
+given the laws. In this sense, laws are not temporally asymmetric in the way they
+determine events. If we take this logical determinacy as a guide to the way that the
+laws necessitate, any necessity in the laws operates equally well in both temporal
+directions. Therefore, it seems that causal relations can’t inherit their temporal
+asymmetry from an asymmetry in how the laws determine or necessitate events.
+If one were looking to identify causal relations with laws or law-like regularities
+of fundamental physics, there seems to be a problem – causal relations have
+features that can’t be recovered from the laws of physics.
+Does Russell’s argument apply if the laws are indeterministic? Arguably, it
+does if the laws take the same ‘indeterministic character’ in both temporal
+directions (Field, 2003: 437), such as by having similar well-deﬁned stochastic
+probabilities in both temporal directions. Overall, if the laws are ‘determinism
+symmetric’ and determine events in similar ways towards the past and the
+future, it seems that causal relations cannot inherit their temporal asymmetry
+from the laws.
+13
+14
+
+Ney (2009) makes a similar point.
+In deterministic versions of quantum mechanics such as Everettianism and Bohmian mechanics,
+the evolution of the wave function is always in accord with the Schrödinger equation. However,
+this is not so for indeterministic versions such as GRW (see Albert (1992), Maudlin (2019) and
+Barrett (2020) for discussion).
+
+

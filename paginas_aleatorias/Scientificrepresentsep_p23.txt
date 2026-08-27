@@ -1,0 +1,74 @@
+Scientific Representation
+
+Roman Frigg and James Nguyen
+
+The next issue is that exemplified properties are rarely exactly imputed
+onto target systems. According to Representation-As the imputed
+properties are either the ones exemplified by the Z -representation, “or
+related ones”. Frigg and Nguyen (2016: 228), building on Frigg (2010a:
+125–135), prefer to be explicit about the relationship between the
+exemplified properties and the ones to be imputed onto the target. They do
+this by introducing a “key”, which explicitly associates the exemplified
+properties with properties to be imputed onto the target. For example, in
+the case of a London Tube map, the key associates particular colours with
+particular tube lines, and in the case of idealisations the key associates deidealised properties with model-properties.
+
+place: interpretations. Secondly, it makes explicit that the properties
+exemplified by the model need not be imputed exactly onto the target, and
+highlights the need to investigate keys specifying the relationship between
+properties in models and the properties that models actually impute onto
+their targets. Finally, it makes explicit how to account for targetless
+models. A scientific model that fails to denote a target system can
+nevertheless be a Z -representation. A model of a bridge that is never built
+is still a bridge-representation, which exemplifies properties related to
+bridges (stability and so on), despite the fact that it is not a representation
+of anything. However, as in the case of Representation-As questions
+remain with respect to the problem of ontology and the applicability of
+mathematics.
+
+Gathering the various pieces together leads to the following account of
+representation (Frigg and Nguyen 2016: 229):
+DEKI: Let M = ⟨X, I⟩ be a model, where X is an object and I an
+interpretation. Let T be the target system. M represents T as Z iff all
+of the following conditions are satisfied:
+i. M denotes T .
+ii. M exemplifies Z -properties P1 , … , Pn .
+iii. M comes with key K associating the set {P1 , … , Pn } with a
+(possibly identical) set of properties {Q1, … , Qm }.
+iv. M imputes at least one of the properties Q1, … , Qm to T .
+
+M is a scientific representation of T iff M represents T as Z as defined
+in (i)–(iv).
+The moniker “DEKI” highlights the account’s key features: denotation,
+exemplification, keying-up and imputation. DEKI answers the problems
+from Section 1 in much the same way as Representation-As did. However,
+it adds to the latter in at least three ways. Firstly, the conditions given
+make it clear what makes scientific models Z -representations in the first
+
+44
+
+Stanford Encyclopedia of Philosophy
+
+Bibliography
+Abell, Catherine, 2009, “Canny Resemblance”, Philosophical Review,
+118(2): 183–223. doi:10.1215/00318108-2008-041
+Ainsworth, Peter, 2009, “Newman’s Objection”, The British Journal for
+the Philosophy of Science, 60(1): 135–71. doi:10.1093/bjps/axn051
+Ankeny, Rachel A. and Sabina Leonelli, 2011, “What’s So Special About
+Model Organisms?” Studies in History and Philosophy of Science,
+42(2): 313–23. doi:10.1016/j.shpsa.2010.11.039
+Aronson, Jerrold L., Rom Harré, and Eileen Cornell Way, 1995, Realism
+Rescued: How Scientific Progress Is Possible, Chicago: Open Court.
+Bailer-Jones, Daniela M., 2003, “When Scientific Models Represent”,
+International Studies in the Philosophy of Science, 17(1): 59–74.
+doi:10.1080/02698590305238
+Bartels, Andreas, 2006, “Defending the Structural Concept of
+Representation”, Theoria, 21(1): 7–19.
+Bogen, James and James Woodward, 1988, “Saving the Phenomena”,
+Philosophical Review, 97(3): 303–52. doi:10.2307/2185445
+
+Spring 2020 Edition
+
+45
+
+

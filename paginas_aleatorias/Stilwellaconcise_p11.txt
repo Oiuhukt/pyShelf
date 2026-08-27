@@ -1,0 +1,23 @@
+PREVIEW
+The source of many issues in the philosophy of mathematics – the nature of
+proof and truth; the meaning and existence of numbers; the role of infinity;
+and the relation between geometry, algebra, and arithmetic – is Euclid’s
+Elements from around 300 BCE. The Elements is best known for its
+axiomatic geometry – Euclidean geometry – which includes proofs of
+signature results such as the Pythagorean theorem and the existence of
+exactly five regular polyhedra. However, the Elements also includes
+fundamental ideas of number theory, such as the existence of infinitely many
+prime numbers, the Euclidean algorithm for greatest common divisor, and (an
+equivalent of) unique prime factorization.
+In Euclid‘s time, as now, there was a conceptual gulf between geometry
+and number theory – between measuring and counting, or between the
+continuous and the discrete. The major reason for this gulf was the existence
+of irrationals, discovered before Euclid’s time by the Pythagoreans and, by
+the time of the Elements, the subject of a sophisticated ‘theory of
+proportions’. This theory, in Book V of the Elements, made a tenuous bridge
+between the continuous and the discrete. The bridge was gradually
+strengthened over the centuries by the work of later mathematicians, but not
+without philosophical conflicts and mathematical surprises.
+These issues are the subject of this section and the next.
+
+

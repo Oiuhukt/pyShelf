@@ -1,0 +1,38 @@
+Function of Modal Discourse
+
+73
+
+Thinking of the semantic rules as analogous to rules of games might
+lead us to further objections, however. For games are typically thought
+to be governed by constitutive rules—​rules that must be in force if that
+very game is to be played at all.27 Analogously, the idea that our terms
+are governed by semantic rules might be thought to commit us to the
+idea that these are constitutive semantic rules—​rules that must be in
+force if that very term is to be used at all.28 This seems to commit us to
+the idea that when we change the semantic rules, we are no longer using
+the same term at all—​and this might be thought to make it impossible
+for speakers to communicate, or to undermine possibilities of genuine
+disagreement. I have addressed the concern about barriers to communication elsewhere (2014), and the work of David Plunkett and Tim
+Sundell (2013) gives a fine basis for replying to worries that speakers
+who used terms with different meanings couldn’t be thought to genuinely disagree. But while I do not think these are genuine problems for
+the constitutive rule view, I also do not mean to commit myself to the
+idea that the semantic rules are “constitutive” in the above sense.
+Even in the case of games, it is controversial whether or not the rules
+should be thought of as constitutive. Mark Lance and John O’Leary-​
+Hawthorne challenge the idea that games have constitutive rules.
+Citing the changes in the rules of the National Basketball Association
+that were introduced in response to the unexpected skills of Wilt
+Chamberlain, they write that if we held that there is a fixed set of rules
+definitive of a game, “then it would seem we must conclude that a different game was being played post-​Wilt from the one played pre-​Wilt”
+(1997, 191). Yet that would be an unreasonable conclusion, they suggest, which would require us to say “that every record book is mistaken
+since they all take statistics before and after Wilt to have been set in the
+same game” and that those who talk about basketball would be subject
+to an ambiguity of which they are unaware (1997, 191). In the case of
+chess, which underwent a phase in which the rules were changed every
+27 Talk of games having “constitutive rules” was popularized by Searle (1995), but the
+way of characterizing constitutive rules here is mine.
+28 I made use of this idea myself in some earlier work on the topic. But I have now
+dropped the term “constitutive” and changed my views on this, for reasons I aim to make
+clear here.
+
+

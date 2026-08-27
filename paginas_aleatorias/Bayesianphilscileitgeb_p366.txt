@@ -1,0 +1,40 @@
+Conclusion: The Theme Revisited
+
+335
+
+constrain an agent’s rational degrees of belief. Moreover, the evaluation of
+conditional degrees of belief proceeds counterfactually (see Variation 12),
+and via the notion of possible interventions, counterfactual considerations
+play an important role in evaluating causal relations. Future work should
+bring forth an integrated theory of causal induction, Bayesian learning and
+conditional reasoning (e.g., building on Oaksford and Chater 2000; Pearl
+2000; Douven 2016; Over 2016). Apart from theoretical pioneer work, we
+see a lot of promise in experiments that investigate such connections or that
+try to measure concepts such as causal strength (see Variation 6). Finally,
+Bayesian models can be used to study human argumentation and the value
+we assign to logically valid arguments (e. g., Eva and Hartmann 2018a; Stern
+and Hartmann 2018).
+Second, Bayesian confirmation is intimately related to causal and explanatory considerations (Variations 1, 6 and 7). On a theoretical level, this calls
+for an extended analysis of the relationship between measures of confirmation, corroboration, causal strength and explanatory power, similar to
+what Schupbach (2018) did for measures of explanatory power and posterior
+probability. This should lead to a sharper demarcation of these concepts and
+to a description of the conditions when the one is conducive to the other. On
+an empirical level, we propose experiments that uncover correlations and
+differences in judgments of explanatory power, causal strength and probability, in order to reveal the determinants of explanatory judgments and to
+provide a more nuanced and descriptively appropriate view of explanatory
+reasoning. Since explanation is a concept which is loaded with causal and
+probabilistic connotations, such experiments strike us as highly valuable.
+Colombo, Postma and Sprenger (2016) and Colombo, Bucher and Sprenger
+(2017b) have already made some steps in this direction, but there is still
+much work to be done (see also the survey in Sloman and Lagnado 2015).
+This research could also be related to the role of simplicity in scientific reasoning: our formal analysis of simplicity in model selection (see Variation 10)
+should at some point be complemented by an empirical investigation of how
+simplicity considerations affect other aspects of scientific reasoning, similar
+to what Lombrozo (2007) did for simplicity in explanatory judgments.
+Third, the material in this book is an outstanding basis for a detailed
+investigation of the scope and rationality of Inference to the Best Explanation. Not only can one assess ibe on the basis of diverse measures of
+explanatory power (see Variation 7), it is also possible to relate ibe to other
+argument patterns that we explicated in this book: the No Alternatives
+Argument (naa, see Variation 2) and the No Miracles Argument (nma, see
+
+

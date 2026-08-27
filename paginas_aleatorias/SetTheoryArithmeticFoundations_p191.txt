@@ -1,0 +1,42 @@
+HISTORY OF CONSTRUCTIVISM IN THE 20TH CENTURY
+
+175
+
+uniform continuity for the relevant function, without essential loss in mathematical content. Thus to ﬁnd scope for speciﬁcally intuitionistic reasoning,
+one has to look for instances where the use of typically intuitionistic axioms
+such as the continuity axiom or the fan theorem results in a signiﬁcantly better
+or more elegant result, and such cases appear to be comparatively rare.
+To some extent the above, mutatis mutandis, also applies to constructive
+recursive mathematics. Thus, for example, the usefulness of the beautiful
+Kreisel-Lacombe-Shoenﬁeld-Tsejtin theorem is limited by two factors: (1) an
+appeal to the theorem can often be replaced by an assumption of continuity in
+the statement of the result to be proved; (2) in many cases, continuity without
+uniform continuity is not enough, as witnessed e.g. by Kushner’s example of
+a continuous function on [0, 1] which is not integrable.
+In the literature contributing to Brouwer’s and Markov’s programme, a
+comparatively large place is taken by counterexamples and splitting of classical notions. This may be compared with periods in the development of
+classical analysis and topology in which there was also considerable attention
+given to ‘pathologies’. In this comparison, BCM exempliﬁes a later stage in
+constructivism.
+Finally, let us note that in classical mathematics there arise questions of
+constructivity of a type which has not been considered in the constructivistic
+tradition For example, one may attempt to ﬁnd a bound on the number of
+solutions to a number-theoretic problem, without having a bound for the size
+of the solutions.34
+§9. Concluding remarks. In the foundational debate in the early part of
+this century, constructivism played an important role. Nevertheless, at any
+time only a handful of mathematicians have been actively contributing to
+constructive mathematics (in the sense discussed here).
+In the course of time, the focus of activity in constructive mathematics
+has shifted from intuitionism to Markov’s constructivism, then to Bishop’s
+constructivism. In addition there has been a steady ﬂow of contributions to
+classical recursive mathematics, a subject which is still ﬂourishing.
+Much more research has been devoted to intuitionistic logic and the metamathematics of constructive systems. In this area the work has recently somewhat ebbed, but its concepts and techniques play a signiﬁcant role elsewhere,
+e.g. in theoretical computer science and artiﬁcial intelligence, and its potential
+is by no means exhausted (example: the notion of ‘formulas-as-types’ and
+Martin-Löf-style type theories).
+New areas of application lead to reﬁnement and modiﬁcation of concepts
+developed in another context. Thus a development such as Girard’s linear
+34 See [Luckhardt 1989].
+
+

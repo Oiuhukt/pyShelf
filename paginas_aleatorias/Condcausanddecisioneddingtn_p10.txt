@@ -1,0 +1,66 @@
+getting cancer, and that is why the probability of getting cancer, given that you
+smoke, is irrelevant to the decision whether to smoke. In the counterexamples
+to Counterfactual Decision Theory, the backtracking evidence reveals that
+there is a causal connection. All the examples reinforce the idea that causation
+is central, ignored at our peril, in a theory of decision. It is what is likely to be
+brought about by my action that matters.
+A properly causal decision theory should be up-front about causation (like
+causal theories of other things). We need conditional judgments like “If I do x,
+that will bring it about that C (or cause, or produce as a result, or have as an
+outcome, that C). More cautiously: “If I do x, that will contribute to the
+bringing about that C.”
+We have also seen a reason to go for conditional probabilities rather than
+probabilities of some sort of conditional proposition. The latter might get most
+of its probability from the case in which the antecedent is false, and that gives
+us no reason to act on it.
+We need to assess the probability, on the assumption that I do x, that C will
+be a causal consequence.
+Let’s try to see how this idea works out in the three kinds of case we have
+considered. Return to the smoking example used to illustrate Jeffrey’s case
+against the Marlboro man (see pp. 2–3). Again, let the values be:
+
+V (Long Life and Smoke) = 11; V (Short life and Smoke) = 1.
+V (Long life and Quit ) = 10; V (Short life and Quit ) = 0.
+Long life = making it to your 70th birthday; short life = not making it to your
+70th birthday. Cases (1), (2), and (3) are: the ordinary causal case, the Fisher
+case, and the Egan case.
+I suggest that the weights should be something like:
+(a) p(Short life as a result of smoking|Smoke)
+(b) p(Not (short life as a result of smoking)|Smoke)
+(c) p(Long life as a result of quitting|Quit)
+(d) p(Not (long life as a result of quitting)|Quit)
+
+(1)
+0.6
+0.4
+0.8
+0.2
+
+(2)
+0
+1
+0
+1
+
+(3)
+0.6
+0.4
+0.8
+0.2
+
+First, in the ordinary case in which smoking tends to shorten life, let the
+probabilities be as they were above: (a) 0.6 and (b) 0.4; (c) 0.8 and (d) 0.2, and
+we get the same answer as before: It is rational to quit.
+In the Fisher case—the pure common cause case (a) is close to 0 (c) is close
+to 1; (c) is close to 0 (d) is close to 1; for simplicity, pretend that they are 0 and
+1. (a) = (c) (b) = (d). Then as V(Long life and Smoke) exceeds V(Long life
+and quit), it is rational to smoke.
+In an Egan-style smoking case,19 the agent believes that a desire to smoke is
+produced by a genetic condition which also causes one’s lungs to be vulnerable
+to cigarette smoke, such that smoking causes cancer in those with the genetic
+19. The example occurs in Egan (2007): 103.
+
+84
+© 2011 The Author. Journal compilation © 2011 Wiley Periodicals, Inc.
+
+

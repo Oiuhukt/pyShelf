@@ -1,0 +1,33 @@
+assume that at a minimum S should take some means to their end of figuring
+out Q ? at t (rather than doing something that’s not a means at all), then I think
+we should say that there can be many acts in A that S is not permitted to do at
+t from the perspective of these strategic norms. This is simply because many of
+the things S can do at a typical time are not going to be means to their figuring
+out Q ? .
+My concern now is that some of the acts that are going to be on the impermissible side of this bipartition or split of A are going to be acts of belief formation that, from the perspective of our old traditional epistemic norms, are
+beyond reproach: they are rational, based in the evidence, result in knowledge,
+and so on. This will mean that forming these beliefs will be impermissible from
+the perspective of our new epistemic norms, but perfectly permissible from the
+perspective of our old epistemic norms. And that means that were we to simply add the sorts of norms discussed in the last section to our current crop of
+epistemic norms, then epistemic normativity would end up incoherent, telling
+inquirers all at once that they are permitted and not permitted to form some
+beliefs.
+And worse, I think the sort of incoherence I’m describing is going to be pervasive on the purely expansive version of zetetic epistemology we are considering now. To see this we can stay focused on a typical inquirer (S), inquiring into
+any old Q ? at a typical time (t ) during active inquiry. If S is awake and alert at t
+(which we can assume), then there will be a huge number of beliefs they will be
+able to form at t (sometimes I’ll call the act of forming a belief ‘judging’). Let’s
+focus on some that will be, on most any traditional account of epistemic normativity, perfectly permissible: those that result in knowledge. So, what I mean to
+be focusing in on now is the set of everything S is in a position to come to know
+at t . If this is a typical situation, then that set of available knowledge will be fairly
+robust as well. That said, I take it that much of that available knowledge will have
+nothing at all to do with Q ? or resolving Q ? . It’s the normative relevance of this
+available knowledge that concerns me now. That is, the normative significance
+of the fact that at t there is a range of judgments that S is in a position to make
+that are such that the making of those judgments will result in S coming to know
+something entirely ‘Q ? -irrelevant’. Let’s call this set of available judgments for S
+at t , Kq̄ . Were S to make any judgment in Kq̄ , that judgment would result in S’s
+acquiring new knowledge, but that new knowledge wouldn’t be relevant to Q ? or
+
+19
+
+

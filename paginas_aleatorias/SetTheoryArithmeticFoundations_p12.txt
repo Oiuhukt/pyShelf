@@ -1,0 +1,37 @@
+x
+
+Introduction
+
+well as a commentary on the same by Curtis Franks. The perspective of many
+of the papers is historical, reﬂecting this shift of emphasis in contemporary
+foundations of mathematics.
+The inspiration behind this volume is the work and interests of the logician
+Stanley Tennenbaum, and through Tennenbaum the work of Kurt Gödel—
+a fundamental ﬁgure for Tennenbaum. Both saw mathematical logic as a
+unity, and both believed in philosophical analysis of a special kind: rationally
+optimistic in nature—not on the grounds of any genuinely abstract principle
+perhaps, but with a particular view of the nature of human understanding at its
+core.
+§2. Contents. In 1959 Tennenbaum published an abstract announcing a theorem that became a standard introductory result in every presentation of model
+theory of nonstandard arithmetic structures: There are no computable presentations of nonstandard models Peano Arithmetic (PA). On one hand, the result
+revealed severe limitations on possible constructions of nonstandard models;
+on the other hand, it opened a whole area of study around the problem: Which
+formal systems are subject to the Tennenbaum phenomenon? In other words,
+can we fully characterize formal systems which do not admit computable nonstandard models? Four papers presented in this volume give an account of how
+much we have learned about this problem in the last 50 years.
+Richard Kaye looks at the history and discusses the origins Tennenbaum’s
+theorem and earlier results of Kreisel, Mostowski, and Putnam, and shows a
+connection of to the Gödel-Rosser Incompleteness theorem: There is no consistent extension of PA whose restriction to 1 sentences is computable. He
+then presents his own results on the Tennenbaum phenomenon for weak fragments of arithmetic. In particular, he proves that if T is an extension of PA in
+which the MRDP theorem is provable, then T has no computable nonstandard
+models.
+Tennenbaum’s proof shows that if (M, +, ×) is a nonstandard model of
+PA, then in fact neither (M, +) nor (M, ×) admit computable presentations.
+It follows that many other natural reducts of the structure M expanded by
+adding sets deﬁnable using + and ×, do not admit computable presentations.
+Schmerl’s 1998 proof that some rich (in the non-technical sense) reducts can
+be effectively presented was therefore somewhat surprising. Schmerl’s contribution to this volume provides a detailed analysis of the Tennenbaum phenomenon for reducts. Schmerl deﬁnes the notion of a generalized reduct and
+then considers the two cases: rich reducts and their reﬁnements for which Tennebaum Theorem holds. He then analyzes the much less studied case of thin
+and n-thin reducts, for which the theorem fails.
+
+

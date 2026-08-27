@@ -1,0 +1,43 @@
+138 Logical Consequence via Models
+
+variable, and different nonlogical expressions with different variables; “same semantic category” means that we use individual variables for names, class variables
+for predicates, and so on.) Tarski defines a model of 𝐾 as an assignment of values
+to the variables that satisfies all the open formulas in 𝐾′ .15 He can then define
+logical consequence as follows:
+The sentence 𝑋 follows logically from the sentences of the class 𝐾 if and only
+if every model of the class 𝐾 is also a model of the sentence 𝑋. (Tarski 1983a,
+p. 417)
+
+This is a mathematically rigorous definition, because Tarski has shown elsewhere
+(Tarski 1935; see Tarski 1983b) how to give a rigorous definition of satisfaction,
+and hence of the model of relation.
+When there are finitely many premises, logical consequence in the sense Tarski
+defines here reduces to the truth of a quantified sentence of higher-order logic.
+For example, (19) is valid if and only if
+
+∀𝑋∀𝑥∀𝑦(𝑋𝑥 ⊃ 𝑋𝑦).
+One can easily see that whether this condition holds does not depend on the
+language’s particular stock of nonlogical expressions.
+5.2.6 Satisfying the criteria of adequacy
+
+Tarski says that it can be proved that his definition of logical consequence satisfies
+his criteria of adequacy, Formality and Truth Preservation, as embodied in condition (F). In evaluating this claim, we must return to the question whether the
+modal in Truth Preservation takes narrow scope (17) or wide scope (18).
+On the narrow-scope interpretation, Truth Preservation says that if 𝑋 is a
+logical consequence of 𝐾 in Tarski’s sense, then it cannot happen that: all the
+sentences in 𝐾 are true and 𝑋 is not true. It is not clear how this follows from
+Tarski’s definition. Tarski’s definition says that if 𝑋 is a logical consequence of
+𝐾, then there are no assignments of values to variables that satisfy a certain set of
+open formulas. That is a claim about what there is, not about what there must be.
+So if we read Truth Preservation with narrow scope, Tarski’s definition does not
+vindicate it.
+On the wide-scope interpretation, by contrast, Truth Preservation says that
+it cannot happen that: 𝑋 is a logical consequence of 𝐾 in Tarski’s sense, all the
+15
+Actually, instead of talking of assignments, he talks of sequences of objects. This is because an
+assignment of values to variables can be represented mathematically as a sequence: the first value is
+assigned to the first variable, the second to the second, and so on. Remember that “objects,” for Tarski,
+includes items at all levels of the type hierarchy: ordinary objects, classes of objects, classes of classes,
+and so on.
+
+

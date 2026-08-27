@@ -1,0 +1,43 @@
+144
+
+Part II: A Defense
+
+ﬁt into another, or two things to ﬁt together, in the case where one was specially
+made to ﬁt the other; but I cannot understand what it means to say this in
+any other case.’’ Perhaps we should not take Quine’s words here too seriously.
+(1956: 152-3)
+
+Boghossian tries somewhat harder to accommodate (5.3) into the
+Quinean position as a whole, suggesting that the following is Quine’s
+view:
+Although there is such a thing as the property of synonymy; and although
+it can be instantiated by pairs of tokens of the same orthographic type; and
+although it can be instantiated by pairs of tokens of distinct orthographic types,
+provided that they are related to each other by way of an explicit stipulation;
+it is, nevertheless, in principle impossible to generate instances of this property
+in some other way, via some other mechanism. For example, it is impossible
+that two expressions that were introduced independently of each other into
+the language, should have been introduced with exactly the same meanings. (Boghossian 1997)
+
+After attributing this unlikely-seeming view to Quine—apparently in
+desperation—Boghossian argues against it.
+
+5.1 THE TRANSIENCE OF DEFINITION
+I suspect that Quine’s view of the relation between analyticity and
+deﬁnition was more innovative than this. His view of the use of
+deﬁnition in science was such that the kind of analyticity it could
+support was not the kind that could do any of the work that his targets
+wanted it to do—in particular it could not play an important role in the
+epistemology of science. He admits that there is some sense of analytic
+on which legislative deﬁnitions are analytic, but denies that this notion
+can be what his opponents and targets mean by analytic. They need a
+notion that will do more work.
+The reason this notion cannot do enough work is that legislative deﬁnitions are in a certain sense ephemeral, independent of meaning and in the
+ﬁrst place properties of utterances (which Quine thinks of as acts), rather
+than sentence types (Quine 1965[1954]). I will refer to this collection
+of Quinean theses as the doctrine of the transience of deﬁnition.
+To begin with, Quine thinks that deﬁnitions are ephemeral. Though
+a word may be introduced using a deﬁnition and come to be an
+accepted part of the language; accepting the deﬁnition need be no
+
+

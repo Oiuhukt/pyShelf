@@ -1,0 +1,51 @@
+474
+
+J. Otsuka
+
+Some causalists have resisted this realist take on population size, pointing out
+that scientists reserve the right to choose (the size of) a population to be studied
+(Abrams 2013; Ramsey 2013). It is true, or even truism, that scientists can and must
+decide on which population they are going to investigate, and their decision surely
+reflects varieties of epistemic as well as pragmatic factors such as research interests,
+available resource, considerations on statistical power, etc. Abrams cites cases of
+selection study on human populations that pooled some subpopulations for the sake
+of a greater statistical power. Yet another research group may well prefer a smaller
+population due to sparse data or limited resources. Such decisions must be made, but
+that’s not the end of the story. They must further be justified vis-a-vis their research
+goal, and such justifications can come only from nature. Pooling populations is
+allowed only when they are homogeneous (no mixture distribution), and extrapolations from a small population always risk overgeneralization—and all of that
+depends on the causal structure. Hence although it is scientists who demarcate the
+population to be investigated, whether their decision turns out to be correct is not up
+to them.
+Before moving, let us note that the statisticalist supposition that a population can
+be demarcated in arbitrary ways is a logical consequence of their doctrine that
+evolutionary equations are purely mathematical truths. Indeed, nothing prohibits
+one from applying the Price equation to a gerrymandered population. Suppose a
+‘‘population’’ consisting of all American citizens whose first name start with ‘‘T,’’
+all kangaroos living in Queensland, and my three goldfish. Count their descendants
+at some later time and the Price equation gives the exact change of any arbitrarily
+chosen phenotypic mean, say height (length). This is precisely because the Price
+equation, as an a priori mathematical theorem, applies to whatever set of objects as
+long as they satisfy certain measurement conditions. This is not true with predictive
+evolutionary equations such as the breeder’s equation, whose derivation requires
+certain causal assumptions. To apply these equations, a population must be
+homogeneous with respect to the causal structure and consistent with the model
+assumptions. A causal structure is the unit of evolutionary theory which both affords
+and delimits the generalizability of evolutionary equations, and for this reason an
+evolving population cannot be demarcated willy-nilly.
+Fitness-evolution relationship: causal or identical?
+Recall under the interventionist account X counts as a cause of Y if there is an
+intervention on X that changes P(Y). Based on this idea the causalists have
+suggested that interventions on fitness (Shapiro and Sober 2007; Sober 2013) or on
+the population size (Reisman and Forber 2005; Forber and Reisman 2007) affect
+adaptive evolution and drift, respectively. In order to establish the causal relation,
+however, the hypothetical interventions must satisfy an additional condition:
+namely that the intervened variable X and the supposed effect Y cannot be logically
+related. Manipulating a man’s marital status would certainly change whether he is a
+bachelor or not, but it is not because they are causally related, but rather logically
+the same. According to Matthen and Ariew (2009), the same applies to the
+interventions proposed by the causalists. Although manipulating, say, the fitness
+
+123
+
+

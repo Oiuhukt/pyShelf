@@ -1,0 +1,39 @@
+Susan Stebbing
+
+What Stebbing means by a constructed system here is a system that is
+postulated as a replacement for a conceptual system used in our everyday
+life—in the way that set theory might be seen as postulating a replacement
+for our ordinary system of arithmetic. On this view, our everyday concepts
+and propositions are vague and need to be replaced—or “explicated”, to
+use Carnap’s later term—by precisely defined concepts, clearly stated
+axioms and logically derived propositions. Stebbing’s fundamental
+objection to this conception of postulational or explicatory analysis is that
+it misunderstands the role of analysis, which is “to understand something
+more clearly” (1933a: 81). Simply replacing our ordinary vague concepts
+by precise ones does not genuinely show what it was we understood.
+Consider, for example, the “replacement” of our ordinary concepts of
+colour by concepts scientifically defined in terms of the wavelengths of
+light, etc. Arguably, this can never do justice to what it is we experience
+when we see colours and describe them in the ordinary ways we do: it
+does not capture the phenomenology of our experience. In the same way,
+we might question whether defining numbers as sets genuinely shows
+what we “really mean” by number terms.
+According to Stebbing, the logical positivists—and she specifically
+mentions Schlick in this regard—put “the pursuit of meaning” before the
+determination of the truth-value of propositions (1933a: 83). But this gets
+things precisely the wrong way around, on Stebbing’s view: we begin with
+propositions that we understand (in some sense) and can know to be true,
+and in seeking an analysis of these propositions, we aim to clarify that
+understanding by identifying the facts that make them true or false. This is
+precisely the conception of analysis that she had attempted to articulate
+and defend in her 1932 paper. On the explicatory conception (as Stebbing
+seems to construe it), on the other hand, we postulate something with a
+meaning that is intended to be clear once and for all, with the aim of
+thereby guiding or constraining our subsequent determinations of the
+truth-value of the relevant propositions.
+
+12
+
+Stanford Encyclopedia of Philosophy
+
+

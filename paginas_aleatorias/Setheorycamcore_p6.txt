@@ -1,0 +1,54 @@
+Contents
+
+1 Historical Roots
+
+1
+
+2 The Notion of Set
+
+4
+
+3 The Zermelo–Fraenkel Axioms
+
+9
+
+4 Immediate Consequences
+
+14
+
+5 Number Systems Within Set Theory
+
+22
+
+6 Inﬁnities
+
+29
+
+7 The Axiom of Choice
+
+38
+
+8 Topics in Higher Set Theory
+
+41
+
+9 Metamathematics of Set Theory
+
+49
+
+10 Large Cardinals and Determinacy
+
+61
+
+11 Concluding Philosophical Remarks
+
+66
+
+References
+
+69
+
+Downloaded from https://www.cambridge.org/core. IP address: 201.141.17.62, on 25 Jan 2022 at 00:17:29, subject to the Cambridge Core terms of
+use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/9781108981828
+
+

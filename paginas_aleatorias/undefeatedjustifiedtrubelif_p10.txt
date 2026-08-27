@@ -1,0 +1,44 @@
+KNOWLEDGE
+
+233
+
+in the case of our knowledge of disjunctions. Suppose I know that a
+business acquaintance of mine, Mr. Romeo, arrived in Rochester
+from Atlanta on either one of two flights, either AA 107 or AA 204.
+My evidence is that these are the only two flights into Rochester
+from Atlanta, that Mr. Romeo telephoned earlier from Atlanta to
+say he would be arriving on one of these two flights, that he is now
+in Rochester, and that no other flight to Rochester or nearby would
+enable Mr. Romeo to be in Rochester at the present time. On the
+basis of this evidence, I may on Skyrms' analysis be said to have
+nonderivative knowledge that Mr. Romeo arrived on either AA 107
+or AA 204. So far so good.
+However, suppose that we add to my evidence that, when I meet
+Mr. Romeo at the airport shortly after the arrival of AA 204 (the
+later flight), he tells me that he just arrived on AA 204. By Skyrms'
+analysis I now lack nonderivative knowledge that Mr. Romeo arrived on either AA 107 or AA 204. The reason is that condition (v)
+of his analysis of nonderivative knowledge is no longer satisfied with
+respect to that disjunction. I now have good evidence that Mr.
+Romeo arrived on AA 204, and I believe that disjunction on the
+basis of my knowledge that this evidence is good evidence for the
+statement "Mr. Romeo arrived on AA 204" and this statement entails "Mr. Romeo arrived on either AA 107 and AA 204." Thus,
+there is a statement 'q' that satisfies condition (a), (b), and (c) under
+(v) where 'p' is the disjunction.
+The consequence that I now lack nonderivative knowledge that
+Mr. Romeo arrived on either AA 107 or AA 204 would not be
+fatal if it could be argued that I have derivative knowledge of that
+disjunction because I know that Mr. Romeo arrived on AA 204.
+But there is an unmentioned twist of romance in our tale. In fact,
+Mr. Romeo arrived on the earlier flight, AA 107, and, having entertained his secret love, deceitfully told me he arrived on the later
+flight. Thus, I do not know that Mr. Romeo arrived on AA 204, because he did not so arrive. By Skyrms' analyses, I have neither derivative nor nonderivative knowledge that Mr. Romeo arrived on
+either AA 107 or AA 204, and, therefore, I lack nonbasic knowledge
+of that disjunction. So, as Skyrms would have it, I do not know that
+Mr. Romeo arrived on either of those flights. However, although
+there is much of interest that I do not know in this case, I surely do
+know, on the basis of my original evidence which I may yet brandish with epistemic righteousness, that Mr. Romeo must have arrived on either AA 107 or AA 204. He did so arrive, and my evidence completely justifies me in believing that he did, regardless
+of the fact that Mr. Romeo spoke with a crooked tongue. Since I
+
+This content downloaded on Fri, 14 Dec 2012 08:25:23 AM
+All use subject to JSTOR Terms and Conditions
+
+

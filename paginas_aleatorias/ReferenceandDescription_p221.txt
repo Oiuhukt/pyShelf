@@ -1,0 +1,36 @@
+206
+
+CHAPTER 9
+
+yet conceivable, and epistemically possible, world-states should be uncontroversial. First, since his argument fails to comes to grips with a
+highly plausible Kripkean account of how knowledge of the actual is
+sometimes required to determine the scope of the possible, it does not
+establish its conclusion. Second, since it simply ignores the obvious
+Kripkean account of the matter, it cannot provide any independent
+objection to the orthodox Kripkean account of the necessary aposteriori. Thus, the entire force of Chalmers’s critique will have to rest on
+the positive case he can make for his ambitious two-dimensionalist
+reinterpretation of Kripke. This is signiﬁcant, since—as in the case
+of Jackson—Chalmers’s two-dimensionalist semantic theory is both
+highly programmatic and problematic in itself. It is motivated not by
+the success of any careful and detailed semantic analyses, but by the
+conviction that it provides the only possible explanation of the necessary aposteriori (and the contingent apriori) that is compatible with
+what we know antecedently about modality and the nature of possible
+world-states.
+The roots of this conviction can, I think, be traced to the plausible
+idea that there must be some connection between conceivability and
+possibility. Although this idea is correct, in my opinion, Chalmers is too
+quick to generalize from it. As a result, he comes to view conceivability
+and possibility as coextensive, with the former being perhaps deﬁnitional of the latter. What he fails to see is that a signiﬁcant and illuminating link between the two can be preserved, even if one recognizes
+the existence of world-states that are fully conceivable, and yet metaphysically impossible. It is, I think, because he fails to see this intermediate position that the only alternative he recognizes to the view that
+conceivability and possibility (of world-states) come to essentially the
+same thing is a view which distinguishes genuine metaphysical possibility from mere conceivability by imposing some entirely arbitrary constraints on the former over and above of those required by the latter. As
+he puts it, “any claims about the added constraints of metaphysical possibility would seem to be a matter of arbitrary stipulation.”12
+The central reason this is incorrect is, as I see it, that the objects of
+conceivability—the things we conceive when trying to determine what
+is metaphysically possible—are not simply world-states, but entire systems of metaphysical possibility, each with a designated “actual”
+world-state and a space of related states, some of which are possible
+12
+
+The Conscious Mind, p. 137.
+
+

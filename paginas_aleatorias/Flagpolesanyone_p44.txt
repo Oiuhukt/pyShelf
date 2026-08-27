@@ -1,0 +1,42 @@
+James Woodward
+
+(with the former being more fundamental) it may be instead that both asymmetries (thermodynamic and causal) at least in part derive from (or have a common source in) facts
+about independence and the absence of special kinds of tuning but where the most natural
+way of expressing these facts employs causal language.74 To take one obvious connection,
+uncorrelatedness assumptions of various sorts have been used from Boltzmann (with his
+Stosszahlansatz) to contemporary authors (e.g., Myrvold, 2020) to explain facts about thermodynamic behavior.75 Indeed, the same contributors to the machine learning literature
+discussed above have recently argued (Janzig et al., 2016) that the principle that the initial
+state of a physical system and the dynamical law governing it should be algorithmically independent (which is an algorithmic version of VRI) implies the non-decrease of physical
+entropy for a closed system if entropy is identified with algorithmic complexity. In general,
+anti-entropic or anti-thermodynamic behavior is behavior that requires fine-tuning—either of initial conditions in the sense of specific patterns of correlation among these or special tuning of these to dynamical laws. As I have attempted to explain, these also are the
+considerations that often underlie judgments of causal asymmetry.
+REFERENCES
+Albert, D. (2000). Time and chance. Cambridge: Harvard University Press.
+Armstrong, D. (1997). A world of states of affairs. Cambridge: Cambridge University Press.
+Cartwright, N. (1983). How the laws of physics lie. Oxford: Oxford University Press.
+Craver, C. (2016). The explanatory power of network models. Philosophy of Science 83, 698-709.
+Davidson. D. (1967). Causal relations. Journal of Philosophy, 64, 691-703.
+Dowe, P. (2019). The direction of causation. In S. Kleinberg (ed.), Time and causality across the sciences
+(pp. 37-48). Cambridge: Cambridge University Press.
+Earman, J. (1974). An attempt to add a little direction to ‘The problem of the direction of time’. Philosophy
+of Science 41, 15-47.
+Earman, J. (1976). Causation: A matter of life and death. The Journal of Philosophy 73, 5-25.
+Earman, J. (2011). Sharpening the electromagnetic arrow(s) of time. In. C. Callender (ed.). The Oxford
+Handbook of Philosophy of Time (pp 485-527). Oxford: Oxford University Press.
+Eberhardt, F. and Scheines, R. (2007). Interventions and causal Inference. Philosophy of Science 74, 981-995.
+Farr, M. (2020). Causation and time reversal. British Journal for the Philosophy of Science 71, 177-204.
+Forester, M., Raskutti, G., Stern, R. and Weinberger, N. (2018). The frugal inference of causal relations.
+British Journal for the Philosophy of Science 69, 821-848.
+
+That is (recalling my discussion above) uncorrelatedness assumptions involve claims about causally independent factors, causes of a common effect tend (in the absence of some common cause of the former) tend to be uncorrelated, effects of a common cause are correlated and so on. In stating these assumptions we employ causal language.
+75 Also relevant here are the derivations of causal as opposed to non-causal behavior (effects occurring
+before causes) in linear response theory in Jackson (1995) and Nussenzweig (1972) discussed in Norton (2009) and Frisch (2014). These derivations make use of assumptions about the absence of highly
+tuned or anti-thermodynamic behavior, showing how conclusions about reasonable causal behavior
+can be obtained from the assumptions and underlying laws. This is suggestive about the tight link between CSI and other anti-tuning assumptions and causal reasoning but there is no reduction of or replacement of the latter by the former.
+74
+
+50
+
+Theoria, 2022, 37/1, 7-52
+
+

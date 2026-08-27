@@ -1,0 +1,39 @@
+Argumentos en contra de restricciones credales
+
+formalismos sobre el dominio normativo subyacente. Smithies
+(2015) sostiene que la certeza en verdades lógicas es de hecho un
+requerimiento de la racionalidad; Titelbaum (2015) y Littlejohn
+(2018) abogan por posiciones similares.
+
+El Problema de la Vieja Evidencia
+Clark Glymour inició el debate sobre la Vieja Evidencia con un
+famoso ejemplo.
+Los científicos habitualmente argumentan a favor de sus teorías a partir de evidencia que se conoce desde mucho antes de
+que sus teorías fuesen introducidas… El argumento que Einstein dio en 1915 a favor de sus ecuaciones de campo gravitacional fue que explicaban el anómalo avance del perihelio de
+Mercurio, que había sido determinado más de medio siglo
+antes. A otros físicos el argumento les pareció enormemente
+convincente, y es una conjetura justa que sin él los británicos
+no habrían organizado la famosa expedición del eclipse de
+1919. La vieja evidencia puede de hecho confirmar una nueva
+teoría, pero de acuerdo con la cinemática bayesiana, no puede
+hacerlo (Glymour, 1980, pp. 306-7).
+
+Ya hemos visto (páginas 24 a 31) que un bayesiano tradicional modela la adquisición de evidencia como la obtención de certezas, las cuales luego son retenidas. Al mismo tiempo (páginas 41 a
+46), se entiende la confirmación como relevancia positiva. Combinando estas dos aproximaciones, tenemos un problema: una vez que
+se ha aprendido una proposición evidencial, recibe credibilidad 1.
+Cuando c(E) = 1, c(H|E) = c(H) para cualquier H ℒ. Así que, una
+vez que una agente aprende algo, esa pieza de información es por
+siempre confirmacionalmente inerte de ahí en adelante.
+Dados estos hechos básicos sobre el bayesianismo, podemos
+identificar dos desafíos en la historia de Glymour sobre Einstein.
+Christensen (1999) los llama los problemas “sincrónico” y “diacrónico” de la vieja evidencia.44 El problema diacrónico es sobre el
+cambio en credibilidad. En el curso de 1915, Einstein incrementó
+44
+
+Uso la terminología de Christensen debido a que encuentro que es la más útil.
+Pero antes, desambiguaciones similares del problema de la vieja evidencia
+pueden encontrarse en Garber (1983), Eells (1985) y Zynda (1995).
+
+67
+
+

@@ -1,0 +1,44 @@
+https://doi.org/10.1017/9781009039154 Published online by Cambridge University Press
+
+14
+
+The Philosophy of Mathematics
+
+have a violation of our second principle that distinguishes evidence for the
+target and an explanation of the target. Sometimes our evidence allows us to
+predict how something will be in advance, but these predictions are not explanations of that outcome. Consider, for example, the predictive model for protein
+folding known as AlphaFold (Senior et al. 2020). A protein is a molecule made
+up of a sequence of amino acids. Many of the functional features of the protein
+are tied to the three-dimensional shape it assumes. The DeepMind research
+group developed AlphaFold as a neural network that can efﬁciently solve this
+daunting computational problem in a reliable and accurate way. The neural
+network contains a large number of elements whose connections transform the
+input information about some given sequence of amino acids into
+a representation of the three-dimensional structure of the protein. The
+researchers trained and reﬁned the network using some of the available data
+about protein structures and various algorithms that adjust the connections
+between elements. Crucially, though, the elements (besides the input and output
+layers) and connections are not assigned any determinate physical interpretation. This means that we have a mathematical structure that is almost completely detached from any structural mappings to protein features.
+Unsurprisingly, in their summary of this very successful research, the scientists
+do not employ the language of explanation, saying instead that “[h]ere we show
+that we can train a neural network to make accurate predictions of the distances
+between pairs of residues [of amino acids], which convey more information
+about the structure than contact predictions” (Senior et al. 2020, p. 706). The
+information about the protein structure is effectively encoded in the mathematical structure of the network by elements with no clear physical interpretation.
+So Baron’s test is met, but this mathematical derivation does not explain why
+that protein has that structure. Baron might respond that a derivation of protein
+structure using AlphaFold is not an explanation because the derivation lacks
+some other necessary features of an explanation. I would agree with Baron on
+this point. But this shows that we cannot identify what makes something
+a genuine mathematical explanation by focusing on how mathematics affords
+derivations.15
+
+2.2 Causation
+Already we can see that some approaches to explanation face severe difﬁculties.
+I will say that an approach is a monist approach if it supposes that every
+explanation involves the very same explanatory relation. I think of these relations as relations between facts in the world: if A obtains because of B, then
+15
+
+See Povich (2021, pp. 516–519) for a similar worry, along with concerns of a different kind.
+
+

@@ -1,0 +1,32 @@
+6.7. Exercises
+
+175
+
+(b) Prove the following General Reflection Principle: For every formula 𝜑(𝑥), the class of ordinals such that 𝑊𝛼 reflects 𝜑 contains a CLUB.
+[Hint: Proceed by induction on the height of 𝜑.]
+(c) Deduce the usual Reflection Principle: For any formula
+𝜑(𝑥), one has
+ZF ⊧ ∀𝑦∃𝛼 (𝑦 ∈ 𝑉𝛼 ∧ ∀𝑥 (𝜑(𝑥) ↔ 𝜑𝑉𝛼 (𝑥))) .
+Exercise 6.7.4 (Independence of the Replacement Axiom Scheme). The
+Zermelo axioms Z are given by the axioms of ZF without the Replacement
+scheme. We work in 𝒰 ⊧ ZF− .
+(1) Prove that if 𝜆 > 𝜔 is a limit ordinal, then 𝑉𝜆 ⊧ Z.
+(2) Prove that 𝑉𝜔2 does not satisfy the Replacement scheme.
+[Hint: Consider the functional class sending 𝛼 to 𝜔 + 𝛼.]
+(3) Deduce that if Z is consistent, then it does not imply the Replacement scheme. Similarly, prove that if Z+(AC) is consistent, then it does not imply the Replacement scheme.
+Exercise 6.7.5 (Non-finite axiomatizability of ZF). The aim of this exercise is to prove that if 𝑇 ⊇ ZF is consistent, then 𝑇 is not finitely axiomatizable.
+(1) Let 𝒰 ⊧ ZF, and let 𝑋 ⊆ 𝑈 be a transitive class which is also a
+model of ZF. Prove that for any ordinal 𝛽 ∈ 𝑋 one has 𝑉𝛽𝑋 =
+𝑉𝛽 ∩ 𝑋, where 𝑉𝛽𝑋 denotes ‘𝑉𝛽 computed in 𝑋’.
+(2) Let 𝒰 ⊧ 𝜑, where 𝜑 is a sentence such that 𝜑 ⊢ ZF. Using the
+Reflection Principle (cf. Exercise 6.7.3) prove that there is 𝛼 in
+𝑈 such that 𝑉𝛼 ⊧ 𝜑.
+(3) Conclude.
+(4) Prove that if ZF− is consistent, then it is not finitely aximatizable.
+(5) Prove the following sharpening: If 𝑇 ⊇ ZF is consistent, then
+there is no sentence 𝜑 such that 𝜑 together with the Comprehension scheme axiomatizes 𝑇.
+
+Licensed to Mathematisches Forschungsinstitut. Prepared on Thu Sep 30 04:18:29 EDT 2021for download from IP 188.1.230.74.
+License or copyright restrictions may apply to redistribution; see https://www.ams.org/publications/ebooks/terms
+
+

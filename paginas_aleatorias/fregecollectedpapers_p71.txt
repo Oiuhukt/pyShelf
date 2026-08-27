@@ -1,0 +1,61 @@
+Methods of Calculation
+df(n, x)
+dn
+
+dn
+
+65
+
+(p(f(n, x))
+
+= (p(X).
+
+By integrating, while regarding x as a constant, we obtain
+' dX
+
+n=
+
+J (P(X)
+
++C = 9(X) + C.
+
+The constant is determined by the general rule that if X = x, then,
+necessarily, n = 0. Consequently
+n = 6(X) — 6(x).
+This leads us back to the substitution. But in the process we got to
+know a new connection between the functions / and 6. We also know
+now how to find the function 6 as soon as (p is known. Everything will
+therefore turn on our knowledge of this function. If we can recognize
+the general form of the functions which arise by repetition of the given
+operation, then we may conjecture that the infinitely small function
+x + ö(p(x) will have the same form, whereby we will also know the form
+of (p. But this is what is essential since the undetermined constants can
+be found subsequently. It may be useful to interpolate another con¬
+sideration here. The values Xq, x^ ... which correspond to the points of
+intersection of the curve y = f(x) with the null line divide into two
+classes, according to whether the equation
+f(n, Xo)-Xo = 0
+holds for all possible n or not. In the former case, which we will
+consider first, it must also be the case that
+
+xo + <5(p(xo)-xo = 0,
+
+(p(xo) = 0.
+
+Conversely, as (p(xo) vanishes in the first or in a higher degree.
+
+becomes infinite for x = Xo, and the equation
+Lim
+
+{0(X) — 0(x)} = n
+
+|
+
+X = X=Xg
+
+holds for any n; i.e., there is always a way in which X and x approach
+Xq simultaneously so as to satisfy the equation, and where Xq corre-
+
+8
+
+

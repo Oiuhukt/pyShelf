@@ -1,0 +1,39 @@
+8
+History of Science
+
+Science of Science. Alexander Krauss, Oxford University Press. © Alexander Krauss (2024).
+DOI: 10.1093/9780198937401.003.0009
+
+Downloaded from https://academic.oup.com/book/58964 by guest on 16 November 2024
+
+Science has a history, and when we study the history of science including the
+discoveries, theories and the methods used to create them, we can trace their
+origin to the individuals who developed them. Thomas Kuhn, the most cited
+and well-known historian of science in the 20th century, offered an explanation of the history of science that rejected the view of scientific change
+as being cumulative.(1,32) The history of science can be viewed as a cycle in
+which established ideas and facts are doubted, new problems and evidence
+then lead to new revolutionary ideas and facts (and replace the established
+ones), which eventually over time are also doubted once problems and anomalies associated with them become apparent, and the cycle begins again. For
+Kuhn, this process of science is not cumulative. It represents revolutionary
+paradigm shifts, in which a scientific community rejects existing assumptions,
+concepts and theories and adopts entirely new ones. Kuhn thus describes science as going through paradigm shifts. For him, ‘revolutionary’ scientists help
+redefine which research questions and assumptions are important and what
+methods are best. In short, they help rewrite the rules of the game. This notion
+of science may seem to apply to shifts in physics in the past, namely shifts in
+our theories of physical reality from Aristotle to Newton and then to Einstein.
+Kuhn focused on such cases largely in physics up to the early 20th century.(1)
+The shift from the Ptolemaic earth-centred theory of the universe to the
+Copernican sun-centred theory characterised the classic paradigm change,
+which Kuhn focused much research on. In geology for example the shift from
+a stabilist to a plate-tectonic mobilist view of the earth can also, according
+to Kuhn’s thesis, be viewed as a paradigm shift. In economics, it can reflect
+the shift from a neoclassical view of individuals acting as perfectly rational
+actors towards more behavioural approaches that view individuals as acting
+irrationally at times. In physics, it can reflect the shift from a classical Euclidean
+view of time and space as flat to an Einsteinian view reflecting the curvature
+of time and space. And it can reflect the shift from a classical mechanics’ view
+of physical reality in which particles act in a deterministic way (Newton) to
+a quantum mechanics’ view of physical reality in which phenomena act as
+both a wave and a particle at the same time and in a probabilistic way (Bohr,
+
+

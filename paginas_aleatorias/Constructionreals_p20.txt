@@ -1,0 +1,75 @@
+3
+
+Classical approaches to completeness
+
+Definition 3.5. Let r, s ∈ R such that r, s ≥R 0. Then
+r ·R s := {p · q | p ∈ r \ 0, q ∈ s \ 0} ∪ 0.
+
+(3.6)
+
+We must exclude negative numbers from the sets r and s, so that the products
+of the rationals they contain do not become arbitrarily large. As similar problems
+are encountered for the definition of products of other real numbers, it will be useful
+to define the negative and the modulus of a real number first.
+Definition 3.6. Let r ∈ R. The negative of r is defined as
+−r := {q ∈ Q | ∃p > q : −p ∈ Q \ r} .
+Proposition 3.7. For any r ∈ R, its negative −r is a Dedekind cut.
+Proof. Let q ∈ r and s ∈ Q such that s > −q. Then −s < q, so −s ∈ r. Hence,
+−q ∈
+/ −r. Now let u ∈ Q \ r. Since −u > −u − 1 and −(−u) = u ∈ Q \ r, the
+rational −u − 1 lies in −r.
+Suppose that q 0 is a rational less than q. Since q ∈ r, there exists p > q > q 0
+such that −p ∈ Q \ r. Thus, q 0 ∈ −r.
+Next we need to show that −r contains no greatest element. Let t := q+p
+2 . Then
+q < t < p. As t is rational and p ∈ Q \ r, it is also contained in −r. So for every
+element in −r, we can find a greater element also lying in −r.
+q. e. d.
+Definition 3.8. The modulus function from R to the set of non-negative real numbers R≥0 is defined as
+
+| . | : R → R≥0 , r 7→
+
+
+r
+
+if r ≥R 0,
+
+−r
+
+if r <R 0.
+
+|r| is called the absolute value of r.
+An equivalent, rather set theoretical definition of the modulus would be |r| =
+r ∪ −r.
+Now we can define multiplication of two real numbers in the remaining cases.
+Definition 3.9. Let r, s ∈ R.
+
+r ·R s :=
+
+
+
+−(r ·R |s|)
+
+
+
+
+
+
+
+
+if r ≥R 0, s <R 0,
+
+−(|r| ·R s)
+
+if r <R 0, s ≥R 0,
+
+|r| ·R |s|
+
+if r, s <R 0.
+
+Unlike in the previous section, it is not obvious that the real numbers are closed
+under addition and multiplication. We need to check whether the sum and product
+of two reals are contained in R.
+14
+
+

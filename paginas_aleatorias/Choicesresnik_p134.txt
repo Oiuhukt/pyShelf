@@ -1,0 +1,40 @@
+DECISIONS UNDER RISK: UTILITY
+
+spans, quicker brains, sharper mathematical powers, and so forth. Thus our
+judgment that a given act is irrational could be entirely relevant to a theory of
+an ideally rational agent. In confronting the Ellsberg and Allais paradoxes, then,
+one of the chief issues will be whether we should take our aversion to the choices
+recommended by utility theory as failures on our part to be less than fully rational or as evidence that utility theory has incorrectly characterized rational choice
+under risk.
+Decision theorists have taken both approaches to those paradoxes. Savage,
+you will recall, tried to show us that the Allais paradox is simply a trick that
+is easily explained away when seen in a clear light. But others have complicated
+and revised decision theory to discount the utility of acts involving systems
+whose biases are unknown and to mark up those involving certainties. If we decide to reject Savage's or similar resolutions, we should take such theories seriously and see whether they harbor their own paradoxes or anomalies. Since
+these theories are even more complicated than standard utility theory, I must
+forgo that task here.
+The St. Petersburg and Predictor paradoxes, by contrast, are intended to
+show not that utility theory conflicts with our untutored views of rationality but
+rather that it is internally incoherent: that it offers, as in the Predictor paradox,
+conflicting recommendations, or that it commits us to something of infinite utility so long as there is no upper bound to our preferences. Again, there are those
+who have taken these paradoxes to heart and have offered revised versions of
+utility theory. Causal decision theory is an example. And again, there are experts who believe that these paradoxes dissolve when carefully analyzed. Eells
+is a case in point.
+There has been an additional and most interesting reaction to the Predictor paradox, however. Some people believe that it reveals that there are two
+types of rationality. One type is captured by decision theories that apply the
+dominance rule to the Predictor problem; the other is captured by theories that
+follow the rule of expected utility maximization. Thus, just as we have had
+alternative geometries for over a hundred years and alternative logics and
+set theories for the last fifty years, we might now have alternative decision
+theories.
+In sum, reactions to the paradoxes range from dismissing them as intellectual illusions to proposing revisions of utility theory to entertaining the possibility of alternative conceptions of rational choice. Plainly, it will be a while before
+a consensus on the paradoxes is obtained.
+4-7. References
+The classic presentation of the version of utility theory expounded in this chapter
+is contained in Von Neumann and Morgenstern. Raiffa is a clear introductory
+account, which focuses more on the relation between monetary values and utility
+than I have here. Savage contains a brief history of the concept of utility. For
+the Ellsberg and Allais paradoxes see Ellsberg and Allais, respectively. Replies
+119
+
+

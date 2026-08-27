@@ -1,0 +1,31 @@
+student of medicine is aware of the ubiquity of probabilities, particularly where uncertainty is
+involved (Djulbegovic, Hozo, and Greenland 2011).
+
+However, most of the discussion of probability in the philosophy of biology has focused on
+probability in evolution, and much of that has centered on the concept of “fitness” (followed
+closely, perhaps, by discussions of “random drift”). In part, that is a reflection of the philosophy
+of biology’s focus on evolution more generally, a focus that is now shifting to embrace the other
+areas of biology. Thus, it is somewhat apologetically that I find myself perpetuating rather than
+bucking the older trend.1 My reasoning is this: first, by discussing the probabilistic nature of
+fitness, I will be able to discuss a wide ranging, established literature; and second, because the
+literature is so well established, it can serve as a guideline for where discussions of probability in
+biology can go wrong and where they can go right. Indeed, my goal in this essay is to show
+how discussions of fitness in the philosophy of biology have gone profoundly off track, and to
+try to gently nudge them back on track, pointing out important insights that were missed along
+the way.
+
+I begin with a discussion of “fitness” in the work of Charles Darwin, which will also serve to
+introduce several key themes which are echoed in the contemporary discussion. I then provide
+an overview of the account of fitness that has garnered the lion’s share of discussions about
+fitness, the propensity interpretation of fitness, followed by some critiques that have been offered
+of it. Many of these critiques have focused on the mathematical aspects of fitness rather than
+
+1
+
+A second apology: although I attempt to survey a fair bit of the literature on fitness, the topic alone is so
+huge that (for reasons of space) there will be papers that I do not cite and concerns that I do not discuss.
+I have instead sought to focus on what I take to be the most central and interesting issues, though no
+doubt some of those have been inadvertently left out as well.
+2
+
+

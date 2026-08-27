@@ -1,0 +1,36 @@
+“”What Truth Is”’’ — 2018/3/20 — 14:28 — page 204 — #216
+
+204
+
+truthmaking and grounding
+
+(6.12) x truthmakes ⟨A⟩
+(6.13) ⟨A⟩ truthmakes ⟨B⟩
+(6.14) x does not truthmake ⟨B⟩
+Then by (t-grounding), x grounds [⟨A⟩ is true], ⟨A⟩ grounds [⟨B⟩
+is true], and x does not ground [⟨B⟩ is true]. But this is not a
+counterexample to transitivity of grounding, since [⟨A⟩ is true] is
+distinct from ⟨A⟩. The upshot is that truthmaking need not be a
+linear order, even if grounding is. (Griffith (2014, 205–6) offers a
+similar argument.)
+We will need to investigate the logical properties of truthmaking
+directly. Griffith (2014, 198) and Rodriguez-Pereyra (2015, 523–5) offer an argument that truthmaking is not irreflexive, not asymmetrical,
+and not transitive. (Tahko (2013) argues against transitivity of what
+he calls ‘truth-grounding’, but the argument is flawed, as RodriguezPereyra (2015, 524) notes.) Griffith and Rodriguez-Pereyra each
+consider the proposition
+p: ⟨p exists⟩
+to be a counterexample to irreflexivity and asymmetry. Since p says
+that p exists, it is made true by p, itself. That seems undeniable. So
+the only question is: is there such a proposition?
+One might think that there must be: after all, we know that
+there exist meaningful self-referential sentences asserting their own
+existence. Since these are true, they must express propositions. But
+those propositions aren’t self-referential. The sentence “p’ exists’
+expresses the non-self-referential proposition ⟨‘p’ exists⟩, asserting
+that the sentence ‘p’ exists. So consideration of self-referential
+sentences doesn’t settle the issue of whether there exist ‘self-referential’
+propositions such as p above.
+The answer depends on our account of what propositions are. Suppose they are of the non-Russellian structured kind (§1.2), containing
+representational entities. Then, by the familiar diagonal argument,
+
+

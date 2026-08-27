@@ -1,0 +1,44 @@
+Philosophy & Public Affairs
+
+340
+
+up the assumption that observing choices is the only source of data
+on welfare, a whole new world opens up, liberating us from the informational shackles of the traditional approach.
+This broader structure has many other uses, for example, permitting a clearer analysis of akrasia-the weakness of will-and clarifying
+some conflicting considerations in the theory of liberty, which I have
+tried to discuss elsewhere.43It also helps in analyzing the development
+of behavior involving commitment in situations characterized by
+games such as the Prisoners' Dilemma.44 This game is often treated,
+with some justice, as the classic case of failure of individualistic rationality. There are two players and each has two strategies, which we
+may call selfish and unselfish to make it easy to remember without
+my having to go into too much detail. Each player is better off personally by playing the selfish strategy no matter what the other does, but
+both are better off if both choose the unselfish rather than the selfish
+strategy. It is individually optimal to do the selfish thing: one can only
+affect one's own action and not that of the other, and given the other's
+strategy-no matter what-each player is better off being selfish. But
+this combination of selfish strategies, which results from self-seeking
+by both, produces an outcome that is worse for both than the result of
+both choosing the unselfish strategy. It can be shown that this conflict
+can exist even if the game is repeated many times.
+Some people find it puzzling that individual self-seeking by each
+should produce an inferior outcome for all, but this, of course, is a
+well-known conflict, and has been discussed in general terms for a
+very long time. Indeed, it was the basis of Rousseau's famous distinc43. See Sen, "Choice, Orderings and Morality"; and also Sen, "Liberty, Unanimity and Rights," Economica 43 (1976). Note also the relevance of this structure in analyzing the incompleteness of the conception of liberty in terms of
+the ability to do what one actually wishes. Cf. "If I find that I am able to do little
+or nothing of what I wish, I need only contract or extinguish my wishes, and I
+am made free. If the tyrant (or 'hidden persuader') manages to condition his
+subjects (or customers) into losing their original wishes and embrace ('internalize') the form of life he has invented for them, he will, on this definition, have
+succeeded in liberating them." I. Berlin, "Two Concepts of Liberty," in Four
+Essays on Liberty (Oxford,
+
+I969),
+
+pp. 139-140).
+
+44. See R.D. Luce and H. Raiffa, Games and Decisions (New York, 1958);
+A. Rapoport and A.M. Chammah, Prisoner's Dilemma: A Study in Conflict and
+Cooperation (Ann Arbor, I965); W.G. Runciman and A.K. Sen, "Games, Justice
+and the General Will," Mind, 74 (I965); N. Howard, Paradoxes of Rationality
+(Cambridge, Mass., 1971).
+
+

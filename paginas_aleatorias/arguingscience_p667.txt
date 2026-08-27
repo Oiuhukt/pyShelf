@@ -1,0 +1,82 @@
+670 Pierre Duhem
+light consists in simple periodic vibrations, that
+these vibrations are normal to the light ray, that
+at each point the mean kinetic energy of the
+vibratory motion is a measure of the intensity of
+light, that the more or less complete attack of
+the gelatine coating on a photographic plate
+indicates the various degrees of this intensity. By
+joining these propositions, and many others that
+would take too long to enumerate, to Neumann’s
+proposition, Wiener was able to formulate a
+forecast and establish that the experiment belied
+it. If he attributed this solely to Neumann’s
+proposition, if it alone bears the responsibility
+for the error this negative result has put in
+evidence, then Wiener was taking all the other
+propositions he invoked as beyond doubt. But
+this assurance is not imposed as a matter of
+logical necessity; nothing stops us from taking
+Neumann’s proposition as accurate and shifting
+the weight of the experimental contradiction to
+some other proposition of the commonly
+accepted optics; as H. Poincaré has shown, we
+can very easily rescue Neumann’s hypothesis
+from the grip of Wiener’s experiment on
+the condition that we abandon in exchange the
+hypothesis which takes the mean kinetic energy
+as the measure of the light intensity; we may,
+without being contradicted by the experiment,
+let the vibration be parallel to the plane of polarization, provided that we measure the light
+intensity by the mean potential energy of the
+medium deforming; the vibratory motion.
+These principles are so important that it will
+be useful to apply them to another example;
+again we choose an experiment regarded as one
+of the most decisive ones in optics.
+We know that Newton conceived the emission theory for optical phenomena. The emission theory supposes light to be formed of
+extremely thin projectiles, thrown out with very
+great speed by the sun and other sources of
+light; these projectiles penetrate all transparent
+bodies; on account of the various parts of the
+
+media through which they move, they undergo
+attractions and repulsions; when the distance
+separating the acting particles is very small these
+actions are very powerful, and they vanish when
+the masses between which they act are appreciably far from each other. These essential hypotheses joined to several others, which we pass over
+without mention, lead to the formulation of a
+complete theory of reflection and refraction of
+light; in particular, they imply the following
+proposition: The index of refraction of light
+passing from one medium into another is equal
+to the velocity of the light projectile within the
+medium it penetrates, divided by the velocity of
+the same projectile in the medium it leaves
+behind.
+This is the proposition that Arago chose in
+order to show that the theory of emission is in
+contradiction with the facts. From this proposition a second follows: Light travels faster in
+water than in air. Now Arago had indicated an
+appropriate procedure for comparing the
+velocity of light in air with the velocity of light
+in water; the procedure, it is true, was inapplicable, but Foucault modified the experiment in
+such a way that it could be carried out; he found
+that the light was propagated less rapidly in
+water than in air. We may conclude from this,
+with Foucault, that the system of emission is
+incompatible with the facts.
+I say the system of emission and not the hypothesis of emission; in fact, what the experiment
+declares stained with error is the whole group of
+propositions accepted by Newton, and after him
+by Laplace and Biot, that is, the whole theory
+from which we deduce the relation between the
+index of refraction and the velocity of light in
+various media. But in condemning this system
+as a whole by declaring it stained with error, the
+experiment does not tell us where the error lies.
+Is it in the fundamental hypothesis that light
+consists in projectiles thrown out with great
+speed by luminous bodies? Is it in some other
+
+

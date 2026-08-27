@@ -1,0 +1,45 @@
+https://doi.org/10.1017/9781108754750 Published online by Cambridge University Press
+
+36
+
+Decision Theory and Philosophy
+
+the other, it’s neither irrational to accept nor irrational to turn down the trade at
+node 2.
+Taking this into account at node 1, we find that turning the trade down has
+a rationally allowed outcome (A−− ) that is less preferred than the prospect of
+accepting the trade (A− ) but turning the trade down cannot lead (via choices
+that aren’t irrational) to a prospect that is preferred to the prospect of accepting
+the trade. So, by precautionary backward induction, you accept the trade at
+node 1. Alternatively, we could rely on Minimal Unidimensional Precaution,
+which also prescribes going up at node 1 (since A−− is a souring of A− and you
+do not prefer B to A−− ). Hence you accept the first trade and end up with A− ,
+even though you could have kept A for free.
+The Precaution Money Pump isn’t BI-terminating, since going down at
+node 2 is allowed by backward induction and would be followed by the choice
+at node 3. Even so, we can still defend the prescriptions of precautionary backward induction or Minimal Unidimensional Precaution combined with standard
+backward induction without assuming that you retain your rationality and your
+trust in your rationality at nodes that can only be reached by irrational choices.
+As before, we only need the assumption that, at nodes that can be reached
+without making any irrational choices, you retain (i) your rationality and (ii)
+your trust in your rationality at nodes that can be reached without making any
+irrational choices.
+Assume, for proof by contradiction, that each of nodes 2–4 can be reached
+without making any irrational choices. Then, at nodes 1–4, you retain your
+rationality and your trust in your rationality at these nodes. Hence, at node 4,
+you might choose either of A and B− , since neither prospect is preferred to
+the other (so neither option is rationally prohibited at node 4). Taking this into
+account with precautionary backward induction, we find that it’s irrational to
+turn down the trade at node 3. Alternatively, we could rely on Minimal Unidimensional Precaution, which also entails that it’s irrational to turn down the
+trade at node 3 (since B− is a souring of B and you do not prefer A to B− ).
+But this conclusion, that it’s irrational to turn down the trade at node 3, contradicts our assumption that each of nodes 2–4 can be reached without making
+any irrational choices.
+Assume next, for proof by contradiction, that each of nodes 2 and 3 can be
+reached without making any irrational choices. Then, at nodes 1–3, you retain
+your rationality and your trust in your rationality at these nodes. Since we have
+already shown that it’s irrational to go down at (at least) one of nodes 1–3, it
+must be irrational to go down at node 3. So it’s rationally required to accept
+the trade at node 3. So you would accept the trade at node 3. Then, taking this
+prediction into account at node 2, the choice at that node is effectively between
+
+

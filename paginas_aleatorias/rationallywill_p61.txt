@@ -1,0 +1,50 @@
+636-p.qxd
+
+4/19/2004
+
+2:00 PM
+
+Page 345
+
+[Parfit] What We Could Rationally Will
+
+345
+
+not justify his rejection of this formula, Rawls’s contractualism does
+not, as he believes, provide an argument against utilitarianism.
+As Rawls points out, there is another ground on which we might
+justiŠably reject some formula. We may be right to reject some formula,
+however plausible it seems, if this formula’s implications conšict with
+some of our strongest moral beliefs. Since Rawls assumes that utilitarianism conšicts with such beliefs, he might claim that we can justiŠably
+reject the equal-chance formula on the ground that it leads to an unacceptable conclusion.
+If Rawls made this claim, however, his contractualism would still
+provide no argument against utilitarianism. Rawls would be appealing
+to our nonutilitarian beliefs to justify our rejecting the equal-chance
+formula and appealing to his no-knowledge formula. So he could not
+also claim that, by rejecting the equal-chance formula and appealing to
+his no-knowledge formula, we could justify our nonutilitarian beliefs. If
+we defend some argument by appealing to certain beliefs, we cannot
+then defend these beliefs by appealing to this argument.
+Rawls might retreat to the claim that, though the equal-chance formula supports utilitarianism, his no-knowledge formula supports acceptable nonutilitarian principles. If that were true, Rawls’s appeal to
+his formula would at least show that veil of ignorance contractualists do
+not have to accept utilitarian conclusions. But Rawls’s Formula cannot,
+I believe, achieve this aim.
+When he appeals to his formula, Rawls argues that, if we had no
+knowledge of the probabilities, we ought rationally to assume the
+worst, and try to make our worst possible outcome as good as possible.
+We ought therefore to choose the principles whose acceptance would
+make the equally worst-off people as well off as possible. Since this argument tells us to maximize the minimum level, we can call it the Maximin
+Argument.75
+75
+Rawls sometimes deŠnes the worst-off group in broad terms, so that this group includes many people who are better off than some other people. On one suggestion, for example, the worst-off people are those whose income is below the average income of unskilled
+workers (TJ, p. 98, RE, p. 84). But, if the Maximin Argument were sound, it would support
+a much narrower deŠnition of this group. On this argument, each person ought to try to
+make her own worst possible outcome as good as possible. On Rawls’s deŠnition, we should
+support policies that make the representative or average member of the worst-off group better off, even when that would be worse for the worst-off people in this group. That is precisely what, when applied to society as a whole, Rawls’s argument is claimed to oppose.
+When defending his broad deŠnitions, Rawls writes: “we are entitled at some point to plead
+practical considerations, for sooner or later the capacity of philosophical or other arguments
+to make Šner discriminations must run out.” But there is no difŠculty in describing the
+worst-off group as those who are equally worst-off, since they are not better off than anyone
+else.
+
+

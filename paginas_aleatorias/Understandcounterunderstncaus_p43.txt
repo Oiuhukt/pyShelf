@@ -1,0 +1,44 @@
+34
+
+J A M E S WO O DWA R D
+
+that different neural regions or circuits are involved in reasoning with these two sorts of
+conditionals—a claim that might be assessed by imaging studies in the case of adults or
+conceivably by lesion studies showing dissociations between the abilities to reason with
+the two sorts of conditionals. If distinct neural areas or circuits are found, one might then
+investigate their developmental time course and determine whether it is true that areas
+associated with future hypothetical reasoning become operational in children before
+areas associated with ‘counterfactual’ reasoning—this might then serve as an independent check on the conclusions about this drawn from studies of verbal behavior.
+
+4 Counterfactuals and Causation: Background
+The relationship between counterfactuals and causal claims has been a major focus of
+discussion in both philosophy and psychology for decades. As a point of departure, it
+will be useful to separate out a number of different more speciﬁc issues that fall under
+this general heading. (I do not claim that these issues are sharply distinct—they tend to
+blend into each other.)
+(1) Issues having to do with providing an account of the semantics (or content or
+meaning or truth conditions) of causal claims in terms of counterfactuals and/or with
+whether causal claims imply (in virtue of their meaning) associated counterfactual
+claims (or vice versa). The counterfactual theories of causation developed in the
+philosophical literature such as Lewis (1973) and Mackie (1974) have tended to focus
+on such issues. Lewis’ extremely inﬂuential account is explicitly reductive: his aim is to
+provide necessary and sufﬁcient conditions for claims of the form c causes e, where c and
+e are individual events (that is, so-called token causal claims—see Section 6), in terms of
+counterfactuals involving c and e, where it (is claimed) these counterfactuals can be
+understood in a way that does not presuppose causal notions. (In a bit more detail
+Lewis deﬁnes causation in terms of causal dependence: Simplifying slightly, e causally
+depends on c if and only if the following two counterfactuals are true: (i) if c were to
+occur, e would occur, (ii) if c were not to occur, e would not occur. C causes e if and
+only if there is a chain of events c, c1 . . . cn, e such that each member in the chain
+(except c) is causally dependent on the event before it. Causation is thus the transitive
+closure of causal dependence which is itself deﬁned in terms of counterfactuals.) It
+should be borne in mind, however, that even if such reductive projects are unsuccessful
+(and the relevant counterfactuals require causal notions for their speciﬁcation), it still
+might be true that there are interesting and important interrelationships between causal
+claims and counterfactuals. For example, my own ‘interventionist’ account of causation, described in more detail below, takes this view—causal claims are connected to a
+special kind of counterfactual but spelling out the content of these counterfactuals
+requires (other) causal information. Whether reductive or non-reductive, philosophical accounts that connect causes and counterfactuals have generally focused on what
+I call below a broad notion of causation—their goal has been to use counterfactuals to
+distinguish between causal and other sorts of relationships such as those involving mere
+
+

@@ -1,0 +1,28 @@
+Chapter 2
+Chance
+
+Conan Doyle’s analysis of his version of Matching Pennies in The
+Final Problem doesn’t reﬂect much credit on his hero’s supposed
+intellectual mastery. Edgar Allan Poe does better in the Purloined
+Letter, in which the villain has stolen a letter, and the problem is
+where to look for it.
+Poe argues that the way to win is to extend chains of reasoning of
+the form ‘He thinks that I think that he thinks that I think . . . ’ one
+step further than your opponent. In defence of this proposition, he
+invents a boy who consistently wins at Matching Pennies by
+imitating his opponent’s facial expression, thereby supposedly
+learning what he must be thinking. It is admittedly amazing how
+many Poker players give their hands away by being unable to
+control their body language, but Alice and Bob can’t both use
+Poe’s trick successfully even if neither ever learns to keep a Poker
+face.
+Game theory escapes the apparent inﬁnite regression with which
+Alice and Bob are faced by appealing to the idea of a Nash
+equilibrium. But we are still left with a problem, because the trick
+of circling best replies doesn’t work for Matching Pennies. After
+circling all the payoffs in Figure 3 that are best replies, we end up
+with two Nash equilibria in the Driving Game, but none at all in
+Matching Pennies.
+22
+
+

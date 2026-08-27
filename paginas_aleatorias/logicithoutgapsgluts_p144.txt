@@ -1,0 +1,52 @@
+7.6 Paracompleteness and Hierarchies: Field Vs. Tarski and Maudlin
+
+139
+
+Crucially, this is not a purely epistemic notion. If I write an obviously true “object
+language” sentence on a chalkboard, and a very quiet and sneaky person manages to
+erase it and replace it with “The sentence Ben Burgis is saying right now is false”
+without alerting me in any way, then my witlessly paradoxical statement “The
+sentence on the chalkboard is true” will be impermissible on Maudlin’s account.
+Field ﬁnds this move unsatisfying.
+This does indeed handle the problem of agreement and disagreement, but only by inventing
+another notion to do the job that truth has been standardly thought to do. (Indeed, I suspect
+that many people will regard their own conception of truth as closer to Maudlin’s conception
+of objective permissibility than to Maudlin’s conception of truth.) And obviously, if we
+allow a notion of objective permissibility in addition to truth then it will raise paradoxes of
+its own: e.g., sentences that assert their own objective impermissibility. Maudlin of course is
+well aware of this, and proposes a solution. In this case what he proposes is not a (T-OUT)
+solution (or rather, a (Permissibility-OUT)) solution; instead, he offers a solution of a more
+standardly Tarskian kind (Field 2008, p. 141).
+
+What Field seems to mean by accusing Maudlin of Tarskianism is that Maudlin
+ends up multiplying permissibility operators in a way that is reminiscent of Tarski’s
+hierarchy of truth operators. It is worth noting that Maudlin goes out of his way to
+deny this analogy. His view is that various rules for permissibility are all desirable
+(some of which will, as Field suggest, look an awful lot like standard rules governing
+our ordinary understanding of truth), but as the Rolling Stones have taught us you
+can’t always have what you want. Given some of the hard choices between different
+rules that cannot co-exist within the same set of rules without inconsistency, Maudlin
+thinks that multiple distinct sets of rules will be equally satisfactory. Liar-like
+sentences constructed with one sort of impermissibility operator might not be
+impermissible relative to the set of rules deﬁning that operator, but can still be
+impermissible relative to another set of rules. When he introduces his multiplicity of
+permissibility operators, he stresses the ways in which the resulting picture is
+un-Tarskian.
+It is certainly correct that the language we have been discussing up to now is importantly
+incomplete: it does not contain “permissibility predicates”, and must be expanded to include
+them if it is to become as expressively rich as English. And it is also correct that expanding
+the language to include these predicates will cause us some headaches. But [. . .] it is not so
+obvious that much is gained by characterizing the expanded language as a metalanguage, at
+least not if that tacitly suggests that there ought to be an even more expansive metametalanguage. [. . .W]e have expanded the language to include an inﬁnitude of such predicates, all at one fell swoop. And this collection of predicates does not, in any obvious way,
+have a structure or form a hierarchy. There are not different “levels” of predicates (Maudlin
+2004, pp. 170–171).
+
+Putting aside the issue of whether Field’s charge of Tarskianism is a fair one, let
+us ask a more basic question. Assuming for the sake of argument that Field is right to
+say that (a) Maudlin can only disagree by introducing a new notion to do the work
+that falsity normally does, and (b) Maudlin can only solve the paradoxes that arise
+given this new notion with a move that looks distinctly Tarskian, and inherits many
+of the problems of Tarskianism, does all this add up to a good reason to reject
+Maudlin’s solution to the paradoxes?
+
+

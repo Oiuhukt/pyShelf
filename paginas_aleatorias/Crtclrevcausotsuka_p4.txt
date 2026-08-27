@@ -1,0 +1,55 @@
+462
+
+J. Otsuka
+
+change in the mean growth rate in terms of the variance of relative growth rates, or
+ ¼ Var(W)= 
+DW
+W, where the growth rate W of each type (e.g., allele) in the
+population measures the increase or decrease of its share in the next generation.
+Another example is the Price equation DZ ¼ Cov(Z, W)= 
+W, which expresses the
+change in the phenotypic mean Z in terms of the covariance of the phenotype Z and
+the fitness (i.e., the number of offspring) W divided by the mean fitness 
+W. It is well
+known that the Price equation is an algebraic truth that holds just in virtue of the
+axioms of probability theory and the definitions of the mean, covariance, and the
+variables used therein.1 The same is true of Li’s theorem, which is a special case of
+the Price equation obtained by substituting phenotype Z in the Price equation for
+fitness or growth rate W and noting the covariance of a variable with itself is its
+variance.
+If the general principles of evolution are a priori truths, predicting evolutionary
+changes is just a matter of algebraic calculation that requires no causal or even
+empirical assumption. On this ground statisticalists conclude ‘‘selection is
+mathematical in nature, and independent of the particular causal laws that produce
+growth’’ (Matthen and Ariew 2002, p. 74). This is not to deny that a selective
+episode consists of a host of causal interactions that culminate in individual births
+and deaths. The claim is rather that mathematical population genetics abstracts away
+all these causal substrates and studies selection as a purely mathematical
+relationship that can be described with a priori theorems. ‘‘Li’s theorem tells us
+nothing about causes of growth: it is a general truth about growth regardless of how
+it is caused’’ (ibid.). Assumptions regarding causal details play no substantive role
+in establishing this ‘‘general truth’’ and thus in predicting evolutionary changes—
+hence follows the statisticalist doctrine that evolutionary theory is not a causal but
+purely statistical theory.
+Causalist responses
+Critics of the statisticalism have challenged this purely mathematical characterization of population genetics in two ways. The first line of response is to assert that
+statisticalists are looking at the wrong place to read off a causal implication of the
+theory. Millstein et al. (2009) criticize statisticalists for deriving their conclusion
+from the mere fact that selection is expressed by some mathematical formula. The
+fact that something can be represented with an a priori equation does not prove its
+non-causal nature, they argue, because it is not an equation itself but an
+interpretation that gives a causal content. Take their example of a binomial
+equation ðp þ qÞ2 ¼ p2 þ 2pq þ q2 ¼ 1. This same equation can be thought of as
+representing either genotype frequencies at Hardy-Weinberg equilibrium, or the
+area of a unit square divided into four rectangles (one square with the size p2 ,
+another with q2 , and two rectangles with pq). But the equation itself is silent as to
+which of these representations is correct: the representational content of the
+equation, and thus whether it represents a causal or physical process at all, is
+1
+
+See e.g., Okasha (2006) for a derivation of the Price equation.
+
+123
+
+

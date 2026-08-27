@@ -1,0 +1,35 @@
+Gödel’s Incompleteness Theorems
+Elements in Philosophy and Logic
+DOI: 10.1017/9781108981972
+First published online: March 2022
+
+Juliette Kennedy
+University of Helsinki
+Author for correspondence: Juliette Kennedy, juliette.kennedy@helsinki.fi
+
+Abstract: This Element takes a deep dive into Gödel’s 1931 paper giving
+the first presentation of the Incompleteness Theorems, opening up
+completely passages in it that might possibly puzzle the student, such as
+the mysterious footnote 48a. It considers the main ingredients of Gödel’s
+proof – arithmetization, strong representability, and the Fixed Point
+Theorem – in a layered fashion, returning to their various aspects –
+semantic, syntactic, computational, philosophical, and mathematical – as
+the topic arises. It samples some of the most important proofs of the
+Incompleteness Theorems, for example, due to Kuratowski, Smullyan, and
+Robinson, as well as newer proofs, also of other independent statements,
+due to Friedman, Weiermann, and Paris-Harrington. It examines the
+question whether the incompleteness of, for example, Peano Arithmetic
+immediately gives the undecidability of the Entscheidungsproblem, as
+Kripke has recently argued. It considers set-theoretical incompleteness,
+and finally considers some of the philosophical consequences considered
+in the literature.
+Keywords: Gödel, First Incompleteness Theorem, Second Incompleteness
+Theorem, Fixed Point Theorem, Diagonalization
+© Juliette Kennedy 2022
+ISBNs: 9781108986991 (PB), 9781108981972 (OC)
+ISSNs: 2516-418X (online), 2516-4171 (print)
+
+Downloaded from https://www.cambridge.org/core, IP address: 201.141.17.208, on subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/9781108981972
+
+

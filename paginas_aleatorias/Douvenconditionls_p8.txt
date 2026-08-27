@@ -1,0 +1,68 @@
+vi
+
+Contents
+4.3
+4.4
+4.5
+4.6
+4.7
+
+5
+
+The role of evidential support
+Anticipated objections
+Aside: the acceptability of counterfactuals
+Testing the role of evidential support
+Refining the proposal?
+
+Closure
+5.1 The Lottery and Preface Paradoxes, conditional versions
+5.2 Closure principles: analytical results
+5.3 Going beyond strict validity: a conjecture
+5.4 Determining degrees of validity
+5.5 Testing the conjecture: some pointers
+
+107
+109
+115
+117
+120
+123
+124
+127
+133
+136
+145
+
+6 Updating
+6.1 The data
+6.2 Charting the field
+6.3 Updating on conditionals as explanatory reasoning
+
+150
+151
+154
+164
+
+7
+
+173
+
+Progress?
+
+APPENDICES
+A Proof of Theorem 5.2.1
+
+179
+
+B Survey experiment materials
+
+196
+
+Bibliography
+Index
+
+197
+213
+
+

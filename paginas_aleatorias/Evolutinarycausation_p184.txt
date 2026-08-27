@@ -1,0 +1,42 @@
+The ­Causes of a Major Transition
+
+175
+
+Box 9.1
+
+A Darwinian Space
+Peter Godfrey-­Smith (2009) described a multidimensional space where populations of any
+kind can be placed to account for their capacity to evolve by natu­ral se­lection. Paradigm cases
+of such “Darwinian populations” include familiar multicellular organisms like fish. ­These
+score high on all of the axes of the Darwinian space. Other entities, like sponges or bacteria
+films, score lower on at least one of the axes. Despite that all of t­hese are, in some sense,
+collectives of individuals (fish, sponges, and biofilms are made up of individual cells), only
+some have evolutionary potential as populations of collectives. Other collectives, such as a
+school of fish, have virtually no capacity to undergo evolution by natu­ral se­lection—­the
+relevant pro­cess is taking place at the level of the fish, not the school.
+Godfrey-­Smith described five population features that support a high capacity for evolution by natu­ral se­lection:
+V: Variation. Without variation, natu­ral se­lection has no raw material to work on. In addition
+to current standing variation, the long-­term ability for adaptive evolution depends on an
+ability to generate new functional variants.
+H: Fidelity of Inheritance. Adaptive evolution depends on parent–­offspring similarity. Note
+that in Darwinian space the fidelity concept is not the same as the technical definition of
+heritability, but is a general mea­sure of reliability of phenotype resemblance of parent and
+offspring.
+S: Intrinsicness of Fitness. The extent to which fitness differences within a population depend
+on the intrinsic characters of the individuals rather than external features, such as their location. That is, fitness should be a function of the fit between characters that belong to the
+individual and its par­tic­ul­ar context, not context alone.
+C: Continuity of the Fitness Landscape. Cumulative adaptive evolution is thwarted in a
+rugged fitness landscape, where small changes in the heritable material lead to very large
+changes in fitness.
+α: Competition. Describes the extent to which reproductive success of one member of a
+population affects success of ­others or the extent to which reproduction is a zero-­sum game.
+Some life cycle features make collectives more likely to be members of a Darwinian population b­ecause they reduce the evolutionary potential of the individuals that make up
+collectives:
+B: Bottleneck refers to the extent to which a life cycle features a stage with a limited material
+overlap and/or low ge­ne­tic diversity, such as the zygote stage of a multicellular organism.
+This is impor­tant for ensuring high relatedness and low variation among group members.
+G: Germline-­Soma Separation, or Reproductive Division of ­Labor, refers to the extent to
+which group members vary in their chances of reproduction. This is impor­tant for which
+(continued)
+
+

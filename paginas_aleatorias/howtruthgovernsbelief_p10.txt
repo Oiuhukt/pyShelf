@@ -1,0 +1,37 @@
+Philosophical Review
+
+NISHI SHAH
+
+his account, to judge a belief warranted on the basis of the reasons one
+has for thinking it desirable. Gibbard’s account thus does not have a
+way to distinguish norms of desirability from the type of norms that
+guide doxastic deliberation. He does not have the resources to distinguish these two different dimensions of endorsement precisely
+because he wants his concept of warrant to be general enough to capture what is common to all genuinely normative judgments. If Gibbard
+were to force an evidential constraint into the concept of warrant as
+such, so that he could capture the evidential constraint on norms of
+rational belief, then he would lose the ability to account for rationality
+judgments about cognitive attitudes other than belief, such as judgments of what it is rational to assume for the sake of argument or to
+imagine for the sake of a fantasy. Norms of rationality for these other
+cognitive attitudes are not evidentially constrained, and therefore a
+theorist who wants to use a single normative concept to elucidate the
+many different varieties of normative judgment, as Gibbard does, cannot evidentially constrain that concept. Given Gibbard’s purposes, his
+concept of warrant cannot accommodate an interpretation of his comments that would allow him to distinguish the endorsement involved in
+judging a belief rational from that involved in judging it desirable. 21
+In any case, remember that the goal of this paper is first and foremost to explain transparency, not to explain the evidential character of
+doxastic norms. Even if Gibbard were to give up the ambition of giving
+a general account of normative judgment, instead tailoring his account
+of warrant specifically to capture our evidentially constrained concept
+of rational belief and thereby availing himself of the second interpretation of his comments, this move would not explain transparency.
+This is not to make a criticism of Gibbard’s theory, since it may very well
+be adequate to fulfilling his own (now more limited) explanatory ambitions. My point is that a norm-expressivist account of (evidential) warrant isn’t adequate to my purpose, which is to explain why in asking
+oneself whether to believe that p one is forced to recognize that this question is answered by, and only by, determining whether p is true. To see
+this, notice that transparency would survive our adopting pragmatic
+norms (if only we could). For example, even if the cuckholded husband were able to accept pragmatic doxastic norms that licensed
+believing that his wife is faithful, he would still be unable to conclude
+deliberation until he had discovered (by his lights) whether it is true
+that his wife is faithful. He would be in the unfortunate position of
+accepting doxastic norms that he was unable to implement in his dox456
+
+Published by Duke University Press
+
+

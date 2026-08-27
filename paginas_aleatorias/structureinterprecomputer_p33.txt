@@ -1,0 +1,29 @@
+Lisp compilers have been developed that translate programs into machine code that can perform numerical computations reasonably eﬃciently. And for special applications, Lisp has been used with great effectiveness.3 Although Lisp has not yet overcome its old reputation as
+hopelessly ineﬃcient, Lisp is now used in many applications where efﬁciency is not the central concern. For example, Lisp has become a language of choice for operating-system shell languages and for extension
+languages for editors and computer-aided design systems.
+If Lisp is not a mainstream language, why are we using it as the
+framework for our discussion of programming? Because the language
+possesses unique features that make it an excellent medium for studying
+important programming constructs and data structures and for relating
+them to the linguistic features that support them. e most signiﬁcant of
+these features is the fact that Lisp descriptions of processes, called procedures, can themselves be represented and manipulated as Lisp data. e
+importance of this is that there are powerful program-design techniques
+that rely on the ability to blur the traditional distinction between “passive” data and “active” processes. As we shall discover, Lisp’s ﬂexibility
+in handling procedures as data makes it one of the most convenient
+languages in existence for exploring these techniques. e ability to
+represent procedures as data also makes Lisp an excellent language for
+writing programs that must manipulate other programs as data, such as
+the interpreters and compilers that support computer languages. Above
+and beyond these considerations, programming in Lisp is great fun.
+3
+
+One such special application was a breakthrough computation of scientiﬁc
+importance—an integration of the motion of the Solar System that extended previous
+results by nearly two orders of magnitude, and demonstrated that the dynamics of the
+Solar System is chaotic. is computation was made possible by new integration algorithms, a special-purpose compiler, and a special-purpose computer all implemented
+with the aid of soware tools wrien in Lisp (Abelson et al. 1992; Sussman and Wisdom
+1992).
+
+5
+
+

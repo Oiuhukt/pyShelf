@@ -1,0 +1,46 @@
+Philosophy and Science
+
+9
+
+epistemological question of whether and how we can know anything about these
+atoms. Locke held that unobservable atoms and combinations of them caused
+our experiences and that some of the features of our experience resemble the
+properties of these atoms and the things made of them. The ones that Locke
+believed resemble the features of the objects—​collections of corpuscles that cause
+our experiences—​just happen to be the ones that seventeenth-​century physics
+invoked: size, shape, matter. By contrast, Locke held that features of our experience like color, smell, taste, and texture were subjective properties of our experience
+that did not resemble the real properties of things that caused these experiences.
+Of course Locke did not appeal to physics in arguing for this claim. He thought he
+had deeper philosophical arguments for why our experiences represented reality
+at least in some of their features. Whence came the name for Locke’s epistemology, “representative realism.”
+Few scientists and philosophers were satisfied with Locke’s theory since there
+was no way to compare our experiences to their causes in order to determine
+whether the former resembled the latter. In fact, they held, Locke’s solution to
+the problem of how we can have scientific knowledge about the world beyond
+our immediate observations simply encouraged skepticism about the claims of
+science. The general dissatisfaction with Locke’s view sent philosophers and
+scientists in two different directions for their epistemologies, theories of the
+nature, extent, and justification of knowledge: empiricism and rationalism.
+These two theories of knowledge will come up repeatedly in this book, so it is
+worth briefly explaining them and their differences. The original debate between
+these two epistemologies was about whether we had innate knowledge about
+the world and its nature. Descartes championed innateness. Locke repudiated
+it. The dispute about innateness seems to be a psychological one: is some of the
+knowledge everyone grants that people have somehow already inside their heads,
+known before birth, or is it all learned after birth by a mind that comes into the
+world as a blank slate, a tabula rasa? Following Descartes, rationalists in psychology and philosophy held the former view, empiricists the latter.
+Over time, at least among philosophers, this disagreement moved from being
+a disagreement about the causes of our beliefs and knowledge to a dispute about
+the grounds or justification of knowledge. Empiricists held that all beliefs about
+the nature of things are justified by experience, observation, the collection of
+data, and the contrivance of experiments. Rationalists held that at least some
+beliefs, usually the most important, general, and fundamental ones in science,
+are justified by “pure reason” alone, and cannot be grounded on experience. Such
+beliefs are known to be true by the dint of the mind’s employment of its own
+unaided powers of (presumably logical) thought. Notice the asymmetry here,
+which will continue to be important. Empiricists hold that anything we know
+about the world requires justification by experience. Rationalists by and large
+agree that most of what we know does require justification by experience. Theirs
+is not the contrary thesis that everything we know is justified without experience. Rather, they hold that in addition to a lot of knowledge that is justified by
+
+

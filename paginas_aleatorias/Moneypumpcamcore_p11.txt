@@ -1,0 +1,51 @@
+Money-Pump Arguments
+
+5
+
+are offered a second trade from C to B. Since you prefer B to C, you also accept
+this second trade. Finally, after the second trade, you are offered a third trade
+from B to A− , where A− is just like A except that you have less money and
+(2) A ≻ A− ≻ B.
+We can let the payment be monetary to fit the exploitation framing, but the
+main point is that A− is less preferred than A by being certainly inferior with
+respect to some dimension you care about and the same in other respects. 15
+Let a souring of a prospect X be a prospect that is just like X except that it is
+certainly inferior in a dimension the agent cares about. (And let a sweetening of
+a prospect X be a prospect that is just like X except that it is certainly superior
+in a dimension the agent cares about.)
+That there is an A− like this follows from (1) by the following requirement
+of rationality: 16
+Unidimensional Continuity of Preference If X ≻ Y, then there is a prospect X − such that (i) X − is a souring of X and (ii) X ≻ X − ≻ Y.
+
+The idea is that, if you (strictly) prefer X to Y, you must prefer X with
+some margin. So there should be some, perhaps minimal, amount you’re willing to pay to get X rather than Y. 17 This is what blocks trivial responses to the
+
+https://doi.org/10.1017/9781108754750 Published online by Cambridge University Press
+
+15
+
+There’s no special relationship between money and rationality. If you don’t prefer having more
+money, there’s nothing irrational about freely losing money. See Gustafsson 2013, pp. 462–4.
+16 Hansson 1993, p. 478. Note that this principle differs from Continuity, which we won’t assume.
+(We will defend Continuity in Section 6.) Unidimensional Continuity of Preferences, in contrast to Continuity, does not cover continuity of probability for preferences over prospects.
+(This also applies to Weak Insensitivity to Souring in Section 3 and Unidimensional Continuity
+of Dispreference in Section 4.2.)
+17 It may seem strange that a requirement of rationality would have any implications for what
+things exist. Note, however, that the things that are mentioned in the requirement are only taken
+to exist as possibilia, not as concrete things. The same worry about existential implications also
+applies to Continuity (see Section 6). A potential solution is to replace the existential quantifier
+with a ‘some’ quantifier that lacks existential implications. See Priest 2005, pp. 11–14. Another
+worry is that Unidimensional Continuity of Preference prohibits rational agents from caring
+exclusively about discrete things in final outcomes (such as money in the smallest possible
+denomination or the smallest noticeable differences of pleasure). To deal with this worry, we
+could rely on the following probabilistic variant:
+Stochastic Unidimensional Continuity of Preference If X ≻ Y, then there is a prospect X − and some probability p such that (i) X − is a souring of X, (ii) 0 ≤ p < 1, and
+(iii) XpX − ≻ Y.
+Here, XpX − is a prospect consisting in a lottery between X and X − such that X occurs with
+probability p and X − occurs with probability 1 − p. If we rely on this alternative principle,
+the exploitation would only be probabilistic. If a money-pump set-up makes you choose XpX −
+over X, then the exploiter only gets your money with some probability but they still risk nothing.
+These adjustments could also be made for the other principles we’ll assume about the existence
+of sourings and sweetenings.
+
+

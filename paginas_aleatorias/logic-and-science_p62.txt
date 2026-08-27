@@ -1,0 +1,54 @@
+56
+
+Philosophy and Logic
+
+understand simplicity?102 Here the state of the debate within the philosophy of
+logic is less developed than in the case of the notion of strength. One intuitive
+way of characterizing simplicity is by means of avoidance of gerrymandered
+concepts or ad hoc hypotheses to account for phenomena that could be equally
+accounted for with more joint-carving concepts and avoiding the postulation of
+ad hoc hypotheses. Ceteris paribus, if two theories can equally explain a given
+set of phenomena but one theory, T1, uses more (or more gerrymandered)
+theoretical resources than the other theory T2, then T2 is favored over T1.103
+So for example, in science simple theories often have greater predictive power
+than more complex ones, making it easier to foresee outcomes and design
+experiments. Or, again, consider simplicity in its relation with the notion of
+elegance:104 Scientists appreciate elegant theories that can explain a wide range
+of phenomena with minimal assumptions or complexity, rather than theories
+that are more complex and considered less elegant. Thus, a simpler theory can
+be chosen for pragmatic reasons (it is easier to handle) or for aesthetic reasons
+(it’s more elegant). However, perhaps the most signiﬁcant – and to some extent,
+controversial – reason for favouring a simpler theory concerns considerations
+regarding the relationship between simplicity and truth: ceteris paribus,
+a simpler theory is taken to be more plausible (more probable, or with
+a higher expected degree of predictive accuracy) than its less simple rivals.
+The concept of simplicity poses notably intricate challenges in the philosophy of science, challenges that extend into the philosophy of logic as well. As
+Quine has pointed out, there may be a tension between simplifying the ontology
+and simplifying the ideology (as he calls it): roughly, postulating the existence
+of more entities may make the formulation of the theory simpler,105 while
+simplifying the ideology making the formulation of the theory simpler, may
+require adding complexity to the ontology. And Ole Hjortland, writing about the
+issue of simplicity as a theoretical virtue in logic writes:
+A logic can be simple to use or simple to learn. It can be simple because it has
+few rules, or few models, because it has proofs of low complexity or models
+of low complexity. Some nonclassical logics have fewer rules than classical
+logic, but more models. Does that make them simpler or more complex?
+
+102
+
+See Baker (2022) and Sober (2015) for a thorough discussion of the notion of simplicity.
+As Holsinger observes, cases where competing theories offer equally good explanations of
+a given phenomenon may be comparatively rare (Holsinger 1981).
+104
+On the relationship between the theoretical virtue of simplicity and the aesthetic virtue of
+elegance, see Derkse (1992).
+105
+Ontological simplicity can be qualitative, having to do with the number of kinds of things
+postulated, or merely quantitative, having to do with the number of individual things postulated.
+Arguably, Quine’s point concerns qualitative simplicity.
+103
+
+Downloaded from https://www.cambridge.org/core. IP address: 177.249.162.188, on 23 May 2025 at 03:56:12, subject to the Cambridge Core terms
+of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/9781009233897
+
+

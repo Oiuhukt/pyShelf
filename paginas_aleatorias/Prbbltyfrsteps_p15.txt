@@ -1,0 +1,39 @@
+counted the number of possible outcomes of the
+experiment (there are six). Due to symmetry the
+outcomes are equally likely. It is natural to ascribe to
+each of them a probability of 1/6, and if you did so
+you were quite right.
+And now one more question: What is the probability
+of the appearance of more than four spots in the same
+experiment? I imagine your answer will be "1/3". If so,
+you are right again. Indeed, from six equally possible
+outcomes two (five and six spots) are said "to imply"
+this event. Dividing 2 by 6 you get the correct answer,
+1/3.
+Bravo! You have just used, without knowing it, the
+classical model for calculating probability.
+And what in fact is the classical model? Here is. the
+explanation.
+First let us introduce several terms (in probability
+theory, just as in many other fields, terminology plays
+an important role).
+Suppose we are carrying out an experiment which
+has a number of possible outcomes: At, A 2 , ••• , All.
+AI, A 2 , ... , An are called mutually exclusive if they
+exclude each other, that is, among them there are no
+two events that can occur simultaneously.
+Events At, A 2 , ... , All are called exhaustive if they
+cover all possible outcomes, that is, it is impossible
+that none of them occurred as a result of the
+experiment.
+Events At, A 2 , ••• , An are called equally likely if the
+conditions of the experiment provide equal possibility
+(probability) for the occurrence of each of them.
+If events At, A 2 , ••• , An possess all the three
+properties, that is, they are (a) mutually exclusive; (b)
+exhaustive and (c) equally likely, they are described by
+the classical model. For brevity we shall call them
+chances.
+14
+
+

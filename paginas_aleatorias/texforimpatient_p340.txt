@@ -1,0 +1,60 @@
+3 Jan 2020
+
+2:18 p.m.
+
+No 340
+
+TEX for the Impatient
+
+320
+
+Capsule summary of commands
+
+\
+
+§13
+
+*\doublehyphendemerits demerits for two consecutive lines ending
+with hyphens, by default 10000 (p. 125)
+\downarrow relation: ↓ (p. 192)
+\Downarrow relation: ⇓ (p. 192)
+\downbracefill fill enclosing hbox with a downwards facing brace:
+z }| { (p. 211)
+*\dp the depth of the box in a specified box register (p. 167)
+*\dump end the job and produce a format file (p. 263)
+*\edef define a control sequence to be a macro, immediately expanding
+the replacement text (p. 230)
+\egroup implicit end-of-group character (p. 227)
+\eject end current paragraph and force a page break, stretching out
+current page (p. 137)
+\ell script letter for math: ` (p. 188)
+*\else false or default case alternative for a conditional (p. 239)
+*\emergencystretch additional stretch added to every line if
+\tolerance is not satisfied (p. 124)
+\empty macro that expands to nothing (p. 241)
+\emptyset empty set symbol: ∅ (p. 188)
+*\end \output the last page and end the job (p. 247)
+*\endcsname end a control sequence name started by \csname (p. 233)
+\endgraf equivalent to the \par primitive (p. 111)
+*\endgroup end a group started by \begingroup (p. 227)
+*\endinput terminate input from the current file (p. 247)
+\endinsert end insertion (p. 147)
+\endline equivalent to the \cr primitive (p. 180)
+*\endlinechar character TEX inserts at the end of each input line, by
+default ^^M (p. 252)
+\enskip horizontal glue with width 1/2 em (p. 154)
+\enspace kern 1/2 em (p. 154)
+\epsilon math Greek letter  (p. 187)
+\eqalign produce specified multiline display whose indicated parts are
+vertically aligned (p. 208)
+\eqalignno produce specified multiline display with equation numbers
+whose indicated parts are vertically aligned (p. 208)
+*\eqno put a specified equation number on the right of a display (p. 207)
+\equiv equivalence relation: ≡ (p. 190)
+*\errhelp token list whose expansion TEX displays when the user asks
+for help in response to an \errmessage (p. 261)
+*\errmessage give specified error message (p. 261)
+*\errorcontextlines the number of lines of context TEX displays at
+an error, by default 5 (p. 262)
+
+

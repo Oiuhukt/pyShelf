@@ -1,0 +1,73 @@
+9.7 Using theorems
+Every sentence of our logic is, in semantic terms, one of three kinds. It is either
+a tautology, a contradictory sentence, or a contingent sentence. We have already
+defined “tautology” (a sentence that must be true) and “contradictory sentence” (a
+sentence that must be false). A contingent sentence is a sentence that is neither a
+tautology nor a contradictory sentence. Thus, a contingent sentence is a sentence
+that might be true, or might be false.
+Here is an example of each kind of sentence:
+(Pv¬P)
+(P↔¬P)
+P
+The first is a tautology, the second is a contradictory sentence, and the third is
+contingent. We can see this with a truth table.
+P
+
+¬P (Pv¬P) (P↔¬P) P
+
+T
+
+F
+
+T
+
+F
+
+T
+
+F
+
+T
+
+T
+
+F
+
+F
+
+Notice that the negation of a tautology is a contradiction, the negation of a contradiction is a tautology, and the negation of a contingent sentence is a contingent
+sentence.
+¬(Pv¬P)
+¬(P↔¬P)
+¬P
+P
+
+¬P (Pv¬P) ¬(Pv¬P) (P↔¬P) ¬(P↔¬P)
+
+T
+
+F
+
+T
+
+F
+
+F
+
+T
+
+F
+
+T
+
+T
+
+F
+
+F
+
+T
+
+9. “… if and only if …”, Using Theorems | 133
+
+

@@ -1,0 +1,35 @@
+because the limit of function is found for each specific point x = a (or, as
+we say, for x tending to a). Thus the phrase “the limit of a given function”
+is meaningless because “the limit of a given function must be considered
+only at each given point a”. Besides, this point a should either belong
+to the domain of the function or coincide with one of the ends of the
+domain.
+Reader: In this case the definition of the limit of function should be very
+diﬀerent from that of the limit of sequence.
+Author: Certainly, there is a diﬀerence.
+Note, first of all, that we analyze a function y = f (x), which is defined
+over a segment, and a point a in this segment (which may coincide with
+one of its ends when the function is defined over an open or half-open
+interval).
+Reader: Do you mean to say that at the point x = a the function f (x)
+may not be defined at all?
+Author: That is quite correct. Now let us formulate the definition of
+the limit of function.
+Definition
+A number b is said to be the limit of a function f (x) at x tending
+to a (the limit at point a) if for any positive value of ϵ there is a
+positive value of δ such that for all x satisfying the conditions x
+belongs to the domain of the function; x ̸= a and
+|x − a| < δ
+
+(26)
+
+| f (x) − b | < ϵ
+
+(27)
+
+we have
+
+86
+
+

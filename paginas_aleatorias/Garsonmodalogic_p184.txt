@@ -1,0 +1,45 @@
+168
+
+Modal Logic for Philosophers
+
+to *B such that A is the rightmost sentence in *(A). It follows that the
+*(A) so constructed has the form:
+C1 & ∂(C2 & . . ∂(Cn &A). .)
+A more careful proof of this fact about *(A) is given in the next paragraph. Those who are already convinced may skip to the proof of the
+Closed Branch Lemma. Define a &∂ sentence *(A) to be any sentence
+constructed by starting with A and repeatedly adding ∂ and conjuncts to
+the left of the result.
+& Lemma. Each branch sentence *w containing A is equivalent
+to a &∂ sentence.
+Proof of the &∂ Lemma. The proof is by induction on the construction
+of *w. When A appears in *w, A must be in the conjunction of members
+of w, or in some conjunct ∂*v where there is an arrow from w to v on
+the branch. In the first case, *w is equivalent to the result of conjoining
+the other members of w to the left of A, and this is a &∂ sentence. When
+A is in ∂*v, then we have by the hypothesis of the induction that *v is
+equivalent to a &∂ sentence v and *w is equivalent to the result of adding
+a conjunct to the left of ∂v. So *w is equivalent to a &∂ sentence in this
+case as well.
+Since *B is *o where o is the top world of the branch, the &∂ Lemma
+guarantees that when *B contains A, it is equivalent to a &∂ sentence
+*(A).
+Proof of the Closed Branch Lemma. Assume *B is closed so that ƒ appears
+on B. A sentence *(ƒ) equivalent to *B can be constructed by starting with
+ƒ and repeatedly adding a left conjunct or ∂ at each step. But (&ƒ) and
+(∂ƒ) are derivable rules of K.
+(&ƒ)
+
+A÷ƒ
+-----------C&A ÷ ƒ
+
+(∂ƒ)
+
+A÷ƒ
+----------∂A ÷ ƒ
+
+So *(ƒ) ÷ ƒ may be obtained by repeatedly applying these rules to ƒ ÷ ƒ.
+EXERCISE *7.24 Show that (&ƒ) and (∂ƒ) are derivable in K. (Hint: for
+(∂ƒ): From A ÷ ƒ obtain ÷ ~A, and then ÷ ∫~A by (Nec). Now use (DN) and
+(Def∂) to obtain ÷ ~∂A and you are almost done.)
+
+

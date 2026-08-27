@@ -1,0 +1,70 @@
+Causal Foundations of Evolutionary Genetics 251
+determines or 'causes' the left hand side (the period), until we find that
+Equation (3) is mathematically equivalent to the following:
+
+T2z
+
+'=4Í- T2z (4)
+
+Now it is obviously absurd to claim, based on this new equation, th
+
+period causes the length of the pendulum. What determines the (il)legit
+
+of the causal reading of each equation? Surely not the meanings of th
+ables, for they stay the same in both equations.
+
+The moral of this simple example is that the conceptual analysis is ut
+
+irrelevant to the investigation of the causal nature of some concept un
+
+manipulationist framework. Sober ([2013]) resorts to the breeder's equ
+
+(Equation (2)) to make his case that the fitness variation, measured by
+
+term S on the right-hand side, affects the response to selection in the left
+
+side. But this begs the question. How do we know the breeder's eq
+correctly captures the causal flow? Why isn't it like Equation (4),
+than Equation (3)?2 We never know, until the causal relationships
+
+the variables are explicitly specified beforehand. Such relations are us
+
+given by a causal model, which also determines a set of equation
+allow for causal reading (Pearl [2000]; Spirtes et al. [2000]). It is the
+
+model given by the Newtonian mechanics that authorizes the ca
+reading of Equation (3), but not of Equation (4). In the same way,
+
+want to know the effect of intervening on some variable in an evolut
+
+formula, we need the causal model underlying that equation. Hen
+
+second contention - whether fitness or selection causes evolution - hi
+
+on the first: are there causal models underlying evolutionary tran
+functions?
+
+The answer is yes. This article describes causal models that (1) in
+
+the relevant variables such as genetic, phenotypic, and environmental f
+
+(2) generate the statistics necessary to describe and predict evolut
+trajectories, and (3) can be used to predict the consequence of a p
+
+intervention on an evolving population. The derived models will revea
+
+causal foundations underlying the evolutionary transition functi
+described above (Equations (1) and (2)), and help us to determine w
+fitness and selection can be properly regarded as causes of evolut
+change.
+
+2 In the breeder's equation, the evolutionary response cannot precede fitness variance, and hence
+cannot be its cause. But they may be effects of a common cause, or, as statisticalists may argue,
+the relation may be 'purely statistical'. In fact, we will later see that, pace Sober, a manipulation
+of the fitness variance does not affect the expected evolutionary response predicted by the
+breeder's equation.
+
+This content downloaded from 189.216.171.197 on Sat, 02 Dec 2023 00:59:19 +00:00
+All use subject to https://about.jstor.org/terms
+
+

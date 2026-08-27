@@ -1,0 +1,242 @@
+300
+
+CHAPTER 4
+
+Graphing and Optimization
+
+In Problems 27–42, find the absolute maximum and minimum, if
+either exists, for each function.
+27. f1x2 = x2 - 2x + 3
+
+28. f1x2 = x2 + 4x - 3
+
+29. f1x2 = - x2 - 6x + 9
+
+30. f1x2 = - x2 + 2x + 4
+
+3
+
+3
+
+31. f1x2 = x + x
+3
+
+32. f1x2 = - x - 2x
+
+33. f1x2 = 8x - 2x
+16
+x
+
+35. f1x2 = x +
+
+4
+
+34. f1x2 = x4 - 4x3
+36. f1x2 = x +
+
+2
+
+25
+x
+
+37. f1x2 =
+
+x
+x2 + 1
+
+38. f1x2 =
+
+1
+x2 + 1
+
+39. f1x2 =
+
+2x
+x2 + 1
+
+40. f1x2 =
+
+- 8x
+x2 + 4
+
+41. f1x2 =
+
+x2 - 1
+x2 + 1
+
+42. f1x2 =
+
+9 - x2
+x2 + 4
+
+In Problems 43–66, find the indicated extremum of each function
+on the given interval.
+43. Absolute minimum value on 30, ∞ 2 for
+
+f1x2 = 2x2 - 8x + 6
+
+44. Absolute maximum value on 30, ∞ 2 for
+
+f1x2 = 6x - x2 + 4
+
+45. Absolute maximum value on 30, ∞ 2 for
+f1x2 = 3x2 - x3
+
+46. Absolute minimum value on 30, ∞ 2 for
+f1x2 = x3 - 6x2
+
+47. Absolute minimum value on 30, ∞ 2 for
+
+f1x2 = 1x + 42 1x - 22 2
+
+48. Absolute minimum value on 30, ∞ 2 for
+
+f1x2 = 12 - x2 1x + 12 2
+
+49. Absolute maximum value on 10, ∞ 2 for
+f1x2 = 2x4 - 8x3
+
+50. Absolute maximum value on 10, ∞ 2 for
+f1x2 = 4x3 - 8x4
+
+51. Absolute maximum value on 10, ∞ 2 for
+f1x2 = 20 - 3x -
+
+12
+x
+
+52. Absolute minimum value on 10, ∞ 2 for
+9
+f1x2 = 4 + x +
+x
+
+53. Absolute minimum value on 10, ∞ 2 for
+
+64
+f1x2 = 10 + 2x + 2
+x
+
+54. Absolute maximum value on 10, ∞ 2 for
+f1x2 = 20 - 4x -
+
+250
+x2
+
+55. Absolute minimum value on 10, ∞ 2 for
+f1x2 = x +
+
+1
+30
++ 3
+x
+x
+
+56. Absolute minimum value on 10, ∞ 2 for
+f1x2 = 2x +
+
+5
+4
++ 3
+x
+x
+
+57. Absolute minimum value on 10, ∞ 2 for
+f1x2 =
+
+ex
+x2
+
+58. Absolute maximum value on 10, ∞ 2 for
+f1x2 =
+
+x4
+ex
+
+59. Absolute maximum value on 10, ∞ 2 for
+f1x2 =
+
+x3
+ex
+
+60. Absolute minimum value on 10, ∞ 2 for
+f1x2 =
+
+ex
+x
+
+61. Absolute maximum value on 10, ∞ 2 for
+
+f1x2 = 5x - 2x ln x
+
+62. Absolute minimum value on 10, ∞ 2 for
+
+f1x2 = 4x ln x - 7x
+
+63. Absolute maximum value on 10, ∞ 2 for
+
+f1x2 = x2 13 - ln x2
+
+64. Absolute minimum value on 10, ∞ 2 for
+
+f1x2 = x3 1ln x - 22
+
+65. Absolute maximum value on 10, ∞ 2 for
+f1x2 = ln1xe-x 2
+
+66. Absolute maximum value on 10, ∞ 2 for
+f1x2 = ln1x2e-x 2
+
+In Problems 67–72, find the absolute maximum and minimum, if
+either exists, for each function on the indicated intervals.
+67. f1x2 = x3 - 6x2 + 9x - 6
+		(A) 3 - 1, 54
+
+(B) 3 - 1, 34
+
+68. f1x2 = 2x - 3x - 12x + 24
+
+(C) 32, 54
+
+		(A) 3 - 3, 44
+
+(B) 3 - 2, 34
+
+(C) 3 - 2, 14
+
+(B) 31, 74
+
+70. f1x2 = x - 8x + 16
+
+(C) 33, 64
+
+		(A) 3 - 1, 34
+
+71. f1x2 = x - 4x + 5
+
+(B) 30, 24
+
+(C) 3 - 3, 44
+
+		(A) 3 - 1, 24
+
+(B) 30, 44
+
+(C) 3 - 1, 14
+
+3
+
+2
+
+69. f1x2 = 1x - 121x - 52 3 + 1
+
+		(A) 30, 34
+
+4
+
+4
+
+2
+
+3
+
+

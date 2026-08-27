@@ -1,0 +1,47 @@
+Logic in Philosophy of Science
+
+11
+
+again: As it turned out, theoretical computer scientists eventually ran
+into similar questions and problems as philosophers of science and
+philosophers of language had done before them. It is true that some
+logicians are now getting paid by computer science departments or computer companies to work on something they would have published just
+a few years back in the Journal of Philosophical Logic or in Philosophy
+of Science, which may be bad for philosophy departments—and if so, it
+is bad —but this won’t diminish the future relevance of logical methods
+for philosophy of science. It doesn’t really matter if these methods are
+presented as the theoretical underpinnings of some fancy AI application or as a new take on the problem of induction, does it? As Clark
+Glymour (Glymour, 1992), p. 367 pointed out, “Carnap wrote the first
+artificial intelligence program” in his Aufbau, and indeed in many ways
+Artificial Intelligence is a natural continuation of the Vienna Circle’s
+old research programme; see (van Benthem, 1989) for further support of
+this claim. If anything, the hands-on spirit of computer scientists, who
+are generally very good at building toy models, can only be helpful.
+So expect well-known problems in the logic of science to be tackled
+by research groups with funny acronym names—it’s computer science
+after all.
+Another worry, this time internal to philosophy: Is probability theory
+about to take over the role that logic had occupied previously in general
+philosophy of science? No. Probability theory will complement logic in
+peaceful and mutually beneficial coexistence. Two examples:
+Example 1: Let Pw be the primitive conditional (Popperian) probability measure that belongs to world w; define
+ϕ > ψ is true in w iff Pw (ψ|ϕ) = 1
+Then the following theorem holds:
+THEOREM 1. (Leitgeb, 2007)
+The system V of conditional logic is sound and complete with respect
+to this Popper function semantics for conditionals.
+V is almost Lewis’ standard system for counterfactuals, and the flat
+fragment of V coincides with the logic of |∼ above. Moral: Within
+probabilistic structures one can find the typical qualitative structures
+that are studied by logicians; one cannot fully understand the former
+without understanding the latter.
+Example 2: To the best of my knowledge, there is no established
+theory of probability for indexical information8 (witness the clash of
+8
+Though people are working on it: see e.g. Mike Titelbaum’s work at
+http://sites.google.com/site/michaeltitelbaum/ and Darren Bradley’s work at
+http://faculty.arts.ubc.ca/dbradley/.
+
+LeitgebLogPhilSciSynthFIN.tex; 2/09/2009; 10:52; p.11
+
+

@@ -1,0 +1,53 @@
+Cognitive Projects and the Trustworthiness...
+
+3543
+
+explicit.34 In addition, they argue for the importance of formulating the soundness of
+S with global reflection.35
+From the results of Sect. 2.2, we have that the theories TS0 and UTS0 investigated
+in Fischer et al. (2017) are trustworthy; from Proposition 1 we can correctly infer
+that these theories of full disquotational truth in non-classical logic are (internally)
+consistent, if the authenticity-condition of soundness is made explicit with global
+reflection. On the other hand, many theories of scientific truth in classical logic are
+not trustworthy. Fischer et al. claim the following:
+Theories of [scientific] truth do not sit well with statements of their own soundness. […] Scientific notions of truth, are inadequate if such a requirement is
+adopted. […] In theories of classical truth we cannot consistently hold that what
+they prove is true, and not false. This entails that scientific theories of truth suffer the same fate, by our assumption that only theories of classical truth can be
+considered theories of scientific truth. (Fischer et al. 2019, pp. 7 - 8)
+I agree with Fischer et al. that many theories of scientific truth in classical logic are not
+trustworthy. As we saw in Sect. 2.2, theories such as KF are internally inconsistent
+with global reflection and therefore not trustworthy by the standards set in Fischer
+et al. (2019). There are other theories that are not trustworthy by the same standards:
+FS is an an example of such theories.36 It is well-known that FS is incompatible with
+global reflection:
+Proposition 7 (Horsten et al. 2012, Proposition 4.6) GRP[FS] is inconsistent.37
+From these results the following observation follows:
+Observation 1 TS0 and UTS0 are trustworthy, whereas KF and FS are not.
+The situation looks promising for the proponent of theories of positive truth; the results
+of Sect. 3 allow us to make a similar observation:
+∗ are trustworthy.
+Observation 2 The theories TFB, UTFB and KFpos
+
+Just by the informal understanding of trustworthiness, we can conclude that theories
+of full disquotational truth and theories of positive truth can be trusted as tools to be
+employed in our cognitive enquiries. This suggests that these theories have a better
+epistemic status than for instance KF and FS; after all, the latter theories cannot be
+trusted.
+Moreover, we can see that, for a given cognitive enquiry X , if X has the epistemic
+norm ‘One should only accept trustworthy theories’, then proponents of theories such
+34 Although Fischer et al. do not state this explicitly, it is plausible to take the trustworthiness requirement
+as a necessary condition for a theory’s adequacy. I agree with Fischer et al. that trustworthiness is a natural
+and desirable property. The desirability of some form of coherence of theories of truth as been already
+pointed out—although only informally—by Halbach and Horsten (2015) and by Leitgeb (2007).
+35 In doing so, they follow the idea already expressed by Kreisel and Lévy (1968). I agree with Fischer et
+
+al. that global reflection is natural and the intended way of formulating the soundness of S.
+36 See Halbach (2014) and Friedman and Sheard (1987) for two presentations of FS. Another example is
+
+the theory VF. For a presentation of VF see for instance Cantini (1990).
+37 This is so because FS is ω-inconsistent. A (recursively axiomatisable) theory S is ω-inconsistent just in
+case there is a ϕ, such that S  ϕ(n) for all n and S  ¬∀xϕ(x).
+
+123
+
+

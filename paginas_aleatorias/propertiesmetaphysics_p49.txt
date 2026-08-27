@@ -1,0 +1,49 @@
+Properties in Ancient Metaphysics
+
+43
+
+Plato, who thought, as we saw, that parts of properties are parts of objects. Aristotle
+explicitly rejects that position: the properties of the substance are not ‘in’ it as
+parts. However, he neither explains nor justiﬁes this statement in the Categories.
+I submit that his stance here must be underpinned by Plato’s stance in the
+Theaetetus, that the number of a thing is the number of its parts (204e1-2).
+Thus, a thing with parts is many, not one; and a thing that is one is partless. If
+Aristotle follows Plato in thinking that a number of a thing is the number of its
+parts, the properties of a substance cannot be parts of the substance, because each
+substance is numerically one, as Aristotle explicitly assumes in the Categories. On
+this line of thinking we can make very good sense of the stance he takes, and leaves
+unjustiﬁed, that properties are not parts of substances: they cannot be, if the
+substance is numerically one (a problem that neither Anaxagoras or Plato were
+concerned about). Thus, if the properties of a substance are ‘in’ it, they need to be
+‘in’ it in a way that does not undermine the oneness of the substance. Hovever,
+neither Aristotle in the Categories nor Plato in the Theaetetus gives an account of
+how this is achieved metaphysically. I contend that there is a way according to
+Aristotle for components not to be parts of the whole they are in, if when in the
+whole, their individuality is somehow ‘undermined’, so that they are in the whole
+but not as discrete entities/parts in it. Aristotle talks about his position only in the
+briefest of terms, later in the Metaphysics; but in the Categories we ﬁnd an initial
+clue, where he assumes that properties in the world are either ‘said of’ or ‘in’
+a subject. What is the signiﬁcance of their being said of or in a subject?
+Importantly, Aristotle tells us that the deﬁnition of, for example, ‘whiteness’,
+which is predicated truly of the property ‘whiteness’ in the categorial scheme, is
+not predicated of the subject that whiteness qualiﬁes, for example a body – so,
+what is white is not whiteness. He writes in the Categories:
+In some cases there is nothing to prevent the name from being predicated of
+the subject, but it is impossible for the deﬁnition to be predicated. For
+example, white, which is in a subject (the body), is predicated of the subject;
+for a body is called white. But the deﬁnition of white will never be predicated
+of the body. (2a29-34)55
+
+On my reading, Aristotle is indicating here when a property qualiﬁes
+a substance, it does not do so by being present in the substance: for example,
+‘whiteness’ as a qualiﬁcation of a body is not the presence of ‘whiteness’ in
+a body; it is, rather, the body’s being white; the body is not whiteness, but it is
+55
+
+Of course, this does not apply to substantial forms, for example being human. Aristotle is clear that
+the above applies only to the properties from the non-substance categories, namely only to things
+which are in a subject. For substantial forms, which are the essences of substances, their deﬁnition is
+said of the substances. So, substances are what their essences are, for example ‘human’, for Socrates;
+and properties qualify what substances are, such as it is the human that is wise.
+
+

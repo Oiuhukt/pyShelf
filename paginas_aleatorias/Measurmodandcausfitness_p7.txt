@@ -1,0 +1,107 @@
+Abrams
+
+propensity is controversial (Eagle, 2004), but is taken seriously by
+many philosophers of science and some scientists. The PIF’s claim
+is that there are propensities for a particular individual to produce
+certain numbers of offspring, or to produce other evolutionarily
+relevant outcomes. The PIF claims that these propensities help
+define a concept of fitness (Beatty and Finsen, 1989; Brandon,
+1990; Ramsey, 2006). By definition, propensities are causal in
+nature, so the PIF would make tendential token fitness a causal
+notion.
+There have been attempts to define tendential token fitnesses
+in other ways, such as Bouchard and Rosenberg’s (2004) definition of fitness in terms of the degree to which design problems
+are solved by a particular organism’s traits. These other conceptions of tendential token fitness are vague in many respects, but
+they might also make fitness into a causal notion. It might seem,
+then, that by understanding natural selection as depending fundamentally on differences in tendential token fitnesses, its supposed
+causal character could be elucidated. It appears that this is not a
+role that tendential token fitness can play, however.
+Sober (1984) argued that fitness, viewed as a function of all
+traits of a particular individual, can have no causal role in the
+individual’s reproductive success. The reason is that, often, only
+some of an individual’s phenotypic properties end up actually
+playing a role in its survival and reproduction. In general, traits
+need not be selected for because they play a role in every individual’s life. Rather, a trait will be selected for when it confers
+a benefit often enough that the trait’s average benefit exceeds its
+average cost, to a greater degree than competing traits. However,
+this situation is consistent with the trait making no difference,
+positive or negative, in the lives of particular individuals. Thus,
+for example, a heritable trait which influences the production
+of pheromones might play no role in the mating of a particular
+individual if the individual dies early because another heritable trait reduces parasite resistance. The outcome would have
+been the same if the individual had had a trait with a different
+effect on pheromones. Sober would say that in such cases the
+parasite-resistance trait was a cause of the individual’s LRS, but
+the pheromone-influence trait was not. Thus what Sober calls
+“overall fitness,” which would reflect all of the organism’s traits
+(or at least heritable ones), does not itself play a causal role in
+the organism’s reproductive success. Byerly and Michod (1991)
+made a point closely related to Sober’s, arguing against a concept
+of overall fitness (“adaptedness”) because “there is no underlying
+property which serves as a common physical basis for dispositions of organisms” (p. 6) to have particular tendencies toward
+reproductive success in different environments.
+Abrams (2007) made a different but somewhat related point.
+He argued that the minor differences in environmental circumstances which affect measured properties such as lifetime reproductive success (section 4.2) can also have a strong influence on
+tendential token fitness. Abrams argued that most physiological
+processes and ecological interactions involve such a low degree of
+stochasticity, once details of surrounding circumstances are fixed,
+that each such interaction is effectively deterministic. According
+to this view, the variation in reproductive success that can be
+seen, for example, even for plant clones in superficially identical experimental treatments (e.g., Antonovics et al., 1987) is the
+
+www.frontiersin.org
+
+Measured, modeled, and causal conceptions of fitness
+
+result of minute, unobserved variation in distribution of substances in soil, differences in water flow, etc. All of these factors
+could be identified in principle, even though they may be difficult
+to identify in practice. Abrams argued, in effect, that variations
+between outcomes in such experiments would not be the result
+of a fundamental stochasticity. (By “fundamental stochasticity” I
+refer to variation that is not subject to further explanation, even
+in principle. For example, according to many physicists, variation
+in outcomes due to quantum mechanical effects has no further
+explanation.) However, if an individual’s LRS, for example, is the
+nearly deterministic result of the specific circumstances in which
+it happens to find itself, then tendential token fitnesses will correspond nearly exactly to measurable token fitnesses: the only thing
+that can happen, given the circumstances, is what does happen, to
+a high degree of approximation. To the extent that this is so, the
+argument in section 4.2 that differences in measurable token fitness cannot play a central role in the concept of natural selection
+would apply to tendential token fitness as well. Ariew and Ernst
+(2009) give additional arguments against tendential token fitness.
+4.4. STATISTICAL TYPE FITNESS
+
+Many of the most useful fitness concepts are defined in terms of
+statistics on sets of measurable token fitnesses—i.e., on measurements of individual organisms in actual populations (e.g., Spitze,
+1993; Cooper et al., 2003; Shaw et al., 2008; Byars et al., 2010).
+These are what I have been calling statistical type fitnesses, and
+are illustrated by numerous concepts defined by Stearns (1976,
+1992) and de Jong (1994). Can fitness differences in this sense be
+considered causes of evolution? De Jong’s remark (1994, p. 4),
+mentioned above, that certain fitness concepts “summarizing
+numerical processes” don’t allow fitness to cause evolution may
+refer to statistical type fitness rather than to purely mathematical
+fitness.
+Philosophers of biology who have come to be known informally as “statisticalists” argue that numerical concepts of fitness
+are not causal (e.g., Matthen, 2009; Matthen and Ariew, 2009;
+Walsh, 2007, 2010). I won’t review these arguments—which go
+further than Endler’s (1986) argument that natural selection
+is not a “force”—nor the large number of responses to them
+(e.g., Reisman and Forber, 2005; Haug, 2007; Shapiro and Sober,
+2007; Millstein et al., 2009; Northcott, 2009; Otsuka et al., 2011;
+Abrams, 2012a). I note, however, that although statisticalists do
+not make all of the distinctions made here, some of their arguments do seem to focus on what I am calling statistical type, or
+possibly purely mathematical fitness concepts.
+In my view, there are two fundamental reasons that natural
+selection, considered as a cause of evolution, cannot be understood as depending on statistical type fitnesses. First, statistical
+fitnesses are merely means for describing the way that a population is in fact changing over time. As such, they cannot also be
+taken as causing those very same changes.
+Second, one can extend a point made above about measurable
+token fitness in section 4.3 to statistical type fitness. I pointed
+out that measurable token fitnesses of parents and offspring
+can sometimes be very different due to the details of interactions with environmental circumstances. Statistical type fitnesses
+are mathematical functions of measurable token fitnesses. As a
+
+October 2012 | Volume 3 | Article 196 | 7
+
+

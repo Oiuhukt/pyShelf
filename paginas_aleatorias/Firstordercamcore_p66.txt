@@ -1,0 +1,101 @@
+Philosophy and Logic
+
+60
+∧
+
+T
+
+I
+
+F
+
+∨
+
+T I
+
+F
+
+¬
+
+T
+I
+F
+
+T I
+I I
+F F
+
+F
+F
+F
+
+T
+I
+F
+
+T T
+T I
+T I
+
+T
+I
+F
+
+T
+I
+F
+
+F
+I
+T
+
+The experienced reader will recognize these as the “strong Kleene” truth-tables,
+yielding the logic K3 (see, e.g., Gottwald (2020)). There, the truth-value I
+means something like “neither true nor false,” and T is the only “designated”
+truth-value. Here, we think of I as “both true and false.” So a sentence with
+value I is true (and also false). In LP, both T and I are “designated,” they are
+both ways a given sentence can be true.
+Validity, here and elsewhere, is the necessary preservation of truth. What is
+distinctive here is the dialetheic feature that I is a kind of truth. Let a truthvalue assignment be a function from the sentence letters to the truth values
+{T, I, F}. For each truth-value assignment, the truth-tables generate a truth-value
+for every sentence of the language:
+Γ |= ϕ if and only if there is no truth-value assignment v such that v(ϕ) = F
+and for all ψ ∈ Γ, v(ψ) ∈ {I, T}.
+
+We can recapitulate the above reasoning that neither (DS) nor (EFQ) is valid
+in LP in terms of the semantics. Consider a truth-value assignment in which A
+is I (both truth and false) and B is F (false only). Then A ∨ B is I, and so true,
+and ¬A is I. But B fails to be true, so (DS) fails. Also A ∧ ¬A is I, and so true,
+but B is F, so (EFQ) fails.
+The language, so far, does not have a conditional. It is common to follow
+classical logic and define a “material conditional” as follows: ϕ → ψ if and
+only if ¬ϕ ∧ ψ. This results in the following truth-table:
+→
+
+T
+
+I
+
+T
+I
+F
+
+T
+T
+T
+
+I F
+I I
+T T
+
+F
+
+On this picture, (→E), or modus ponens, is just an instance of (DS), and so is
+not valid. It must be admitted that this makes the logic rather hard to use, given
+how essential (→E) is. Priest (2006) develops an “intensional” conditional that
+does sanction (→E), as well as a contrapositive inference, but is still compatible
+with dialethism. We forego details.
+Downloaded from https://www.cambridge.org/core. IP address: 201.141.17.208, on 28 Apr 2022 at 14:59:39, subject to the Cambridge Core terms
+of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/9781108982009
+
+

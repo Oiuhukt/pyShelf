@@ -1,0 +1,24 @@
+4.1 Robert Leslie Ellis
+In the mid-nineteenth century Robert Leslie Ellis (18171859), a mathematician fellow of Trinity College, read two
+essays at the Cambridge Philosophical Society committed to a
+view of probability strictly linked with frequency. The
+first, `On the Foundations of the Theory of Probabilities',
+read in 1842 and published in the Transactions in 1849, was
+followed by `Remarks on the Fundamental Principle of the
+Theory of Probabilities', read in 1854 and published in
+1856'.
+The opening statement of the first essay illustrates
+Ellis' main concern, namely to address the philosophical
+problem of the foundations of probability:
+The theory of probabilities is at once a metaphysical
+and a mathematical science. The mathematical part of it
+has been fully developed, while, generally speaking, its
+metaphysical tendencies have not received much attention
+(Ellis 1849, p. 1).
+The use of the term `metaphysical' should not mislead us, as
+in this context it simply means `philosophical'. In tackling
+the foundations of probability, Ellis is guided by the
+conviction that one should start from an empirical
+perspective, apt to link probability to experience.
+
+

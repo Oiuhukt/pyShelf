@@ -1,0 +1,79 @@
+Section 4.1
+
+Random Variables
+
+119
+
+Hence, since the event {X Ú 17} is the union of the disjoint events {X = i},
+i = 17, 18, 19, 20, it follows that the probability of our winning the bet is given by
+P{X Ú 17} L .105 + .119 + .134 + .150 = .508
+
+.
+
+EXAMPLE 1c
+Independent trials consisting of the ﬂipping of a coin having probability p of coming
+up heads are continually performed until either a head occurs or a total of n ﬂips is
+made. If we let X denote the number of times the coin is ﬂipped, then X is a random
+variable taking on one of the values 1, 2, 3, . . . , n with respective probabilities
+P{X = 1} = P{H} = p
+P{X = 2} = P{(T, H)} = (1 − p)p
+P{X = 3} = P{(T, T, H)} = (1 − p)2 p
+#
+#
+#
+P{X = n − 1} = P{(T, T, . . . , T, H)} = (1 − p)n−2 p
+
+
+
+n−2
+
+P{X = n} = P{(T, T, . . . , T, T), (T, T, . . . , T, H)} = (1 − p)n−1
+
+
+
+
+
+
+n−1
+
+n−1
+
+As a check, note that
+⎛
+⎞
+n
+n
+
+
+P ⎝ {X = i}⎠ =
+P{X = i}
+i=1
+
+i=1
+
+=
+
+n−1
+
+
+p(1 − p)i−1 + (1 − p)n−1
+
+i=1
+
+
+
+1 − (1 − p)n−1
+=p
+1 − (1 − p)
+
+
++ (1 − p)n−1
+
+= 1 − (1 − p)n−1 + (1 − p)n−1
+=1
+.
+EXAMPLE 1d
+Three balls are randomly chosen from an urn containing 3 white, 3 red, and 5 black
+balls. Suppose that we win $1 for each white ball selected and lose $1 for each red ball
+
+

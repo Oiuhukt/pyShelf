@@ -1,0 +1,58 @@
+192
+
+Page 2 of 20
+
+Synthese
+
+(2023) 202:192
+
+In this position, you care about actual human agents’ actual modal knowledge
+acquisition.1 This means, in part, that you are careful not to make severe and
+unhelpful idealisations about the cognitive capacities that human agents in fact
+have. It also means that you are sensitive to psychological results that inform
+us about the methods that agents in fact use to make their modal judgements.2
+The first ‘descriptive’ stage of the project requires you to give an account of
+the methods that ordinary agents in fact use to make modal judgements. The
+second ‘normative’ stage of the project requires you to provide an account of
+what makes these methods knowledge-conducive.
+This job description presupposes that modal epistemologists are methodological naturalists. Methodological naturalism is just the truism that if one cares about our actual
+methods of modal judgement, then, in part, one ought to look to our best sciences to
+figure out what those methods are. It is not the controversial Quinean doctrine that
+epistemology is merely a chapter of psychology (Quine, 1969). Rather, it suggests
+that modal epistemologists should inform themselves of modal psychology. In other
+words, modal psychology is a chapter of the epistemology of modality. And, as we
+will see throughout this paper, there is a lot of relevant empirical work up for grabs.
+This job description is in line with what Mallozzi (2021a, S1940) calls a means-first
+approach to the epistemology of modality. Mallozzi thinks that means-first approaches
+mischaracterise the task that modal epistemologists face.3 According to Mallozzi, the
+correct way to describe the job of epistemologists is metaphysics-first. It isn’t just
+Mallozzi that adopts this approach. In fact, metaphysics-first approaches are gaining popularity in the field. Some consider it the main approach to the epistemology
+of modality. For instance, in a recent special issue of Synthese—New Directions
+in the Epistemology of Modality—“most authors […] endorse this novel approach”
+(Mallozzi, 2021b, S1846–S1847).4,5
+1 See, e.g., Goldman (1994, p. 305), Jenkins (2008, pp. 695–696), Balcerak Jackson (2016, p. 57), and
+
+Leon (2017, pp. 247–248).
+2 See Kornblith (1994), Peacocke (1999, p. 1), and Jenkins (2008, p. 696).
+3 Mallozzi’s main complaint against means-first approaches is that “it is not one of these theories’ primary
+aims to tackle the issue of the source of metaphysical modal truth; nor, a fortiori, to undertake the study of
+essence and its relationship to modality” (2021a, S1940). It just seems obvious to us that this is neither here
+nor there. The study of essence, and tackling issues concerning the source of metaphysical modal truths, is
+simply not within the purview of modal epistemologists. But if you don’t share that intuition, note that the
+objection assumes the sort of metaphysics-first conception of the epistemology of modality that we argue
+against throughout this paper.
+4 Mallozzi (2021a) is the main explicit defender of the methodology of metaphysics-first in the epistemology of modality. Mallozzi provides the most worked out, and to our knowledge only, explicit defense of
+the metaphysics-first approach. We have therefore chosen to engage with her work. However, see also Hale
+(2003), Lowe (2012), Tahko (2012), Hale (2013), Tahko (2017, 2018), Jago (2021) and Kment (2021).
+There is, of course, room for substantial disagreement about which authors endorse the metaphysics-first
+approach as it often operates as an implicit assumption. Our hope is that this paper contributes to a greater
+awareness of the issue in subsequent literature.
+5 We should stress that though this is a recent and important trend, it is of course not the case that every
+modal epistemologist accepts metaphysics-first. There have also been epistemologies of modality focusing
+more on, e.g., everyday modal statements (e.g., (Vetter, 2016, 2023)); the function of modal judgement (e.g.,
+Nolan 2017); the actual procedures and relevant psychological results (e.g., Jenkins (2008), Nichols (2006),
+Nolan (2017); the role of perception (Nanay, 2011; Strohminger, 2015) or imagination (see discussion in
+
+123
+
+

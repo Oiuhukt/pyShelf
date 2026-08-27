@@ -1,0 +1,36 @@
+type and any expression E of type () (i.e., any formula), ∀v E and ∃v E will be
+expressions of type (). But the rule for forming complex expressions will be a
+little different. The old rule for functionally typed expressions looked like this:
+If E1 , . . . , En are expressions of types a1 , . . . , an , and E is an expression of
+type 〈a1 , . . . , an , b 〉, then E(E1 , . . . , En ) is an expression of type b
+whereas the new rule for relationally typed expressions looks like this:
+If E1 , . . . , En are expressions of types a1 , . . . , an , and E is an expression
+of type (a1 , . . . , an ), then E(E1 , . . . , En ) is an expression of type ().
+
+This new language is in many ways similar to the language introduced at
+the end of section 5.2.2, though not perfectly so. Each language has names,
+formulas, sentential connectives, quantifiers, n-place first-order predicates for
+each n, n-place second-order predicates for each n, and so on. (Notice that in
+most cases, these expressions are assigned different-looking types in the two
+systems. For instance, formulas are of functional type t , but relational type ();
+one-place predicates are of functional type 〈e, t 〉, but relational type (e); binary
+sentential connectives (like ∧) are of functional type 〈t , t , t 〉, but relational type
+((), ()).) But the functional language has some additional expressions without
+direct counterparts in the relational language. For example, only the functional
+language has one-place predicate-functors (i.e., expressions that combine with
+one-place predicates to form one-place predicates; i.e., expressions of type
+〈〈e, t 〉, 〈e, t 〉〉; i.e., adverbs). The relational language lacks such expressions
+because every complex relational type is that of an expression which, when
+combined with appropriate other expressions, produces a formula, whereas
+predicate-functors combine with predicates to produce predicates.
+So there is a sense in which functional types are “syntactically more expressive”
+than relational types: on the natural way of associating types with syntactic
+categories, relational syntactic categories are a proper subset of functional
+syntactic categories. But in a way this is superficial, since there is a sense in
+which relational types are just as semantically expressive as functional types. See
+Dorr (2016, Appendix 2) for details, but the basic idea is that we can use a
+trick akin to schönfinkelization to simulate the meanings of, e.g., predicate
+functors with relationally typed expressions. Given the semantics of section
+63
+
+

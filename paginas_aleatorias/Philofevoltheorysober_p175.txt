@@ -1,0 +1,28 @@
+156
+
+The Philosophy of Evolutionary Theory
+
+Figure 6.3 Fisher’s conception of what “random” mutation means when a
+mutation affects just one quantitative phenotype.
+
+Figure 6.4 Fisher’s geometric argument applied to a small mutation and a
+big mutation, each of which affects two quantitative phenotypes.
+
+small mutations in Figure 6.3 have the same probability of improving fitness, the situation in Figure 6.4 is different. The smiley face represents the
+1
+optimum. In that figure, the small mutation has a probability of about
+2
+of improving the organism’s fitness, whereas the big mutation has a prob1
+ability of about of doing so. A random mutation that is even bigger, will
+3
+have an even smaller probability of improving the organism’s fitness. And
+if the mutation changes the organism’s pair of phenotypes to a location
+that is more than twice the distance from the dot to the optimum, its
+probability of improving fitness is zero.
+Here’s a summary of Fisher’s argument. If mutations are random in the
+sense of the symmetries I’ve described and the fitness of a phenotype is a
+linear function of how close it is to the optimum, then it follows that
+
+https://doi.org/10.1017/9781009376037.007 Published online by Cambridge University Press
+
+

@@ -1,0 +1,56 @@
+Causal Foundations of Evolutionary Genetics 263
+however, does not ensue for there is no trek between W and Z', and thus the
+Price covariance is zero. This simple example shows why the interpretation of
+selection as a pure outcome, as well as Lewontin's well-known formulation, is
+defective.11 A mere statistical fact by itself has no explanatory role in the study
+
+of adaptive evolution.
+The importance of distinguishing the selection-as-process from its statistical
+
+outcome cannot be emphasized too much. In a recent article, Sober ([2013])
+correctly observed that fitness differences with respect to some trait Z, do not
+entail a selection for Zř itself, but wrongly concluded that they entail a selection
+
+for another trait Zj that correlates with Zř. It doesn't, since the phenotypefitness association may be purely spurious, and in such cases there would be
+no evolutionary change. A mere statistical association between the trait and
+fitness itself does not imply any form of adaptive response; only selectionas-process does.
+
+5.2 Causes of evolutionary change
+Another contention in the statisticalist debate is whether fitness and/ or selec-
+
+tion can be regarded as a cause of evolutionary change (Stephens [2004];
+Millstein [2006]; Otsuka et al. [2011]; Sober [2013]) or not (Matthen and
+Ariew [2002], [2009]; Walsh et al. [2002]; Walsh [2007], [2010]). The causal
+models provide a clear-cut solution to this entangled debate. Under the
+manipulationist account of causation, C is a cause of E if there is some intervention on C that alters the distribution of E (Woodward [2003]). In the same
+vein fitness is a cause of evolution if an intervention on W affects evolutionary
+
+response A Z. This can be easily verified by applying the standard intervention
+
+calculus (Pearl [2000]; Spirtes et al. [2000]) to the causal models defined above.
+
+The post-intervention distribution can be represented by P(AZ'do(W = w))
+where do( •) is Pearl's intervention operator that sets the fitness value to w. This
+
+amounts to forcing every individual in the population to have a certain number
+of offspring by some external means (for example, by culling all cubs after the
+H>th birth). Alternatively, one can think of partial interventions that affect only
+
+some portion of the population. Assuming no individual gets more than one
+intervention, the result of partial interventions is given by the weighted average
+
+_ mi n. _
+
+P^Z'ū) _ = £^P(AZ|ifo(<0,)), n
+i
+
+1 1 Note that the case advanced here is to be distinguished from other criticisms of Lewontin's
+conditions, such as exact cancellation of selective force by other pathways (Wimsatt [1980a],
+[1980b]; Okasha [2007]), or an incidental trait-fitness correlation in a small population (Brandon
+[1990]). Lewontin's conditions may fail even in an infinite population undergoing no opposing
+evolutionary forces.
+
+This content downloaded from 189.216.171.197 on Sat, 02 Dec 2023 00:59:19 +00:00
+All use subject to https://about.jstor.org/terms
+
+

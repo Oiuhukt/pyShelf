@@ -1,0 +1,40 @@
+Understanding the Demand for Illegal Drugs
+
+98
+
+UNDERSTANDING THE DEMAND FOR ILLEGAL DRUGS
+
+at approximately $17 million in 2009, which is relatively expensive for
+drug data indicators.
+The committee recommends that the U.S. Department of Health
+and Human Services consider, first, whether the Drug Abuse Warning Network series should be continued given that these data have
+not had much value for either policy or research, and, second, if it
+is continued, whether it should be conducted by agencies that are
+already collecting information from emergency departments and
+medical examiners.
+On the second point, for example, the Food and Drug Administration
+and other agencies collect data from emergency departments for other
+purposes, and the Centers for Disease Control and Prevention regularly
+receives data from medical examiners on vital statistics. It may be more
+useful to merge DAWN into those other systems, reducing the reporting
+burden and taking advantage of the expertise these other agencies have in
+dealing with emergency departments and medical examiners. We believe
+that continuing DAWN in this way would lower its cost.
+Treatment Episode Data System
+Although TEDS was originally developed as an administrative dataset, as noted above it has become an increasingly valuable research tool
+in understanding changing patterns of illegal drug use. The quality of
+the data appears to have improved in recent years, and it provides a
+large-sample dataset about the circumstances of people who enter substance abuse treatment. The publication of the TEDS-D discharge dataset,
+starting in 2008, is potentially a major addition to the capacity for both
+monitoring and studying drug abuse treatment.
+TEDS also might be made more valuable through the inclusion of
+additional data, such as individual identifiers, including specific sociodemographic identifiers, and through additional surveys conducted on a
+subsample of treatment clients. Because TEDS imposes data collection
+burdens on providers and clients, we are not in a position to specify these
+changes in detail.
+The Committee recommends that the Substance Abuse and Mental Health Services Administration give high priority to expanding
+and improving the Treatment Episode Data Set.
+
+Copyright National Academy of Sciences. All rights reserved.
+
+

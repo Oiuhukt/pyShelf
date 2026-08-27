@@ -1,0 +1,41 @@
+Biol Philos (2012) 27:685–703
+DOI 10.1007/s10539-012-9322-6
+
+Optimality explanations: a plea for an alternative
+approach
+Collin Rice
+
+Received: 23 September 2011 / Accepted: 30 April 2012 / Published online: 19 May 2012
+Ó Springer Science+Business Media B.V. 2012
+
+Abstract Recently philosophers of science have begun to pay more attention to
+the use of highly idealized mathematical models in scientific theorizing. An
+important example of this kind of highly idealized modeling is the widespread use
+of optimality models within evolutionary biology. One way to understand the
+explanations provided by these models is as a censored causal explanation: an
+explanation that omits certain causal factors in order to focus on a modular subset of
+the causal processes that led to the explanandum. In this paper, I first argue that the
+censored causal model approach fails to establish a permanent explanatory role for
+optimality models in biology and mischaracterizes the explanatory virtues of biological optimality modeling. In addition, I argue that many biological optimality
+explanations cannot be characterized as censored causal explanations. In response, I
+propose an alternative approach that analyzes optimality models’ reliance on
+synchronically representing a system’s constraints and tradeoffs as well as their
+employment of various kinds of idealization in order to provide equilibrium
+explanations.
+Keywords
+
+Explanation  Optimality  Idealization  Tradeoffs  Models
+
+Introduction
+Optimality models are widely used within biology to investigate adaptations by
+representing the evolution of a particular phenotype as a function of the relative
+fitnesses of a set of possible trait values. For example, optimality models have been
+used to study organisms’ foraging behaviors (Pyke 1984; Stephens and Krebs 1986).
+A simple optimality model explains why, for instance, when two kinds of food are
+C. Rice (&)
+Department of Philosophy, University of Missouri, 423 Strickland Hall, Columbia, MO 65211, USA
+e-mail: crdv3@mail.missouri.edu
+
+123
+
+

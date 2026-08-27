@@ -1,0 +1,43 @@
+4
+
+Introduction
+
+of morphogenesis, based on four different areas: biometry; population biology;
+mathematical biology; and biocybernetics. The formal-model method, in biometry in particular, had its roots in the epistemological decision of Ronald A. Fisher4
+to abandon the Bayesian interpretation of statistics and instead to propose – in
+line with the theory of errors that had emerged from works on astronomical observation, and in the wake of the famous article by Student5 on probable error in
+the estimation of a mean – a “hypothetical law” for estimating statistical parameters in the case of small sample sizes. In my view, this hypothetical law, which
+was explicitly free of any attempt at representation and thus of rootedness in the
+actual causal connections, acted as the first detached formalization, or first formal
+model in the full sense of the term as it is used in biology. The “hypothetical law”
+itself took the form of a frame of reference for field data, and was widely termed
+“model” from the end of the 1940s. It was this fictive and detached formalization that would to a large extent serve as a prototype for the other types of formal
+model in biology, including in population biology, from the 1920s onward. This
+first epoch may be called the “epoch of detachment of formalisms”, since it is
+characterized by an increasing and normalized use of this type of formal construct,
+known as formal models.
+In this context, by “formal model” I am referring to any type of formal construct
+of a logical or mathematical format with an axiomatic homogeneity that is capable
+of answering certain questions and fulfilling certain functions (cognitive, empirical, communication-related) with respect to an object, a system or an observable
+phenomenon. The formal model differs from theory in its validity, which is often
+only local, in its prior adaptation to certain questions that are posed at the outset,
+and in its inability to directly produce general results in the form of theorems. It
+should be pointed out already here that it also differs from simulation, although
+the term “simulation” is ambiguous, since it designates both a symbol-processing
+operation and the symbolic result of that processing. I will revisit all these points
+in greater detail in Chapter 8. We could say that, as a first approach, a computer
+simulation – insofar as it is a process – may be seen as a computer-assisted symbolization and formalization technique consisting of two distinct steps. During the
+first step, termed operative, symbols that more or less realistically represent elements of an actual or fictive target system interact step by step in accordance with
+rules, and these rules themselves may represent certain real or fictive mechanisms
+of the target system. Adopting a term used in connectionist artificial intelligence,
+I consider that this step is based on a sub-symbolic6 use of certain formalisms and
+certain systems of symbols. The second step of a simulation consists of an equally
+symbolic processing of the results of the first step. This step may be described as
+observational, and it consists of a set of reckonings, measurements, observations or
+visualizations regarding the outcome of the first step. The main epistemic function
+of the computer simulations that were initially the most widespread, i.e., “numerical simulations”, was to replace impossible formal calculations with measurements
+carried out on these interaction results. Thus, these interactions did indeed take
+place between symbols that had also been given the status of sub-symbol: they
+were sub-symbols from the point of view of the resulting patterns. Not all the
+
+

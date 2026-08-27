@@ -1,0 +1,27 @@
+what statistic on the fitness distribution to employ in order to explain a particular evolutionary
+phenomenon” (1989: 28).
+
+Beatty and Finsen suggest again that it seems as though there is a large family of propensities,
+rather than a single propensity. And then they conclude:
+
+It would be unfair to suggest that, lacking any generally agreed-upon definition of
+‘fitness’, we therefore lack any understanding of evolution in terms of fitness differences
+and natural selection. On the other hand until we have an appropriate general definition
+of fitness, it is not altogether clear how much we understand about evolution in terms of
+fitness differences and natural selection (1989: 29; emphasis in original).
+
+In short, Beatty and Finsen don’t seem satisfied with a family of propensities of fitness; they
+suggest that greater understanding will be obtained only when we have a more general definition.
+
+As with the original Mills and Beatty article, Beatty and Finsen’s article has been quite
+influential, with a variety of conclusions being drawn, mostly arguing that the complications of
+variance and skew spell varying degrees of trouble for the propensity interpretation of fitness.
+Sober’s response is particularly notable. Sober (2001), also drawing on the work of Gillespie
+(1974, 1977), argues that within-generation variance raises an additional problem, one that casts
+doubt on the propensity interpretation altogether. Sober points out that in order to make a
+predictive calculation of future frequencies when there is within-generation variance, one must
+include the size of the population in the calculation. But this is strange because the size of the
+
+17
+
+

@@ -1,0 +1,59 @@
+4: Confess your feelings and he’s into you
+3: Don’t confess your feelings and he’s not into you
+2: Confess your feelings and he’s not into you
+1: Don’t confess your feelings and he is into you
+And let’s suppose you think there’s about a 75% chance that he
+likes you back. Then the matrix would look like this:
+Matrix 2.2.1
+
+Confess your
+feelings
+Don’t confess
+your feelings
+
+He’s into you
+75%
+4
+
+He’s not into you
+25%
+2
+
+Expected
+Utility
+3.5
+
+1
+
+3
+
+1.5
+
+I’ve snuck in an extra column for expected utility. This is the
+column we’ll use to crunch the numbers, calculating what the
+smart choice is for you, given your preferences and the likelihoods
+of the different outcomes. Before I explain where these numbers
+(3.5 and 1.5) are coming from, let me say something about how to
+think about these expected utilities.
+In effect, the expected utility of an option tells you how well
+you’d do, on average, if you kept choosing that option over and
+over again. Imagine that you’re in an infinite loop. You choose an
+option, and then time rewinds and you choose that same option
+again and again—and 75% of the time he’s into you and 25% of
+the time he isn’t. The fact that confessing has an expected utility
+of 3.5 and not confessing has an expected utility of 1.5 tells you
+that on average you’d do a little over twice as well by repeatedly
+choosing to confess your feelings than by repeatedly choosing not
+to (since 3.5 is a little over twice as much as 1.5). And what that
+tells you is that the smart thing to do is to confess your feelings.
+But where exactly are these numbers coming from? To
+calculate the expected utility of a given option, you multiply the
+value of each possible outcome of the action by the likelihood of
+that outcome, and add together the results. Or put in terms of the
+rows and columns of Matrix 2.2.1: to calculate the expected utility
+of the top row, you multiply the value in the top row of the first
+column by the likelihood associated with that column, multiply
+
+35
+
+

@@ -1,0 +1,19 @@
+OUP CORRECTED PROOF – FINAL, 2/4/2018, SPi
+
+Deducing 
+Not only philosophers use deduction. Proofs in mathematics
+are chains of deductions. Some everyday reasoning too is deductive. If you reason that your keys are either upstairs or downstairs,
+and they’re not downstairs, so they must be upstairs, you are
+relying on disjunctive syllogism. According to the ancient Greek
+philosopher Chrysippus (about – ), even dogs use
+disjunctive syllogism. One day, when chasing a rabbit, his dog
+came to a place where the path forked three ways. The dog sniffed
+at the ﬁrst two ways, then ran down the third way without snifﬁng.
+It didn’t need to sniff, because it was reasoning “The rabbit went
+either this, that, or the other way; it didn’t go this or that way, so it
+went the other way”.
+Since the mid-nineteenth century, deductive logic has progressed in leaps and bounds through the use of precise artiﬁcial
+
+. Turing’s machine in .
+
+

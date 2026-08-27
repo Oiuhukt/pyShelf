@@ -1,0 +1,46 @@
+The Epistemic Consequences of Paradox
+
+61
+
+of wisdom, the other responses are signiﬁcantly wiser than the Inconsistency
+response.
+
+15 The Conﬁdent Response
+This philosopher accepts the soundness of the proof of the disjunction and
+thinks she has found the true disjunct. Consistency is attained.
+But recall that the epistemic situation we are examining is not that of
+a philosopher responding to just the Sorites paradox, or the Liar paradox, or
+the Problem of the Many, or Tibbles–Tib, and so on. No, I have in mind a more
+restricted situation: someone (like you and myself) who satisﬁes assumptions
+A1–A5. You and I have the task of responding to a bunch of CDs. You probably
+aren’t aware of the details of each one (unless you have done a lot of work
+inspired by this Element); no such devotion is necessary to get the epistemic
+problem loaded. For instance, I have worked out in detail only several of them,
+but I have sketched a couple of others and – the key point – I know that there are
+more disjunctions awaiting me. I estimate that you and I are faced with dozens
+of disjuncts from a bunch of CDs, each disjunct philosophically counterintuitive, and yet we know that some of those disjuncts are true. It is not an intelligent
+response to the problem posed by the doxastically distressing disjunctions to
+focus on just the Liar, for instance, and offer one’s favorite solution to just it.
+I mean, the well-informed philosopher has a signiﬁcantly larger task.
+I suspect the following situation will be common. After one has seen the
+philosophically counterintuitive disjuncts, call them the Ds, in one particular
+CD, one looks at D4, say, and thinks to oneself something that can be captured
+with the following inner speech:
+Well sure, D4 is initially counterintuitive – like each of the Ds is. There are
+good reasons to think D4 is false; no doubt about it. But the reasons to think
+it’s false are deﬁnitely weaker than the reasons to think the other Ds are false.
+When you add up all the evidence, D4 is deﬁnitely more plausible than any of
+the other Ds. Although D4 is indeed implausible, it is less implausible than the
+others, if you will. So we should conclude that it’s the true one.
+
+How often is this response wise for the philosopher who is familiar with many
+paradoxes (satisfying our ﬁve assumptions)?
+On the one hand, we philosophers make doxastic moves similar to that one all
+the time when faced with a plainly valid argument for a conclusion that we
+disbelieve – and the move is often quite reasonable, or so we can plausibly allow
+for the sake of argument. For comparison, suppose we think C is false but later
+accept that {PA, PB, PC} ⊧ C. Suppose further that we see that, while PC is at least
+somewhat plausible, it is not plausible enough for the argument to succeed
+https://doi.org/10.1017/9781009052948 Published online by Cambridge University Press
+
+

@@ -1,0 +1,52 @@
+36
+
+Metaphysics
+
+When it comes to analysing modality reductively, David Lewis (1986) uses
+possible worlds to analyse, in the ﬁrst instance, what I shall call ‘combinatorial
+modality’, and he then analyses other modalities derivatively. Combinatorial
+modality is to be understood as that modality that tracks ways in which matter
+and fundamental properties can occupy (be distributed over) a space–time
+system. This is importantly silent on de re matters (more on this in
+Section 3.1) and, as such, it will be convenient to understand combinatorial
+modality, for now, as deﬁned for purely general propositions only.28 For any
+purely general p:
+
+https://doi.org/10.1017/9781009004596 Published online by Cambridge University Press
+
+□p is true if and only if p is true in all possible worlds.
+◊p is true if and only if p is true in some possible world.
+For Lewis, possible worlds are concrete in the same sense in which our
+world (the actual world) is concrete. They are spatio-temporally uniﬁed, and
+also spatio-temporally isolated from one another.29 And there’s a plenitude
+of them: there are at least as many of them as (qualitative) ways our world
+(and any other concrete world) could be. This plenitude is a necessary
+condition for the at least extensional adequacy of the account: if not all
+possibilities for our world were witnessed by some world, the left-to-right
+direction of the ◊-analysis above would fail. (For instance, if there could be
+talking donkeys but no world contained talking donkeys.) Lewis also takes it
+to be the case that every (qualitative) way some world is is a possible way for
+our world to be, with which he also secures the right-to-left direction of the
+account. Once the extensional adequacy is guaranteed, Lewis argues that his
+concretism is the only way in which one can hope the possible worlds
+analysis of (combinatorial) modality to be reductive.30
+
+debate on possible worlds has progressively faded away in favour of a debate on possibilism vs.
+actualism.
+28
+One might feel inclined to use ‘metaphysical modality’ ambivalently, to include combinatorial
+modality too (I myself sometimes do). I have been rightly pressed by a referee, however, that this
+is confusing, for a number of good reasons. Among them, metaphysical modality, as I used the
+label in Section 2.4.2, is distinctively de re. By contrast, combinatorial modality as introduced
+here is distinctively de dicto. It is true nonetheless that Lewis’ worlds are ‘ﬁrst-class metaphysical possibilities’ (in a way reminiscent of what Chalmers (2002, 165) claims for his primarypossible worlds). And yet, these (ﬁrst-class) metaphysical possibilities are purely qualitative
+and, for this reason, to avoid unnecessary confusion, it is advantageous not to use the label
+‘metaphysical’ to refer to Lewis’ target modality. (See Roca-Royes (2020, Sect. 2) for more on
+the Lewisian distinction between qualitative and de re ways for a world to be.)
+29
+Where ‘spatio-temporal’ should not be interpreted strictly but analogically: allowing for ‘space–
+time’ systems that differ from ours (see Lewis (1986, 76, fn. 55)).
+30
+Lewis’ (1986) On the Plurality of Worlds is a book-length abductive argument for this
+claim.
+
+

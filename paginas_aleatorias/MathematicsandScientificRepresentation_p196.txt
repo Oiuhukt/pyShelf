@@ -1,0 +1,49 @@
+Discover y
+
+179
+
+the target system in virtue of the additional mathematics in play and the requirement
+that a given structural relationship obtain. In our complex potential case, we saw
+how the intricate mathematical structure associated with the analytic functions and
+the complex plane became relevant to the fluid flow in virtue of the requirement
+that the flow be irrotational. This is an unexpected and highly fruitful association.
+To understand it we need to review the mathematics of the case and see how the
+content arises from the initial referential assignments and structural associations.
+With this background in place, we can see clearly how this apparatus can contribute
+to an accurate description of such phenomena, but there is no reasonable demand
+that all mathematical concepts in play be “reduced,” as Steiner puts it, to physical
+analogues.
+In the absence of a reductive association between a given mathematical concept
+and single physical property, it is true that we can encounter some interpretive
+uncertainty with our best mathematical scientific representations. This uncertainty
+is ignored by those who are overly confident of the scope of their representations,
+and this can lead to the sorts of failures discussed in chapter 7. For example, Laplace
+did not understand why he was able to improve on Newton’s estimate of the speed
+of sound and wrongly took his success to support the existence of caloric. These
+risks of failure go hand in hand with the positive contributions mathematics makes
+to science. But this situation is not mysterious. It is an instance of the more general
+fact that we do not know everything and that complete certainty is achieved only by
+refusing to believe anything.
+
+8.3
+
+DESCRIPTION AND DISCOVERY
+
+In addition to the particular descriptive problem that asks how a given mathematical
+concept describes a target system, Steiner also considers the general descriptive
+problem of how mathematical concepts quite generally succeed in describing features of the physical world. This problem is closest to the one I have pursued in this
+book. But as with the particular case, Steiner makes the unwarranted assumption
+that the presence of mathematical concepts must be tied to their descriptive role in
+picking out physical concepts. This overlooks the wide range of potential contributions that mathematics has for this or that scientific representation. In his discussion
+of the general case, though, Steiner also makes the unfortunate decision to follow
+Wigner’s aesthetic characterization of mathematics. This further distorts Steiner’s
+pursuit of the general descriptive problem and paves the way for his interest in the
+distinct discovery problem and its philosophical significance.
+Steiner introduces the general descriptive problem by saying that it is
+the most profound. It concerns the applicability of mathematics as such, not
+of this or that concept. It is therefore an epistemological question, about the
+relation between Mind and Cosmos. It is the question raised by Eugene Wigner
+about the “unreasonable effectiveness of mathematics in the natural sciences.”
+(Steiner 1998, p. 45)
+
+

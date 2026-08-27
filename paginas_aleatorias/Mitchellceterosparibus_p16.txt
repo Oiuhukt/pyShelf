@@ -1,0 +1,42 @@
+344
+
+SANDRA D. MITCHELL
+
+resultant outcome. Under some values of the components, it may be that
+the contribution of genetic variation is much stronger than variant learning
+experiences and hence completely determines the pattern of foragers in a
+colony or between colonies. Other times, the reverse might be true, and still
+other times, the interaction of the two components is operative in generating the pattern. Interactions may take different forms, including additive,
+swamping, damping and amplifying. Thus the operation of a single causal
+component, its contribution to the resultant effect, can be contingent not
+just on background standing conditions, but also on the other causal mechanisms operating at the same time. The nature of the contingency may vary
+with the different values that the variables in the component mechanisms
+take.
+Redundancy and phase change phenomena can also be present in complex biological systems (see discussion above). These offer two more types
+of complex contingencies that have import for understanding the range
+of contexts in which the regular behavior of a set of variables may be
+disrupted. In systems with redundant processes, the contribution of any
+one may be elicited or moderated by the operation of another. For phase
+change, like non-linear dynamical processes, the nature of the function
+describing the behavior of variables may itself change under certain values
+of the variables or changes in external conditions.
+
+5. THE PHILOSOPHICAL CONSEQUENCES
+
+I have presented a variety of different ways in which causal dependencies
+in biology are contingent. This is damning of biology only if one retains
+the strict notion that laws must be universal and exceptionless. Instead, we
+can turn the question around and ask not whether biological claims can be
+transformed into strict laws, but rather when and how do biological claims
+perform the functions that laws are thought to serve? That is, how can less
+than strict laws explain, predict and assist in intervention? Recent work on
+causal dependence has done much to develop answers.
+In his 2001 and his paper in this issue, Woodward applies his notion
+of explanation being grounded not by universal, exceptionless laws, but by
+generalizations that are invariant under intervention to cases in biology. He
+argues that his notion of invariance is both distinct from my idea of stability of conditions upon which relations hold and that invariance is what is
+needed for explanation, not stability. I want to explore Woodward’s argument, to see where and why the disagreement occurs. First of all, there are
+many similarities in Woodward’s and my account of laws. We both reject
+universality and exceptionlessness as necessary for knowledge claims to be
+
+

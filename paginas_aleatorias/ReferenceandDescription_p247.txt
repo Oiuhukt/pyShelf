@@ -1,0 +1,36 @@
+232
+
+CHAPTER 9
+
+out to express a truth. (This is the “diagonal proposition” of Stalnaker 1978. Strictly speaking, it is a centered proposition, or a
+function from centered worlds to truth values.) The secondary intensions yield a secondary proposition, which holds in those counterfactual circumstances in which the statement [sentence], as uttered in the actual world, is true. The secondary proposition is
+Kaplan’s “content” of an utterance and is more commonly seen as
+the proposition expressed by a statement [sentence], but the primary proposition is also central.
+The two kinds of necessary truth of a statement [sentence]
+correspond precisely to the necessity of the two kinds of associated proposition. A statement [sentence] is necessarily true in the
+ﬁrst (a priori) sense if [iff] the associated primary proposition
+holds in all centered possible worlds (that is, if the statement
+would turn out to express a truth in any context of utterance). A
+statement [sentence] is necessarily true in the a posteriori sense if
+[iff] the associated secondary proposition holds in all possible
+worlds (that is, if the statement as uttered in the actual world is
+true in all counterfactual worlds).36
+Clearly, the view Chalmers is working up to is one in which S is an instance of the necessary aposteriori iff the primary proposition associated
+with S is contingent and knowable only aposteriori, while the secondary
+proposition associated with S is necessary (and knowable apriori).
+An Excursion into “Centered Worlds” and “Centered Propositions”
+
+At this point, a word should be said about the “centered world-states”
+and “centered propositions” mentioned in the above passage. A centered world-state is a world-state with the addition of a designated
+agent and time to provide interpretations for I, we, now, and grammatically related expressions, when world-states function as contexts
+of utterance. For example, the character of I is a function that maps a
+context—i.e., a centered world-state—onto the designated agent of
+that state, and the character of a sentence containing I—e.g., the character of I am so and so—is a function that maps a centered world-state
+onto the proposition which attributes the property of being so and so
+to the designated agent of that world-state. Since the designated agent
+may change from context to context, I refers to different individuals,
+36
+
+Pages 63–64.
+
+

@@ -1,0 +1,45 @@
+248
+
+Analytic Number Theory
+
+Riemann proved the following theorem.
+Theorem 14.2.1 Analytically continued to C, the zeta function ζ (s) has only one
+infinity, a simple pole at s = 1. It has zeros at all negative even numbers (these are
+called the trivial zeros).
+
+Note that at s = 1, ζ (1) = ∞
+n=1 1/n, which is usually one of the first infinite
+series shown to diverge in calculus classes. The fact that the negative even integers
+are zeros of ζ (s) will be shown in Section 14.4. But these are the trivial zeros. This
+term suggests that there are others. This leads to the most important open question
+in mathematics (though its importance is not at all obvious).
+The Riemann Hypothesis: The only non-trivial zeros of ζ (s) lie on the line
+Re(s) = 1/2.
+
+14.3 The Gamma Function
+
+..............................................................................
+
+The gamma function is a delight. And it is a small demonstration of a common
+phenomenon, namely that some mathematical objects that initially appear to only
+be capable of being defined over the positive integers can in fact be defined over
+all real numbers R, or even over the complex numbers C.
+Consider the humble factorial:
+n! = n(n − 1)(n − 2) · · · 2 · 1.
+This certainly seems only to make sense for positive integers. After all, what could
+3.5! or (2 + 8i)! even mean.
+The first step is a definition.
+Definition 14.3.1 For real numbers x > 0, define
+ ∞
+(x) =
+t x−1 e−t dt.
+0
+
+Then (z) is the analytic continuation of this function to all complex numbers.
+It can be shown that for x > 0, the above integral actually converges.
+This initially funny looking function has some interesting properties.
+Theorem 14.3.2 For x > 0, we have
+(1) = 1,
+(x + 1) = x(x).
+
+

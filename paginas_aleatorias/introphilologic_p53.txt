@@ -1,0 +1,40 @@
+1. A good argument is logically well-framed. This is the minimum requirement: the premises of a good
+argument offer reasons for the conclusion. However, different individuals can have different ideas about
+what counts as a good reason or not—good reasons for one person can be inadequate for another. So,
+while necessary, this requirement isn’t sufficient.
+2. As there may be disagreement about the premises, a good argument starts from acceptable premises, or
+premises that are warranted, and not only for the reasoner, but mainly for the audience. Of course, even
+though not true or plausible at all, certain premises may be acceptable, depending on the audience or
+even on the function of the argument in a given context. Considerations of form and content necessarily
+have to be taken together then.
+3. The premises must contain relevant information for the conclusion—if not all that is relevant, at least
+enough to make the conclusion acceptable. Concealing relevant information is a well-known form of
+deceiving people, just as taking certain information for granted when it has been widely contested is a
+mistake.
+Fallacies contain errors in one or more of the senses given above. Of course, there are uncountable reasons for
+accepting a conclusion, such as social, cultural, and psychological reasons. However, the criteria for identifying
+good arguments are nevertheless logical criteria—that is, they are rational criteria, publicly open to evaluation.
+So, anyone could identify fallacies by paying attention to the following:
+1. Do the premises support the conclusion, or only offer very weak support for the conclusion?
+2. Are the premises well-supported?
+3. Do the argument’s premises include all the important relevant information?
+To avoid being fallacious, an argument must be able to answer all of these questions in the positive. Bearing this
+in mind, we do not need to attempt to provide an exhaustive list of each and every possible fallacy. All we must do
+is learn how to identify when and how those criteria are not met, so we can understand when and how arguments
+fail to be good. So, let us examine a taxonomy of fallacies, that is, how they are classified, and then a list of some
+common fallacies.
+TAXONOMY OF FALLACIES
+Our taxonomy of fallacies aims to categorise fallacies into distinct groups, highlighting the distinctive problems
+that members of each group possess. Our most general division is the above mentioned distinction between formal
+and informal fallacies. As mistakes in the form of deductive arguments have already been covered in Chapter 3,
+in this chapter we focus on mistakes of the second kind: informal fallacies.
+Informal fallacies are so called because their errors lie not in their logical form. Instead, to appreciate what is
+wrong with them, we must look at the argument’s content, and thus we must examine if the reasoning within the
+argument meets our other criteria presented above—relevant information and acceptable premises. Such informal
+fallacies are normally divided into the following three general categories (Kahane and Tidman 2002, 349):
+1. Relevance fallacies: Fallacies of this kind do not present relevant information, or present irrelevant
+information for the conclusion.
+2. Ambiguity fallacies: Such fallacies employ unclear or equivocal terms or propositions, so that it becomes
+LOGIC 37
+
+

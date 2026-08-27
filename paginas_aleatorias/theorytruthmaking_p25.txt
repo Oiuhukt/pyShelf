@@ -1,0 +1,41 @@
+Introduction
+
+
+
+objects of our experience are to be understood as combinations or constructions of those data. When questioned as to whether things could exist
+unobserved, such as a crater on the far side of the moon, a phenomenalist
+may contend that our suspicion that such things exist (which cannot be
+true, by the phenomenalist’s lights) is best accounted for by our commitment to truths such as <If you were to be on the moon at a certain time
+and location, you would have a crater-like sense impression>, which is not
+committed to the existence of unobserved entities. And indeed, this
+counterfactual may be true. But what accounts for its truth? Why is this
+counterfactual true rather than false? The realist who has no ontological
+qualms about unobserved craters has the beginnings of an answer: the
+counterfactual is true, at least in part, in virtue of the existence of the
+crater. Phenomenalists have no such option available, given that their
+ontology is limited to the set of actual sense impressions. Armstrong
+detects similar strategies at work in behaviorism about mental states, and
+operationalism about quantities (a: ). David Lewis contends that
+the same sort of argument can be wielded against presentists (which I take
+up in Chapter ), and those who take the distinction between lawgoverned and accidental regularities to be primitive (Lewis : ).
+Here we see the truthmaker theorist’s call for honest accounting come into
+play. It’s not just what we believe that makes our theories tolerable; also
+relevant is the sort of ontology that is needed to ground the truths of
+those theories.
+Other views that rely on counterfactuals face similar challenges. Take,
+for instance, Crispin Wright’s metaethical view (, ; see also
+Lynch , chapter ). For Wright, what it is for a moral judgment to
+be true is for it to be superassertible, which it achieves when it is “warranted
+and some warrant for it would survive arbitrarily close scrutiny of its
+pedigree and arbitrarily extensive increments to or other forms of improvement of our information” (: ). Wright’s hope is that the superassertibility account of moral truth allows one to dodge commitments to
+the moral facts and properties peddled by moral realists; he’s interested in
+developing an antirealist approach to ethics that nevertheless preserves the
+existence of moral truth. Suppose it’s true that it’s morally wrong to eat
+animals. Then, on Wright’s view, the belief that it’s morally wrong to
+eat animals is warranted, and its warrant would survive in the face of any
+improvement to our cognitive state. Wright is then hopeful that a fruitful
+account of warrant is in the oﬃng (one which, it’s important to note,
+cannot in any way presuppose the notion of truth, which is what’s
+currently being analyzed). Because this account makes no reference to
+
+

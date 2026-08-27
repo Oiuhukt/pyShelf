@@ -1,0 +1,48 @@
+Intuitions of three kinds in views on the continuum
+
+25
+
+That may be a reason to hope that the rationalist rather than the linguistic
+picture is the correct one, but have we any reason to believe it is? Gödel does
+not really address this question, but it seems clear to what evidence he
+would point, and what kind of claim he would have to make about it,
+namely, the claim that the standard axioms of set theory plus some large
+cardinals “force themselves upon us,” even though they are not strictly
+rigorously logically implied by the literal conventional linguistic meaning of
+his exposition of the cumulative hierarchy or iterative conception of sets.
+Readers may exercise their own intuitions to evaluate such a claim. For
+what it is worth, I myself do feel that, say, inaccessible cardinals are implied
+by the spirit but not the letter of Gödel’s exposition. To me, deciding for or
+against inaccessibles seems a bit like a judge deciding one way or the other in
+a kind of case that was never anticipated by the legislature and which the
+literal meaning of the words of the applicable law does not settle unambiguously one way or the other. A decision in one direction may be in the spirit of
+the law and in the other contrary to it, even though it cannot be said that the
+letter of the law strictly implies the one or contradicts the other.
+If all this is so, then the alleged instances of rational intuition that Gödel
+cites cannot be explained as instances of linguistic intuition. But explaining
+apparent rational intuitions as really linguistic intuitions is not the only
+alternative to recognizing a special faculty of rational intuition. For there
+may remain yet other kinds of intuition to be considered. After all, something
+has led Gödel to his implausibility judgments about “extreme rareness” results.
+It is certainly not linguistic intuition, and unless it can be claimed to be
+rational intuition, it must be something else that we have not yet considered.
+Nothing Gödel says suggests that he takes his implausibility judgments
+to be clear rational intuitions. If they were, then he would presumably
+advocate the denials of the consequences of CH judged implausible as new
+axioms, comparable to the new axioms of inaccessible and Mahlo
+cardinals; and this he does not do. Nothing Gödel says even suggests that
+he has a dim, misty perception of any potential for new axioms out in the
+direction of these implausibility judgments.34 The only directions from
+
+34
+
+It would be very diﬃcult to formulate any such new axiom about extreme rarity, since nothing is
+more common in point-set theory than to ﬁnd that sets small in one sense are large in another.
+Right at the beginning of the subject comes the discovery of the Cantor set, which is small
+topologically (ﬁrst category) and metrically (measure zero), but large in cardinality (having the
+power of the continuum). Another classic result is that the unit interval can be written as the union
+of a ﬁrst category set and a measure zero set. See Oxtoby, (1971) for more information (The
+particular result just cited appears as Corollary 1.7, p. 5.) The diﬃculty of ﬁnding a rigorous
+formulation, however, is only to be expected with dim and misty rational intuitions.
+
+

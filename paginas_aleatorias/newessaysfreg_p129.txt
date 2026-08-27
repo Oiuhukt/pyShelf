@@ -1,0 +1,43 @@
+124
+
+T. Polimenov
+
+truths, Frege says that in so far as they are intuitable (anschaulich), even the wildest
+phantasies in myths and fiction—phantasies that make “animals talk, … stones turn
+into people, and people into trees”—are subject to the laws of geometry (Frege
+1884/1950, § 14).
+Since the topic of the sense and reference of a sign (singular term, predicate,
+sentence, logical particle) provides the framework within which Frege discusses
+fiction, let us describe the semantic categories ‘sense’ and ‘reference’ in the following general way: the sense of a sign is what we grasp when we understand the sign;
+reference is what we mean by that sign. The sign expresses its sense and designates
+its reference, by which the sense mediates the relation between the sign and its reference (the sense presents the reference in a certain way and from a certain perspective). Or in more detail: in expressing a sense, the sign designates the referent
+determined by that sense. The following scheme can visualize this:
+
+The one and the same reference can be presented by different senses (namely,
+from different perspectives), and the one and the same sense can be expressed by
+different signs.
+In the context of the distinction between sense and reference the topic of fiction
+is mentioned for the first time in a letter to Husserl from 24/05/1891 (Frege
+1891/1980). Here Frege discusses the reference type of predicates (Begriffswörter)
+and distinguishes it from the type of the references of singular terms (Eigennamen),
+pointing out that whereas for the fictional use of language (den dichterischen
+Gebrauch) it suffices that signs have senses, the scientific use requires their references as well.3
+The first place where the topic of fiction is considered in more detail and where
+it plays a key role in the course of the argumentation is SB. Here Frege (1892a/1984)
+argues for two theses: (i) that proper names (and more generally: singular terms)
+Following the traditional distinction between the content and the extension of a concept, Husserl
+is inclined to think that what a general term (Gemeinname) refers to is a set of objects in a similar
+way that a singular term refers to one definite object. Frege (1891/1980, 63) objects that a general
+term—unlike an empty singular term—can have a scientific use even when no object falls under
+the concept it denotes (when the respective set is empty). Let us take “a satellite of Venus” as an
+example: the sentence “Venus has no satellites” (“There is no thing that is a satellite of Venus”)
+does not only have a sense but also states a truth. We do not refer to sets by predicates (“… is a
+satellite of Venus”) but by abstract singular terms: “the set of Venus’s satellites”. The reference of
+a predicate is a function that maps objects (references of singular terms) to truth-values (references
+of sentences). Frege calls that function “concept”. That is why the concept is not the sense but the
+reference of a predicate. The sense is the perspective in which the concept is given. For example,
+the predicates “… is red”, “… has the colour with the longest wave length” and “… has the colour
+of blood” have different senses yet identical reference.
+3
+
+

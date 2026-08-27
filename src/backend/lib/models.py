@@ -28,13 +28,15 @@ class Book(Base):
     cover: Mapped[Optional[str]]
     pages: Mapped[Optional[int]]
     progress: Mapped[Optional[float]]
-    file_name: Mapped[str]
+    file_name: Mapped[str] = mapped_column(unique=True, index=True)
     description: Mapped[Optional[str]]
     date: Mapped[timestamp]
     rights: Mapped[Optional[str]]
     tags: Mapped[Optional[str]]
     identifier: Mapped[Optional[str]]
     publisher: Mapped[Optional[str]]
+
+    sample_text: Mapped[Optional[str]] = mapped_column(nullable=True)
 
     # Relationship to join table
     book_collections = relationship(

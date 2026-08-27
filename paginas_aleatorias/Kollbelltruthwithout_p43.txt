@@ -1,0 +1,39 @@
+26
+
+Truth Without Objectivity
+
+shortcoming who owe a proof (1992: 149). Taking discourse about what is funny
+as an example, he argues that it would be extremely difficult to defend the view
+that disagreements within this discourse must involve cognitive failure on the
+part of one of the disputants. Such a defence, he suggests, would need to invoke
+'the idea of a sui generis cognitive sense or faculty of comedy, sensitive to sui
+generis states of affairs' (1992: 150). But such an idea would presumably be
+very difficult to sustain.
+I do not wish to decide the issue of which side owes a proof here. But I do
+want to argue that Wright's interpretation of the notion of cognitive failure
+throws doubt on the usefulness of cognitive command as a criterion for objectivity. I have two arguments to this effect. The first casts doubt on its status as a
+criterion. The second shows that Wright cannot avoid the problem of a priori
+error, even if he claims that untrue belief may not amount to a cognitive shortcoming.
+The first argument. The point of a criterion for something is to provide a way
+of recognizing that thing. Normally, a criterion is a condition the fulfilment of
+which reliably indicates that for which it is a criterion. A criterion that deserves
+the name, however, will not only be a condition that reliably indicates the presence of that for which it is a criterion, it will also be a condition the fulfilment of
+which is more easily recognized than that for which it is to serve as a criterion.
+The colour of litmus paper, for example, is a good criterion for the acidity of a
+liquid. That's because the colour not only reliably indicates acidity, but is also
+easier to recognize than the acidity of the liquid. By contrast, the concentration
+of H+ ions (i.e. positively charged hydrogen ions) is not a good criterion for
+acidity, because recognizing H+ concentration isn't any easier than recognizing
+acidity, even though H+ concentration reliably indicates acidity.
+Another way in which a criterion may fail to be a good criterion is by requiring another criterion for its application, where this other criterion would provide more direct evidence. An example is the noise of raindrops on the roof as a
+criterion for rain. This may well be a good criterion in some situations. But consider this situation: my upstairs neighbour often waters the plants on his roofgarden, when it's not raining. The noise produced by the watering is indistinguishable from the noise caused by raindrops. Being offered the noise as a criterion for rain, I object that the same noise is produced by the watering. In reply, I
+am told that it is only the noise of raindrops that was to be the criterion. I continue to be sceptical and ask how I can know that a given noise is the noise of
+raindrops and not the noise of my neighbour watering his plants. The reply to
+this is: 'Well, just look out of the window, and check whether it's raining'.
+Clearly, the noise of raindrops is not a good criterion for rain in this situation,
+even though the noise of rain drops is a reliable indicator of rain. The problem is
+that in order to be able to apply the criterion, I need a criterion for the noise being caused by raindrops rather than by my neighbour. If this second criterion is
+whether it looks like it is raining outside my window, then I might as well have
+used that criterion as a criterion for rain in the first place.
+
+

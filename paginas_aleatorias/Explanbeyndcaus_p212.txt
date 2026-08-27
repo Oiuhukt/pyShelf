@@ -1,0 +1,52 @@
+OUP CORRECTED PROOF – FINAL, 03/31/2018, SPi
+
+Steven French and Juha Saatsi
+
+199
+
+consider the modal information provided by the physics. From the perspective of the
+counterfactual-dependence account, this explanatory priority is underwritten by the
+fact that in a typical application of these results to a particular system (e.g., the solar
+system) there is a natural sense in which the conserved quantities depend on the features of the system represented by the Lagrangian and its symmetries, but not the other
+way around. The Lagrangian and its properties reflect the relevant properties of the
+system being described: kinetic and potential energy functions, and whatever constraints there are to its dynamics. When we consider changes to these features of the
+system, we consider changing, for example, the spatial distribution of mass or charge,
+or their quantity. These changes can have an effect on regularities manifested by the
+system as it evolves over time: different features of the system may become constants of
+motion, properties whose values are unchanged over time. The point is that there is no
+way to alter these regularities concerning the system’s behaviour—these constants of
+motion—directly as it were, without acting upon the features of the system that determine the system’s behaviour. And it is the latter that feature in the Lagrangian, the
+symmetries of which thereby determine the constants of motion in a way that supports
+explanatory what-if-things-had-been-different counterfactuals.
+This asymmetry is best illustrated with a concrete example. For an elementary case,
+consider a particle moving under a central force. In spherical coordinates ( r, θ , ϕ ) , the
+potential energy U ( r ) of the particle depends only on the radial coordinate r, when a
+spherically symmetric source of e.g., gravitational or electric force field is located at the
+origin. The kinetic energy function
+1
+1
+K = mv 2 = m r2 + r 2θ2 + rϕ 2 sin2 θ
+2
+2
+
+(
+
+)
+
+feeds into the Lagrangian L = K − U (r ) . From Euler-Lagrange equations we get as
+(separate) constants of motion the azimuthal and polar components of the orbital
+angular momentum: pθ = mr 2θ and pϕ = mr 2ϕ sin2 θ . This is why the particle’s trajectory is constrained to a plane; this regularity about the dynamics depends on the
+symmetry of the Lagrangian (namely, symmetry of kinetic and potential energy
+functions).
+Changing the potential energy function, either in its strength (by varying the amount
+of mass or charge at the centre), or in its spatial geometry by breaking the spherical
+symmetry in favour of some other symmetry, will have effects on the dynamical
+behaviour of bodies moving under the potential. These effects are reflected also in
+the regularities of the dynamics captured by the constants of motion. Grasping the
+connection between these constants of motion and the symmetries of the Lagrangian
+enables us to answer what-if-things-had-been-different questions such as: What if
+the source were not spherically symmetrical? What if the source were a spheroid,
+as opposed to a sphere? What if the spheroid revolved about its minor axis? What if
+it oscillated in a particular way? From the counterfactual-dependence perspective
+
+

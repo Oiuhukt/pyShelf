@@ -1,0 +1,44 @@
+62
+
+CHAPTER 3 The only ultimate test of the theory of natural selection
+
+knowledge which is too much neglected” (Weldon, 1894, p. 25). He then, however,
+turns to a frontal assault on Bateson’s commitment to discontinuity. Why, according to Bateson, should we believe that the variation that produces species is, in fact,
+discontinuous? Because species are discontinuous, while their environments (at least
+in terms of physical parameters like temperature, altitude, and so forth) are broadly
+continuous. Discontinuity must, then, arise through the process of variation. Weldon
+is not convinced. Setting aside the fact that many environmental parameters are in
+fact not continuous, Weldon points to an obvious source of discontinuity in the “environment”—interactions with other organisms, a possible cause which Bateson has
+only dismissed in a cursory footnote. Further, in cases where Bateson has amassed
+much data of discontinuous variation (his favorites being cases of whole-unit, integer
+variation like vertebrae or teeth), he has neglected the biases induced by preservation. Extremely small teeth or vertebra are unlikely to be preserved in specimens,
+and thus without extremely careful study (down to the cellular level, Weldon writes)
+of samples taken expressly for the purpose, we have no reason to think that the only
+options are either an entire tooth or no tooth at all. Carefully collected, large-samplesize statistical data would have done better. As he closes the review, “a careful histological account of the jaws of five hundred dogs would have done more to show the
+least possible size of a tooth in dogs than all the information so painfully collected.
+And so in many other cases” (Weldon, 1894, p. 25).
+Further fuel for the controversy came from unusual quarters. A bitter dispute
+arose in the correspondence to Nature over some examples of cultivated plants in the
+genus Cineraria which had been discussed by W. T. Thiselton-Dyer (1895; see also
+Cock and Forsdyke, 2008, pp. 150–154). This controversy, in turn, was the result of
+the presentation of a paper of Weldon’s—to which we shall soon turn—which had
+been developed under the auspices of a Royal Society “Committee for Conducting
+Statistical Inquiries into the Measurable Characteristics of Plants and Animals,”
+which Weldon had formed in partnership with Galton, Darwin’s son Francis, and
+a few other well-known biologists at the end of 1892. This committee, Weldon had
+hoped, could serve as a way to centralize statistical work on the measurement of
+variability in organisms. Bateson, however, saw it as a threat, and set about attacking
+its work in earnest shortly after the dust-up over the Cineraria. The whole episode
+would end with Bateson being appointed to the committee as a conciliatory gesture,
+followed by his stacking the committee with his own allies in 1897, and the resignation of the biometricians en masse 2 years later, in 1899. In short, it amplified and
+focused the already deep and profound animus which existed between Bateson’s
+group and that of Pearson and Weldon.
+This debate, however, will hardly feature in my narrative. After all, ours is a story
+about the introduction of chance, probability, and statistics into our picture of the
+evolving world, and Bateson and his group never really understood those methods
+well enough to be able to inveigh against them in a serious way. Their critiques remain, rather, largely at the level of a general opposition to the use of mathematical
+methods in the first place. Furthermore, as we shall see throughout the rest of the
+book, the historiographical tendency to reduce the contributions of all the figures in
+this time period—biometrician and Batesonian (later, Mendelian) alike—to simply
+
+

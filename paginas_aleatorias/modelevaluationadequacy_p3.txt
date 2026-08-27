@@ -1,0 +1,40 @@
+AN ADEQUACY-FOR-PURPOSE VIEW
+
+459
+
+An adequacy-for-purpose view has been advocated by both scientists and
+philosophers. For example, a US National Research Council report characterizes model evaluation as “the process of deciding whether and when a
+model is suitable for its intended purpose” (NRC 2007, 3; see also Caswell
+1976; Rykiel 1996; Jakeman, Letcher, and Norton 2006; Baumberger,
+Knutti, and Hadorn 2017). Taper, Staples, and Shepard (2008, 358), discussing modeling in environmental sciences, note “a growing recognition that
+models should be selected based on their ability to answer questions of interest,” rather than on some overall measure of their ﬁt to observational data.
+Among philosophers, Parker (2010, 287) recommends that model evaluation
+be understood as “an activity that aims to determine whether a model is adequate for one or more purposes of interest.” Currie (2018) adopts a similar
+view and points to philosophical work on the evaluation of artifacts as a potential resource (e.g., Hilpinen 2011).
+An adequacy-for-purpose view is attractive for a number of reasons. It is
+a natural accompaniment to a prominent way of thinking about scientiﬁc
+models, which emphasizes that models are not just representations but also
+tools that are selected and used for particular epistemic and practical purposes
+(e.g., Morrison and Morgan 1999; Giere 2004, 2010; Boon and Knuuttila
+2009; Parker 2010; Knuuttila 2011; Currie 2018). In addition, it readily accounts for some prima facie puzzling features of modeling practice, including
+the fact that modelers sometimes misrepresent a target, even when they could
+avoid doing so; judicious misrepresentation can promote the achievement
+of some epistemic and practical aims (Wimsatt 2007, chap. 6; van Fraassen
+2008, chap. 1). For example, a modeler might omit from her computer model
+a (representation of a) particular causal process known to be operating in the
+target, in order to gain insight into its contribution to the target’s behavior. Finally, an adequacy-for-purpose view can help to combat overconﬁdence in
+modeling results, just as Oreskes et al. sought to do. This is because, on an
+adequacy-for-purpose view, evaluators must consider what evidence there
+is that a model is adequate for the particular purpose at hand; past successes
+of the model might not be especially relevant.
+Despite its attractions, however, an adequacy-for-purpose view of model
+evaluation has not been the subject of sustained philosophical analysis. A
+number of basic questions remain at best only partly addressed, including
+What does it mean for a model to be adequate-for-purpose? What makes a
+model adequate-for-purpose? How does assessing a model’s adequacy-forpurpose differ from assessing its representational accuracy? This article attempts to make progress in answering these questions. In addition, responses
+are given to some objections that might be raised against an adequacy-forpurpose view. The aim is to further develop, and to defend, a particularly
+promising view of model evaluation.
+
+https://doi.org/10.1086/708691 Published online by Cambridge University Press
+
+

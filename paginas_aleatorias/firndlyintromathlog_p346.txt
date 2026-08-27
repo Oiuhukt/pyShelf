@@ -1,0 +1,147 @@
+330
+
+Solutions to Selected Exercises
+We see that (*) holds when k = k0 + max(k1 , . . . , km ).
+Assume f (x,
+0) = g(x)
+and f (x,
+y + 1) = h(x,
+y, f (x,
+y)). Then, we
+∼
+∼
+∼
+∼
+∼
+have n ∈ N such that f is of rank n + 1 and h, g1 , . . . , gm are of
+rank less than or equal to n. By our induction hypothesis we have
+k0 , k1 ∈ N such that
+g(x)
+≤ Akn0 (max(x))
+∼
+∼
+
+(3)
+
+h(x,
+y, z) ≤ Akn1 (max(x,
+y, z)) .
+∼
+∼
+
+(4)
+
+and
+
+We will prove by (a secondary) induction on y that
+y)) .
+f (x,
+y) ≤ Akn1 y+k0 (max(x,
+∼
+∼
+
+(**)
+
+It follows straightforwardly from (3) that (**) holds when y = 0.
+Furthermore, we have
+f (x,
+y + 1)
+∼
+
+=
+
+h(x,
+y, f (x,
+y))
+∼
+∼
+
+≤
+
+y, f (x,
+y + 1)))
+Akn1 (max(x,
+∼
+∼
+
+≤
+
+y)))) ind. hyp.
+y, Akn1 y+k0 (max(x,
+Akn1 (max(x,
+∼
+∼
+
+=
+
+An1
+
+k (y+1)+k0
+
+(4)
+
+(max(x,
+y)) .
+∼
+
+This proves (**).
+Now we have
+f (x,
+y)
+∼
+
+≤
+
+y))
+Akn1 y+k0 (max(x,
+∼
+
+≤
+
+Akn1 y+k0 (An+1 (max(∼
+x, y)))
+
+≤
+
+An+1 (k1 y + k0 + max(x,
+y))
+∼
+
+def. of An+1
+
+≤
+
+An+1 (Ak11 +k0 +1 (max(x,
+y))
+∼
+
+see (a)
+
+≤
+
+1 +k0 +1
+An+1 (Akn+1
+(max(x,
+y)))
+∼
+
+=
+
+1 +k0 +2
+Akn+1
+(max(x,
+y))
+∼
+
+(**)
+
+We conclude that (*) holds when k = k1 + k0 + 2.
+(d) Assume that A is primitive recursive. Let d(x) = d0 (x, x) where
+d0 (x, 0) = x and d0 (x, y + 1) = A(x, d0 (x, y)). Then, d is primitive
+recursive since A is primitive recursive. Moreover, d(x) = Axx (x).
+But by (c), we have fixed k, n ∈ N such that d(x) ≤ Akn (x), and a
+contradiction emerges: for any x strictly greater than max(n, k) we
+have
+d(x) ≤ Akn (x) < Axx (x) = d(x) .
+
+

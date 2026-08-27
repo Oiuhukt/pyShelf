@@ -1,0 +1,54 @@
+46
+
+Karen Yeung
+
+Duff RA, ‘Harms and Wrongs’ (2001–​02) 5 Buffalo Criminal Law Review 14.
+Dworkin R, A Matter of Principle (Harvard University Press 1985).
+Edwards L and Veale M, ‘Slave to the Algorithm? Why a “Right to an Explanation” is Probably
+Not the Remedy You Are Looking For’ (2017) 16(1) Duke Law and Technology Review 1.
+Endicott T, ‘The Value of Vagueness’ in V Bhatia, J Engberg, M Gotti, and D Heller (eds),
+Vagueness in Normative Texts (Peter Lang 2005).
+Endicott T, Administrative Law (3rd edn, Oxford University Press 2015) Chs 4–​5.
+Ferguson AG, ‘Policing Predictive Policing’ (2017) 94 Washington University Law
+Review 1115.
+Floridi L and Taddeo M, ‘What is Data Ethics?’ (2016) Philosophical Transactions of the
+Royal Society A. 371: 20160360.
+Galligan D, Due Process and Fair Procedures (Oxford University Press 1997).
+Galligan DJ, Discretionary Powers in the Legal Order (Oxford University Press 1986).
+Gardner J, ‘The Mark of Responsibility (With a Postscript on Accountability)’ in MW
+Dowdle (ed), Public Accountability (Cambridge University Press 2006).
+Goodman B and Flaxman S, ‘European Union Regulations on Algorithmic Decision-​
+Making and a “Right to Explanation” ’ ICML Workshop on Human Interpretability in
+Machine Learning (2016) arXiv:1606.08813 (v3).
+Hildebrandt M, Smart Technologies and the End(s) of Law (Edward Elgar 2015).
+Hildebrandt M, ‘Privacy as Protection of the Incomputable Self: From Agnostic to Agonistic
+Machine Learning’ Paper presented at The Problem of Theorizing Privacy (8–​9 January
+2017) The Buchmann Faculty of Law, Tel Aviv University, available via SSRN network accessed 24 October 2018.
+Hildebrandt M and Gutwirth S (eds), Profiling the European Citizen (Springer 2010).
+Jack I, ‘I Feared the Grenfell Tributes Would Be Mawkish. I Was Wrong’ The Guardian
+(26 May 2018) <https://​www.theguardian.com/​commentisfree/​2018/​may/​26/​grenfell-​
+tower-​tributes-​titanic-​victims> accessed 6 July 2018.
+Jasanoff S, The Ethics of Invention (WW Norton & Co 2016).
+Kamiran F and Zliobaite I, ‘Explainable and Non-​
+explainable Discrimination in
+Classification’ in B Custers, T Calders, B Schermer, and T Zarsky (eds), Discrimination
+and Privacy in the Information Society (Springer 2012).
+Kosinski M, Stillwell D, and Graepel T, Private Traits and Attributes Are Predictable from
+Digital Records of Human Behaviours’ (2013) 110 Proceedings National Academy of
+Science 5802.
+Kuner C, Cate FH, Millard C, et al, ‘Risk Management in Data Protection’ (2015) 5(2)
+International Data Privacy Law 95.
+Lee M, ‘The Legal Institutionalization of Public Participation in the EU Governance of
+Technology’ in R Brownsword, E Scotford, and K Yeung (eds), The Oxford Handbook of
+Law, Regulation and Technology (Oxford University Press 2017)
+Liu H-​Y, ‘Refining Responsibility: Differentiating Two Types of Responsibility Issues
+Raised by Autonomous Weapons Systems’ in N Bhuta, S Beck, R Geiss, H-​Y Liu, and
+C Kress (eds), Autonomous Weapons Systems: Law, Ethics, Policy (Cambridge University
+Press 2015).
+Matthias A, ‘The Responsibility Gap: Ascribing Responsibility for the Actions of Learning
+Automata’ (2004) 6 Ethics and Information Technology 175.
+Mendoza I and Bygrave LA, ‘The Right Not to Be Subject to Automated Decisions Based
+on Profiling’ in T Synodinou et al (eds), EU Internet Law: Regulation and Enforcement
+(Springer 2017).
+
+

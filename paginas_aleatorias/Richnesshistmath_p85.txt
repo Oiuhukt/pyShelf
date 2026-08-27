@@ -1,0 +1,48 @@
+68
+
+L. Ji
+
+present versus the view from the past itself. They all need to be taken into
+consideration and combined in fruitful ways. Otherwise, bad consequences might
+arise.
+I hope that these obvious points can be relevant and interesting to others too. As
+in life, people often overlook the most basic and obvious things. We will make
+some of the above discussions more precise and describe a few more concrete
+points which might be considered as basic requirements in doing research on the
+history of mathematics. Whenever possible, relevant examples are provided. After
+summarizing comments by mathematicians and historians on various aspects of
+history in Sect. 3.2, we examine some historical studies on Galois’ testamentary
+letter to highlight the importance of using the primary sources in Sect. 3.3. Then in
+Sect. 3.4, we explain the key components of historical thinking. Finally we introduce
+the notion of spacetime of mathematics in Sect. 5 and illustrate its use to get new
+perspectives on works of Poincaré and Hilbert.
+
+3.2 Comments by Mathematicians and Historians
+on What, Why, How of History
+Given that the history of mathematics is a long one, it is expected that some major
+mathematicians and historians of mathematics have written about several basic
+issues in the study of the history of mathematics. It is not surprising that each has
+different perspectives and some of them have expressed their opinions strongly and
+sharply. It is not surprising either that mathematicians and historians of mathematics
+have vastly different or even seemingly conflicting opinions. Similarly, even for
+some historians of mathematics, there is a strong division between the so-called
+internal history and external history, though this division is not clearly defined.
+From the dialectic perspective emphasized in this chapter, we will try to present
+an overview of them by making long quotes from major representatives so that the
+readers can understand better the precise meaning of opinions of the people from
+whom we have quoted.10
+geometry richer and more interesting. More importantly, they can also explain why something
+happened in the ways it did.
+10 It seems that the general advice given to young historians in books on the methodology of
+history is to quote sparingly or briefly by incorporating others’ opinions into the text through either
+summarizing or paraphrasing others’ writings. In this chapter, I am going against this instruction
+because short quotes and paraphrasing will often distort the original meanings and hence can
+cause misunderstanding, which can be seen in the discussions about Galois’ testamentary letter
+in Sect. 3.3 below. This is also consistent with the basic principle in the study of history of using
+the primary sources or the original writings as much as possible. I do not wish to express my
+opinions either on these quotes representing different perspectives about history, since it seems
+important that the readers need to understand all of them and then make up their own decisions
+about the basic issues in the history of mathematics and how to make use of the suggestions in the
+quotes. Of course, this is the dialectic view that we want to emphasize in this chapter.
+
+

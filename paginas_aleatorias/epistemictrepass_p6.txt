@@ -1,0 +1,45 @@
+372
+
+Nathan Ballantyne
+
+3. How commonplace is trespassing?
+
+Mind, Vol. 128 . 510 . April 2019
+
+ß Ballantyne 2018
+
+Downloaded from https://academic.oup.com/mind/article-abstract/128/510/367/4850765 by guest on 10 July 2019
+
+I began with cases where Pauling, Dawkins, Tyson, and McGinn apparently stepped over an epistemological line. Trespassing happens.
+But does it happen often? Pauling and company are easy-to-recognize,
+public examples of trespassing. But subtle, harder-to-detect sorts of
+trespassing could be commonplace, and sometimes more dangerous
+because they are unobvious.
+To recognize more subtle forms of trespassing, we need to find
+interdisciplinary connections forged between different fields. We
+need to see how these connections cause experts unwittingly to overstep their limits. This easily happens when experts investigate what I
+will call hybridized questions—ones addressed and answered by
+combining evidence and techniques from two or more fields.
+Fields are fixed by a set of questions and expertise is fixed by bodies
+of evidence and skills needed to answer a field’s questions. But note
+that sometimes fields overlap or converge and come to share a question. This may happen in one of three ways: (a) the evidence required
+to answer a question reliably or responsibly comes from two or more
+fields; (b) the skills required to evaluate the evidence well come from
+two or more fields; or (c) both the relevant evidence and the relevant
+skills required to answer a question reliably or responsibly come from
+two or more fields. In such situations, the experts in one field will not
+all satisfy the same evidence or skill conditions as the experts in another field. Since the experts are in different fields, the evidence and
+skills that constitute their expertise differ. A hybridized question, then,
+is one that experts in distinct fields could try to answer using their
+own resources. Take the question, ‘What caused the CretaceousPaleogene extinction event?’ It is addressed by experts in palaeontology, geology, climatology, and oceanography, among other fields.
+The question is thoroughly hybridized and answering it calls for a host
+of evidence and skills. A question can be hybridized even if it is experts
+from one field only who address the question. But once investigators
+recognize that a question is hybridized, they should think that answering it reliably and responsibly calls for cross-field resources.
+These days, hybridized questions abound. I will consider one case in
+detail before noting others more briefly. From the 1950s through to the
+1980s, philosophers approached questions about human freedom
+using the tools of analysis and counterexample. Principles meant to
+articulate the nature of freedom were tested using ‘thought experiments’. Questions about free will were treated as metaphysical or
+
+

@@ -1,0 +1,44 @@
+https://doi.org/10.1017/9781108981972 Published online by Cambridge University Press
+
+Gödel’s Incompleteness Theorems
+
+59
+
+and that are mathematical in flavor, is amply rewarded in set theory. That is, in
+addition to Gödel sentences involving consistency or asserting unprovability
+of the Gödel sentence, a fairly large number of natural, set-theoretical independent statements have been found. One such has been discussed already in
+Section 5.1, namely the Second Incompleteness Theorem in the form of the
+unprovability of the existence of inaccessible cardinals. But others were soon
+to follow, particularly after the invention of forcing in 1963.
+Before turning to the most prominent of these, namely the continuum hypothesis (CH), note that the existence statement for any so-called large cardinal,
+from Mahlo and weakly compact up to supercompact and beyond, will be independent of ZFC, as these are all inaccessible. So here is a plethora of naturally
+occurring independent set-theoretical statements. As for the CH, due to Cantor
+and first on Hilbert’s famous list of open problems given at the Paris ICM in
+1900, it states that an infinite set of real numbers must either be countable, or
+of the same size as the entire set of real numbers. Gödel showed in 1937 [41]
+that the CH cannot be disproved from the axioms of ZFC, that is, ZFC + CH is
+consistent. Cohen proved the consistency of ZFC + not-CH in 1963, for which
+he won a Fields Medal.
+Is the CH important for mathematics? As it turns out, mathematicians seem
+to do very well in spite of not knowing the size of the continuum – the size,
+that is, as measured by the ℵ-hierarchy, as of course it can easily be shown
+that the continuum is of size 2ℵ0 . In a situation analogous to the case of mathematical incompleteness relative to Peano Arithmetic, set theorists began to
+search for independence results of a more concrete nature – statements that are
+entirely mathematical, in Tarski’s sense of mathematical, but not involving, for
+example, cardinality. The following is a sample of some of these.
+Borel’s conjecture that strong measure zero sets are countable. A subset
+A of the real line is said to be of strong measure zero if for every sequence
+αn of positive reals there exists a sequence In , n ∈ N of intervals such that
+∪
+|In | < αn for all n and A ⊆ In . Borel conjectured that every strong measure
+zero set is countable. As it turns out this is independent of ZFC, as proved by
+Sierpinski [118], for the consistency of the negation, and Laver [87] for the
+consistency.
+Borel Determinacy and Zermelo Set Theory. Consider the following twoplayer game. A subset A of the unit interval is named at the outset. Players
+then take turns choosing xi and yi ∈ {0, 1}. Player I wins if the sequence
+hx0, y0, x1, y1 . . .i, interpreted as an element of the unit interval, is in A. Player
+II wins if the sequence is not in A. We say that the set A is determined if this
+game is determined, meaning that one of the players has a winning strategy.
+The Axiom of Determinacy (AD) states that every set of reals is determined.
+
+

@@ -1,0 +1,69 @@
+Terminology:
+• “Order relation” as used below denotes a non-strict possibly partial order: a relation “≤” that is reflexive
+(x ≤ x for all x ), antisymmetric (whenever x ≤ y and y ≤ x then x = y) and transitive (whenever x ≤
+y and y ≤ z then x ≤ z ).
+• The relations under study — “refines”, “specializes”, “implements” — are antisymmetric only under equivalence. In other words, taking refinement as an example, if p ⊑ q and q ⊑ p both hold, it is not necessarily
+the case that p = q (because of possible spurious elements, “dead code”, on either side), but equivalence
+p ≡ q does hold. If a relation has this property and is otherwise reflexive and transitive, we will say that,
+rather than being an order relation, it induces an order relation. (Formally, the quotient of the relation
+by the equivalence relation “≡” is an order relation.)
+Theorems: order relations
+Refinement (“⊑”) induces an order relation.
+
+/Refine_order /
+
+Specialization (“⊆”) induces an order relation
+
+/Special_order /
+
+Implementation induces an order relation
+(except that it is reflexive for feasible elements only)
+
+/Implementation_order /
+
+Comment: For brevity, the separate components of each of the above properties (reflexivity, antisymmetry,
+transitivity) are not individually included. They figure in the Isabelle/HOL repository with their proofs, under
+self-explanatory names consistent with the general conventions, such as /Refine_transitive/.
+Definition: The following theorems will express when refinement, specialization and implementation are compatible with basic operations. An operation will be called refinement-safe if applying it preserves refinement
+properties. Similarly: implementation-safe, specialization-safe.
+
+6.4
+
+Refinement and basic operations
+
+As an example:
+Theorem: Refinement safety (for restriction)
+If q ⊑ p, then C: q ⊑ C: p
+-- Restriction is refinement-safe.
+
+/Restrict_refinesafety/
+
+Comment: On the other hand, many operations are not refinement-safe (although many will be specializationsafe as seen below) because of precondition widening. They include corestriction, composition and choice. In
+the last case a form of refinement-safety does hold per the following theorem.
+Theorem: Refinement safety for choice
+If q ⊑ p and q post-strengthens v , then q ∪ v ⊑ p ∪ v
+
+/Choice_refinesafety/
+
+Implementation safety follows directly from refinement safety.
+
+6.5
+
+Specialization and basic operations
+
+Unlike with refinement, all basic operations as well as corestriction are specialization-safe.
+Theorems: Specialization safety
+If q ⊆ p, then the following properties hold:
+C: q ⊆ C: p
+-- Restriction is specialization-safe.
+
+/Restrict_specialsafety/
+
+C\q⊆C\p
+-- Coestriction is specialization-safe.
+
+/Corestrict_specialsafety/
+
+21
+
+

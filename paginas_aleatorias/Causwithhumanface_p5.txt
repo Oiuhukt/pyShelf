@@ -1,0 +1,44 @@
+70
+
+jim woodward
+
+similar point holds for some quantum mechanical contexts.⁵ If, alternatively
+(or in addition) we think of causal claims as having to do with unfolding
+of causal processes in time from some local point of origin, as a number
+of philosophers (e.g. Salmon 1984, Dowe 2000) do, then few if any
+fundamental laws are causal in the sense of directly describing such processes⁶
+(Smith forthcoming). In part for these reasons and in part for other reasons
+that will be discussed on p. 73, the widely accepted idea that all true causal
+claims in common sense and the special sciences ‘instantiate’ fundamental
+physical laws which are causal in character, with causal status of the former
+being ‘grounded’ in these fundamental laws alone is deeply problematic.⁷
+In short, while there is no convincing argument for the conclusion that
+causation ‘plays no role’ in fundamental physics, there is also good reason to
+be skeptical of a sort of causal foundationalism or fundamentalism according
+to which fundamental physical laws supply a causal foundation for all of
+the causal claims occurring in the special sciences, and according to which,
+every application of a fundamental physical theory must be interpretable in
+terms of a notion of ‘cause’ possessing all of the features of the notion that
+figures in common sense and the special sciences.
+
+4.2 Causation in the Special Sciences
+Whatever may be said about the role of causation in physics, it seems uncontroversial that causal claims play a central role in many areas of human
+life and inquiry. Causal notions are of course ubiquitous in common sense
+reasoning and ‘ordinary’ discourse. Numerous psychological studies detail
+⁵ For example, it is arguable, (cf. Hausman and Woodward 1999) that there is no well-defined notion
+of an intervention on the spin state of one of the separated particles pairs with respect to the other
+in EPR type experiments. This would represent a limitation on the application of an interventionist
+account of causation only if there was reason to suppose that there is a direct causal connection between
+these states. Hausman and Woodward argue that there is no such reason; hence that it is a virtue, rather
+than a limitation in the interventionist account that, in contrast to other accounts of causation, it does
+not commit us to such a connection.
+⁶ Nor, contrary to ‘conserved quantity’ accounts of causation of the sort championed by Salmon and
+Dowe, will it always be possible to characterize ‘causal processes’ in fundamental physical contexts in
+terms of the transference of energy and momentum in accordance with a conservation law. Typically,
+the spacetimes characterized in General Relativity lack the symmetries that permit the formulation of
+global (that is, integral versions of) conservation laws. In such cases, no spatially/temporally extended
+process (no matter, how intuitively ‘causal’) will possess well-defined conserved energy/momentum.
+See Rueger (1998) for more detailed discussion.
+⁷ Davidson (1967) is a classic source for this idea.
+
+

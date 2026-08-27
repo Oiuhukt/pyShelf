@@ -1,0 +1,35 @@
+Projected, Oscillating, and Orbiting Bodies
+
+191
+
+nents of curvilinear motion. What was at stake was the primacy of rectilinear over
+curvilinear motion in the new worldview and the nature and location of an outward, or centrifugal, tendency or force. On the latter issue I identify two investigative traditions, one prevalent on the Continent and the other in England.
+I ﬁrst address the analyses of the motion of the satellites of Jupiter put forward
+by Fabri and Borelli in the mid-1660s. Whereas Fabri relied on projectile motion,
+Borelli used a wide set of tools ranging from the lever to the pendulum. Section
+7.3 investigates a debate on the trajectory of falling bodies on a moving Earth, focusing on the views of Borelli and degli Angeli. Both examined the case whereby
+the falling body is projected in the direction of rotation and relied on the conical
+pendulum. We have seen in chapter 4 that this problem had been debated in the
+aftermath of Galileo’s Dialogo and continued to attract scholarly attention well
+after the time covered here. Section 7.4 examines the debates on the trajectory of
+projectiles in a resisting medium in Italy, England, and France, from the Cimento
+Academy to James Gregory and Blondel. Section 7.5 deals with the main work on
+mechanics before Newton’s Principia, Huygens’s Horologium oscillatorium, which
+put forward a sophisticated new theory of the vertical and the conical pendulum.
+Section 6 explores the studies of orbital motion in England by Hooke, Wren, Wallis, Newton, and Flamsteed. Initially Wallis, Hooke, and Wren explored the motions of planets and satellites using an analogy with the conical pendulum.
+In this chapter mathematics takes on a signiﬁcant role, in two respects. Some of
+the changes occurring in mathematics were becoming increasingly relevant to
+mechanics. In the case of Huygens’s Horologium oscillatorium, a new curve—the
+cycloid—entered the scene; but this was not an isolated case, since many areas of
+study, from centers of oscillation to the motion of projectiles in resisting media,
+required increasingly sophisticated tools. Moreover, mathematics could be used in
+diﬀerent ways with regard to physical causes. For example, gravity could be explored having recourse to its causes, as Huygens did at a debate at the Paris
+Académie, or purely in mathematical terms, as he did in Horologium oscillatorium. The same applies to several scholars, such as Newton up to the mid-1680s,
+who considered gravity mathematically and at the same time ﬁrmly believed in a
+physical mechanism such as a ﬂuid medium generating it. These diﬀerent approaches were to emerge as a major theme later in the century.
+
+7.2. The Analyses of Orbital Motion by Fabri and Borelli
+It should come as no surprise to ﬁnd astronomy closely tied to mechanics and
+the science of motion, since this link was already present in Galileo and the following generation, notably Gassendi. The study of the trajectory of planets, satel-
+
+
