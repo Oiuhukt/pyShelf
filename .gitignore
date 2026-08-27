@@ -26,6 +26,33 @@ env/
 config.json
 .env
 
+# --- pyShelf Data & Media ---
+pyshelf.sqlite3
+*.sqlite3
+data/
+paginas_aleatorias/
+
+# Portadas generadas dinámicamente
+src/frontend/static/covers/*
+!src/frontend/static/covers/.gitkeep
+
+# --- Python & Caches ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+.env
+
+# --- Estilos & Compilaciones ---
+# (Se ignora el CSS generado ya que pyShelf.sass se compila al arrancar)
+src/frontend/static/styles/pyShelf.css
+src/frontend/static/styles/bulma.css
+
+# --- Sistema / OS ---
+.DS_Store
+Thumbs.db
+
 
 # Logs
 *.log

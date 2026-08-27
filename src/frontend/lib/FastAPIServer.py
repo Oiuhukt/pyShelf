@@ -354,21 +354,18 @@ class FastAPIServer():
         self.compile_static_files()
 
     def compile_static_files(self):
-        """Compile static files for web frontend."""
-        _pyShelf_src = sass.compile(
-            filename=f"{STATIC_DIR}/styles/pyShelf.sass",
-            source_map_filename=f"{STATIC_DIR}/styles/pyShelf.sass",
-            output_style='compressed',
-            include_paths=[
-                'node_modules',
-                f"{STATIC_DIR}src/frontend/static/styles"
-            ]
-        )
-        with open(f"{STATIC_DIR}/styles/pyShelf.css", 'w') as _pyShelf:
-            _pyShelf.write(_pyShelf_src[0])
-
-        self.JSInterface.install()
-        return True
+        """Compila los estilos SASS del frontend a CSS."""
+        try:
+            compiled_css = sass.compile(
+                filename=f"{STATIC_DIR}/styles/pyShelf.sass",
+                output_style='compressed'
+            )
+            with open(f"{STATIC_DIR}/styles/pyShelf.css", 'w', encoding='utf-8') as f:
+                f.write(compiled_css)
+            return True
+        except Exception as e:
+            print(f"Error al compilar SASS: {e}")
+            return False
 
     def use_route_names_as_operation_ids(self, app: FastAPI) -> None:
         """Use route name as operation id."""

@@ -1,88 +1,45 @@
-# pyShelf 📚
+# pyShelf v1.1.1
 
-Un servidor de libros electrónicos (*eBook server*) ligero, autónomo y administrable desde la terminal o navegador web, enfocado en un consumo mínimo de recursos y sin dependencia de un servidor gráfico (X11/GUI).
+Servidor de biblioteca digital ligero y elegante construido con **FastAPI**, **Jinja2** y **PicoCSS 2**.
 
----
+## 🚀 Novedades en v1.1.1
+- **Frontend Estable**: Interfaz homogeneizada con componentes de PicoCSS 2 y visualización responsive de tarjetas de libros.
+- **Tema Desierto Académico**: Nueva paleta global de 8 colores basada en tonos arcilla, arena y ocre.
+- **Destacado y Filtros**: Sección principal con selección aleatoria de documentos y filtrado rápido por categoría (*Todos*, *Libros*, *Artículos*).
+- **Backend Optimizado**: API adaptada a FastAPI/Starlette con manejo eficiente de headers e integración fluida con SQLite.
 
-## 🌟 Características
+## 🛠️ Instalación y Uso
 
-- **Almacenamiento eficiente:** Portadas extraídas dinámicamente al sistema de archivos local (`static/covers/`), manteniendo la base de datos SQLite ultraligera (~2 MB).
-- **Auto-descubrimiento y Colecciones:** Detecta de forma recursiva tus libros y asigna automáticamente la subcarpeta como Colección (ej. `Libros`, `Artículos`).
-- **Extractor Nactivo con Poppler:** Renderizado directo de la primera página del PDF a imagen HD.
-- **Búsqueda Fuzzy optimizada:** Filtra la biblioteca rápidamente por nombres de archivos y títulos.
-- **Formatos soportados:** PDF, EPUB y MOBI con sistema de descarga e integración de lectura.
-
----
-
-## 🚀 Requisitos e Instalación
-
-### Requisitos previos
-- **Python:** 3.10+ (probado en Python 3.12, FreeBSD y Linux).
-- **Dependencias del sistema:** `poppler-utils` (para extracción de portadas PDF).
-- **Herramientas:** `git`, `sqlite3`, `uv` (opcional para gestión de entornos).
-
-### Instalación rápida
-
-1. **Clonar el repositorio:**
+1. Clonar el repositorio:
    ```bash
-   git clone git@github.com:Oiuhukt/pyShelf.git
+   git clone [https://github.com/TU_USUARIO/pyShelf.git](https://github.com/TU_USUARIO/pyShelf.git)
    cd pyShelf
-
-    Configurar el entorno virtual e instalar dependencias:
-    Bash
-
-    python3 -m venv .venv
-    source .venv/bin/activate
-    pip install -r pyproject.toml # O usando 'uv sync'
-
-    Configuración inicial:
-    Edita el archivo config.json para definir la ruta donde se alojan tus libros:
-    JSON
-
-    {
-      "library_path": "/usr/local/biblioteca"
-    }
-
-    Poblar la base de datos e indexar libros:
-    Bash
-
-    python3 -m src.backend.pyShelf_ScanLibrary
 
     Iniciar el servidor:
     Bash
 
     ./pyshelf.sh
 
-📂 Estructura del Proyecto
 
-    src/backend/: Lógica del servidor, modelos y utilidades (pyShelf_ScanLibrary.py, storage.py).
+---
 
-    src/frontend/static/covers/: Almacenamiento físico de imágenes de portada ({book_id}.jpg).
+### **4. Guardar cambios y crear el Release en GitHub**
 
-    src/frontend/lib/FastAPIServer.py: Endpoints de la API y servidor principal con FastAPI.
+Ejecuta esta secuencia de comandos en tu terminal para registrar los cambios, poner la etiqueta de versión y subir todo a GitHub:
 
-    pyshelf.sqlite3: Base de datos SQLite con metadatos, categorías y rutas de archivos.
+```bash
+# 1. Ver qué archivos se van a incluir
+git status
 
-🛠️ Administración y Mantenimiento
+# 2. Agregar todos los cambios respetando el .gitignore
+git add .
 
-Toda la gestión de la biblioteca se controla a través del script centralizador de backend pyShelf_ScanLibrary.py:
-1. Sincronización habitual (Auto-descubrimiento)
+# 3. Guardar el commit con la descripción de la versión
+git commit -m "release: v1.1.1 - Frontend PicoCSS desértico y backend estable"
 
-Escanea la biblioteca en busca de nuevos archivos .pdf o .epub, actualiza o asigna la Colección según la subcarpeta contenedora (Libros, Artículos, etc.) y genera las portadas faltantes.
-Bash
+# 4. Crear la etiqueta Git (Tag) de la versión
+git tag -a v1.1.1 -m "Versión 1.1.1 - Primera versión pública estable"
 
-python3 -m src.backend.pyShelf_ScanLibrary
-
-2. Limpieza de libros eliminados (--clean)
-
-Purga de la base de datos SQLite los registros de libros cuyos archivos fueron borrados o movidos fuera del disco, eliminando también su imagen de portada en static/covers/.
-Bash
-
-python3 -m src.backend.pyShelf_ScanLibrary --clean
-
-3. Reconstrucción total de portadas (--force)
-
-Fuerza a Poppler a re-procesar la primera página de cada PDF y sobrescribir todas las imágenes de portada en static/covers/. Ideal si se desalinearon las imágenes.
-Bash
-
-python3 -m src.backend.pyShelf_ScanLibrary --force
+# 5. Subir código y etiquetas al repositorio remoto
+git push origin main
+git push origin v1.1.1
