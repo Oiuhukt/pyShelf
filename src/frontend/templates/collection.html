@@ -1,58 +1,63 @@
 {% include 'header.html' %}
 
-<section id="master-container" class="collection-frame">
+<main id="master-container" class="container collection-frame">
 
-    <div id="book-shelf" class="grid" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 1.5rem;">
+    <div id="book-shelf">
         {% if books and books|length > 0 %}
             {% for book in books %}
-                {# Desempaquetar la fila si FastAPI la entrega como tupla de SQLAlchemy #}
                 {% set b = book[0] if book is sequence and book is not string else book %}
                 {% set b_id = b.id if b.id is defined else (b.book_id if b.book_id is defined else b[0]) %}
                 {% set b_title = b.title if (b.title is defined and b.title) else (b.file_name if b.file_name is defined else 'Sin título') %}
 
-                <article class="book-card" style="margin-bottom: 0;">
-                    <a href="/api/get_book/{{ b_id }}" target="_blank" style="text-decoration: none; color: inherit;">
-                        <div class="book-thumbnail">
-                            <figure style="margin: 0;">
-                                <img src="/api/cover/{{ b_id }}" 
-                                     alt="{{ b_title }}" 
-                                     style="width: 100%; height: 240px; object-fit: cover; border-radius: 4px;"
-                                     onerror="this.onerror=null; this.src='{{ url_for('static', path='images/no-cover.jpg') }}';" />
-                            </figure>
-                        </div>
-                        <div class="book-title-sub" title="{{ b_title }}" style="margin-top: 0.5rem; font-weight: bold; font-size: 0.9rem; text-align: center;">
-                            {{ b_title }}
-                        </div>
-                    </a>
-                </article>
-            {% endfor %}
+<article class="book-card">
+    <a href="/api/get_book/{{ b_id }}" target="_blank" class="book-link">
+        <div class="book-thumbnail">
+            <figure>
+                <img src="/api/cover/{{ b_id }}"
+                     alt="{{ b_title }}"
+                     onerror="this.onerror=null; this.src='{{ url_for('static', path='images/no-cover.jpg') }}';" />
+            </figure>
+        </div>
+        <div class="book-overlay">
+            <p class="book-overlay-title">{{ b_title }}</p>
+            {% set b_author = b.author if (b.author is defined and b.author) else 'Sin datos' %}
+            <p class="book-overlay-author">{{ b_author }}</p>
+            {% set b_category = b.categories if (b.categories is defined and b.categories) else '' %}
+            {% if b_category %}
+                <p class="book-overlay-category">{{ b_category }}</p>
+            {% endif %}
+        </div>
+    </a>
+</article>
+                {% endfor %}
         {% else %}
-            <div style="grid-column: 1 / -1; text-align: center; padding: 3rem 0;">
-                <p style="color: var(--pico-muted-color);">No se encontraron documentos en esta colección.</p>
+            <div class="no-results">
+                <p>No se encontraron documentos en esta colección.</p>
             </div>
         {% endif %}
     </div>
+
+    <!-- Paginación de Colecciones -->
+    {% if total_pages is defined and total_pages > 1 %}
+    <nav class="pagination-container" aria-label="pagination">
+        <div class="pagination-controls">
+            {% if page > 0 %}
+                <a href="/collection/{{ collection_id if collection_id else collection }}?skip={{ page - 1 }}&limit={{ limit }}" class="outline contrast" role="button">&laquo; Anterior</a>
+            {% else %}
+                <button class="outline contrast" disabled>&laquo; Anterior</button>
+            {% endif %}
+
+            <span class="pagination-status">Página {{ page + 1 }} de {{ total_pages }}</span>
+
+            {% if page + 1 < total_pages %}
+                <a href="/collection/{{ collection_id if collection_id else collection }}?skip={{ page + 1 }}&limit={{ limit }}" class="outline contrast" role="button">Siguiente &raquo;</a>
+            {% else %}
+                <button class="outline contrast" disabled>Siguiente &raquo;</button>
+            {% endif %}
+        </div>
+    </nav>
+    {% endif %}
+
 </section>
-
-<!-- Paginación Pico CSS -->
-{% if total_pages is defined and total_pages > 1 %}
-<nav class="pagination-container" aria-label="pagination" style="margin-top: 2rem;">
-    <div class="grid pagination-controls" style="align-items: center; text-align: center;">
-        {% if page > 0 %}
-            <a href="/collection/{{ collection_id if collection_id else collection }}?skip={{ page - 1 }}&limit={{ limit }}" class="outline contrast" role="button">&laquo; Anterior</a>
-        {% else %}
-            <button class="outline contrast" disabled>&laquo; Anterior</button>
-        {% endif %}
-
-        <span class="pagination-status">{{ page + 1 }} / {{ total_pages }}</span>
-
-        {% if page + 1 < total_pages %}
-            <a href="/collection/{{ collection_id if collection_id else collection }}?skip={{ page + 1 }}&limit={{ limit }}" class="outline contrast" role="button">Siguiente &raquo;</a>
-        {% else %}
-            <button class="outline contrast" disabled>Siguiente &raquo;</button>
-        {% endif %}
-    </div>
-</nav>
-{% endif %}
 
 {% include 'footer.html' %}

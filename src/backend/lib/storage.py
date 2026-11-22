@@ -3,102 +3,176 @@
 import re
 import os
 import glob
-import hashlib
 import datetime
 import subprocess
+import unicodedata
+from PIL import Image
 from pathlib import Path
-from collections import defaultdict
-from rapidfuzz import process, fuzz
 from sqlalchemy import create_engine, select
 from sqlalchemy.orm import Session
 
 from .models import Book, Collection, BookCollection
 
 
+# --- Utilidades de normalización (módulo) ---
+
+_EXT_RE = re.compile(r"\.(pdf|epub|mobi|azw3|djvu|fb2|cbz|cbr)$", re.IGNORECASE)
+_JUNK_TITLE_RE = re.compile(
+    r"^(microsoft word|untitled|document\d*|unknown|sin t[ií]tulo|\d+)\b",
+    re.IGNORECASE,
+)
+
+
+def _strip_accents(text: str) -> str:
+    if not text:
+        return ""
+    nfkd = unicodedata.normalize("NFKD", text)
+    return "".join(c for c in nfkd if not unicodedata.combining(c))
+
+
+def _normalize(text: str) -> str:
+    """minúsculas, sin acentos, sin espacios múltiples."""
+    return re.sub(r"\s+", " ", _strip_accents(text or "").lower()).strip()
+
+
+def clean_title_from_filename(path_or_name: str) -> str:
+    """El_Quijote_-_Cervantes.pdf -> 'El Quijote - Cervantes'."""
+    name = os.path.basename(path_or_name or "")
+    name = _EXT_RE.sub("", name)
+    name = name.replace("_", " ")
+    name = re.sub(r"\s+", " ", name).strip()
+    # quitar corchetes/paréntesis finales tipo "[PDF]" o "(1)"
+    name = re.sub(r"\s*[\[\(][^\]\)]{1,20}[\]\)]\s*$", "", name).strip()
+    if name and (name.islower() or name.isupper()):
+        name = name.title()
+    return name or "Sin título"
+
+
+def is_junk_title(title: str) -> bool:
+    if not title or not title.strip():
+        return True
+    t = title.strip()
+    if _EXT_RE.search(t):
+        return True
+    if t.isdigit():
+        return True
+    if _JUNK_TITLE_RE.match(t):
+        return True
+    return False
+
+
 class Storage:
     """Create a new Storage object."""
 
     def __init__(self, config):
-        """Initialize storage object."""
         self.config = config
-        self.sql = self.config.catalogue_db
-        self.user = self.config.user
-        self.password = self.password = self.config.password
-        self.db_host = self.config.db_host
-        self.db_port = self.config.db_port
-        self.engine = create_engine(self.get_connection_string(), pool_pre_ping=True)
+        from sqlalchemy.pool import NullPool
+        self.engine = create_engine(
+            self.get_connection_string(),
+            pool_pre_ping=True,
+            poolclass=NullPool,
+            connect_args={"check_same_thread": False, "timeout": 30},
+        ) 
 
     def get_connection_string(self):
-        """Get connection string."""
-        if self.config.db_engine == "sqlite":
-            return f"sqlite:////{self.config.root}/pyshelf.sqlite3"
-        elif self.config.db_engine == "psql":
-            return f"postgresql://{self.user}:{self.password}@{self.db_host}:{self.db_port}/{self.sql}"
-        elif self.config.db_engine == "mysql":
-            return f"mysql://{self.user}:{self.password}@{self.db_host}:{self.db_port}/{self.sql}"
+        return f"sqlite:////{self.config.root}/pyshelf.sqlite3"
 
     def create_tables(self):
-        """Create table structure."""
         tables = [Book, Collection]
         for table in tables:
             table.metadata.create_all(self.engine)
 
-    def get_sample_text_for_file(self, pdf_path: str) -> str | None:
-        """Busca en ./paginas_aleatorias un .txt que coincida con el nombre del archivo."""
-        destino = "./paginas_aleatorias"
-        if not os.path.exists(destino):
-            return None
+    # ---------- Metadatos ----------
 
-        filename_no_ext = os.path.splitext(os.path.basename(pdf_path))[0]
-        for txt_file in os.listdir(destino):
-            if txt_file.startswith(filename_no_ext) and txt_file.endswith(".txt"):
-                txt_path = os.path.join(destino, txt_file)
-                try:
-                    with open(txt_path, "r", encoding="utf-8", errors="ignore") as f:
-                        return f.read().strip()
-                except Exception:
-                    return None
-        return None
+    def extract_pdf_metadata(self, pdf_path: str) -> tuple[str, str]:
+        """Extrae Título/Autor con pdfinfo. Fallback: nombre limpio del archivo."""
+        title = None
+        author = None
 
-    def generate_pdf_cover(self, pdf_path: str, book_id: int | str, force: bool = False) -> str | None:
-        """Genera la portada JPG llamando directamente a pdftoppm nativo de Poppler."""
+        if pdf_path.lower().endswith((".pdf",)):
+            try:
+                res = subprocess.run(
+                    ["pdfinfo", pdf_path],
+                    stdout=subprocess.PIPE, stderr=subprocess.PIPE,
+                    text=True, timeout=5,
+                )
+                if res.returncode == 0:
+                    for line in res.stdout.splitlines():
+                        if line.startswith("Title:"):
+                            val = line.split("Title:", 1)[1].strip()
+                            if val and not is_junk_title(val):
+                                title = val
+                        elif line.startswith("Author:"):
+                            val = line.split("Author:", 1)[1].strip()
+                            if val and not is_junk_title(val):
+                                author = val
+            except Exception as e:
+                self.config.logger.error(
+                    f"[Storage] pdfinfo falló en {pdf_path}: {e}"
+                )
+
+        if not title:
+            title = clean_title_from_filename(pdf_path)
+        if not author:
+            author = "Sin datos"
+
+        return title, author
+
+    # ---------- Portadas ----------
+
+    def generate_pdf_cover(self, pdf_path: str, book_id, force: bool = False):
         covers_dir = Path(self.config.root) / "src" / "frontend" / "static" / "covers"
         covers_dir.mkdir(parents=True, exist_ok=True)
-        
+
         output_prefix = str(covers_dir / str(book_id))
         final_jpg = covers_dir / f"{book_id}.jpg"
         relative_cover_path = f"covers/{book_id}.jpg"
 
-        if final_jpg.exists() and not force and final_jpg.stat().st_size > 0:
+        if final_jpg.exists() and not force:
             return relative_cover_path
 
-        try:
-            # Comando de Poppler: extrae página 1 a JPG escalado
-            cmd = [
-                "pdftoppm",
-                "-jpeg",
-                "-f", "1",
-                "-l", "1",
-                "-singlefile",
-                "-scale-to", "600",
-                pdf_path,
-                output_prefix
-            ]
-            subprocess.run(cmd, check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
-            return relative_cover_path
-        except Exception as e:
-            self.config.logger.error(f"[Storage] Error generando portada con pdftoppm para ID {book_id}: {e}")
-        return None
+        if pdf_path.lower().endswith(".pdf"):
+            try:
+                cmd = [
+                    "pdftoppm", "-jpeg", "-f", "1", "-l", "1",
+                    "-singlefile", "-scale-to", "800",
+                    pdf_path, output_prefix,
+                ]
+                subprocess.run(
+                    cmd, check=True,
+                    stdout=subprocess.DEVNULL, stderr=subprocess.PIPE, text=True,
+                )
+            except Exception as e:
+                self.config.logger.error(
+                    f"[Storage] Error extrayendo portada ID {book_id}: {e}"
+                )
+
+        if final_jpg.exists():
+            try:
+                with Image.open(final_jpg) as img:
+                    width, height = img.size
+                    if width > height:
+                        img.crop((width / 2, 0, width, height)).save(
+                            final_jpg, "JPEG", quality=90
+                        )
+            except Exception as e:
+                self.config.logger.error(
+                    f"[Storage] Error recortando portada ID {book_id}: {e}"
+                )
+
+        return relative_cover_path if final_jpg.exists() else None
+
+    # ---------- Descubrimiento / sincronización ----------
 
     def auto_discover_books(self):
-        """Descubre nuevos PDFs/EPUBs e inserta o actualiza portadas en la BD."""
-        search_path = getattr(self.config, 'book_path', '/usr/local/biblioteca')
+        search_path = getattr(self.config, "book_path", "/usr/local/biblioteca")
         files = sorted(
-            glob.glob(f'{search_path}/**/*.pdf', recursive=True) +
-            glob.glob(f'{search_path}/**/*.epub', recursive=True)
+            glob.glob(f"{search_path}/**/*.pdf", recursive=True)
+            + glob.glob(f"{search_path}/**/*.epub", recursive=True)
         )
         now = datetime.datetime.now()
         new_count = 0
+        fixed_count = 0
 
         with Session(self.engine) as session:
             for path in files:
@@ -107,63 +181,57 @@ class Storage:
                 ).scalar_one_or_none()
 
                 parent_dir = os.path.basename(os.path.dirname(path))
-                category = parent_dir if parent_dir.lower() != 'biblioteca' else 'General'
-                sample_txt = self.get_sample_text_for_file(path)
+                category = parent_dir if parent_dir.lower() != "biblioteca" else "General"
+
+                title, author = self.extract_pdf_metadata(path)
 
                 if existing:
                     existing.categories = category
-                    if sample_txt:
-                        existing.sample_text = sample_txt
-                    
-                    # Generar portada si falta o no está en la BD
-                    if not existing.cover or not (Path(self.config.root) / "src" / "frontend" / "static" / existing.cover).exists():
+
+                    # Corregir título si es basura / nombre de archivo
+                    raw_basename = os.path.basename(path)
+                    needs_title_fix = (
+                        not existing.title
+                        or existing.title == raw_basename
+                        or is_junk_title(existing.title)
+                    )
+                    if needs_title_fix and title and title != existing.title:
+                        existing.title = title
+                        fixed_count += 1
+
+                    if (not existing.author or existing.author == "Sin datos") and author:
+                        existing.author = author
+
+                    if not existing.cover or not (
+                        Path(self.config.root) / "src" / "frontend" / "static" / existing.cover
+                    ).exists():
                         cover_rel_path = self.generate_pdf_cover(path, existing.id)
                         if cover_rel_path:
                             existing.cover = cover_rel_path
                 else:
-                    title = os.path.splitext(os.path.basename(path))[0]
                     new_book = Book(
-                        title=title,
-                        author="Desconocido",
-                        file_name=path,
-                        cover="",
-                        date=now,
-                        categories=category,
-                        sample_text=sample_txt
+                        title=title, author=author, file_name=path,
+                        cover="", date=now, categories=category,
                     )
                     session.add(new_book)
-                    session.flush()  # Genera new_book.id
-                    
+                    session.flush()
                     cover_rel_path = self.generate_pdf_cover(path, new_book.id)
                     if cover_rel_path:
                         new_book.cover = cover_rel_path
-                    
                     new_count += 1
             session.commit()
-        self.config.logger.info(f"[Storage] Libros sincronizados: {new_count} nuevos.")
 
-    def regenerate_all_covers(self, force: bool = True):
-        """Fuerza la regeneración masiva de portadas de todos los libros."""
-        with Session(self.engine) as session:
-            books = session.execute(select(Book)).scalars().all()
-            updated_count = 0
-            for book in books:
-                if book.file_name and os.path.exists(book.file_name):
-                    cover_rel_path = self.generate_pdf_cover(book.file_name, book.id, force=force)
-                    if cover_rel_path:
-                        book.cover = cover_rel_path
-                        updated_count += 1
-            session.commit()
-        self.config.logger.info(f"[Storage] Se regeneraron {updated_count} portadas con pdftoppm.")
+        self.config.logger.info(
+            f"[Storage] Libros sincronizados: {new_count} nuevos, "
+            f"{fixed_count} títulos corregidos."
+        )
 
     def clean_orphaned_books(self):
-        """Elimina de la BD los registros de archivos borrados en disco y sus portadas."""
         covers_dir = Path(self.config.root) / "src" / "frontend" / "static" / "covers"
         deleted_count = 0
 
         with Session(self.engine) as session:
-            books = session.execute(select(Book)).scalars().all()
-            for book in books:
+            for book in session.execute(select(Book)).scalars().all():
                 if book.file_name and not os.path.exists(book.file_name):
                     cover_path = covers_dir / f"{book.id}.jpg"
                     if cover_path.exists():
@@ -171,119 +239,47 @@ class Storage:
                     session.delete(book)
                     deleted_count += 1
             session.commit()
-        self.config.logger.info(f"[Storage] Registros huérfanos eliminados: {deleted_count}")
+        self.config.logger.info(f"[Storage] Huérfanos eliminados: {deleted_count}")
 
-    def insert_book(self, book):
-        """Insert a new book into the database saving the cover to disk."""
-        with Session(self.engine) as session:
-            try:
-                cover_path_relative = None
-                raw_cover = book[2]
-
-                if raw_cover:
-                    try:
-                        cover_bytes = raw_cover.data if hasattr(raw_cover, 'data') else raw_cover
-                    except Exception:
-                        cover_bytes = raw_cover
-
-                    if cover_bytes and isinstance(cover_bytes, bytes):
-                        cover_filename = f"{hashlib.md5(cover_bytes).hexdigest()[:12]}.jpg"
-                        covers_dir = Path(self.config.root) / "src" / "frontend" / "static" / "covers"
-                        covers_dir.mkdir(parents=True, exist_ok=True)
-                        full_cover_path = covers_dir / cover_filename
-
-                        if not full_cover_path.exists():
-                            with open(full_cover_path, "wb") as f:
-                                f.write(cover_bytes)
-
-                        cover_path_relative = f"covers/{cover_filename}"
-
-                _book = Book(
-                    title=book[0],
-                    author=book[1],
-                    cover=cover_path_relative,
-                    file_name=book[3],
-                    description=book[4],
-                    identifier=book[5],
-                    publisher=book[6],
-                    rights=book[8],
-                    tags=book[9],
-                )
-                session.add(_book)
-                session.commit()
-                return True
-            except Exception as e:
-                self.config.logger.error(f"{book[0][0:80]} :: {e}")
-                return False
-
-    def book_paths_list(self):
-        """Get file paths from database for comparison to system files."""
-        session = Session(self.engine)
-        _result = session.scalars(select(Book.file_name)).fetchall()
-        session.close()
-        return _result
-
-    def parse_collections_from_path(self, book: dict) -> list:
-        """Parse book paths to determine common folder structure."""
-        collections = []
-        title_regx = re.compile(r"^[0-9][0-9]*|-|\ \B")
-        book_path: Path = Path(book[3])
-        store_path: Path = Path(self.config.book_path)
-        relative_book_path: Path = book_path.relative_to(store_path)
-        for folder in relative_book_path.parts[:-1]:
-            clean_name = re.sub(title_regx, "", folder).strip()
-            if clean_name:
-                collections.append(clean_name)
-        return collections
+    # ---------- Colecciones ----------
 
     def make_collections(self):
-        """Ensure collections exist and link them to books (many-to-many)."""
         self.config.logger.info("Making collections.")
-        session = Session(self.engine)
+        with Session(self.engine) as session:
+            for book_id, file_name in session.execute(
+                select(Book.id, Book.file_name)
+            ).all():
+                try:
+                    relative_parts = Path(file_name).relative_to(self.config.book_path).parts
+                except ValueError:
+                    continue
+                folder = "Unsorted" if len(relative_parts) < 2 else relative_parts[0]
 
-        books = session.execute(select(Book.id, Book.file_name)).all()
+                collection = session.execute(
+                    select(Collection).where(Collection.name == folder)
+                ).scalar_one_or_none()
+                if not collection:
+                    collection = Collection(name=folder)
+                    session.add(collection)
+                    session.flush()
 
-        for book_id, file_name in books:
-            try:
-                relative_parts = Path(file_name).relative_to(self.config.book_path).parts
-            except ValueError:
-                continue
-            if len(relative_parts) < 2:
-                folder = "Unsorted"
-            else:
-                folder = relative_parts[0]
-
-            collection = session.execute(
-                select(Collection).where(Collection.name == folder)
-            ).scalar_one_or_none()
-            if not collection:
-                collection = Collection(name=folder)
-                session.add(collection)
-                session.flush()
-
-            link_exists = session.execute(
-                select(BookCollection).where(
-                    BookCollection.book_id == book_id,
-                    BookCollection.collection_id == collection.id
-                )
-            ).first()
-
-            if not link_exists:
-                session.add(BookCollection(book_id=book_id, collection_id=collection.id))
-
-        session.commit()
-        session.close()
+                exists = session.execute(
+                    select(BookCollection).where(
+                        BookCollection.book_id == book_id,
+                        BookCollection.collection_id == collection.id,
+                    )
+                ).first()
+                if not exists:
+                    session.add(BookCollection(book_id=book_id, collection_id=collection.id))
+            session.commit()
         self.config.logger.info("Finished making collections.")
 
     def get_books(self, collection=None, skip=None, limit=None):
-        """Get books from database."""
         with Session(self.engine) as session:
             if collection is not None:
-                # Si 'collection' es un número (ID), filtra por ID. Si es texto, filtra por Nombre.
                 if isinstance(collection, int) or str(collection).isdigit():
                     stmt = (
-                        select(Book)
-                        .join(BookCollection)
+                        select(Book).join(BookCollection)
                         .where(BookCollection.collection_id == int(collection))
                     )
                 else:
@@ -293,61 +289,98 @@ class Storage:
                         .join(Collection, BookCollection.collection_id == Collection.id)
                         .where(Collection.name == collection)
                     )
-                
-                result = session.execute(
-                    stmt.offset(skip or 0).limit(limit)
-                ).scalars().all()
+                result = session.execute(stmt.offset(skip or 0).limit(limit)).scalars().all()
             else:
                 result = session.execute(
-                    select(Book)
-                    .offset(skip or 0)
-                    .limit(limit)
+                    select(Book).offset(skip or 0).limit(limit)
                 ).scalars().all()
         return result
 
-
     def get_book(self, id):
-        """Get book from database."""
-        session = Session(self.engine)
-        _result = session.execute(select(Book).where(Book.id == id)).first()
-        session.close()
-        return _result
+        with Session(self.engine) as session:
+            return session.execute(select(Book).where(Book.id == id)).first()
 
     def get_collections(self):
-        """Get collections from database."""
         with Session(self.engine) as session:
-            result = session.execute(
+            return session.execute(
                 select(Collection).join(BookCollection).distinct()
             ).scalars().all()
-        return result
 
     def get_collection(self, name):
-        """Get collection from database."""
-        session = Session(self.engine)
-        _result = session.execute(select(Collection).where(Collection.name == name).join(Book)).all()
-        session.close()
-        return _result
-
-    def fuzzy_search_books(self, query: str, limit: int = 30):
-        """Búsqueda por nombre de archivo manteniendo el orden de relevancia descendente."""
         with Session(self.engine) as session:
-            books = session.execute(select(Book)).scalars().all()
+            return session.execute(
+                select(Collection).where(Collection.name == name).join(Book)
+            ).all()
 
-        book_map = {b.id: b.file_name or "" for b in books if b.file_name}
+    # ---------- Búsqueda (reescrita) ----------
 
-        fuzzy_results = process.extract(
-            query,
-            book_map,
-            scorer=fuzz.WRatio,
-            limit=limit
-        )
+    def search_books_by_text(self, query: str, limit: int = 200):
+        """
+        Búsqueda FTS5 con prefijo por término, ranking BM25 y orden estable.
+        Mantiene el comportamiento AND (todos los términos deben aparecer).
+        """
+        if not query or not query.strip():
+            return []
 
-        books_by_id = {b.id: b for b in books}
-        matched_books = []
-        for match, score, book_id in fuzzy_results:
-            if score > 30:
-                book = books_by_id.get(book_id)
-                if book:
-                    matched_books.append(book)
+        terms = re.findall(r"\w+", query, flags=re.UNICODE)
+        if not terms:
+            return []
+        fts_query = " ".join(f"{t}*" for t in terms)
 
-        return matched_books
+        from sqlalchemy import text as _sqltext
+
+        with Session(self.engine) as session:
+            try:
+                id_rows = session.execute(
+                    _sqltext(
+                        "SELECT b.id FROM Book_fts "
+                        "JOIN Book b ON b.id = Book_fts.rowid "
+                        "WHERE Book_fts MATCH :q "
+                        "ORDER BY bm25(Book_fts, 10.0, 5.0, 2.0, 3.0, 1.0, 2.0, 0.5) "
+                        "LIMIT :lim"
+                    ),
+                    {"q": fts_query, "lim": limit},
+                ).all()
+            except Exception as e:
+                self.config.logger.error(
+                    f"[Storage] FTS5 search error: {e!r} (q={fts_query!r})"
+                )
+                return []
+            ids = [r[0] for r in id_rows]
+            if not ids:
+                return []
+            books = session.execute(
+                select(Book).where(Book.id.in_(ids))
+            ).scalars().all()
+            order = {bid: i for i, bid in enumerate(ids)}
+            books.sort(key=lambda b: order[b.id])
+            return books
+
+    # ---------- Migración de títulos ----------
+
+    def cleanup_titles(self, dry_run: bool = True):
+        """Corrige títulos basura o que quedaron como nombre de archivo."""
+        changes = []
+        with Session(self.engine) as session:
+            for book in session.execute(select(Book)).scalars().all():
+                raw_base = os.path.basename(book.file_name or "")
+                needs_fix = (
+                    not book.title
+                    or book.title == raw_base
+                    or is_junk_title(book.title)
+                )
+                if not needs_fix:
+                    continue
+                new_title = clean_title_from_filename(raw_base)
+                if new_title and new_title != book.title:
+                    changes.append({
+                        "id": book.id,
+                        "old": book.title,
+                        "new": new_title,
+                        "file_name": book.file_name,
+                    })
+                    if not dry_run:
+                        book.title = new_title
+            if not dry_run:
+                session.commit()
+        return changes

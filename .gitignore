@@ -62,3 +62,8 @@ data/
 src/frontend/static/styles/*.css
 !src/frontend/static/styles/.gitkeep
 src/data/
+scripts/
+*.sqlite3
+*.sqlite3.bak*
+libros.csv
+pyshelf.sqlite3

@@ -1,35 +1,26 @@
 document.addEventListener('DOMContentLoaded', function() {
-    console.log("pyShelf JS iniciado (Vanilla JS)");
-
     const selectEl = document.getElementById('collection-select');
-    const formEl = document.getElementById('search-form');
-    const inputEl = document.getElementById('search-input');
+    const searchForm = document.getElementById('search-form');
 
-    // 1. Redirección al cambiar de colección en el Select
+    // 1. Redirección al cambiar de colección
     if (selectEl) {
         selectEl.addEventListener('change', function(e) {
             const val = e.target.value.trim();
-            if (val) {
-                window.location.href = `/collection/${encodeURIComponent(val)}`;
-            } else {
-                window.location.href = '/';
-            }
+            window.location.href = val ? `/collection/${encodeURIComponent(val)}` : '/';
         });
     }
 
-    // 2. Envío del formulario de búsqueda
-    if (formEl) {
-        formEl.addEventListener('submit', function(e) {
-            e.preventDefault();
-            const query = inputEl ? inputEl.value.trim() : '';
-            const collection = selectEl ? selectEl.value.trim() : '';
+    // 2. Feedback visual al enviar la búsqueda
+    if (searchForm) {
+        searchForm.addEventListener('submit', function() {
+            const submitBtn = searchForm.querySelector('button[type="submit"]');
+            const inputEl = searchForm.querySelector('input[name="search"]');
 
-            if (query) {
-                window.location.href = `/api/search?search=${encodeURIComponent(query)}`;
-            } else if (collection) {
-                window.location.href = `/collection/${encodeURIComponent(collection)}`;
-            } else {
-                window.location.href = '/';
+            if (submitBtn && inputEl && inputEl.value.trim() !== '') {
+                // Activa el spinner nativo de Pico CSS en el botón
+                submitBtn.setAttribute('aria-busy', 'true');
+                submitBtn.textContent = 'Buscando...';
+                submitBtn.disabled = true;
             }
         });
     }

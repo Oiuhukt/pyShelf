@@ -1,97 +1,112 @@
 {% include 'header.html' %}
 
-<section id="master-container" class="container">
+<main id="master-container" class="container">
 
-    <!-- 1. SECCIÓN DESTACADA (Random Featured Book) -->
-    {% if featured_book %}
-    {% set f_id = featured_book.id if featured_book.id is defined else (featured_book.book_id if featured_book.book_id is defined else featured_book[0]) %}
-    {% set f_title = featured_book.title if (featured_book.title is defined and featured_book.title) else (featured_book.file_name if featured_book.file_name is defined else 'Sin título') %}
-    
-    <div style="max-width: 600px; margin: 0 auto 3rem auto; text-align: center;">
-        <p style="text-transform: uppercase; font-size: 0.8rem; letter-spacing: 2px; color: var(--pico-muted-color); font-weight: bold; margin-bottom: 0.5rem;">
-            Documento Destacado
-        </p>
-        <article class="book-card" style="margin-bottom: 0; padding: 1.5rem; text-align: left;">
-            <div style="display: flex; gap: 1.5rem; align-items: center;">
-                <img src="/api/cover/{{ f_id }}" 
-                     alt="{{ f_title }}" 
-                     style="width: 130px; height: 180px; object-fit: cover; border-radius: 6px; flex-shrink: 0;"
-                     onerror="this.onerror=null; this.src='{{ url_for('static', path='images/no-cover.jpg') }}';" />
-                <div style="display: flex; flex-direction: column; justify-content: space-between; height: 100%;">
-                    <div>
-                        <h4 style="margin-bottom: 0.5rem; font-size: 1.2rem;">{{ f_title }}</h4>
-                        <p style="font-size: 0.85rem; color: var(--pico-muted-color); margin-bottom: 1rem;">
-                            {{ featured_book.author if featured_book.author else 'Autor desconocido' }}
-                        </p>
+    <!-- 1. SECCIÓN DESTACADA -->
+    {% if not search_query and featured_book %}
+        {% set f_id = featured_book.id if featured_book.id is defined else (featured_book.book_id if featured_book.book_id is defined else featured_book[0]) %}
+        {% set f_title = featured_book.title if (featured_book.title is defined and featured_book.title) else (featured_book.file_name if featured_book.file_name is defined else 'Sin título') %}
+        {% set f_author = featured_book.author if (featured_book.author is defined and featured_book.author) else 'Sin datos' %}
+
+        <div class="featured-container">
+            <article class="featured-card">
+                <div class="featured-grid">
+                    <div class="featured-cover-wrapper">
+                        <img src="/api/cover/{{ f_id }}"
+                             alt="{{ f_title }}"
+                             class="featured-cover"
+                             onerror="this.onerror=null; this.src='{{ url_for('static', path='images/no-cover.jpg') }}';" />
                     </div>
-                    <a href="/api/get_book/{{ f_id }}" target="_blank" role="button" class="contrast" style="width: fit-content; padding: 0.4rem 1rem; font-size: 0.85rem;">
-                        Leer ahora
-                    </a>
+                    
+                    <div class="featured-info">
+                        <div>
+                            <h4 class="featured-title">{{ f_title }}</h4>
+                            <p class="featured-author">{{ f_author }}</p>
+                        </div>
+                        <a href="/api/get_book/{{ f_id }}" target="_blank" role="button" class="contrast featured-btn">
+                            Leer ahora
+                        </a>
+                    </div>
                 </div>
-            </div>
-        </article>
-    </div>
+            </article>
+        </div>
+
+        <!-- 2. BARRA DE FILTROS -->
+        <div class="filter-bar">
+            <fieldset role="group">
+                <a href="/?filter=all" role="button" class="{{ 'secondary' if current_filter != 'all' else '' }}">Todos</a>
+                <a href="/?filter=books" role="button" class="{{ 'secondary' if current_filter != 'books' else '' }}">Libros</a>
+                <a href="/?filter=articles" role="button" class="{{ 'secondary' if current_filter != 'articles' else '' }}">Artículos</a>
+            </fieldset>
+        </div>
+    {% elif search_query %}
+        <!-- INDICADOR DE BÚSQUEDA -->
+        <div class="search-indicator">
+            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <circle cx="11" cy="11" r="8"></circle>
+                <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+            </svg>
+            <span>Resultados para: <strong>"{{ search_query }}"</strong></span>
+        </div>
     {% endif %}
 
-    <!-- 2. BARRA DE FILTROS (Todos | Libros | Artículos) -->
-    <div style="max-width: 400px; margin: 0 auto 2.5rem auto;">
-        <fieldset role="group">
-            <a href="/?filter=all" role="button" class="{{ 'secondary' if current_filter != 'all' else '' }}">Todos</a>
-            <a href="/?filter=books" role="button" class="{{ 'secondary' if current_filter != 'books' else '' }}">Libros</a>
-            <a href="/?filter=articles" role="button" class="{{ 'secondary' if current_filter != 'articles' else '' }}">Artículos</a>
-        </fieldset>
-    </div>
-
-    <!-- 3. RETÍCULA PRINCIPAL DE TARJETAS -->
-    <div id="book-shelf" class="grid" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 1.5rem;">
+    <!-- 3. RETÍCULA DE TARJETAS -->
+    <div id="book-shelf">
         {% if books and books|length > 0 %}
             {% for book in books %}
-                {% set b_id = book.id if book.id is defined else (book.book_id if book.book_id is defined else book[0]) %}
-                {% set b_title = book.title if (book.title is defined and book.title) else (book.file_name if book.file_name is defined else 'Sin título') %}
+                {% set b = book[0] if book is sequence and book is not string else book %}
+                {% set b_id = b.id if b.id is defined else (b.book_id if b.book_id is defined else b[0]) %}
+                {% set b_title = b.title if (b.title is defined and b.title) else (b.file_name if b.file_name is defined else 'Sin título') %}
 
-                <article class="book-card" style="margin-bottom: 0;">
-                    <a href="/api/get_book/{{ b_id }}" target="_blank" style="text-decoration: none; color: inherit;">
-                        <div class="book-thumbnail">
-                            <figure style="margin: 0;">
-                                <img src="/api/cover/{{ b_id }}"
-                                     alt="{{ b_title }}"
-                                     style="width: 100%; height: 240px; object-fit: cover; border-radius: 4px;"
-                                     onerror="this.onerror=null; this.src='{{ url_for('static', path='images/no-cover.jpg') }}';" />
-                            </figure>
-                        </div>
-                        <div class="book-title-sub" title="{{ b_title }}" style="margin-top: 0.5rem; font-weight: bold; font-size: 0.9rem; text-align: center;">
-                            {{ b_title }}
-                        </div>
-                    </a>
-                </article>
-            {% endfor %}
+<article class="book-card">
+    <a href="/api/get_book/{{ b_id }}" target="_blank" class="book-link">
+        <div class="book-thumbnail">
+            <figure>
+                <img src="/api/cover/{{ b_id }}"
+                     alt="{{ b_title }}"
+                     onerror="this.onerror=null; this.src='{{ url_for('static', path='images/no-cover.jpg') }}';" />
+            </figure>
+        </div>
+        <div class="book-overlay">
+            <p class="book-overlay-title">{{ b_title }}</p>
+            {% set b_author = b.author if (b.author is defined and b.author) else 'Sin datos' %}
+            <p class="book-overlay-author">{{ b_author }}</p>
+            {% set b_category = b.categories if (b.categories is defined and b.categories) else '' %}
+            {% if b_category %}
+                <p class="book-overlay-category">{{ b_category }}</p>
+            {% endif %}
+        </div>
+    </a>
+</article>
+                {% endfor %}
         {% else %}
-            <div style="grid-column: 1 / -1; text-align: center; padding: 3rem 0;">
-                <p style="color: var(--pico-muted-color);">No se encontraron documentos en esta categoría.</p>
+            <div class="no-results">
+                <p>No se encontraron documentos coincidentes.</p>
             </div>
         {% endif %}
     </div>
+
+    <!-- 4. PAGINACIÓN -->
+    {% if total_pages is defined and total_pages > 1 and not search_query %}
+    <nav class="pagination-container" aria-label="pagination">
+        <div class="pagination-controls">
+            {% if page > 1 %}
+                <a href="/?page={{ page - 1 }}&limit={{ limit }}&filter={{ current_filter }}" class="outline contrast" role="button">&laquo; Anterior</a>
+            {% else %}
+                <button class="outline contrast" disabled>&laquo; Anterior</button>
+            {% endif %}
+
+            <span class="pagination-status">Página {{ page }} de {{ total_pages }}</span>
+
+            {% if page < total_pages %}
+                <a href="/?page={{ page + 1 }}&limit={{ limit }}&filter={{ current_filter }}" class="outline contrast" role="button">Siguiente &raquo;</a>
+            {% else %}
+                <button class="outline contrast" disabled>Siguiente &raquo;</button>
+            {% endif %}
+        </div>
+    </nav>
+    {% endif %}
+
 </section>
-
-<!-- PAGINACIÓN (Preservando el filtro activo) -->
-{% if total_pages is defined and total_pages > 1 %}
-<nav class="pagination-container" aria-label="pagination" style="margin-top: 2.5rem;">
-    <div class="grid pagination-controls" style="align-items: center; text-align: center;">
-        {% if page > 0 %}
-            <a href="/?skip={{ page - 1 }}&limit={{ limit }}&filter={{ current_filter }}" class="outline contrast" role="button">&laquo; Anterior</a>
-        {% else %}
-            <button class="outline contrast" disabled>&laquo; Anterior</button>
-        {% endif %}
-
-        <span class="pagination-status">{{ page + 1 }} / {{ total_pages }}</span>
-
-        {% if page + 1 < total_pages %}
-            <a href="/?skip={{ page + 1 }}&limit={{ limit }}&filter={{ current_filter }}" class="outline contrast" role="button">Siguiente &raquo;</a>
-        {% else %}
-            <button class="outline contrast" disabled>Siguiente &raquo;</button>
-        {% endif %}
-    </div>
-</nav>
-{% endif %}
 
 {% include 'footer.html' %}

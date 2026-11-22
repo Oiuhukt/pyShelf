@@ -1,22 +1,21 @@
 <header class="navbar">
     <nav class="container">
         <ul>
-            <li><a href="/" style="text-decoration: none; color: inherit;"><strong>pyShelf</strong></a></li>
+            <li>
+                <a href="/" style="text-decoration: none; color: inherit; display: flex; align-items: center; gap: 10px;">
+                    <img src="{{ url_for('static', path='images/logo.png') }}" alt="Logo" style="height: 35px; width: auto;">
+                    <div style="display: flex; flex-direction: column; line-height: 1.1;">
+                        <strong>Fallback</strong>
+                        <span style="font-weight: normal; font-size: 0.75em; opacity: 0.85; letter-spacing: 1px;">LIBRARY</span>
+                    </div>
+                </a>
+            </li>
         </ul>
         <ul>
             <li>
-                <form id="search-form" role="search">
-                    <select id="collection-select" name="collection">
-                        <option value="">Select a collection</option>
-                        {% if collections %}
-                            {% for col in collections %}
-                                {% set col_val = col.collection if col.collection is defined else (col.name if col.name is defined else col) %}
-                                <option value="{{ col_val }}">{{ col_val }}</option>
-                            {% endfor %}
-                        {% endif %}
-                    </select>
-                    <input type="search" id="search-input" name="search" placeholder="Search books...">
-                    <button type="submit" id="search-btn">Search</button>
+                <form id="search-form" action="/api/search" method="GET" role="search">
+                    <input type="search" id="search-input" name="search" placeholder="Buscar libros..." required />
+                    <button type="submit" id="search-btn">Buscar</button>
                 </form>
             </li>
         </ul>

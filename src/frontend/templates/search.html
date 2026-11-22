@@ -1,31 +1,75 @@
-{% block javascript %}
-<script type="text/javascript" src="{{ url_for('static', path='script/pako.min.js') }}"></script>
-<script type="text/javascript">
-    const books = {{ books|books_tojson }};
-    let inflatedJSON = {};
-    const pako = require('pako');
-    inflatedJSON = JSON.parse(pako.inflate(books, { to: 'string'}));
-</script>
-{% endblock %}
-
 {% include 'header.html' %}
 
+<main id="master-container" class="container" style="padding-top: 1rem;">
 
-<section id="master-container">
-    <div id="book-shelf">
-        {% for book in books %}
-        <a class="is-dark book" id="{{ book.id }}" target="_blank" href="/api/get_book/{{ book.id }}">
-            <div class="image book-thumbnail">
-                <figure class="image">
-                    <img src="/api/cover/{{ book.id }}" alt="{{ book.title }}" onerror="this.onerror=null; this.src='{{ url_for('static', path='images/no-cover.jpg') }}';" />
-                </figure>
-            </div>
-            <div class="book-title-sub" title="{{ book.title if book.title else book.file_name }}">
-                {{ book.title if book.title else book.file_name }}
-            </div>
-        </a>
-        {% endfor %}
+    <!-- Encabezado de resultados -->
+    {% if search_query %}
+    <div class="search-indicator">
+        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <circle cx="11" cy="11" r="8"></circle>
+            <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+        </svg>
+        <span>Resultados para: <strong>"{{ search_query }}"</strong></span>
     </div>
+    {% endif %}
+
+    <!-- Retícula de resultados -->
+    <div id="book-shelf">
+        {% if books and books|length > 0 %}
+            {% for book in books %}
+                {% set b = book[0] if book is sequence and book is not string else book %}
+                {% set b_id = b.id if b.id is defined else (b.book_id if b.book_id is defined else b[0]) %}
+                {% set b_title = b.title if (b.title is defined and b.title) else (b.file_name if b.file_name is defined else 'Sin título') %}
+
+<article class="book-card">
+    <a href="/api/get_book/{{ b_id }}" target="_blank" class="book-link">
+        <div class="book-thumbnail">
+            <figure>
+                <img src="/api/cover/{{ b_id }}"
+                     alt="{{ b_title }}"
+                     onerror="this.onerror=null; this.src='{{ url_for('static', path='images/no-cover.jpg') }}';" />
+            </figure>
+        </div>
+        <div class="book-overlay">
+            <p class="book-overlay-title">{{ b_title }}</p>
+            {% set b_author = b.author if (b.author is defined and b.author) else 'Sin datos' %}
+            <p class="book-overlay-author">{{ b_author }}</p>
+            {% set b_category = b.categories if (b.categories is defined and b.categories) else '' %}
+            {% if b_category %}
+                <p class="book-overlay-category">{{ b_category }}</p>
+            {% endif %}
+        </div>
+    </a>
+</article>
+                {% endfor %}
+        {% else %}
+            <div class="no-results">
+                <p>No se encontraron documentos coincidentes con la búsqueda.</p>
+            </div>
+        {% endif %}
+    </div>
+
+    <!-- Paginación de Búsqueda -->
+    {% if total_pages is defined and total_pages > 1 %}
+    <nav class="pagination-container" aria-label="pagination">
+        <div class="pagination-controls">
+            {% if page > 1 %}
+                <a href="/api/search?search={{ search_query }}&page={{ page - 1 }}&limit={{ limit }}" class="outline contrast" role="button">&laquo; Anterior</a>
+            {% else %}
+                <button class="outline contrast" disabled>&laquo; Anterior</button>
+            {% endif %}
+
+            <span class="pagination-status">Página {{ page }} de {{ total_pages }}</span>
+
+            {% if page < total_pages %}
+                <a href="/api/search?search={{ search_query }}&page={{ page + 1 }}&limit={{ limit }}" class="outline contrast" role="button">Siguiente &raquo;</a>
+            {% else %}
+                <button class="outline contrast" disabled>Siguiente &raquo;</button>
+            {% endif %}
+        </div>
+    </nav>
+    {% endif %}
+
 </section>
 
 {% include 'footer.html' %}
